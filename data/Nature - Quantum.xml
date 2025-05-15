@@ -2,7 +2,7 @@
 <rss version="2.0"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nature - Quantum</title>
-<link>www.nature.com/112</link>
+<link>www.nature.com/1122</link>
 <description>Recent articles from Nature, Nature Physics, and Nature Photonics on Quantum Simulation.</description>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02890-0</guid>
@@ -10,8 +10,9 @@
 <title>Strongly interacting Meissner phases in large bosonic flux ladders</title>
 <author>Alexander Impertro, SeungJung Huh, Monika Aidelsburger</author>
 <link>https://www.nature.com/articles/s41567-025-02890-0</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature Physics - Research</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02890-0/MediaObjects/41567_2025_2890_Fig1_HTML.png">
@@ -19,6 +20,7 @@
                         <p>The quantum simulation of driven, strongly correlated phases at large scales is challenging, primarily due to detrimental heating effects. Now, a large-scale interacting Mott–Meissner phase has been realized in a neutral atom quantum simulator.</p>
                         <p></p>
                         <p>Alexander Impertro, SeungJung Huh, Monika Aidelsburger</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -29,8 +31,9 @@
 <title>Hamiltonian engineering of collective XYZ spin models in an optical cavity</title>
 <author>Chengyi Luo, Haoqing Zhang, James K. Thompson</author>
 <link>https://www.nature.com/articles/s41567-025-02866-0</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature Physics - Research</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02866-0/MediaObjects/41567_2025_2866_Fig1_HTML.png">
@@ -38,6 +41,7 @@
                         <p>Spin models that can be emulated by quantum simulators are usually restricted to systems with conserved total magnetization. The tuning of photon-mediated interactions between atoms in a cavity enables the implementation of more general models also useful for quantum sensing tasks.</p>
                         <p></p>
                         <p>Chengyi Luo, Haoqing Zhang, James K. Thompson</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -48,8 +52,9 @@
 <title>Continuous recoil-driven lasing and cavity frequency pinning with laser-cooled atoms</title>
 <author>Vera M. Schäfer, Zhijing Niu, James K. Thompson</author>
 <link>https://www.nature.com/articles/s41567-025-02854-4</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature Physics - Research</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02854-4/MediaObjects/41567_2025_2854_Fig1_HTML.png">
@@ -57,6 +62,7 @@
                         <p>Experiments with cold atoms in optical cavities are often limited to discontinuous operation due to reloading requirements. Now, continuous lasing is demonstrated with strontium atoms in a ring cavity, stabilized by atom loss mechanisms.</p>
                         <p></p>
                         <p>Vera M. Schäfer, Zhijing Niu, James K. Thompson</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -67,8 +73,9 @@
 <title>Resourceful dissipation</title>
 <author>Yann Kiefer</author>
 <link>https://www.nature.com/articles/s41567-025-02881-1</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature Physics - News & Views</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02881-1/MediaObjects/41567_2025_2881_Fig1_HTML.png">
@@ -76,6 +83,7 @@
                         <p>Controlled dissipation enables the extraction of equilibrium properties of ultracold one-dimensional gases through the observation of anomalous dynamics.</p>
                         <p></p>
                         <p>Yann Kiefer</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -86,8 +94,9 @@
 <title>Simulating two-dimensional lattice gauge theories on a qudit quantum computer</title>
 <author>Michael Meth, Jinglei Zhang, Martin Ringbauer</author>
 <link>https://www.nature.com/articles/s41567-025-02797-w</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature Physics - Research</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02797-w/MediaObjects/41567_2025_2797_Fig1_HTML.png">
@@ -95,6 +104,7 @@
                         <p>Qubit-based simulations of gauge theories are challenging as gauge fields require high-dimensional encoding. Now a quantum electrodynamics model has been demonstrated using trapped-ion qudits, which encode information in multiple states of ions.</p>
                         <p></p>
                         <p>Michael Meth, Jinglei Zhang, Martin Ringbauer</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -105,8 +115,9 @@
 <title>Deterministic remote entanglement using a chiral quantum interconnect</title>
 <author>Aziza Almanakly, Beatriz Yankelevich, William D. Oliver</author>
 <link>https://www.nature.com/articles/s41567-025-02811-1</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature Physics - Research</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02811-1/MediaObjects/41567_2025_2811_Fig1_HTML.png">
@@ -114,6 +125,7 @@
                         <p>Large quantum computers are likely to require methods of connecting devices by transmitting and absorbing photons. Entanglement between two superconducting qubit devices has now been established using a waveguide with tunable directionality.</p>
                         <p></p>
                         <p>Aziza Almanakly, Beatriz Yankelevich, William D. Oliver</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -124,8 +136,9 @@
 <title>Author Correction: Observation of Nagaoka polarons in a Fermi–Hubbard quantum simulator</title>
 <author>Martin Lebrat, Muqing Xu, Markus Greiner</author>
 <link>https://www.nature.com/articles/s41586-025-08819-0</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature - Amendments and Corrections</p>
                         <p></p>
                         <img src="None">
@@ -133,6 +146,7 @@
                         <p>No Description</p>
                         <p></p>
                         <p>Martin Lebrat, Muqing Xu, Markus Greiner</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -143,8 +157,9 @@
 <title>Orbital hybridization in graphene-based artificial atoms</title>
 <author>Yue Mao, Hui-Ying Ren, Qing-Feng Sun</author>
 <link>https://www.nature.com/articles/s41586-025-08620-z</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature - Research</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08620-z/MediaObjects/41586_2025_8620_Fig1_HTML.png">
@@ -152,6 +167,7 @@
                         <p>Orbital hybridization in artificial atoms is achieved by altering their shape, and the anisotropy of the confining potential gives rise to the hybridization between quasibound states with different orbital quantum numbers within the artificial atom.</p>
                         <p></p>
                         <p>Yue Mao, Hui-Ying Ren, Qing-Feng Sun</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -162,8 +178,9 @@
 <title>Thermalization and criticality on an analogue–digital quantum simulator</title>
 <author>T. I. Andersen, N. Astrakhantsev, X. Mi</author>
 <link>https://www.nature.com/articles/s41586-024-08460-3</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature - Research</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08460-3/MediaObjects/41586_2024_8460_Fig1_HTML.png">
@@ -171,6 +188,7 @@
                         <p>A hybrid analogue–digital quantum simulator is used to demonstrate beyond-classical performance in benchmarking experiments and to study thermalization phenomena in an XY quantum magnet, including the breakdown of Kibble–Zurek scaling predictions and signatures of the Kosterlitz–Thouless phase transition.</p>
                         <p></p>
                         <p>T. I. Andersen, N. Astrakhantsev, X. Mi</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -181,8 +199,9 @@
 <title>Quantum coarsening and collective dynamics on a programmable simulator</title>
 <author>Tom Manovitz, Sophie H. Li, Mikhail D. Lukin</author>
 <link>https://www.nature.com/articles/s41586-024-08353-5</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature - Research</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08353-5/MediaObjects/41586_2024_8353_Fig1_HTML.png">
@@ -190,6 +209,7 @@
                         <p>A programmable quantum simulator based on Rydberg atom arrays is used to study the collective dynamics of a quantum phase transition and observe the phenomenon of quantum coarsening.</p>
                         <p></p>
                         <p>Tom Manovitz, Sophie H. Li, Mikhail D. Lukin</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -200,8 +220,9 @@
 <title>Stirring the false vacuum via interacting quantized bubbles on a 5,564-qubit quantum annealer</title>
 <author>Jaka Vodeb, Jean-Yves Desaules, Zlatko Papić</author>
 <link>https://www.nature.com/articles/s41567-024-02765-w</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature Physics - Research</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02765-w/MediaObjects/41567_2024_2765_Fig1_HTML.png">
@@ -209,6 +230,7 @@
                         <p>Bubble formation is a signal of false vacuum decay, in which a system transitions from a local energy minimum to a true vacuum. Now, simulations on a quantum annealer show how interactions between bubbles drive the long-time dynamics of this process.</p>
                         <p></p>
                         <p>Jaka Vodeb, Jean-Yves Desaules, Zlatko Papić</p>
+                        </div>
 
 
                    ]]></content:encoded>
@@ -219,8 +241,9 @@
 <title>A simulation of false vacuum decay using a quantum annealer</title>
 <author>Unknown Author</author>
 <link>https://www.nature.com/articles/s41567-024-02767-8</link>
-<description> <p></p> </description>
 <content:encoded><![CDATA[
+                        <div>
+                        <div></div>
                         <p>Nature Physics - News & Views</p>
                         <p></p>
                         <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02767-8/MediaObjects/41567_2024_2767_Fig1_HTML.png">
@@ -228,6 +251,7 @@
                         <p>False vacuum decay is a process of fundamental importance in quantum field theory. Here, a 5,564-qubit quantum annealer is used to simulate the dynamics of false vacuum decay and observe the formation of bubbles of true vacuum. This approach could provide insight into the role of phase transitions in the early Universe.</p>
                         <p></p>
                         <p>Unknown Author</p>
+                        </div>
 
 
                    ]]></content:encoded>
