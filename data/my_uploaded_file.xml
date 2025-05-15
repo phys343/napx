@@ -1,213 +1,607 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
 <channel>
-	<title>Quantum Computing Report</title>
-	<atom:link href="https://quantumcomputingreport.com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://quantumcomputingreport.com/</link>
-	<description>Where Qubits Entangle with Commerce</description>
-	<lastBuildDate>Wed, 14 May 2025 22:40:34 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-	<sy:updateFrequency>
-	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.8.1</generator>
-	<item>
-		<title>Keyfactor Acquires InfoSec Global and CipherInsights to Expand Quantum-Safe Cryptography Capabilities</title>
-		<link>https://quantumcomputingreport.com/keyfactor-acquires-infosec-global-and-cipherinsights-to-expand-quantum-safe-cryptography-capabilities/</link>
-					<comments>https://quantumcomputingreport.com/keyfactor-acquires-infosec-global-and-cipherinsights-to-expand-quantum-safe-cryptography-capabilities/#respond</comments>
-		
-		<dc:creator><![CDATA[Mohamed Abdel-Kareem]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 22:40:30 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34226</guid>
+<title>Nature Articles - Quantum Simulation</title>
+<link>https://www.nature.com/search?q=%22quantum+simulation%22+OR+%22quantum+simulator%22+OR+%22quantum+simulating%22&journal=nphys%2C+nature%2C+nphoton&order=date_desc</link>
+<description>Recent articles from Nature, Nature Physics, and Nature Photonics on Quantum Simulation.</description>
+<item>
+<title>Strongly interacting Meissner phases in large bosonic flux ladders</title>
+<link>https://www.nature.com/articles/s41567-025-02890-0</link>
+<description><![CDATA[The quantum simulation of driven, strongly correlated phases at large scales is challenging, primarily due to detrimental heating effects. Now, a large-scale interacting Mott–Meissner phase has been realized in a neutral atom quantum simulator.
 
-					<description><![CDATA[<p>Keyfactor has announced the acquisition of InfoSec Global and CipherInsights (a solution from Quantum Xchange) to consolidate leadership in quantum-safe security and cryptographic posture management. The combined offering will integrate cryptographic discovery, continuous risk monitoring, and automated certificate lifecycle management to help enterprises prepare for quantum-era threats. The company emphasized that the merged capabilities will  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/keyfactor-acquires-infosec-global-and-cipherinsights-to-expand-quantum-safe-cryptography-capabilities/">Keyfactor Acquires InfoSec Global and CipherInsights to Expand Quantum-Safe Cryptography Capabilities</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/keyfactor-acquires-infosec-global-and-cipherinsights-to-expand-quantum-safe-cryptography-capabilities/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>EU and Japan Deepen Quantum Cooperation Through Digital Partnership Council and Q-NEKO Project</title>
-		<link>https://quantumcomputingreport.com/eu-and-japan-deepen-quantum-cooperation-through-digital-partnership-council-and-q-neko-project/</link>
-					<comments>https://quantumcomputingreport.com/eu-and-japan-deepen-quantum-cooperation-through-digital-partnership-council-and-q-neko-project/#respond</comments>
-		
-		<dc:creator><![CDATA[Mohamed Abdel-Kareem]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 22:31:59 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34224</guid>
+Type: Research
+Journal: Nature Physics
+Details: P: 1-7]]></description>
+<author>Alexander Impertro, SeungJung Huh, Monika Aidelsburger</author>
+<pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02890-0/MediaObjects/41567_2025_2890_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Hamiltonian engineering of collective XYZ spin models in an optical cavity</title>
+<link>https://www.nature.com/articles/s41567-025-02866-0</link>
+<description><![CDATA[Spin models that can be emulated by quantum simulators are usually restricted to systems with conserved total magnetization. The tuning of photon-mediated interactions between atoms in a cavity enables the implementation of more general models also useful for quantum sensing tasks.
 
-					<description><![CDATA[<p>The European Union and Japan have formalized a new phase of collaboration in quantum science and technology with the signing of a Letter of Intent on May 13, 2025, in Tokyo. The agreement was signed by Henna Virkkunen, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy, and Minoru Kiuchi, Japan’s Minister  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/eu-and-japan-deepen-quantum-cooperation-through-digital-partnership-council-and-q-neko-project/">EU and Japan Deepen Quantum Cooperation Through Digital Partnership Council and Q-NEKO Project</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/eu-and-japan-deepen-quantum-cooperation-through-digital-partnership-council-and-q-neko-project/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Quantinuum and Al Rabban Capital Launch Quantum Joint Venture in Qatar with $1B Investment Commitment</title>
-		<link>https://quantumcomputingreport.com/quantinuum-and-al-rabban-capital-launch-quantum-joint-venture-in-qatar-with-1b-investment-commitment/</link>
-					<comments>https://quantumcomputingreport.com/quantinuum-and-al-rabban-capital-launch-quantum-joint-venture-in-qatar-with-1b-investment-commitment/#respond</comments>
-		
-		<dc:creator><![CDATA[Mohamed Abdel-Kareem]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 22:13:12 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34220</guid>
+Type: Research
+Journal: Nature Physics
+Details: P: 1-8]]></description>
+<author>Chengyi Luo, Haoqing Zhang, James K. Thompson</author>
+<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02866-0/MediaObjects/41567_2025_2866_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Continuous recoil-driven lasing and cavity frequency pinning with laser-cooled atoms</title>
+<link>https://www.nature.com/articles/s41567-025-02854-4</link>
+<description><![CDATA[Experiments with cold atoms in optical cavities are often limited to discontinuous operation due to reloading requirements. Now, continuous lasing is demonstrated with strontium atoms in a ring cavity, stabilized by atom loss mechanisms.
 
-					<description><![CDATA[<p>Quantinuum and Al Rabban Capital have announced the formation of a Qatari joint venture aimed at accelerating the adoption of quantum computing in Qatar and the wider Gulf region. The initiative, backed by up to $1 billion in investment over 10 years, will focus on providing access to Quantinuum’s technology, co-developing region-specific quantum applications, and  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/quantinuum-and-al-rabban-capital-launch-quantum-joint-venture-in-qatar-with-1b-investment-commitment/">Quantinuum and Al Rabban Capital Launch Quantum Joint Venture in Qatar with $1B Investment Commitment</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/quantinuum-and-al-rabban-capital-launch-quantum-joint-venture-in-qatar-with-1b-investment-commitment/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Rigetti Computing Reports on Its Q1 2025 Financial Results</title>
-		<link>https://quantumcomputingreport.com/rigetti-computing-reports-on-its-q1-2025-financial-results/</link>
-					<comments>https://quantumcomputingreport.com/rigetti-computing-reports-on-its-q1-2025-financial-results/#respond</comments>
-		
-		<dc:creator><![CDATA[Mohamed Abdel-Kareem]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 02:45:01 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34186</guid>
+Type: Research
+Journal: Nature Physics
+Details: P: 1-7]]></description>
+<author>Vera M. Schäfer, Zhijing Niu, James K. Thompson</author>
+<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02854-4/MediaObjects/41567_2025_2854_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Resourceful dissipation</title>
+<link>https://www.nature.com/articles/s41567-025-02881-1</link>
+<description><![CDATA[Controlled dissipation enables the extraction of equilibrium properties of ultracold one-dimensional gases through the observation of anomalous dynamics.
 
-					<description><![CDATA[<p>Rigetti Computing has announced its Q1 2025 financial results. A summary of key financial metrics comparing Q1 2025 with Q4 2024 and the year-ago quarter of Q1 2024 is shown in the chart below. Amounts in $MQ1'2025Q4'2024Q1'2024% vs Q4'2024% vs Q1'2024Revenue$1.5$2.3$3.1-36.0%-52.5%Operating Expenses$22.1$19.5$18.1+13.2%+22.0%Operating Loss($21.6)($18.5)($16.6)+16.9%+30.3%Net Loss($42.6)($153.0)($20.8)-72.1%+104.9%Cash, Cash Equivalents, and Investments$209.1$217.2$102.8-3.7%+103.4% Financial Overview Rigetti reported $1.5 million in  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/rigetti-computing-reports-on-its-q1-2025-financial-results/">Rigetti Computing Reports on Its Q1 2025 Financial Results</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/rigetti-computing-reports-on-its-q1-2025-financial-results/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Q &#038; A with Niccolo de Masi, CEO of IonQ</title>
-		<link>https://quantumcomputingreport.com/q-a-with-niccolo-de-masi-ceo-of-ionq/</link>
-					<comments>https://quantumcomputingreport.com/q-a-with-niccolo-de-masi-ceo-of-ionq/#respond</comments>
-		
-		<dc:creator><![CDATA[dougfinke]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 01:59:39 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34193</guid>
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 21, P: 497-498]]></description>
+<author>Yann Kiefer</author>
+<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02881-1/MediaObjects/41567_2025_2881_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Simulating two-dimensional lattice gauge theories on a qudit quantum computer</title>
+<link>https://www.nature.com/articles/s41567-025-02797-w</link>
+<description><![CDATA[Qubit-based simulations of gauge theories are challenging as gauge fields require high-dimensional encoding. Now a quantum electrodynamics model has been demonstrated using trapped-ion qudits, which encode information in multiple states of ions.
 
-					<description><![CDATA[<p>IonQ has been in the news a lot recently with several announcement of partnerships, technical developments, and company acquisitions. You can see our most recent report covering their Q1 Financial Report in our article here and you can see a complete listing of all the recent stories we have posted about them by clicking here.  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/q-a-with-niccolo-de-masi-ceo-of-ionq/">Q &amp; A with Niccolo de Masi, CEO of IonQ</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/q-a-with-niccolo-de-masi-ceo-of-ionq/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>SilQ Connect Secures Pre-Seed Funding to Advance Modular Quantum Interconnects</title>
-		<link>https://quantumcomputingreport.com/silq-connect-secures-pre-seed-funding-to-advance-modular-quantum-interconnects/</link>
-					<comments>https://quantumcomputingreport.com/silq-connect-secures-pre-seed-funding-to-advance-modular-quantum-interconnects/#respond</comments>
-		
-		<dc:creator><![CDATA[Mohamed Abdel-Kareem]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 01:38:13 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34199</guid>
+Type: Research
+Journal: Nature Physics
+Details: Volume: 21, P: 570-576]]></description>
+<author>Michael Meth, Jinglei Zhang, Martin Ringbauer</author>
+<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02797-w/MediaObjects/41567_2025_2797_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Deterministic remote entanglement using a chiral quantum interconnect</title>
+<link>https://www.nature.com/articles/s41567-025-02811-1</link>
+<description><![CDATA[Large quantum computers are likely to require methods of connecting devices by transmitting and absorbing photons. Entanglement between two superconducting qubit devices has now been established using a waveguide with tunable directionality.
 
-					<description><![CDATA[<p>SilQ Connect, a startup focused on distributed quantum computing, has closed its pre-seed funding round with backing from quantum-focused investors QV Studio, Quantacet, and Quantonation. The funding will support SilQ’s development of microwave-optical quantum interconnects for modular and scalable quantum systems. The company aims to enable utility-scale quantum computing by connecting modular processors into distributed  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/silq-connect-secures-pre-seed-funding-to-advance-modular-quantum-interconnects/">SilQ Connect Secures Pre-Seed Funding to Advance Modular Quantum Interconnects</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/silq-connect-secures-pre-seed-funding-to-advance-modular-quantum-interconnects/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Pasqal’s Neutral-Atom Quantum Hardware Now Available via Google Cloud Marketplace</title>
-		<link>https://quantumcomputingreport.com/pasqals-neutral-atom-quantum-hardware-now-available-via-google-cloud-marketplace/</link>
-					<comments>https://quantumcomputingreport.com/pasqals-neutral-atom-quantum-hardware-now-available-via-google-cloud-marketplace/#respond</comments>
-		
-		<dc:creator><![CDATA[Mohamed Abdel-Kareem]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 01:27:20 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34194</guid>
+Type: Research
+Journal: Nature Physics
+Details: P: 1-6]]></description>
+<author>Aziza Almanakly, Beatriz Yankelevich, William D. Oliver</author>
+<pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02811-1/MediaObjects/41567_2025_2811_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Author Correction: Observation of Nagaoka polarons in a Fermi–Hubbard quantum simulator</title>
+<link>https://www.nature.com/articles/s41586-025-08819-0</link>
+<description><![CDATA[No Description
 
-					<description><![CDATA[<p>Pasqal has launched access to its 100-qubit neutral-atom quantum processor through the Google Cloud Marketplace, marking a significant step in broadening availability of neutral-atom quantum computing. The integration allows users to leverage the Pasqal Cloud platform—a separately available service—for submitting, monitoring, and post-processing quantum jobs directly within Google Cloud's infrastructure. Through this partnership, users can  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/pasqals-neutral-atom-quantum-hardware-now-available-via-google-cloud-marketplace/">Pasqal’s Neutral-Atom Quantum Hardware Now Available via Google Cloud Marketplace</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/pasqals-neutral-atom-quantum-hardware-now-available-via-google-cloud-marketplace/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>QuEra-Backed Teams Advance to Final Phase of Wellcome Leap’s Quantum for Bio Challenge</title>
-		<link>https://quantumcomputingreport.com/quera-backed-teams-advance-to-final-phase-of-wellcome-leaps-quantum-for-bio-challenge/</link>
-					<comments>https://quantumcomputingreport.com/quera-backed-teams-advance-to-final-phase-of-wellcome-leaps-quantum-for-bio-challenge/#respond</comments>
-		
-		<dc:creator><![CDATA[Mohamed Abdel-Kareem]]></dc:creator>
-		<pubDate>Wed, 14 May 2025 01:18:21 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34189</guid>
+Type: Amendments and Corrections
+Journal: Nature
+Details: Volume: 639, P: E23]]></description>
+<author>Martin Lebrat, Muqing Xu, Markus Greiner</author>
+<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
+<title>Orbital hybridization in graphene-based artificial atoms</title>
+<link>https://www.nature.com/articles/s41586-025-08620-z</link>
+<description><![CDATA[Orbital hybridization in artificial atoms is achieved by altering their shape, and the anisotropy of the confining potential gives rise to the hybridization between quasibound states with different orbital quantum numbers within the artificial atom.
 
-					<description><![CDATA[<p>QuEra Computing has announced that two research collaborations it supports have advanced to Phase Three of the Wellcome Leap Quantum for Bio Challenge, an international program focused on applying quantum computing to healthcare and biology. Out of six remaining projects globally, two are powered by QuEra’s neutral-atom systems, underscoring its growing role in quantum-assisted biomedical  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/quera-backed-teams-advance-to-final-phase-of-wellcome-leaps-quantum-for-bio-challenge/">QuEra-Backed Teams Advance to Final Phase of Wellcome Leap’s Quantum for Bio Challenge</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/quera-backed-teams-advance-to-final-phase-of-wellcome-leaps-quantum-for-bio-challenge/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>QuantWare and Q-CTRL Partner to Enable Autonomous Calibration of Large-Scale QPUs</title>
-		<link>https://quantumcomputingreport.com/quantware-and-q-ctrl-partner-to-enable-autonomous-calibration-of-large-scale-qpus/</link>
-					<comments>https://quantumcomputingreport.com/quantware-and-q-ctrl-partner-to-enable-autonomous-calibration-of-large-scale-qpus/#respond</comments>
-		
-		<dc:creator><![CDATA[Mohamed Abdel-Kareem]]></dc:creator>
-		<pubDate>Tue, 13 May 2025 11:33:41 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34179</guid>
+Type: Research
+Journal: Nature
+Details: Volume: 639, P: 73-78]]></description>
+<author>Yue Mao, Hui-Ying Ren, Qing-Feng Sun</author>
+<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08620-z/MediaObjects/41586_2025_8620_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Thermalization and criticality on an analogue–digital quantum simulator</title>
+<link>https://www.nature.com/articles/s41586-024-08460-3</link>
+<description><![CDATA[A hybrid analogue–digital quantum simulator is used to demonstrate beyond-classical performance in benchmarking experiments and to study thermalization phenomena in an XY quantum magnet, including the breakdown of Kibble–Zurek scaling predictions and signatures of the Kosterlitz–Thouless phase transition.
 
-					<description><![CDATA[<p>QuantWare and Q-CTRL have announced a strategic partnership to integrate Q-CTRL’s autonomous calibration software, Boulder Opal Scale Up, with QuantWare’s superconducting quantum processing units (QPUs), including its new Contralto-A QPU for quantum error correction. The collaboration aims to streamline quantum system deployment by automating calibration routines, a traditionally time-consuming and manual process. By integrating Boulder  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/quantware-and-q-ctrl-partner-to-enable-autonomous-calibration-of-large-scale-qpus/">QuantWare and Q-CTRL Partner to Enable Autonomous Calibration of Large-Scale QPUs</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/quantware-and-q-ctrl-partner-to-enable-autonomous-calibration-of-large-scale-qpus/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Quantinuum Achieves New Quantum Volume Record with H2 System</title>
-		<link>https://quantumcomputingreport.com/quantinuum-achieves-new-quantum-volume-record-with-h2-system/</link>
-					<comments>https://quantumcomputingreport.com/quantinuum-achieves-new-quantum-volume-record-with-h2-system/#respond</comments>
-		
-		<dc:creator><![CDATA[Mohamed Abdel-Kareem]]></dc:creator>
-		<pubDate>Tue, 13 May 2025 11:23:18 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://quantumcomputingreport.com/?p=34175</guid>
+Type: Research
+Journal: Nature
+Details: Volume: 638, P: 79-85]]></description>
+<author>T. I. Andersen, N. Astrakhantsev, X. Mi</author>
+<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08460-3/MediaObjects/41586_2024_8460_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Quantum coarsening and collective dynamics on a programmable simulator</title>
+<link>https://www.nature.com/articles/s41586-024-08353-5</link>
+<description><![CDATA[A programmable quantum simulator based on Rydberg atom arrays is used to study the collective dynamics of a quantum phase transition and observe the phenomenon of quantum coarsening.
 
-					<description><![CDATA[<p>Quantinuum has announced a new industry benchmark, reporting a Quantum Volume (QV) of 2²³ = 8,388,608 on its H2 quantum computer, the highest reported QV to date. The QV metric, originally introduced by IBM, reflects a quantum system’s overall computational performance by integrating factors such as qubit count, gate fidelity, connectivity, and error rates. This  [...]</p>
-<p>The post <a href="https://quantumcomputingreport.com/quantinuum-achieves-new-quantum-volume-record-with-h2-system/">Quantinuum Achieves New Quantum Volume Record with H2 System</a> appeared first on <a href="https://quantumcomputingreport.com">Quantum Computing Report</a>.</p>
-]]></description>
-		
-					<wfw:commentRss>https://quantumcomputingreport.com/quantinuum-achieves-new-quantum-volume-record-with-h2-system/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+Type: Research
+Journal: Nature
+Details: Volume: 638, P: 86-92]]></description>
+<author>Tom Manovitz, Sophie H. Li, Mikhail D. Lukin</author>
+<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08353-5/MediaObjects/41586_2024_8353_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Stirring the false vacuum via interacting quantized bubbles on a 5,564-qubit quantum annealer</title>
+<link>https://www.nature.com/articles/s41567-024-02765-w</link>
+<description><![CDATA[Bubble formation is a signal of false vacuum decay, in which a system transitions from a local energy minimum to a true vacuum. Now, simulations on a quantum annealer show how interactions between bubbles drive the long-time dynamics of this process.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 21, P: 386-392]]></description>
+<author>Jaka Vodeb, Jean-Yves Desaules, Zlatko Papić</author>
+<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02765-w/MediaObjects/41567_2024_2765_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>A simulation of false vacuum decay using a quantum annealer</title>
+<link>https://www.nature.com/articles/s41567-024-02767-8</link>
+<description><![CDATA[False vacuum decay is a process of fundamental importance in quantum field theory. Here, a 5,564-qubit quantum annealer is used to simulate the dynamics of false vacuum decay and observe the formation of bubbles of true vacuum. This approach could provide insight into the role of phase transitions in the early Universe.
+
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 21, P: 351-352]]></description>
+<author>Unknown Author</author>
+<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02767-8/MediaObjects/41567_2024_2767_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Gauge theories on a quantum computer</title>
+<link>https://www.nature.com/articles/s41567-024-02758-9</link>
+<description><![CDATA[Many important models in theoretical physics — including the standard model of particle physics — are governed by local ‘gauge’ symmetries. Now, a quantum computer has successfully simulated a lattice gauge theory by leveraging this rich symmetry structure.
+
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 21, P: 189-190]]></description>
+<author>Karel Van Acoleyen</author>
+<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02758-9/MediaObjects/41567_2024_2758_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Programmable simulations of molecules and materials with reconfigurable quantum processors</title>
+<link>https://www.nature.com/articles/s41567-024-02738-z</link>
+<description><![CDATA[Quantum simulations of chemistry and materials are challenging due to the complexity of correlated systems. A framework based on reconfigurable qubit architectures and digital–analogue simulations provides a hardware-efficient path forwards.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 21, P: 289-297]]></description>
+<author>Nishad Maskara, Stefan Ostermann, Susanne F. Yelin</author>
+<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02738-z/MediaObjects/41567_2024_2738_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Where analogue and digital meet</title>
+<link>https://www.nature.com/articles/s41567-024-02755-y</link>
+<description><![CDATA[Realizing a useful quantum advantage on noisy intermediate-scale quantum hardware is challenging. A proposal now suggests a hybrid digital–analogue hardware-efficient approach for reconfigurable qubit platforms to simulate strongly interacting matter.
+
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 21, P: 185-186]]></description>
+<author>Kai-Niklas Schymik</author>
+<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02755-y/MediaObjects/41567_2024_2755_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Scaling and networking a modular photonic quantum computer</title>
+<link>https://www.nature.com/articles/s41586-024-08406-9</link>
+<description><![CDATA[A proof-of-principle study reports a complete photonic quantum computer architecture that can, once appropriate component performance is achieved, deliver a universal and fault-tolerant quantum computer.
+
+Type: Research
+Journal: Nature
+Details: Volume: 638, P: 912-919]]></description>
+<author>H. Aghaee Rad, T. Ainsworth, Y. Zhang</author>
+<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08406-9/MediaObjects/41586_2024_8406_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Observation of a finite-energy phase transition in a one-dimensional quantum simulator</title>
+<link>https://www.nature.com/articles/s41567-024-02751-2</link>
+<description><![CDATA[Long-range interactions have been predicted to enable a phase transition in one-dimensional systems. An experiment now validates this hypothesis in a trapped-ion quantum simulator by observing a finite-energy phase transition in one dimension.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 21, P: 374-379]]></description>
+<author>Alexander Schuckert, Or Katz, Christopher Monroe</author>
+<pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02751-2/MediaObjects/41567_2024_2751_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Tabletop wonders</title>
+<link>https://www.nature.com/articles/s41567-024-02771-y</link>
+<description><![CDATA[To kick off the International Year of Quantum Science and Technology, we highlight recent progress in the use of quantum simulators to tackle problems in high-energy physics and cosmology.
+
+Type: Editorial
+Journal: Nature Physics
+Details: Volume: 21, P: 1]]></description>
+<author>Unknown Author</author>
+<pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02771-y/MediaObjects/41567_2024_2771_Figa_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Cold-atom quantum simulators of gauge theories</title>
+<link>https://www.nature.com/articles/s41567-024-02721-8</link>
+<description><![CDATA[Large-scale quantum simulations of gauge theories are relevant to high-energy and condensed matter physics. This Review covers recent developments in simulating lattice gauge theories using cold atoms.
+
+Type: Reviews
+Journal: Nature Physics
+Details: Volume: 21, P: 25-36]]></description>
+<author>Jad C. Halimeh, Monika Aidelsburger, Bing Yang</author>
+<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02721-8/MediaObjects/41567_2024_2721_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Long-lived entanglement of molecules in magic-wavelength optical tweezers</title>
+<link>https://www.nature.com/articles/s41586-024-08365-1</link>
+<description><![CDATA[By engineering an exceptionally controlled environment using rotationally magic optical tweezers, long-lived entanglement between pairs of molecules using detectable hertz-scale interactions can be achieved.
+
+Type: Research
+Journal: Nature
+Details: Volume: 637, P: 827-832]]></description>
+<author>Daniel K. Ruttley, Tom R. Hepworth, Simon L. Cornish</author>
+<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08365-1/MediaObjects/41586_2024_8365_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Confinement in a \({{\mathbb{Z}}}_{2}\) lattice gauge theory on a quantum computer</title>
+<link>https://www.nature.com/articles/s41567-024-02723-6</link>
+<description><![CDATA[Gauge theories host important phenomena such as confinement that are difficult to study theoretically. Advances in quantum computers have now made it possible to perform digital quantum simulations of confinement dynamics in a gauge theory.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 21, P: 312-317]]></description>
+<author>Julius Mildenberger, Wojciech Mruczkiewicz, Philipp Hauke</author>
+<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02723-6/MediaObjects/41567_2024_2723_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Formation of individual stripes in a mixed-dimensional cold-atom Fermi–Hubbard system</title>
+<link>https://www.nature.com/articles/s41586-024-08270-7</link>
+<description><![CDATA[Observations of the formation of individual stripes in a mixed-dimensional cold-atom Fermi–Hubbard quantum simulator are described, enhancing understanding of the phase diagram of high-temperature superconducting materials and the relationship between charge pairs and stripes.
+
+Type: Research
+Journal: Nature
+Details: Volume: 637, P: 57-62]]></description>
+<author>Dominik Bourgund, Thomas Chalopin, Timon A. Hilker</author>
+<pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08270-7/MediaObjects/41586_2024_8270_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Observation of microscopic confinement dynamics by a tunable topological θ-angle</title>
+<link>https://www.nature.com/articles/s41567-024-02702-x</link>
+<description><![CDATA[Topological terms arise naturally in gauge theories but have been difficult to implement in quantum simulators. Now, a tunable topological θ-angle is demonstrated with a cold-atom platform.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 21, P: 155-160]]></description>
+<author>Wei-Yong Zhang, Ying Liu, Jian-Wei Pan</author>
+<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02702-x/MediaObjects/41567_2024_2702_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Time-domain oscillations between distant spin qubits coupled via virtual photons</title>
+<link>https://www.nature.com/articles/s41567-024-02706-7</link>
+<description><![CDATA[In a device comprising two double quantum dots separated by a 250-μm-long superconducting resonator, virtual photons in the resonator are shown to mediate the coupling of electron spins between the quantum dots. When the spin–spin coupling is activated for a controlled duration, oscillations between the spins are observed.
+
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 21, P: 23-24]]></description>
+<author>Unknown Author</author>
+<pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02706-7/MediaObjects/41567_2024_2706_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Cavity-mediated iSWAP oscillations between distant spins</title>
+<link>https://www.nature.com/articles/s41567-024-02694-8</link>
+<description><![CDATA[Coupling semiconductor spin qubits over long distances using a superconducting resonator makes different quantum architectures possible. Now, the coherent swapping of quantum states has been observed between qubits coupled using this design.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 21, P: 168-174]]></description>
+<author>Jurgen Dijkema, Xiao Xue, Lieven M. K. Vandersypen</author>
+<pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02694-8/MediaObjects/41567_2024_2694_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Quantum error correction below the surface code threshold</title>
+<link>https://www.nature.com/articles/s41586-024-08449-y</link>
+<description><![CDATA[Two below-threshold surface code memories on superconducting processors markedly reduce logical error rates, achieving high efficiency and real-time decoding, indicating potential for practical large-scale fault-tolerant quantum algorithms.
+
+Type: Research
+Journal: Nature
+Details: Volume: 638, P: 920-926]]></description>
+<author>Rajeev Acharya, Dmitry A. Abanin, Nicholas Zobrist</author>
+<pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08449-y/MediaObjects/41586_2024_8449_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Learning high-accuracy error decoding for quantum processors</title>
+<link>https://www.nature.com/articles/s41586-024-08148-8</link>
+<description><![CDATA[A recurrent, transformer-based neural network, called AlphaQubit, learns high-accuracy error decoding to suppress the errors that occur in quantum systems, opening the prospect of using neural-network decoders for real quantum hardware.
+
+Type: Research
+Journal: Nature
+Details: Volume: 635, P: 834-840]]></description>
+<author>Johannes Bausch, Andrew W. Senior, Pushmeet Kohli</author>
+<pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08148-8/MediaObjects/41586_2024_8148_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Universal dynamics exposed by interaction quenches</title>
+<link>https://www.nature.com/articles/s41567-024-02704-9</link>
+<description><![CDATA[No Description
+
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 20, P: 1855-1856]]></description>
+<author>Chandrasekhar Ramanathan</author>
+<pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02704-9/MediaObjects/41567_2024_2704_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Entanglement and iSWAP gate between molecular qubits</title>
+<link>https://www.nature.com/articles/s41586-024-08177-3</link>
+<description><![CDATA[Intrinsic molecular resources are used to implement a two-qubit iSWAP gate using individually trapped X1Σ+ NaCs molecules.
+
+Type: Research
+Journal: Nature
+Details: Volume: 637, P: 821-826]]></description>
+<author>Lewis R. B. Picard, Annie J. Park, Kang-Kuen Ni</author>
+<pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08177-3/MediaObjects/41586_2024_8177_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Superconducting circuits feel the pull of synthetic magnetism</title>
+<link>https://www.nature.com/articles/s41567-024-02671-1</link>
+<description><![CDATA[Superconducting qubits can be fabricated and controlled in large numbers, which makes them an appealing platform for quantum simulations of many-body physics. However, a scalable way of implementing electromagnetism has been lacking — until now.
+
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 20, P: 1859-1860]]></description>
+<author>Alicia J. Kollár</author>
+<pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02671-1/MediaObjects/41567_2024_2671_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>A synthetic magnetic vector potential in a 2D superconducting qubit array</title>
+<link>https://www.nature.com/articles/s41567-024-02661-3</link>
+<description><![CDATA[Arrays of superconducting transmon qubits can be used to study the Bose–Hubbard model. Synthetic electromagnetic fields have now been added to this analogue quantum simulation platform.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 20, P: 1881-1887]]></description>
+<author>Ilan T. Rosen, Sarah Muschinske, William D. Oliver</author>
+<pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02661-3/MediaObjects/41567_2024_2661_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Fast quantum gas formation via electromagnetically induced transparency cooling</title>
+<link>https://www.nature.com/articles/s41567-024-02677-9</link>
+<description><![CDATA[Current methods for directly cooling atomic gases to quantum degeneracy involve time-consuming steps. A method based on electromagnetically induced transparency now achieves quantum degeneracy with a notable reduction in preparation time.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 21, P: 63-69]]></description>
+<author>Mingjie Xin, Wui Seng Leong, Shau-Yu Lan</author>
+<pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02677-9/MediaObjects/41567_2024_2677_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Non-Abelian chiral dynamics in a lattice under synthetic SU(2) gauge fields</title>
+<link>https://www.nature.com/articles/s41567-024-02645-3</link>
+<description><![CDATA[A tunable SU(2) gauge field has been realized experimentally in a Raman momentum lattice using ultracold atoms. The chiral dynamics of the system have been investigated under different gauge potentials, whose non-Abelian nature was confirmed through observation of the non-Abelian Aharonov–Bohm effect.
+
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 20, P: 1710-1711]]></description>
+<author>Unknown Author</author>
+<pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02645-3/MediaObjects/41567_2024_2645_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Two-axis twisting using Floquet-engineered XYZ spin models with polar molecules</title>
+<link>https://www.nature.com/articles/s41586-024-07883-2</link>
+<description><![CDATA[A study demonstrates the application of Floquet Hamiltonian engineering to ultracold trapped polar molecules to realize interactions relevant to quantum metrology and many-body physics.
+
+Type: Research
+Journal: Nature
+Details: Volume: 633, P: 332-337]]></description>
+<author>Calder Miller, Annette N. Carroll, Jun Ye</author>
+<pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07883-2/MediaObjects/41586_2024_7883_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Bose–Einstein condensation of light in a semiconductor quantum well microcavity</title>
+<link>https://www.nature.com/articles/s41566-024-01491-2</link>
+<description><![CDATA[Photon Bose–Einstein condensation is observed in a semiconductor laser, where thermalization and condensation of photons occur using an InGaAs quantum well and an open microcavity. The distinction between regimes of photon Bose–Einstein condensation and conventional lasing are clearly identified.
+
+Type: Research
+Journal: Nature Photonics
+Details: Volume: 18, P: 1083-1089]]></description>
+<author>Ross C. Schofield, Ming Fu, Rupert F. Oulton</author>
+<pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-024-01491-2/MediaObjects/41566_2024_1491_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Precise control and non-destructive readout of quantum states of ion motion</title>
+<link>https://www.nature.com/articles/s41567-024-02599-6</link>
+<description><![CDATA[A quantum control technique is used to directly couple trapped-ion motional modes with high fidelity, enabling non-destructive measurements of the quantum harmonic oscillator states of atomic motion. The strong coupling rate and precise manipulation of the quantum states achieved with this technique could lead to advances in quantum information processing.
+
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 20, P: 1544-1545]]></description>
+<author>Unknown Author</author>
+<pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02599-6/MediaObjects/41567_2024_2599_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Scalable spin squeezing from finite-temperature easy-plane magnetism</title>
+<link>https://www.nature.com/articles/s41567-024-02562-5</link>
+<description><![CDATA[Generating highly squeezed states for quantum sensing requires precise entanglement properties, which makes it a hard task. Now a conjecture identifies a realistic regime of magnetic order at finite temperatures that enables scalable spin squeezing.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 20, P: 1575-1581]]></description>
+<author>Maxwell Block, Bingtian Ye, Norman Y. Yao</author>
+<pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02562-5/MediaObjects/41567_2024_2562_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Anyons go universal</title>
+<link>https://www.nature.com/articles/s41567-024-02578-x</link>
+<description><![CDATA[Topological quantum computers are predicted to perform calculations by manipulating quasiparticles known as non-Abelian anyons. A type of non-Abelian anyon that supports universal quantum gates has now been simulated using superconducting qubits.
+
+Type: News & Views
+Journal: Nature Physics
+Details: Volume: 20, P: 1373-1374]]></description>
+<author>Trond I. Andersen, Xiao Mi</author>
+<pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02578-x/MediaObjects/41567_2024_2578_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Antiferromagnetic phase transition in a 3D fermionic Hubbard model</title>
+<link>https://www.nature.com/articles/s41586-024-07689-2</link>
+<description><![CDATA[Antiferromagnetic phase transition is observed in a three-dimensional fermionic Hubbard system comprising lithium-6 atoms in a uniform optical lattice with approximately 800,000 sites.
+
+Type: Research
+Journal: Nature
+Details: Volume: 632, P: 267-272]]></description>
+<author>Hou-Ji Shao, Yu-Xuan Wang, Jian-Wei Pan</author>
+<pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07689-2/MediaObjects/41586_2024_7689_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Ultracold molecules that interact from afar form elusive quantum state</title>
+<link>https://www.nature.com/articles/d41586-024-02134-w</link>
+<description><![CDATA[A gas of molecules that interact over long distances has been cooled to mere nanokelvins, resulting in the emergence of a state known as a Bose–Einstein condensate — the first of its kind in this type of molecular system.
+
+Type: News & Views
+Journal: Nature
+Details: Volume: 631, P: 283-284]]></description>
+<author>Lauriane Chomaz</author>
+<pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/magazine-assets/d41586-024-02134-w/d41586-024-02134-w_27319092.png" type="image/png" />
+</item>
+<item>
+<title>Observation of the scaling dimension of fractional quantum Hall anyons</title>
+<link>https://www.nature.com/articles/s41586-024-07727-z</link>
+<description><![CDATA[The scaling dimension of fractional quantum Hall anyons shows agreement with expectations following examination of thermal-to-shot-noise crossover measurements by fitting to the predicted finite-temperature expression involving both the scaling dimension of quasiparticles and their charge.
+
+Type: Research
+Journal: Nature
+Details: Volume: 632, P: 517-521]]></description>
+<author>A. Veillon, C. Piquard, F. Pierre</author>
+<pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07727-z/MediaObjects/41586_2024_7727_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Non-Abelian braiding of Fibonacci anyons with a superconducting processor</title>
+<link>https://www.nature.com/articles/s41567-024-02529-6</link>
+<description><![CDATA[Superconducting qubits have been used to realize a quantum many-body state that is capable of universal topological quantum computation.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 20, P: 1469-1475]]></description>
+<author>Shibo Xu, Zheng-Zhi Sun, Dong-Ling Deng</author>
+<pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02529-6/MediaObjects/41567_2024_2529_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Topological edge and corner states in bismuth fractal nanostructures</title>
+<link>https://www.nature.com/articles/s41567-024-02551-8</link>
+<description><![CDATA[The interplay between topology and fractals in real materials has remained challenging to study. Now, topological states are demonstrated in fractional-dimensional Sierpinski triangles made from bismuth.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 20, P: 1421-1428]]></description>
+<author>R. Canyellas, Chen Liu, C. Morais Smith</author>
+<pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02551-8/MediaObjects/41567_2024_2551_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Quantum squeezing in a nonlinear mechanical oscillator</title>
+<link>https://www.nature.com/articles/s41567-024-02545-6</link>
+<description><![CDATA[Mechanical modes promise applications in continuous-variable quantum information processing, but only if the final two elements—squeezing and nonlinearity—are achieved. Experiments with an oscillator coupled to a transmon qubit now achieve this.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 20, P: 1448-1453]]></description>
+<author>Stefano Marti, Uwe von Lüpke, Matteo Fadel</author>
+<pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02545-6/MediaObjects/41567_2024_2545_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>How do fish know where a sound comes from? Scientists have an answer</title>
+<link>https://www.nature.com/articles/d41586-024-02068-3</link>
+<description><![CDATA[A dual hearing system helps fish pinpoint a sound’s source — plus uncovering the secrets of the sensory structures that respond to touch during sex.
+
+Type: News
+Journal: Nature
+Details: No Volume/Page Info]]></description>
+<author>Nick Petrić Howe, Benjamin Thompson</author>
+<pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/magazine-assets/d41586-024-02068-3/d41586-024-02068-3_27225578.jpg" type="image/png" />
+</item>
+<item>
+<title>Experimental quantum computational chemistry with optimized unitary coupled cluster ansatz</title>
+<link>https://www.nature.com/articles/s41567-024-02530-z</link>
+<description><![CDATA[The application of quantum computing to computational chemistry faces various experimental and theoretical challenges. Now, a quantum simulation on a noisy quantum device has achieved chemical accuracy for small H2 and LiH molecules.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 20, P: 1240-1246]]></description>
+<author>Shaojun Guo, Jinzhao Sun, Jian-Wei Pan</author>
+<pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02530-z/MediaObjects/41567_2024_2530_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Coherence limits in lattice atom interferometry at the one-minute scale</title>
+<link>https://www.nature.com/articles/s41567-024-02518-9</link>
+<description><![CDATA[Applications of atom interferometry require sufficiently long coherence times. Now, confining atoms in an optical lattice shows that the decoherence rate slows down markedly at hold times that exceed tens of seconds.
+
+Type: Research
+Journal: Nature Physics
+Details: Volume: 20, P: 1234-1239]]></description>
+<author>Cristian D. Panda, Matthew Tao, Holger Müller</author>
+<pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02518-9/MediaObjects/41567_2024_2518_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>Twitter suspended 70,000 accounts after the Capitol riots and it curbed misinformation</title>
+<link>https://www.nature.com/articles/d41586-024-01690-5</link>
+<description><![CDATA[Removal of users shows the role social media companies could play in preventing misinformation sharing — plus how physicists coaxed ultracold molecules into an exotic quantum state.
+
+Type: News
+Journal: Nature
+Details: No Volume/Page Info]]></description>
+<author>Benjamin Thompson, Elizabeth Gibney</author>
+<pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/magazine-assets/d41586-024-01690-5/d41586-024-01690-5_27173374.jpg" type="image/png" />
+</item>
+<item>
+<title>Observation of Bose–Einstein condensation of dipolar molecules</title>
+<link>https://www.nature.com/articles/s41586-024-07492-z</link>
+<description><![CDATA[Bose–Einstein condensate of sodium–caesium molecules is observed by means of evaporative cooling and collisional shielding.
+
+Type: Research
+Journal: Nature
+Details: Volume: 631, P: 289-293]]></description>
+<author>Niccolò Bigagli, Weijun Yuan, Sebastian Will</author>
+<pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07492-z/MediaObjects/41586_2024_7492_Fig1_HTML.png" type="image/png" />
+</item>
+<item>
+<title>A site-resolved two-dimensional quantum simulator with hundreds of trapped ions</title>
+<link>https://www.nature.com/articles/s41586-024-07459-0</link>
+<description><![CDATA[In this work, stable trapping of a two-dimensional Wigner crystal of above 500 ions is achieved, and the quantum simulation of 300 ions with individual state detection demonstrated.
+
+Type: Research
+Journal: Nature
+Details: Volume: 630, P: 613-618]]></description>
+<author>S.-A. Guo, Y.-K. Wu, L.-M. Duan</author>
+<pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+<enclosure url="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07459-0/MediaObjects/41586_2024_7459_Fig1_HTML.png" type="image/png" />
+</item>
+</channel>
 </rss>
