@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Nature - Quantum</title>
+<link>https://www.nature.com/1232212</link>
+<description>Recent articles from Nature, Nature Physics, and Nature Photonics on Quantum Simulation.</description>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02890-0</guid>
+<pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+<title>Strongly interacting Meissner phases in large bosonic flux ladders</title>
+<author>Alexander Impertro, SeungJung Huh, Monika Aidelsburger</author>
+<link>https://www.nature.com/articles/s41567-025-02890-0</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02890-0/MediaObjects/41567_2025_2890_Fig1_HTML.png">
+                        <p></p>
+                        <p>The quantum simulation of driven, strongly correlated phases at large scales is challenging, primarily due to detrimental heating effects. Now, a large-scale interacting Mott–Meissner phase has been realized in a neutral atom quantum simulator.</p>
+                        <p></p>
+                        <p>Alexander Impertro, SeungJung Huh, Monika Aidelsburger</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02866-0</guid>
+<pubDate>Tue, 15 Apr 2025 00:00:00 GMT</pubDate>
+<title>Hamiltonian engineering of collective XYZ spin models in an optical cavity</title>
+<author>Chengyi Luo, Haoqing Zhang, James K. Thompson</author>
+<link>https://www.nature.com/articles/s41567-025-02866-0</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02866-0/MediaObjects/41567_2025_2866_Fig1_HTML.png">
+                        <p></p>
+                        <p>Spin models that can be emulated by quantum simulators are usually restricted to systems with conserved total magnetization. The tuning of photon-mediated interactions between atoms in a cavity enables the implementation of more general models also useful for quantum sensing tasks.</p>
+                        <p></p>
+                        <p>Chengyi Luo, Haoqing Zhang, James K. Thompson</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02854-4</guid>
+<pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+<title>Continuous recoil-driven lasing and cavity frequency pinning with laser-cooled atoms</title>
+<author>Vera M. Schäfer, Zhijing Niu, James K. Thompson</author>
+<link>https://www.nature.com/articles/s41567-025-02854-4</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02854-4/MediaObjects/41567_2025_2854_Fig1_HTML.png">
+                        <p></p>
+                        <p>Experiments with cold atoms in optical cavities are often limited to discontinuous operation due to reloading requirements. Now, continuous lasing is demonstrated with strontium atoms in a ring cavity, stabilized by atom loss mechanisms.</p>
+                        <p></p>
+                        <p>Vera M. Schäfer, Zhijing Niu, James K. Thompson</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02881-1</guid>
+<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+<title>Resourceful dissipation</title>
+<author>Yann Kiefer</author>
+<link>https://www.nature.com/articles/s41567-025-02881-1</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02881-1/MediaObjects/41567_2025_2881_Fig1_HTML.png">
+                        <p></p>
+                        <p>Controlled dissipation enables the extraction of equilibrium properties of ultracold one-dimensional gases through the observation of anomalous dynamics.</p>
+                        <p></p>
+                        <p>Yann Kiefer</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02797-w</guid>
+<pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+<title>Simulating two-dimensional lattice gauge theories on a qudit quantum computer</title>
+<author>Michael Meth, Jinglei Zhang, Martin Ringbauer</author>
+<link>https://www.nature.com/articles/s41567-025-02797-w</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02797-w/MediaObjects/41567_2025_2797_Fig1_HTML.png">
+                        <p></p>
+                        <p>Qubit-based simulations of gauge theories are challenging as gauge fields require high-dimensional encoding. Now a quantum electrodynamics model has been demonstrated using trapped-ion qudits, which encode information in multiple states of ions.</p>
+                        <p></p>
+                        <p>Michael Meth, Jinglei Zhang, Martin Ringbauer</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02811-1</guid>
+<pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+<title>Deterministic remote entanglement using a chiral quantum interconnect</title>
+<author>Aziza Almanakly, Beatriz Yankelevich, William D. Oliver</author>
+<link>https://www.nature.com/articles/s41567-025-02811-1</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02811-1/MediaObjects/41567_2025_2811_Fig1_HTML.png">
+                        <p></p>
+                        <p>Large quantum computers are likely to require methods of connecting devices by transmitting and absorbing photons. Entanglement between two superconducting qubit devices has now been established using a waveguide with tunable directionality.</p>
+                        <p></p>
+                        <p>Aziza Almanakly, Beatriz Yankelevich, William D. Oliver</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08819-0</guid>
+<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+<title>Author Correction: Observation of Nagaoka polarons in a Fermi–Hubbard quantum simulator</title>
+<author>Martin Lebrat, Muqing Xu, Markus Greiner</author>
+<link>https://www.nature.com/articles/s41586-025-08819-0</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Amendments and Corrections</p>
+                        <img src="None">
+                        <p></p>
+                        <p>No Description</p>
+                        <p></p>
+                        <p>Martin Lebrat, Muqing Xu, Markus Greiner</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08620-z</guid>
+<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+<title>Orbital hybridization in graphene-based artificial atoms</title>
+<author>Yue Mao, Hui-Ying Ren, Qing-Feng Sun</author>
+<link>https://www.nature.com/articles/s41586-025-08620-z</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08620-z/MediaObjects/41586_2025_8620_Fig1_HTML.png">
+                        <p></p>
+                        <p>Orbital hybridization in artificial atoms is achieved by altering their shape, and the anisotropy of the confining potential gives rise to the hybridization between quasibound states with different orbital quantum numbers within the artificial atom.</p>
+                        <p></p>
+                        <p>Yue Mao, Hui-Ying Ren, Qing-Feng Sun</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-08460-3</guid>
+<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+<title>Thermalization and criticality on an analogue–digital quantum simulator</title>
+<author>T. I. Andersen, N. Astrakhantsev, X. Mi</author>
+<link>https://www.nature.com/articles/s41586-024-08460-3</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08460-3/MediaObjects/41586_2024_8460_Fig1_HTML.png">
+                        <p></p>
+                        <p>A hybrid analogue–digital quantum simulator is used to demonstrate beyond-classical performance in benchmarking experiments and to study thermalization phenomena in an XY quantum magnet, including the breakdown of Kibble–Zurek scaling predictions and signatures of the Kosterlitz–Thouless phase transition.</p>
+                        <p></p>
+                        <p>T. I. Andersen, N. Astrakhantsev, X. Mi</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-08353-5</guid>
+<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+<title>Quantum coarsening and collective dynamics on a programmable simulator</title>
+<author>Tom Manovitz, Sophie H. Li, Mikhail D. Lukin</author>
+<link>https://www.nature.com/articles/s41586-024-08353-5</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08353-5/MediaObjects/41586_2024_8353_Fig1_HTML.png">
+                        <p></p>
+                        <p>A programmable quantum simulator based on Rydberg atom arrays is used to study the collective dynamics of a quantum phase transition and observe the phenomenon of quantum coarsening.</p>
+                        <p></p>
+                        <p>Tom Manovitz, Sophie H. Li, Mikhail D. Lukin</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02765-w</guid>
+<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+<title>Stirring the false vacuum via interacting quantized bubbles on a 5,564-qubit quantum annealer</title>
+<author>Jaka Vodeb, Jean-Yves Desaules, Zlatko Papić</author>
+<link>https://www.nature.com/articles/s41567-024-02765-w</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02765-w/MediaObjects/41567_2024_2765_Fig1_HTML.png">
+                        <p></p>
+                        <p>Bubble formation is a signal of false vacuum decay, in which a system transitions from a local energy minimum to a true vacuum. Now, simulations on a quantum annealer show how interactions between bubbles drive the long-time dynamics of this process.</p>
+                        <p></p>
+                        <p>Jaka Vodeb, Jean-Yves Desaules, Zlatko Papić</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02767-8</guid>
+<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+<title>A simulation of false vacuum decay using a quantum annealer</title>
+<author>Unknown Author</author>
+<link>https://www.nature.com/articles/s41567-024-02767-8</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02767-8/MediaObjects/41567_2024_2767_Fig1_HTML.png">
+                        <p></p>
+                        <p>False vacuum decay is a process of fundamental importance in quantum field theory. Here, a 5,564-qubit quantum annealer is used to simulate the dynamics of false vacuum decay and observe the formation of bubbles of true vacuum. This approach could provide insight into the role of phase transitions in the early Universe.</p>
+                        <p></p>
+                        <p>Unknown Author</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02758-9</guid>
+<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+<title>Gauge theories on a quantum computer</title>
+<author>Karel Van Acoleyen</author>
+<link>https://www.nature.com/articles/s41567-024-02758-9</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02758-9/MediaObjects/41567_2024_2758_Fig1_HTML.png">
+                        <p></p>
+                        <p>Many important models in theoretical physics — including the standard model of particle physics — are governed by local ‘gauge’ symmetries. Now, a quantum computer has successfully simulated a lattice gauge theory by leveraging this rich symmetry structure.</p>
+                        <p></p>
+                        <p>Karel Van Acoleyen</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02738-z</guid>
+<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+<title>Programmable simulations of molecules and materials with reconfigurable quantum processors</title>
+<author>Nishad Maskara, Stefan Ostermann, Susanne F. Yelin</author>
+<link>https://www.nature.com/articles/s41567-024-02738-z</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02738-z/MediaObjects/41567_2024_2738_Fig1_HTML.png">
+                        <p></p>
+                        <p>Quantum simulations of chemistry and materials are challenging due to the complexity of correlated systems. A framework based on reconfigurable qubit architectures and digital–analogue simulations provides a hardware-efficient path forwards.</p>
+                        <p></p>
+                        <p>Nishad Maskara, Stefan Ostermann, Susanne F. Yelin</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02755-y</guid>
+<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+<title>Where analogue and digital meet</title>
+<author>Kai-Niklas Schymik</author>
+<link>https://www.nature.com/articles/s41567-024-02755-y</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02755-y/MediaObjects/41567_2024_2755_Fig1_HTML.png">
+                        <p></p>
+                        <p>Realizing a useful quantum advantage on noisy intermediate-scale quantum hardware is challenging. A proposal now suggests a hybrid digital–analogue hardware-efficient approach for reconfigurable qubit platforms to simulate strongly interacting matter.</p>
+                        <p></p>
+                        <p>Kai-Niklas Schymik</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-08406-9</guid>
+<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+<title>Scaling and networking a modular photonic quantum computer</title>
+<author>H. Aghaee Rad, T. Ainsworth, Y. Zhang</author>
+<link>https://www.nature.com/articles/s41586-024-08406-9</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08406-9/MediaObjects/41586_2024_8406_Fig1_HTML.png">
+                        <p></p>
+                        <p>A proof-of-principle study reports a complete photonic quantum computer architecture that can, once appropriate component performance is achieved, deliver a universal and fault-tolerant quantum computer.</p>
+                        <p></p>
+                        <p>H. Aghaee Rad, T. Ainsworth, Y. Zhang</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02751-2</guid>
+<pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+<title>Observation of a finite-energy phase transition in a one-dimensional quantum simulator</title>
+<author>Alexander Schuckert, Or Katz, Christopher Monroe</author>
+<link>https://www.nature.com/articles/s41567-024-02751-2</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02751-2/MediaObjects/41567_2024_2751_Fig1_HTML.png">
+                        <p></p>
+                        <p>Long-range interactions have been predicted to enable a phase transition in one-dimensional systems. An experiment now validates this hypothesis in a trapped-ion quantum simulator by observing a finite-energy phase transition in one dimension.</p>
+                        <p></p>
+                        <p>Alexander Schuckert, Or Katz, Christopher Monroe</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02771-y</guid>
+<pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
+<title>Tabletop wonders</title>
+<author>Unknown Author</author>
+<link>https://www.nature.com/articles/s41567-024-02771-y</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Editorial</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02771-y/MediaObjects/41567_2024_2771_Figa_HTML.png">
+                        <p></p>
+                        <p>To kick off the International Year of Quantum Science and Technology, we highlight recent progress in the use of quantum simulators to tackle problems in high-energy physics and cosmology.</p>
+                        <p></p>
+                        <p>Unknown Author</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02721-8</guid>
+<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+<title>Cold-atom quantum simulators of gauge theories</title>
+<author>Jad C. Halimeh, Monika Aidelsburger, Bing Yang</author>
+<link>https://www.nature.com/articles/s41567-024-02721-8</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Reviews</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02721-8/MediaObjects/41567_2024_2721_Fig1_HTML.png">
+                        <p></p>
+                        <p>Large-scale quantum simulations of gauge theories are relevant to high-energy and condensed matter physics. This Review covers recent developments in simulating lattice gauge theories using cold atoms.</p>
+                        <p></p>
+                        <p>Jad C. Halimeh, Monika Aidelsburger, Bing Yang</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-08365-1</guid>
+<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+<title>Long-lived entanglement of molecules in magic-wavelength optical tweezers</title>
+<author>Daniel K. Ruttley, Tom R. Hepworth, Simon L. Cornish</author>
+<link>https://www.nature.com/articles/s41586-024-08365-1</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08365-1/MediaObjects/41586_2024_8365_Fig1_HTML.png">
+                        <p></p>
+                        <p>By engineering an exceptionally controlled environment using rotationally magic optical tweezers, long-lived entanglement between pairs of molecules using detectable hertz-scale interactions can be achieved.</p>
+                        <p></p>
+                        <p>Daniel K. Ruttley, Tom R. Hepworth, Simon L. Cornish</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02723-6</guid>
+<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+<title>Confinement in a \({{\mathbb{Z}}}_{2}\) lattice gauge theory on a quantum computer</title>
+<author>Julius Mildenberger, Wojciech Mruczkiewicz, Philipp Hauke</author>
+<link>https://www.nature.com/articles/s41567-024-02723-6</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02723-6/MediaObjects/41567_2024_2723_Fig1_HTML.png">
+                        <p></p>
+                        <p>Gauge theories host important phenomena such as confinement that are difficult to study theoretically. Advances in quantum computers have now made it possible to perform digital quantum simulations of confinement dynamics in a gauge theory.</p>
+                        <p></p>
+                        <p>Julius Mildenberger, Wojciech Mruczkiewicz, Philipp Hauke</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-08270-7</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+<title>Formation of individual stripes in a mixed-dimensional cold-atom Fermi–Hubbard system</title>
+<author>Dominik Bourgund, Thomas Chalopin, Timon A. Hilker</author>
+<link>https://www.nature.com/articles/s41586-024-08270-7</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08270-7/MediaObjects/41586_2024_8270_Fig1_HTML.png">
+                        <p></p>
+                        <p>Observations of the formation of individual stripes in a mixed-dimensional cold-atom Fermi–Hubbard quantum simulator are described, enhancing understanding of the phase diagram of high-temperature superconducting materials and the relationship between charge pairs and stripes.</p>
+                        <p></p>
+                        <p>Dominik Bourgund, Thomas Chalopin, Timon A. Hilker</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02702-x</guid>
+<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
+<title>Observation of microscopic confinement dynamics by a tunable topological θ-angle</title>
+<author>Wei-Yong Zhang, Ying Liu, Jian-Wei Pan</author>
+<link>https://www.nature.com/articles/s41567-024-02702-x</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02702-x/MediaObjects/41567_2024_2702_Fig1_HTML.png">
+                        <p></p>
+                        <p>Topological terms arise naturally in gauge theories but have been difficult to implement in quantum simulators. Now, a tunable topological θ-angle is demonstrated with a cold-atom platform.</p>
+                        <p></p>
+                        <p>Wei-Yong Zhang, Ying Liu, Jian-Wei Pan</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02706-7</guid>
+<pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+<title>Time-domain oscillations between distant spin qubits coupled via virtual photons</title>
+<author>Unknown Author</author>
+<link>https://www.nature.com/articles/s41567-024-02706-7</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02706-7/MediaObjects/41567_2024_2706_Fig1_HTML.png">
+                        <p></p>
+                        <p>In a device comprising two double quantum dots separated by a 250-μm-long superconducting resonator, virtual photons in the resonator are shown to mediate the coupling of electron spins between the quantum dots. When the spin–spin coupling is activated for a controlled duration, oscillations between the spins are observed.</p>
+                        <p></p>
+                        <p>Unknown Author</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02694-8</guid>
+<pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+<title>Cavity-mediated iSWAP oscillations between distant spins</title>
+<author>Jurgen Dijkema, Xiao Xue, Lieven M. K. Vandersypen</author>
+<link>https://www.nature.com/articles/s41567-024-02694-8</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02694-8/MediaObjects/41567_2024_2694_Fig1_HTML.png">
+                        <p></p>
+                        <p>Coupling semiconductor spin qubits over long distances using a superconducting resonator makes different quantum architectures possible. Now, the coherent swapping of quantum states has been observed between qubits coupled using this design.</p>
+                        <p></p>
+                        <p>Jurgen Dijkema, Xiao Xue, Lieven M. K. Vandersypen</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-08449-y</guid>
+<pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
+<title>Quantum error correction below the surface code threshold</title>
+<author>Rajeev Acharya, Dmitry A. Abanin, Nicholas Zobrist</author>
+<link>https://www.nature.com/articles/s41586-024-08449-y</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08449-y/MediaObjects/41586_2024_8449_Fig1_HTML.png">
+                        <p></p>
+                        <p>Two below-threshold surface code memories on superconducting processors markedly reduce logical error rates, achieving high efficiency and real-time decoding, indicating potential for practical large-scale fault-tolerant quantum algorithms.</p>
+                        <p></p>
+                        <p>Rajeev Acharya, Dmitry A. Abanin, Nicholas Zobrist</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-08148-8</guid>
+<pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+<title>Learning high-accuracy error decoding for quantum processors</title>
+<author>Johannes Bausch, Andrew W. Senior, Pushmeet Kohli</author>
+<link>https://www.nature.com/articles/s41586-024-08148-8</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08148-8/MediaObjects/41586_2024_8148_Fig1_HTML.png">
+                        <p></p>
+                        <p>A recurrent, transformer-based neural network, called AlphaQubit, learns high-accuracy error decoding to suppress the errors that occur in quantum systems, opening the prospect of using neural-network decoders for real quantum hardware.</p>
+                        <p></p>
+                        <p>Johannes Bausch, Andrew W. Senior, Pushmeet Kohli</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02704-9</guid>
+<pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+<title>Universal dynamics exposed by interaction quenches</title>
+<author>Chandrasekhar Ramanathan</author>
+<link>https://www.nature.com/articles/s41567-024-02704-9</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02704-9/MediaObjects/41567_2024_2704_Fig1_HTML.png">
+                        <p></p>
+                        <p>No Description</p>
+                        <p></p>
+                        <p>Chandrasekhar Ramanathan</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-08177-3</guid>
+<pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+<title>Entanglement and iSWAP gate between molecular qubits</title>
+<author>Lewis R. B. Picard, Annie J. Park, Kang-Kuen Ni</author>
+<link>https://www.nature.com/articles/s41586-024-08177-3</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-08177-3/MediaObjects/41586_2024_8177_Fig1_HTML.png">
+                        <p></p>
+                        <p>Intrinsic molecular resources are used to implement a two-qubit iSWAP gate using individually trapped X1Σ+ NaCs molecules.</p>
+                        <p></p>
+                        <p>Lewis R. B. Picard, Annie J. Park, Kang-Kuen Ni</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02671-1</guid>
+<pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+<title>Superconducting circuits feel the pull of synthetic magnetism</title>
+<author>Alicia J. Kollár</author>
+<link>https://www.nature.com/articles/s41567-024-02671-1</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02671-1/MediaObjects/41567_2024_2671_Fig1_HTML.png">
+                        <p></p>
+                        <p>Superconducting qubits can be fabricated and controlled in large numbers, which makes them an appealing platform for quantum simulations of many-body physics. However, a scalable way of implementing electromagnetism has been lacking — until now.</p>
+                        <p></p>
+                        <p>Alicia J. Kollár</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02661-3</guid>
+<pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+<title>A synthetic magnetic vector potential in a 2D superconducting qubit array</title>
+<author>Ilan T. Rosen, Sarah Muschinske, William D. Oliver</author>
+<link>https://www.nature.com/articles/s41567-024-02661-3</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02661-3/MediaObjects/41567_2024_2661_Fig1_HTML.png">
+                        <p></p>
+                        <p>Arrays of superconducting transmon qubits can be used to study the Bose–Hubbard model. Synthetic electromagnetic fields have now been added to this analogue quantum simulation platform.</p>
+                        <p></p>
+                        <p>Ilan T. Rosen, Sarah Muschinske, William D. Oliver</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02677-9</guid>
+<pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+<title>Fast quantum gas formation via electromagnetically induced transparency cooling</title>
+<author>Mingjie Xin, Wui Seng Leong, Shau-Yu Lan</author>
+<link>https://www.nature.com/articles/s41567-024-02677-9</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02677-9/MediaObjects/41567_2024_2677_Fig1_HTML.png">
+                        <p></p>
+                        <p>Current methods for directly cooling atomic gases to quantum degeneracy involve time-consuming steps. A method based on electromagnetically induced transparency now achieves quantum degeneracy with a notable reduction in preparation time.</p>
+                        <p></p>
+                        <p>Mingjie Xin, Wui Seng Leong, Shau-Yu Lan</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02645-3</guid>
+<pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+<title>Non-Abelian chiral dynamics in a lattice under synthetic SU(2) gauge fields</title>
+<author>Unknown Author</author>
+<link>https://www.nature.com/articles/s41567-024-02645-3</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02645-3/MediaObjects/41567_2024_2645_Fig1_HTML.png">
+                        <p></p>
+                        <p>A tunable SU(2) gauge field has been realized experimentally in a Raman momentum lattice using ultracold atoms. The chiral dynamics of the system have been investigated under different gauge potentials, whose non-Abelian nature was confirmed through observation of the non-Abelian Aharonov–Bohm effect.</p>
+                        <p></p>
+                        <p>Unknown Author</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-07883-2</guid>
+<pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
+<title>Two-axis twisting using Floquet-engineered XYZ spin models with polar molecules</title>
+<author>Calder Miller, Annette N. Carroll, Jun Ye</author>
+<link>https://www.nature.com/articles/s41586-024-07883-2</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07883-2/MediaObjects/41586_2024_7883_Fig1_HTML.png">
+                        <p></p>
+                        <p>A study demonstrates the application of Floquet Hamiltonian engineering to ultracold trapped polar molecules to realize interactions relevant to quantum metrology and many-body physics.</p>
+                        <p></p>
+                        <p>Calder Miller, Annette N. Carroll, Jun Ye</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-024-01491-2</guid>
+<pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
+<title>Bose–Einstein condensation of light in a semiconductor quantum well microcavity</title>
+<author>Ross C. Schofield, Ming Fu, Rupert F. Oulton</author>
+<link>https://www.nature.com/articles/s41566-024-01491-2</link>
+<content:encoded><![CDATA[
+                        <p>Nature Photonics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-024-01491-2/MediaObjects/41566_2024_1491_Fig1_HTML.png">
+                        <p></p>
+                        <p>Photon Bose–Einstein condensation is observed in a semiconductor laser, where thermalization and condensation of photons occur using an InGaAs quantum well and an open microcavity. The distinction between regimes of photon Bose–Einstein condensation and conventional lasing are clearly identified.</p>
+                        <p></p>
+                        <p>Ross C. Schofield, Ming Fu, Rupert F. Oulton</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02599-6</guid>
+<pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+<title>Precise control and non-destructive readout of quantum states of ion motion</title>
+<author>Unknown Author</author>
+<link>https://www.nature.com/articles/s41567-024-02599-6</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02599-6/MediaObjects/41567_2024_2599_Fig1_HTML.png">
+                        <p></p>
+                        <p>A quantum control technique is used to directly couple trapped-ion motional modes with high fidelity, enabling non-destructive measurements of the quantum harmonic oscillator states of atomic motion. The strong coupling rate and precise manipulation of the quantum states achieved with this technique could lead to advances in quantum information processing.</p>
+                        <p></p>
+                        <p>Unknown Author</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02562-5</guid>
+<pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
+<title>Scalable spin squeezing from finite-temperature easy-plane magnetism</title>
+<author>Maxwell Block, Bingtian Ye, Norman Y. Yao</author>
+<link>https://www.nature.com/articles/s41567-024-02562-5</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02562-5/MediaObjects/41567_2024_2562_Fig1_HTML.png">
+                        <p></p>
+                        <p>Generating highly squeezed states for quantum sensing requires precise entanglement properties, which makes it a hard task. Now a conjecture identifies a realistic regime of magnetic order at finite temperatures that enables scalable spin squeezing.</p>
+                        <p></p>
+                        <p>Maxwell Block, Bingtian Ye, Norman Y. Yao</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02578-x</guid>
+<pubDate>Mon, 15 Jul 2024 00:00:00 GMT</pubDate>
+<title>Anyons go universal</title>
+<author>Trond I. Andersen, Xiao Mi</author>
+<link>https://www.nature.com/articles/s41567-024-02578-x</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02578-x/MediaObjects/41567_2024_2578_Fig1_HTML.png">
+                        <p></p>
+                        <p>Topological quantum computers are predicted to perform calculations by manipulating quasiparticles known as non-Abelian anyons. A type of non-Abelian anyon that supports universal quantum gates has now been simulated using superconducting qubits.</p>
+                        <p></p>
+                        <p>Trond I. Andersen, Xiao Mi</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-07689-2</guid>
+<pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+<title>Antiferromagnetic phase transition in a 3D fermionic Hubbard model</title>
+<author>Hou-Ji Shao, Yu-Xuan Wang, Jian-Wei Pan</author>
+<link>https://www.nature.com/articles/s41586-024-07689-2</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07689-2/MediaObjects/41586_2024_7689_Fig1_HTML.png">
+                        <p></p>
+                        <p>Antiferromagnetic phase transition is observed in a three-dimensional fermionic Hubbard system comprising lithium-6 atoms in a uniform optical lattice with approximately 800,000 sites.</p>
+                        <p></p>
+                        <p>Hou-Ji Shao, Yu-Xuan Wang, Jian-Wei Pan</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-024-02134-w</guid>
+<pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+<title>Ultracold molecules that interact from afar form elusive quantum state</title>
+<author>Lauriane Chomaz</author>
+<link>https://www.nature.com/articles/d41586-024-02134-w</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News & Views</p>
+                        <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-024-02134-w/d41586-024-02134-w_27319092.png">
+                        <p></p>
+                        <p>A gas of molecules that interact over long distances has been cooled to mere nanokelvins, resulting in the emergence of a state known as a Bose–Einstein condensate — the first of its kind in this type of molecular system.</p>
+                        <p></p>
+                        <p>Lauriane Chomaz</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-07727-z</guid>
+<pubDate>Wed, 03 Jul 2024 00:00:00 GMT</pubDate>
+<title>Observation of the scaling dimension of fractional quantum Hall anyons</title>
+<author>A. Veillon, C. Piquard, F. Pierre</author>
+<link>https://www.nature.com/articles/s41586-024-07727-z</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07727-z/MediaObjects/41586_2024_7727_Fig1_HTML.png">
+                        <p></p>
+                        <p>The scaling dimension of fractional quantum Hall anyons shows agreement with expectations following examination of thermal-to-shot-noise crossover measurements by fitting to the predicted finite-temperature expression involving both the scaling dimension of quasiparticles and their charge.</p>
+                        <p></p>
+                        <p>A. Veillon, C. Piquard, F. Pierre</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02529-6</guid>
+<pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+<title>Non-Abelian braiding of Fibonacci anyons with a superconducting processor</title>
+<author>Shibo Xu, Zheng-Zhi Sun, Dong-Ling Deng</author>
+<link>https://www.nature.com/articles/s41567-024-02529-6</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02529-6/MediaObjects/41567_2024_2529_Fig1_HTML.png">
+                        <p></p>
+                        <p>Superconducting qubits have been used to realize a quantum many-body state that is capable of universal topological quantum computation.</p>
+                        <p></p>
+                        <p>Shibo Xu, Zheng-Zhi Sun, Dong-Ling Deng</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02551-8</guid>
+<pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+<title>Topological edge and corner states in bismuth fractal nanostructures</title>
+<author>R. Canyellas, Chen Liu, C. Morais Smith</author>
+<link>https://www.nature.com/articles/s41567-024-02551-8</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02551-8/MediaObjects/41567_2024_2551_Fig1_HTML.png">
+                        <p></p>
+                        <p>The interplay between topology and fractals in real materials has remained challenging to study. Now, topological states are demonstrated in fractional-dimensional Sierpinski triangles made from bismuth.</p>
+                        <p></p>
+                        <p>R. Canyellas, Chen Liu, C. Morais Smith</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02545-6</guid>
+<pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+<title>Quantum squeezing in a nonlinear mechanical oscillator</title>
+<author>Stefano Marti, Uwe von Lüpke, Matteo Fadel</author>
+<link>https://www.nature.com/articles/s41567-024-02545-6</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02545-6/MediaObjects/41567_2024_2545_Fig1_HTML.png">
+                        <p></p>
+                        <p>Mechanical modes promise applications in continuous-variable quantum information processing, but only if the final two elements—squeezing and nonlinearity—are achieved. Experiments with an oscillator coupled to a transmon qubit now achieve this.</p>
+                        <p></p>
+                        <p>Stefano Marti, Uwe von Lüpke, Matteo Fadel</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-024-02068-3</guid>
+<pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+<title>How do fish know where a sound comes from? Scientists have an answer</title>
+<author>Nick Petrić Howe, Benjamin Thompson</author>
+<link>https://www.nature.com/articles/d41586-024-02068-3</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News</p>
+                        <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-024-02068-3/d41586-024-02068-3_27225578.jpg">
+                        <p></p>
+                        <p>A dual hearing system helps fish pinpoint a sound’s source — plus uncovering the secrets of the sensory structures that respond to touch during sex.</p>
+                        <p></p>
+                        <p>Nick Petrić Howe, Benjamin Thompson</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02530-z</guid>
+<pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+<title>Experimental quantum computational chemistry with optimized unitary coupled cluster ansatz</title>
+<author>Shaojun Guo, Jinzhao Sun, Jian-Wei Pan</author>
+<link>https://www.nature.com/articles/s41567-024-02530-z</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02530-z/MediaObjects/41567_2024_2530_Fig1_HTML.png">
+                        <p></p>
+                        <p>The application of quantum computing to computational chemistry faces various experimental and theoretical challenges. Now, a quantum simulation on a noisy quantum device has achieved chemical accuracy for small H2 and LiH molecules.</p>
+                        <p></p>
+                        <p>Shaojun Guo, Jinzhao Sun, Jian-Wei Pan</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-024-02518-9</guid>
+<pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+<title>Coherence limits in lattice atom interferometry at the one-minute scale</title>
+<author>Cristian D. Panda, Matthew Tao, Holger Müller</author>
+<link>https://www.nature.com/articles/s41567-024-02518-9</link>
+<content:encoded><![CDATA[
+                        <p>Nature Physics</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-024-02518-9/MediaObjects/41567_2024_2518_Fig1_HTML.png">
+                        <p></p>
+                        <p>Applications of atom interferometry require sufficiently long coherence times. Now, confining atoms in an optical lattice shows that the decoherence rate slows down markedly at hold times that exceed tens of seconds.</p>
+                        <p></p>
+                        <p>Cristian D. Panda, Matthew Tao, Holger Müller</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-024-01690-5</guid>
+<pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+<title>Twitter suspended 70,000 accounts after the Capitol riots and it curbed misinformation</title>
+<author>Benjamin Thompson, Elizabeth Gibney</author>
+<link>https://www.nature.com/articles/d41586-024-01690-5</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>News</p>
+                        <img src="https://media.springernature.com/w290h158/magazine-assets/d41586-024-01690-5/d41586-024-01690-5_27173374.jpg">
+                        <p></p>
+                        <p>Removal of users shows the role social media companies could play in preventing misinformation sharing — plus how physicists coaxed ultracold molecules into an exotic quantum state.</p>
+                        <p></p>
+                        <p>Benjamin Thompson, Elizabeth Gibney</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-07492-z</guid>
+<pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+<title>Observation of Bose–Einstein condensation of dipolar molecules</title>
+<author>Niccolò Bigagli, Weijun Yuan, Sebastian Will</author>
+<link>https://www.nature.com/articles/s41586-024-07492-z</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07492-z/MediaObjects/41586_2024_7492_Fig1_HTML.png">
+                        <p></p>
+                        <p>Bose–Einstein condensate of sodium–caesium molecules is observed by means of evaporative cooling and collisional shielding.</p>
+                        <p></p>
+                        <p>Niccolò Bigagli, Weijun Yuan, Sebastian Will</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-024-07459-0</guid>
+<pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+<title>A site-resolved two-dimensional quantum simulator with hundreds of trapped ions</title>
+<author>S.-A. Guo, Y.-K. Wu, L.-M. Duan</author>
+<link>https://www.nature.com/articles/s41586-024-07459-0</link>
+<content:encoded><![CDATA[
+                        <p>Nature</p>
+                        <p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          </p>
+                        <p>Research</p>
+                        <img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-024-07459-0/MediaObjects/41586_2024_7459_Fig1_HTML.png">
+                        <p></p>
+                        <p>In this work, stable trapping of a two-dimensional Wigner crystal of above 500 ions is achieved, and the quantum simulation of 300 ions with individual state detection demonstrated.</p>
+                        <p></p>
+                        <p>S.-A. Guo, Y.-K. Wu, L.-M. Duan</p>
+
+
+
+                   ]]></content:encoded>
+</item>
+</channel>
+</rss>
