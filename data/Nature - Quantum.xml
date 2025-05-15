@@ -2,7 +2,7 @@
 <rss version="2.0"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nature - Quantum</title>
-<link>https://www.nature.com/search?q=%22quantum+simulation%22+OR+%22quantum+simulator%22+OR+%22quantum+simulating%22&journal=nphys%2C+nature%2C+nphoton&order=date_desc</link>
+<link>www.nature.com/112</link>
 <description>Recent articles from Nature, Nature Physics, and Nature Photonics on Quantum Simulation.</description>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02890-0</guid>
