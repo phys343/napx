@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>quantum rss</title>
+<link>https://www.nature.com</link>
+<description>rss/nature_quantum_physics.xml</description>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01666-5</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 </pubDate>
+<title>Quantum cluster states engineered in three dimensions</title>
+<author>Olivier Pfister</author>
+<link>https://www.nature.com/articles/s41566-025-01666-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01666-5/MediaObjects/41566_2025_1666_Fig1_HTML.png"><p></p><p>The experimental realization of a 3D cluster quantum state paves the way for information processing employing quantum error correction.</p><p></p><p>Olivier Pfister</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01648-7</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 </pubDate>
+<title>Twisting entangled photons on a chip</title>
+<author>Filippo CardanoLorenzo Marrucci</author>
+<link>https://www.nature.com/articles/s41566-025-01648-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01648-7/MediaObjects/41566_2025_1648_Fig1_HTML.png"><p></p><p>A programmable quantum chip has been developed that generates, manipulates, and launches five-dimensional entangled photons into free-space channels, encoded as optical vortex modes, thus bridging the worlds of integrated and free-space quantum photonics.</p><p></p><p>Filippo CardanoLorenzo Marrucci</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02896-8</guid>
+<pubDate>Thu, 01 May 2025 00:00:00 </pubDate>
+<title>Thermopower reveals localized electrons</title>
+<author>Fereshte Ghahari</author>
+<link>https://www.nature.com/articles/s41567-025-02896-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02896-8/MediaObjects/41567_2025_2896_Fig1_HTML.png"><p></p><p>Thermopower measurements on magic-angle twisted bilayer graphene reveal strong electronic correlations and their contribution to entropy.</p><p></p><p>Fereshte Ghahari</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41534-025-01033-w</guid>
+<pubDate>Sat, 17 May 2025 00:00:00 </pubDate>
+<title>Machine learning message-passing for the scalable decoding of QLDPC codes</title>
+<author>Arshpreet Singh MaanAlexandru Paler</author>
+<link>https://www.nature.com/articles/s41534-025-01033-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41534-025-01033-w/MediaObjects/41534_2025_1033_Fig1_HTML.png"><p></p><p>Arshpreet Singh MaanAlexandru Paler</p><p></p><p>npj Quantum Information</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41598-025-00700-4</guid>
+<pubDate>Fri, 16 May 2025 00:00:00 </pubDate>
+<title>Entanglement dynamics in a three-atom multi-photon nonlinear JCM with f-deformed Kerr nonlinearity</title>
+<author>Firouz LangarizadehMohammad Javad FaghihiHamid Reza Baghshahi</author>
+<link>https://www.nature.com/articles/s41598-025-00700-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41598-025-00700-4/MediaObjects/41598_2025_700_Fig1_HTML.png"><p></p><p>Firouz LangarizadehMohammad Javad FaghihiHamid Reza Baghshahi</p><p></p><p>Scientific Reports</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41534-025-01028-7</guid>
+<pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
+<title>Discovery of entanglement generation by elastic collision to realise the original Einstein-Podolsky-Rosen thought experiment</title>
+<author>Roman Schnabel</author>
+<link>https://www.nature.com/articles/s41534-025-01028-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41534-025-01028-7/MediaObjects/41534_2025_1028_Fig1_HTML.png"><p></p><p>Roman Schnabel</p><p></p><p>npj Quantum Information</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41467-025-59714-1</guid>
+<pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
+<title>Yoked surface codes</title>
+<author>Craig GidneyMichael NewmanCody Jones</author>
+<link>https://www.nature.com/articles/s41467-025-59714-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41467-025-59714-1/MediaObjects/41467_2025_59714_Fig1_HTML.png"><p></p><p>For architectures with local connectivity, the surface code has been the leading approach to constructing fault-tolerant logical qubits, but typically requires over 1000 physical qubits per logical qubit. Here, the authors introduce a hierarchical code that maintains the same connectivity requirements as the surface code while reducing the physical qubit overhead by up to a factor of three.</p><p></p><p>Craig GidneyMichael NewmanCody Jones</p><p></p><p>Nature Communications</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08899-y</guid>
+<pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
+<title>Quantum error correction of qudits beyond break-even</title>
+<author>Benjamin L. BrockShraddha SinghMichel H. Devoret</author>
+<link>https://www.nature.com/articles/s41586-025-08899-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08899-y/MediaObjects/41586_2025_8899_Fig1_HTML.png"><p></p><p>Quantum error correction of a logical qutrit and ququart were experimentally realized beyond the break-even point with the Gottesman–Kitaev–Preskill bosonic code.</p><p></p><p>Benjamin L. BrockShraddha SinghMichel H. Devoret</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41467-025-59238-8</guid>
+<pubDate>Wed, 14 May 2025 00:00:00 </pubDate>
+<title>Bulk superinsulation and polar nematic orders in nanopatterned NbTiN</title>
+<author>A. Yu. MironovC. A. TrugenbergerV. M. Vinokur</author>
+<link>https://www.nature.com/articles/s41467-025-59238-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41467-025-59238-8/MediaObjects/41467_2025_59238_Fig1_HTML.png"><p></p><p>The authors present experimental evidence of three-dimensional superinsulation in a nanopatterned slab of NbTiN. In the electric Meissner state, they find polar nematic order arising from ferroelectric alignment of short electric strings excited by external electromagnetic fields.</p><p></p><p>A. Yu. MironovC. A. TrugenbergerV. M. Vinokur</p><p></p><p>Nature Communications</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01591-1</guid>
+<pubDate>Fri, 16 May 2025 00:00:00 </pubDate>
+<title>‘Minimalist’ quantum computer simulates movements of molecules</title>
+<author>Davide Castelvecchi</author>
+<link>https://www.nature.com/articles/d41586-025-01591-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01591-1/d41586-025-01591-1_50986578.jpg"><p></p><p>A single trapped ytterbium ion can be used to simulate complex changes in the energy levels of organic molecules interacting with light.</p><p></p><p>Davide Castelvecchi</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01465-6</guid>
+<pubDate>Mon, 12 May 2025 00:00:00 </pubDate>
+<title>Why bad philosophy is stopping progress in physics</title>
+<author>Carlo Rovelli</author>
+<link>https://www.nature.com/articles/d41586-025-01465-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01465-6/d41586-025-01465-6_50925850.jpg"><p></p><p>Theoretical physicists are in thrall to a misguided mindset that allows viable ideas to be advanced only by overturning what already exists.</p><p></p><p>Carlo Rovelli</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01666-5</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 </pubDate>
+<title>Quantum cluster states engineered in three dimensions</title>
+<author>Olivier Pfister</author>
+<link>https://www.nature.com/articles/s41566-025-01666-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01666-5/MediaObjects/41566_2025_1666_Fig1_HTML.png"><p></p><p>The experimental realization of a 3D cluster quantum state paves the way for information processing employing quantum error correction.</p><p></p><p>Olivier Pfister</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01648-7</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 </pubDate>
+<title>Twisting entangled photons on a chip</title>
+<author>Filippo CardanoLorenzo Marrucci</author>
+<link>https://www.nature.com/articles/s41566-025-01648-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01648-7/MediaObjects/41566_2025_1648_Fig1_HTML.png"><p></p><p>A programmable quantum chip has been developed that generates, manipulates, and launches five-dimensional entangled photons into free-space channels, encoded as optical vortex modes, thus bridging the worlds of integrated and free-space quantum photonics.</p><p></p><p>Filippo CardanoLorenzo Marrucci</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41928-025-01381-7</guid>
+<pubDate>Mon, 05 May 2025 00:00:00 </pubDate>
+<title>Scaling up superconducting quantum computers</title>
+<author>Anthony MegrantYu Chen</author>
+<link>https://www.nature.com/articles/s41928-025-01381-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41928-025-01381-7/MediaObjects/41928_2025_1381_Fig1_HTML.png"><p></p><p>Superconducting qubits could be used to build a fault-tolerant quantum computer. But such a device will require millions of components, and various fundamental challenges remain to be addressed. Success will depend on sustained collaboration between industry and academia.</p><p></p><p>Anthony MegrantYu Chen</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02896-8</guid>
+<pubDate>Thu, 01 May 2025 00:00:00 </pubDate>
+<title>Thermopower reveals localized electrons</title>
+<author>Fereshte Ghahari</author>
+<link>https://www.nature.com/articles/s41567-025-02896-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02896-8/MediaObjects/41567_2025_2896_Fig1_HTML.png"><p></p><p>Thermopower measurements on magic-angle twisted bilayer graphene reveal strong electronic correlations and their contribution to entropy.</p><p></p><p>Fereshte Ghahari</p><p></p>]]></content:encoded>
+</item>
+</channel>
+</rss>
