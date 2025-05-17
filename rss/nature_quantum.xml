@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>quantum rss</title>
+<link>https://www.nature.com/search?q=%22quantum+simulation%22+OR+%22quantum+simulator%22+OR+%22quantum+simulating%22+OR+%22quantum+computation%22+OR+%22quantum+computer%22+OR+%22quantum+computing%22+OR+%22quantum+information%22+OR+%22quantum+metrology%22+OR+%22quantum+error+correction%22+OR+%22quantum+entanglement%22+OR+%22quantum+algorithm%22+OR+%22quantum+circuit%22+OR+%22quantum+gate%22+OR+%22quantum+bit%22+OR+%22superconducting+qubit%22+OR+%22trapped+ion%22+OR+%22neutral+atom+quantum+computing%22+OR+%22photonic+quantum+computing%22+OR+%22quantum+cryptography%22+OR+%22quantum+key+distribution%22+OR+%22quantum+communication%22+OR+%22quantum+teleportation%22+OR+%22quantum+repeater%22+OR+%22quantum+sensing%22+OR+%22quantum+advantage%22+OR+%22quantum+machine+learning%22+OR+%22quantum-enhanced%22+OR+%22quantum+memory%22+OR+%22quantum+network%22++OR+%22quantum+superposition%22+OR+%22quantum+interference%22+OR+%22quantum+measurement%22++OR+%22Bell+inequality%22++OR+%22quantum+non-locality%22++OR+%22variational+quantum%22+OR+%22quantum+fault+tolerance%22+OR++%22topological+quantum%22+OR+%22Shor%27s+algorithm%22+OR+%22quantum+supremacy%22+OR+%22quantum+coherence%22+&journal=nphys%2C+nature%2C+nphoton&order=date_desc</link>
+<description>rss/nature_quantum.xml</description>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01591-1</guid>
+<pubDate>Fri, 16 May 2025 00:00:00 -0000</pubDate>
+<title>‘Minimalist’ quantum computer simulates movements of molecules</title>
+<author>Davide Castelvecchi</author>
+<link>https://www.nature.com/articles/d41586-025-01591-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01591-1/d41586-025-01591-1_50986578.jpg"><p></p><p>A single trapped ytterbium ion can be used to simulate complex changes in the energy levels of organic molecules interacting with light.</p><p></p><p>Authors: Davide Castelvecchi</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02907-8</guid>
+<pubDate>Thu, 15 May 2025 00:00:00 -0000</pubDate>
+<title>The international measurement system beyond 2030</title>
+<author>Wynand LouwGert Rietveld</author>
+<link>https://www.nature.com/articles/s41567-025-02907-8</link>
+<content:encoded><![CDATA[<p>Measurements play a crucial role in our daily lives; and we rely on metrology to ensure that measurements are accurate and comparable. Celebrating the 150th anniversary of the beginning of the global measurement system, we look into its future.</p><p></p><p>Authors: Wynand LouwGert Rietveld</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08899-y</guid>
+<pubDate>Wed, 14 May 2025 00:00:00 -0000</pubDate>
+<title>Quantum error correction of qudits beyond break-even</title>
+<author>Benjamin L. BrockShraddha SinghMichel H. Devoret</author>
+<link>https://www.nature.com/articles/s41586-025-08899-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08899-y/MediaObjects/41586_2025_8899_Fig1_HTML.png"><p></p><p>Quantum error correction of a logical qutrit and ququart were experimentally realized beyond the break-even point with the Gottesman–Kitaev–Preskill bosonic code.</p><p></p><p>Authors: Benjamin L. BrockShraddha SinghMichel H. Devoret</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08894-3</guid>
+<pubDate>Wed, 14 May 2025 00:00:00 -0000</pubDate>
+<title>Tunable vacuum-field control of fractional and integer quantum Hall phases</title>
+<author>Josefine EnknerLorenzo GraziottoJérôme Faist</author>
+<link>https://www.nature.com/articles/s41586-025-08894-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08894-3/MediaObjects/41586_2025_8894_Fig1_HTML.png"><p></p><p>Using a system to adjust the strength of cavity vacuum fields penetrating a Hall bar, a study describes the effect of the vacuum field of a cavity on electronic correlations in quantum Hall systems.</p><p></p><p>Authors: Josefine EnknerLorenzo GraziottoJérôme Faist</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08948-6</guid>
+<pubDate>Wed, 14 May 2025 00:00:00 -0000</pubDate>
+<title>Bulk–spatiotemporal vortex correspondence in gyromagnetic zero-index media</title>
+<author>Ruo-Yang ZhangXiaohan CuiC. T. Chan</author>
+<link>https://www.nature.com/articles/s41586-025-08948-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08948-6/MediaObjects/41586_2025_8948_Fig1_HTML.png"><p></p><p>Realization of a gyromagnetic double-zero-index metamaterial results in unconventional optical and topological properties, suitable to be used for the generation of light pulses shaped as a vortex both in time and space.</p><p></p><p>Authors: Ruo-Yang ZhangXiaohan CuiC. T. Chan</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01673-6</guid>
+<pubDate>Tue, 13 May 2025 00:00:00 -0000</pubDate>
+<title>Photon bunching in high-harmonic emission controlled by quantum light</title>
+<author>Samuel LemieuxSohail A. JalilGiulio Vampa</author>
+<link>https://www.nature.com/articles/s41566-025-01673-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01673-6/MediaObjects/41566_2025_1673_Fig1_HTML.png"><p></p><p>When high-harmonic emission from a ZnO crystal is perturbed with a bright squeezed vacuum beam, a comb of super-bunched high-order sidebands is created. This indicates photon bunching and the generation of a non-coherent state at the short wavelength.</p><p></p><p>Authors: Samuel LemieuxSohail A. JalilGiulio Vampa</p><p></p><p>Journal: Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01465-6</guid>
+<pubDate>Mon, 12 May 2025 00:00:00 -0000</pubDate>
+<title>Why bad philosophy is stopping progress in physics</title>
+<author>Carlo Rovelli</author>
+<link>https://www.nature.com/articles/d41586-025-01465-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01465-6/d41586-025-01465-6_50925850.jpg"><p></p><p>Theoretical physicists are in thrall to a misguided mindset that allows viable ideas to be advanced only by overturning what already exists.</p><p></p><p>Authors: Carlo Rovelli</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01666-5</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 -0000</pubDate>
+<title>Quantum cluster states engineered in three dimensions</title>
+<author>Olivier Pfister</author>
+<link>https://www.nature.com/articles/s41566-025-01666-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01666-5/MediaObjects/41566_2025_1666_Fig1_HTML.png"><p></p><p>The experimental realization of a 3D cluster quantum state paves the way for information processing employing quantum error correction.</p><p></p><p>Authors: Olivier Pfister</p><p></p><p>Journal: Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01648-7</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 -0000</pubDate>
+<title>Twisting entangled photons on a chip</title>
+<author>Filippo CardanoLorenzo Marrucci</author>
+<link>https://www.nature.com/articles/s41566-025-01648-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01648-7/MediaObjects/41566_2025_1648_Fig1_HTML.png"><p></p><p>A programmable quantum chip has been developed that generates, manipulates, and launches five-dimensional entangled photons into free-space channels, encoded as optical vortex modes, thus bridging the worlds of integrated and free-space quantum photonics.</p><p></p><p>Authors: Filippo CardanoLorenzo Marrucci</p><p></p><p>Journal: Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08863-w</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 -0000</pubDate>
+<title>Superconductivity and spin canting in spin–orbit-coupled trilayer graphene</title>
+<author>Caitlin L. PattersonOwen I. SheekeyAndrea F. Young</author>
+<link>https://www.nature.com/articles/s41586-025-08863-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08863-w/MediaObjects/41586_2025_8863_Fig1_HTML.png"><p></p><p>Introducing spin–orbit coupling by substrate proximity effect leads to an enhancement of superconducting phases in rhombohedral trilayer graphene.</p><p></p><p>Authors: Caitlin L. PattersonOwen I. SheekeyAndrea F. Young</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08959-3</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 -0000</pubDate>
+<title>Twist-programmable superconductivity in spin–orbit-coupled bilayer graphene</title>
+<author>Yiran ZhangGal ShavitStevan Nadj-Perge</author>
+<link>https://www.nature.com/articles/s41586-025-08959-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08959-3/MediaObjects/41586_2025_8959_Fig1_HTML.png"><p></p><p>The superconductivity in Bernal bilayer graphene that emerges from the spin–orbit coupling induced by proximal tungsten diselenide can be tuned by modulating the twist angle between the two materials.</p><p></p><p>Authors: Yiran ZhangGal ShavitStevan Nadj-Perge</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02909-6</guid>
+<pubDate>Tue, 06 May 2025 00:00:00 -0000</pubDate>
+<title>Fractional charges under the microscope</title>
+<author>Haojie GuoMiguel M. Ugeda</author>
+<link>https://www.nature.com/articles/s41567-025-02909-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02909-6/MediaObjects/41567_2025_2909_Fig1_HTML.png"><p></p><p>Fractionalized excitations typically require ultra-clean materials at low temperature and high magnetic field to emerge. Experiments on a simple graphene platform now reveal ideal conditions for the visualization of these fragile collective states.</p><p></p><p>Authors: Haojie GuoMiguel M. Ugeda</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02890-0</guid>
+<pubDate>Fri, 02 May 2025 00:00:00 -0000</pubDate>
+<title>Strongly interacting Meissner phases in large bosonic flux ladders</title>
+<author>Alexander ImpertroSeungJung HuhMonika Aidelsburger</author>
+<link>https://www.nature.com/articles/s41567-025-02890-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02890-0/MediaObjects/41567_2025_2890_Fig1_HTML.png"><p></p><p>The quantum simulation of driven, strongly correlated phases at large scales is challenging, primarily due to detrimental heating effects. Now, a large-scale interacting Mott–Meissner phase has been realized in a neutral atom quantum simulator.</p><p></p><p>Authors: Alexander ImpertroSeungJung HuhMonika Aidelsburger</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01397-1</guid>
+<pubDate>Fri, 02 May 2025 00:00:00 -0000</pubDate>
+<title>Trump proposes unprecedented budget cuts to US science</title>
+<author>Jeff TollefsonDan GaristoAlexandra Witze</author>
+<link>https://www.nature.com/articles/d41586-025-01397-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01397-1/d41586-025-01397-1_50941252.jpg"><p></p><p>Huge reductions, if enacted, could have ‘catastrophic’ effects on US competitiveness and the scientific pipeline, critics say.</p><p></p><p>Authors: Jeff TollefsonDan GaristoAlexandra Witze</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02880-2</guid>
+<pubDate>Thu, 01 May 2025 00:00:00 -0000</pubDate>
+<title>Collective quench dynamics of active photonic lattices in synthetic dimensions</title>
+<author>Alexander DikopoltsevIna HeckelmannJérôme Faist</author>
+<link>https://www.nature.com/articles/s41567-025-02880-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02880-2/MediaObjects/41567_2025_2880_Fig1_HTML.png"><p></p><p>Synthetic dimensions allow photons and gauge fields to interact in photonic emulators. Now a study with fast-gain lasers shows that gain-driven coherence enables robust light flow in frequency space, establishing it as a viable platform for lattice emulation.</p><p></p><p>Authors: Alexander DikopoltsevIna HeckelmannJérôme Faist</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01665-6</guid>
+<pubDate>Mon, 28 Apr 2025 00:00:00 -0000</pubDate>
+<title>Ultracompact multibound-state-assisted flat-band lasers</title>
+<author>Jieyuan CuiSong HanQi Jie Wang</author>
+<link>https://www.nature.com/articles/s41566-025-01665-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01665-6/MediaObjects/41566_2025_1665_Fig1_HTML.png"><p></p><p>A laser design that exploits multiple bound states on a flat band to tightly confine light in three dimensions yields an ultracompact terahertz quantum cascade laser cavity with a lateral size of ~3λ.</p><p></p><p>Authors: Jieyuan CuiSong HanQi Jie Wang</p><p></p><p>Journal: Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01173-1</guid>
+<pubDate>Wed, 23 Apr 2025 00:00:00 -0000</pubDate>
+<title>Quantum communication across a 250-kilometre optical-fibre network</title>
+<author>N/A</author>
+<link>https://www.nature.com/articles/d41586-025-01173-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01173-1/d41586-025-01173-1_50877674.png"><p></p><p>Quantum communication over long distances can be achieved by exploiting a property of light called coherence. The coherence-based exchange of a ‘quantum encryption key’ over an optical telecommunications network demonstrates the feasibility of implementing a large-scale quantum network in existing telecommunications infrastructure.</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08801-w</guid>
+<pubDate>Wed, 23 Apr 2025 00:00:00 -0000</pubDate>
+<title>Long-distance coherent quantum communications in deployed telecom networks</title>
+<author>Mirko PittalugaYuen San LoAndrew J. Shields</author>
+<link>https://www.nature.com/articles/s41586-025-08801-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08801-w/MediaObjects/41586_2025_8801_Fig1_HTML.png"><p></p><p>A twin-field quantum key distribution protocol based on optical coherence is deployed over a 254-kilometre commercial telecom network, demonstrating that coherence-based quantum communication can be aligned with existing telecommunication infrastructure.</p><p></p><p>Authors: Mirko PittalugaYuen San LoAndrew J. Shields</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02819-7</guid>
+<pubDate>Wed, 23 Apr 2025 00:00:00 -0000</pubDate>
+<title>Control of spin currents by magnon interference in a canted antiferromagnet</title>
+<author>Lutong ShengAnna DuvakinaHaiming Yu</author>
+<link>https://www.nature.com/articles/s41567-025-02819-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02819-7/MediaObjects/41567_2025_2819_Fig1_HTML.png"><p></p><p>Controlling the propagation of spin currents with opposite polarities in antiferromagnets has remained challenging. Now the frequency of coherently excited spin waves in a haematite-based device is shown to control the sign of the spin current.</p><p></p><p>Authors: Lutong ShengAnna DuvakinaHaiming Yu</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02884-y</guid>
+<pubDate>Tue, 22 Apr 2025 00:00:00 -0000</pubDate>
+<title>Scalable microwave-to-optical transducers at the single-photon level with spins</title>
+<author>Tian XieRikuto FukumoriAndrei Faraon</author>
+<link>https://www.nature.com/articles/s41567-025-02884-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02884-y/MediaObjects/41567_2025_2884_Fig1_HTML.png"><p></p><p>Converting photons from one frequency range to another uses nonlinear effects that are often weak. Strong nonlinearities in rare-earth-ion-doped crystals have now been used to perform microwave-to-optical transduction at the single-photon level.</p><p></p><p>Authors: Tian XieRikuto FukumoriAndrei Faraon</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01142-8</guid>
+<pubDate>Wed, 16 Apr 2025 00:00:00 -0000</pubDate>
+<title>Don’t believe the hype — quantum tech can’t yet solve real-world problems</title>
+<author>Joan Arrow</author>
+<link>https://www.nature.com/articles/d41586-025-01142-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01142-8/d41586-025-01142-8_50663392.jpg"><p></p><p>Investors and the public should know what quantum devices can and, more importantly, can’t do.</p><p></p><p>Authors: Joan Arrow</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08860-z</guid>
+<pubDate>Wed, 16 Apr 2025 00:00:00 -0000</pubDate>
+<title>Antiferromagnetic quantum anomalous Hall effect under spin flips and flops</title>
+<author>Zichen LianYongchao WangYayu Wang</author>
+<link>https://www.nature.com/articles/s41586-025-08860-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08860-z/MediaObjects/41586_2025_8860_Fig1_HTML.png"><p></p><p>A new device based on 7-septuple-layer MnBi2Te4 covered with an AlOx capping layer enables the investigation of antiferromagnetic quantum anomalous Hall effect over wide parameter spaces.</p><p></p><p>Authors: Zichen LianYongchao WangYayu Wang</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08862-x</guid>
+<pubDate>Wed, 16 Apr 2025 00:00:00 -0000</pubDate>
+<title>Observation of the axion quasiparticle in 2D MnBi2Te4</title>
+<author>Jian-Xiang QiuBarun GhoshSu-Yang Xu</author>
+<link>https://www.nature.com/articles/s41586-025-08862-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08862-x/MediaObjects/41586_2025_8862_Fig1_HTML.png"><p></p><p>The dynamical axion quasiparticle, which is directly analogous to the hypothetical fundamental axion particle, is observed in two-dimensional MnBi2Te4, and has implications for quantum chromodynamics, cosmology and string theory.</p><p></p><p>Authors: Jian-Xiang QiuBarun GhoshSu-Yang Xu</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02866-0</guid>
+<pubDate>Tue, 15 Apr 2025 00:00:00 -0000</pubDate>
+<title>Hamiltonian engineering of collective XYZ spin models in an optical cavity</title>
+<author>Chengyi LuoHaoqing ZhangJames K. Thompson</author>
+<link>https://www.nature.com/articles/s41567-025-02866-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02866-0/MediaObjects/41567_2025_2866_Fig1_HTML.png"><p></p><p>Spin models that can be emulated by quantum simulators are usually restricted to systems with conserved total magnetization. The tuning of photon-mediated interactions between atoms in a cavity enables the implementation of more general models also useful for quantum sensing tasks.</p><p></p><p>Authors: Chengyi LuoHaoqing ZhangJames K. Thompson</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01663-8</guid>
+<pubDate>Tue, 15 Apr 2025 00:00:00 -0000</pubDate>
+<title>A terahertz-bandwidth non-magnetic isolator</title>
+<author>Haotian ChengYishu ZhouPeter T. Rakich</author>
+<link>https://www.nature.com/articles/s41566-025-01663-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01663-8/MediaObjects/41566_2025_1663_Fig1_HTML.png"><p></p><p>Researchers demonstrated integrated non-magnetic isolators with 24.5-dB contrast, –2.16-dB insertion loss and 2-THz (16-nm) optical bandwidth.</p><p></p><p>Authors: Haotian ChengYishu ZhouPeter T. Rakich</p><p></p><p>Journal: Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02870-4</guid>
+<pubDate>Tue, 15 Apr 2025 00:00:00 -0000</pubDate>
+<title>Impact of impurities on crystal growth</title>
+<author>Qiong GaoHuang FangPeng Tan</author>
+<link>https://www.nature.com/articles/s41567-025-02870-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02870-4/MediaObjects/41567_2025_2870_Fig1_HTML.png"><p></p><p>Crystallization processes are influenced by the presence of impurities. Colloid experiments now reveal two distinct types of growth mode that depend on the extent to which a crystallizing system can remove impurity particles from its growth front.</p><p></p><p>Authors: Qiong GaoHuang FangPeng Tan</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02858-0</guid>
+<pubDate>Mon, 14 Apr 2025 00:00:00 -0000</pubDate>
+<title>Observation of antiferromagnetic order in a quasicrystal</title>
+<author>R. TamuraT. AbeT. J. Sato</author>
+<link>https://www.nature.com/articles/s41567-025-02858-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02858-0/MediaObjects/41567_2025_2858_Fig1_HTML.png"><p></p><p>Quasicrystals lack translational symmetry but display rotational order. Whether antiferromagnetic order can exist in quasicrystals has been unclear. Now, long-range antiferromagnetic order is shown in the icosahedral quasicrystal Au56In28.5Eu15.5.</p><p></p><p>Authors: R. TamuraT. AbeT. J. Sato</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01146-4</guid>
+<pubDate>Mon, 14 Apr 2025 00:00:00 -0000</pubDate>
+<title>How the United States became a science superpower — and how quickly it could crumble</title>
+<author>Steve Blank</author>
+<link>https://www.nature.com/articles/d41586-025-01146-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01146-4/d41586-025-01146-4_50846732.jpg"><p></p><p>US global dominance in science was no accident, but a product of a far-seeing partnership between public and private sectors to boost innovation and economic growth.</p><p></p><p>Authors: Steve Blank</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02854-4</guid>
+<pubDate>Fri, 11 Apr 2025 00:00:00 -0000</pubDate>
+<title>Continuous recoil-driven lasing and cavity frequency pinning with laser-cooled atoms</title>
+<author>Vera M. SchäferZhijing NiuJames K. Thompson</author>
+<link>https://www.nature.com/articles/s41567-025-02854-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02854-4/MediaObjects/41567_2025_2854_Fig1_HTML.png"><p></p><p>Experiments with cold atoms in optical cavities are often limited to discontinuous operation due to reloading requirements. Now, continuous lasing is demonstrated with strontium atoms in a ring cavity, stabilized by atom loss mechanisms.</p><p></p><p>Authors: Vera M. SchäferZhijing NiuJames K. Thompson</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01213-w</guid>
+<pubDate>Fri, 11 Apr 2025 00:00:00 -0000</pubDate>
+<title>Daily briefing: Mysterious Taiwan fossil is Denisovan</title>
+<author>Flora Graham</author>
+<link>https://www.nature.com/articles/d41586-025-01213-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01213-w/d41586-025-01213-w_17300602.png"><p></p><p>A fossilized jawbone discovered more than 20 years ago belonged to a Denisovan. Plus, the states hit hardest by NIH cuts in charts and an acoustics lab inside an abandoned nuclear plant.</p><p></p><p>Authors: Flora Graham</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01094-z</guid>
+<pubDate>Thu, 10 Apr 2025 00:00:00 -0000</pubDate>
+<title>‘Mind blowing’: quantum computer untangles the mathematics of knots</title>
+<author>Davide Castelvecchi</author>
+<link>https://www.nature.com/articles/d41586-025-01094-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01094-z/d41586-025-01094-z_50846476.jpg"><p></p><p>Algorithms for studying knots and other topological objects could have a quantum advantage.</p><p></p><p>Authors: Davide Castelvecchi</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02855-3</guid>
+<pubDate>Tue, 08 Apr 2025 00:00:00 -0000</pubDate>
+<title>Concurrent spin squeezing and field tracking with machine learning</title>
+<author>Junlei DuanZhiwei HuYanhong Xiao</author>
+<link>https://www.nature.com/articles/s41567-025-02855-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02855-3/MediaObjects/41567_2025_2855_Fig1_HTML.png"><p></p><p>Simultaneous spin squeezing and the detection of dynamic fields is challenging as entanglement generation and signal interrogation often interfere. An experiment now demonstrates stable spin squeezing and field tracking in a hot atomic ensemble.</p><p></p><p>Authors: Junlei DuanZhiwei HuYanhong Xiao</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02881-1</guid>
+<pubDate>Tue, 08 Apr 2025 00:00:00 -0000</pubDate>
+<title>Resourceful dissipation</title>
+<author>Yann Kiefer</author>
+<link>https://www.nature.com/articles/s41567-025-02881-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02881-1/MediaObjects/41567_2025_2881_Fig1_HTML.png"><p></p><p>Controlled dissipation enables the extraction of equilibrium properties of ultracold one-dimensional gases through the observation of anomalous dynamics.</p><p></p><p>Authors: Yann Kiefer</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02799-8</guid>
+<pubDate>Mon, 07 Apr 2025 00:00:00 -0000</pubDate>
+<title>The strongly driven Fermi polaron</title>
+<author>Franklin J. VivancoAlexander SchuckertNir Navon</author>
+<link>https://www.nature.com/articles/s41567-025-02799-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02799-8/MediaObjects/41567_2025_2799_Fig1_HTML.png"><p></p><p>Fermi polarons are quasiparticles formed by impurities immersed in a Fermi gas. An experiment in an ultracold fermionic gas now shows how to control their properties with a tunable radio-frequency field.</p><p></p><p>Authors: Franklin J. VivancoAlexander SchuckertNir Navon</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01653-w</guid>
+<pubDate>Fri, 04 Apr 2025 00:00:00 -0000</pubDate>
+<title>Space-time-topological events in photonic quantum walks</title>
+<author>Joshua FeisSebastian WeidemannAlexander Szameit</author>
+<link>https://www.nature.com/articles/s41566-025-01653-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01653-w/MediaObjects/41566_2025_1653_Fig1_HTML.png"><p></p><p>Combining space topology and time topology, topological states that are localized simultaneously in space and time are theoretically and experimentally demonstrated, potentially enabling the space-time topological shaping of light waves with applications in spatiotemporal wave control for imaging, communications and topological lasers.</p><p></p><p>Authors: Joshua FeisSebastian WeidemannAlexander Szameit</p><p></p><p>Journal: Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02831-x</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 -0000</pubDate>
+<title>Hybrid entanglement and bit-flip error correction in a scalable quantum network node</title>
+<author>Xiu-Ying ChangPan-Yu HouLu-Ming Duan</author>
+<link>https://www.nature.com/articles/s41567-025-02831-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02831-x/MediaObjects/41567_2025_2831_Fig1_HTML.png"><p></p><p>Nodes in a quantum network must be able to interface with photonic qubits as well as perform local quantum computations. The quantum node device presented here is capable of storing quantum information and correcting bit-flip errors.</p><p></p><p>Authors: Xiu-Ying ChangPan-Yu HouLu-Ming Duan</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01656-7</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 -0000</pubDate>
+<title>Exploiting 2D materials</title>
+<author>Rachel Won</author>
+<link>https://www.nature.com/articles/s41566-025-01656-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01656-7/MediaObjects/41566_2025_1656_Figa_HTML.png"><p></p><p>Two-dimensional materials have revolutionized the field of photonics by enabling the manipulation of light at the nanoscale. As their potential continues to grow, we can expect to see more innovative applications emerging in the future.</p><p></p><p>Authors: Rachel Won</p><p></p><p>Journal: Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01652-x</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 -0000</pubDate>
+<title>Intertwining with Fourier optics</title>
+<author>José Azaña</author>
+<link>https://www.nature.com/articles/s41566-025-01652-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01652-x/MediaObjects/41566_2025_1652_Fig1_HTML.png"><p></p><p>An angular Fourier optics framework has been established and demonstrated, unlocking unprecedented opportunities for the analysis and manipulation of light waves carrying orbital angular momentum.</p><p></p><p>Authors: José Azaña</p><p></p><p>Journal: Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02812-0</guid>
+<pubDate>Wed, 02 Apr 2025 00:00:00 -0000</pubDate>
+<title>Coherent control of a superconducting qubit using light</title>
+<author>Hana K. WarnerJeffrey HolzgrafeMarko Lončar</author>
+<link>https://www.nature.com/articles/s41567-025-02812-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02812-0/MediaObjects/41567_2025_2812_Fig1_HTML.png"><p></p><p>Superconducting qubits operate at microwave frequencies, but it is much more efficient to transmit information optically. Now, a superconducting qubit has been controlled with an optical signal by using a microwave–optical quantum transducer.</p><p></p><p>Authors: Hana K. WarnerJeffrey HolzgrafeMarko Lončar</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08761-1</guid>
+<pubDate>Wed, 02 Apr 2025 00:00:00 -0000</pubDate>
+<title>Near-field photon entanglement in total angular momentum</title>
+<author>Amit KamShai TsessesGuy Bartal</author>
+<link>https://www.nature.com/articles/s41586-025-08761-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08761-1/MediaObjects/41586_2025_8761_Fig1_HTML.png"><p></p><p>Non-classical correlations between two photons in the near-field regime give rise to entanglement in their total angular momentum, leading to a completely different structure of quantum correlations of photon pairs.</p><p></p><p>Authors: Amit KamShai TsessesGuy Bartal</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02821-z</guid>
+<pubDate>Fri, 28 Mar 2025 00:00:00 -0000</pubDate>
+<title>A qudit quantum computer for simulation of two-dimensional quantum electrodynamics</title>
+<author>N/A</author>
+<link>https://www.nature.com/articles/s41567-025-02821-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02821-z/MediaObjects/41567_2025_2821_Fig1_HTML.png"><p></p><p>Quantum electrodynamics (QED) is a cornerstone of the standard model of particle physics. A decade-long effort to simulate QED on a two-dimensional lattice has now succeeded — through the use of a trapped-ion quantum computer based on multidimensional ‘qudits’, which are uniquely suited to the challenge.</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08737-1</guid>
+<pubDate>Wed, 26 Mar 2025 00:00:00 -0000</pubDate>
+<title>Certified randomness using a trapped-ion quantum processor</title>
+<author>Minzhao LiuRuslan ShaydulinMarco Pistoia</author>
+<link>https://www.nature.com/articles/s41586-025-08737-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08737-1/MediaObjects/41586_2025_8737_Fig1_HTML.png"><p></p><p>Certifiably random bits can be generated using the 56-qubit Quantinuum H2-1 trapped-ion quantum computer accessed over the Internet.</p><p></p><p>Authors: Minzhao LiuRuslan ShaydulinMarco Pistoia</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02836-6</guid>
+<pubDate>Wed, 26 Mar 2025 00:00:00 -0000</pubDate>
+<title>The limits of quantum correlations</title>
+<author>Thinh P. Le</author>
+<link>https://www.nature.com/articles/s41567-025-02836-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02836-6/MediaObjects/41567_2025_2836_Fig1_HTML.png"><p></p><p>Measurements on quantum particles produce random outcomes whose correlations can sometimes never be explained by classical physics. The complete set of possible quantum correlations for two particles under two measurements has now been identified.</p><p></p><p>Authors: Thinh P. Le</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-00974-8</guid>
+<pubDate>Wed, 26 Mar 2025 00:00:00 -0000</pubDate>
+<title>Daily briefing: Why RNA hasn’t yet had its ‘AlphaFold’ moment</title>
+<author>Flora Graham</author>
+<link>https://www.nature.com/articles/d41586-025-00974-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-00974-8/d41586-025-00974-8_17300602.png"><p></p><p>Protein-structure-prediction tools have transformed biology, but RNA is a tougher nut to crack. Plus, the NIH is cancelling COVID-19 research funds and how ‘qudits’ can boost quantum computing.</p><p></p><p>Authors: Flora Graham</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02782-3</guid>
+<pubDate>Wed, 26 Mar 2025 00:00:00 -0000</pubDate>
+<title>Quantum statistics in the minimal Bell scenario</title>
+<author>Victor BarizienJean-Daniel Bancal</author>
+<link>https://www.nature.com/articles/s41567-025-02782-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02782-3/MediaObjects/41567_2025_2782_Fig1_HTML.png"><p></p><p>A complete theoretical understanding of many simple problems in quantum physics is still lacking, especially when entanglement is involved. Now the full set of possible observations has been established for a minimal scenario of shared entanglement.</p><p></p><p>Authors: Victor BarizienJean-Daniel Bancal</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-00949-9</guid>
+<pubDate>Wed, 26 Mar 2025 00:00:00 -0000</pubDate>
+<title>Mathematician who reshaped theory of symmetry wins Abel Prize</title>
+<author>Davide Castelvecchi</author>
+<link>https://www.nature.com/articles/d41586-025-00949-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-00949-9/d41586-025-00949-9_50788538.jpg"><p></p><p>Masaki Kashiwara is the first Japanese person to be awarded the most prestigious prize in mathematics.</p><p></p><p>Authors: Davide Castelvecchi</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08778-6</guid>
+<pubDate>Wed, 26 Mar 2025 00:00:00 -0000</pubDate>
+<title>Macrophages harness hepatocyte glutamate to boost liver regeneration</title>
+<author>María del Mar RigualMariana Angulo-AguadoNabil Djouder</author>
+<link>https://www.nature.com/articles/s41586-025-08778-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08778-6/MediaObjects/41586_2025_8778_Fig1_HTML.png"><p></p><p>Glutamate metabolically reprograms bone-marrow-derived macrophages, stabilizing HIF1α, which transcriptionally activates WNT3 to promote YAP1-dependent hepatocyte proliferation, boosting liver regeneration.</p><p></p><p>Authors: María del Mar RigualMariana Angulo-AguadoNabil Djouder</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02797-w</guid>
+<pubDate>Tue, 25 Mar 2025 00:00:00 -0000</pubDate>
+<title>Simulating two-dimensional lattice gauge theories on a qudit quantum computer</title>
+<author>Michael MethJinglei ZhangMartin Ringbauer</author>
+<link>https://www.nature.com/articles/s41567-025-02797-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02797-w/MediaObjects/41567_2025_2797_Fig1_HTML.png"><p></p><p>Qubit-based simulations of gauge theories are challenging as gauge fields require high-dimensional encoding. Now a quantum electrodynamics model has been demonstrated using trapped-ion qudits, which encode information in multiple states of ions.</p><p></p><p>Authors: Michael MethJinglei ZhangMartin Ringbauer</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-00939-x</guid>
+<pubDate>Tue, 25 Mar 2025 00:00:00 -0000</pubDate>
+<title>Meet ‘qudits’: more complex cousins of qubits boost quantum computing</title>
+<author>Davide Castelvecchi</author>
+<link>https://www.nature.com/articles/d41586-025-00939-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-00939-x/d41586-025-00939-x_50787934.jpg"><p></p><p>Working with multi-dimensional entities could make calculations more efficient and reduce errors.</p><p></p><p>Authors: Davide Castelvecchi</p><p></p><p>Journal: Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02811-1</guid>
+<pubDate>Fri, 21 Mar 2025 00:00:00 -0000</pubDate>
+<title>Deterministic remote entanglement using a chiral quantum interconnect</title>
+<author>Aziza AlmanaklyBeatriz YankelevichWilliam D. Oliver</author>
+<link>https://www.nature.com/articles/s41567-025-02811-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02811-1/MediaObjects/41567_2025_2811_Fig1_HTML.png"><p></p><p>Large quantum computers are likely to require methods of connecting devices by transmitting and absorbing photons. Entanglement between two superconducting qubit devices has now been established using a waveguide with tunable directionality.</p><p></p><p>Authors: Aziza AlmanaklyBeatriz YankelevichWilliam D. Oliver</p><p></p><p>Journal: Nature Physics</p><p></p>]]></content:encoded>
+</item>
+</channel>
+</rss>
