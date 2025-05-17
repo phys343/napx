@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>quantum rss</title>
+<link>https://journals.aps.org/prl/recent?toc_section%5B%5D=quantum-information-science-and-technology</link>
+<description>rss/rss-prl.xml</description>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190203</guid>
+<pubDate>Fri, 16 May 2025 00:00:00 -0000</pubDate>
+<title>Self-Testing Composite Measurements and Bound Entangled State in a Single Quantum Network</title>
+<author>Shubhayan Sarkar, Chandan Datta, Saronath Halder, and Remigiusz Augusiak</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190203</link>
+<content:encoded><![CDATA[<p>Within the quantum networks scenario we introduce a single scheme allowing one to certify three different types of composite projective measurements acting on a three-qubit Hilbert space: one constructed from genuinely entangled GHZ-like states, one constructed from fully product vectors that exhibit the phenomenon of nonlocality without entanglement, and a hybrid measurement obtained from an unextendible product basis. Noticeably, we certify a basis exhibiting nonlocality without entanglement in the smallest dimension capable of supporting this phenomenon. On the other hand, the possibility of certification of a measurement obtained from an unextendible product basis has an interesting implication that one can also self-test a bound entangled state in the considered quantum network. Such a possibility does not seem to exist in the standard Bell scenario. Furthermore, we also analyze the robustness of our scheme toward experimental errors.</p><p></p><p>Shubhayan Sarkar, Chandan Datta, Saronath Halder, and Remigiusz Augusiak</p><p></p><p>Phys. Rev. Lett. 134, 190203 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190202</guid>
+<pubDate>Thu, 15 May 2025 00:00:00 -0000</pubDate>
+<title>Computable and Faithful Lower Bound on Entanglement Cost</title>
+<author>Xin Wang, Mingrui Jing, and Chengkai Zhu</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190202</link>
+<content:encoded><![CDATA[<p>Quantifying the minimum entanglement needed to prepare quantum states and implement quantum processes is a key challenge in quantum information theory. In this Letter, we develop computable and faithful lower bounds on the entanglement cost under quantum operations that completely preserve the positivity of partial transpose (PPT operations), by introducing the generalized divergence of -negativity, a generalization of logarithmic negativity. Our bounds are efficiently computable via semidefinite programming and provide nontrivial values for all states that are non-PPT (NPT), establishing their faithfulness for the resource theory of NPT entanglement. Notably, we find and affirm the irreversibility of asymptotic entanglement manipulation under PPT operations for full-rank entangled states. Furthermore, we extend our methodology to derive lower bounds on the entanglement cost of both point-to-point and bipartite quantum channels. Our bound demonstrates improvements over previously known computable bounds for a wide range of quantum states and channels. These findings push the boundaries of understanding the structure of entanglement and the fundamental limits of entanglement manipulation.</p><p></p><p>Xin Wang, Mingrui Jing, and Chengkai Zhu</p><p></p><p>Phys. Rev. Lett. 134, 190202 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190403</guid>
+<pubDate>Thu, 15 May 2025 00:00:00 -0000</pubDate>
+<title>Dissecting Quantum Many-Body Chaos in the Krylov Space</title>
+<author>Liangyu Chen, Baoyuan Mu, Huajia Wang, and Pengfei Zhang</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190403</link>
+<content:encoded><![CDATA[<p>The growth of simple operators is essential for the emergence of chaotic dynamics and quantum thermalization. Recent studies have proposed different measures, including the out-of-time-order correlator and Krylov complexity. It is established that the out-of-time-order correlator serves as the signature of quantum many-body chaos, while the Krylov complexity provides its upper bound. However, there exist nonchaotic systems in which Krylov complexity grows exponentially, indicating that the Krylov complexity itself is not a witness of many-body chaos. In this Letter, we introduce the missing ingredient called the Krylov metric , which probes the size of the Krylov basis. We propose that the universal criteria for fast scramblers include (i) the exponential growth of Krylov complexity, (ii) the diagonal elements  with , and (iii) the negligibility of off-diagonal elements  with . We further show that  is a ratio between the quantum Lyapunov exponent  and the Krylov exponent . This proposal is supported by both generic arguments and explicit examples, including solvable Sachdev-Ye-Kitaev models, Luttinger liquids, and many-body localized systems. Our results provide a refined understanding of how chaotic dynamics emerge from the Krylov space perspective.</p><p></p><p>Liangyu Chen, Baoyuan Mu, Huajia Wang, and Pengfei Zhang</p><p></p><p>Phys. Rev. Lett. 134, 190403 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190404</guid>
+<pubDate>Thu, 15 May 2025 00:00:00 -0000</pubDate>
+<title>Provably Efficient Simulation of 1D Long-Range Interacting Systems at Any Temperature</title>
+<author>Rakesh Achutha, Donghoon Kim, Yusuke Kimura, and Tomotaka Kuwahara</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190404</link>
+<content:encoded><![CDATA[<p>We introduce a method that ensures efficient computation of one-dimensional quantum systems with long-range interactions across all temperatures. Our algorithm operates within a quasipolynomial run-time for inverse temperatures up to . At the core of our approach is the density matrix renormalization group algorithm, which typically does not guarantee efficiency. We have created a new truncation scheme for the matrix product operator of the quantum Gibbs states, which allows us to control the error analytically. Additionally, our method can be applied to simulate the time evolution of systems with long-range interactions, achieving significantly better precision than that offered by the Lieb-Robinson bound.</p><p></p><p>Rakesh Achutha, Donghoon Kim, Yusuke Kimura, and Tomotaka Kuwahara</p><p></p><p>Phys. Rev. Lett. 134, 190404 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190602</guid>
+<pubDate>Thu, 15 May 2025 00:00:00 -0000</pubDate>
+<title>Stabilizer Tensor Networks with Magic State Injection</title>
+<author>Azar C. Nakhl, Ben Harper, Maxwell West, Neil Dowling, Martin Sevior, Thomas Quella, and Muhammad Usman</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190602</link>
+<content:encoded><![CDATA[<p>This Letter augments the recently introduced stabilizer tensor network (STN) protocol with magic state injection, reporting a new framework with significantly enhanced ability to simulate circuits with an extensive number of non-Clifford operations. Specifically, for random -doped -qubit Clifford circuits the computational cost of circuits prepared with magic state injection scales as  when the circuit has   gates compared to an exponential scaling for the STN approach, which is demonstrated in systems of up to 200 qubits. In the case of the hidden bit shift circuit, a paradigmatic benchmarking system for extended stabilizer methods with a tunable amount of magic, we report that our magic state injected STN framework can efficiently simulate 4000 qubits and  gates. These findings provide a promising outlook for the use of this protocol in the classical modeling of quantum circuits that are conventionally difficult to simulate efficiently.</p><p></p><p>Azar C. Nakhl, Ben Harper, Maxwell West, Neil Dowling, Martin Sevior, Thomas Quella, and Muhammad Usman</p><p></p><p>Phys. Rev. Lett. 134, 190602 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190603</guid>
+<pubDate>Thu, 15 May 2025 00:00:00 -0000</pubDate>
+<title>Exact Decoding of Quantum Error-Correcting Codes</title>
+<author>Hanyan Cao, Shoukuan Zhao, Dongyang Feng, Zisong Shen, Haisheng Yan, Tang Su, Weijie Sun, Huikai Xu, Feng Pan, Haifeng Yu, and Pan Zhang</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190603</link>
+<content:encoded><![CDATA[<img src="https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.134.190603.png"><p></p><p>We study the exact maximum-likelihood decoding of quantum error-correcting codes. Our primary focus is on the repetition code under circuit-level noise, which serves as a fundamental basis for quantum error correction experiments and is the only code that has achieved large distances and extremely low error rates. We uncover that the repetition code under circuit-level noise has an exact solution and propose an optimal maximum-likelihood decoding algorithm called “planar.” This algorithm is based on the exact solution of the spin-glass partition function on planar graphs and has polynomial computational complexity. Through extensive numerical experiments, we demonstrate that our algorithm uncovers the exact threshold for depolarizing noise and realistic superconductor SI1000 noise. Furthermore, we apply our method to analyze data from recent quantum memory experiments conducted by Google Quantum AI, revealing that part of the error floor was attributed to the decoding algorithm used by Google. Finally, we implemented the repetition code quantum memory on superconducting systems using a 72-qubit quantum chip lacking reset gates, demonstrating that even with an unknown error model, the proposed algorithm achieves a significantly lower logical error rate than the matching-based algorithm. We also discuss the application of our approach to quantum codes whose maximum-likelihood decoding problem corresponds to a spin-glass problem, including the surface code under independent code-capacity noise.</p><p></p><p>Hanyan Cao, Shoukuan Zhao, Dongyang Feng, Zisong Shen, Haisheng Yan, Tang Su, Weijie Sun, Huikai Xu, Feng Pan, Haifeng Yu, and Pan Zhang</p><p></p><p>Phys. Rev. Lett. 134, 190603 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190804</guid>
+<pubDate>Thu, 15 May 2025 00:00:00 -0000</pubDate>
+<title>Quantum-Enhanced Beam Tracking Surpassing the Heisenberg Uncertainty Limit</title>
+<author>Yingwen Zhang, Duncan England, Noah Lupu-Gladstein, Frédéric Bouchard, Guillaume Thekkadath, Philip J. Bustard, Ebrahim Karimi, and Benjamin Sussman</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190804</link>
+<content:encoded><![CDATA[<p>Determining a beam’s full trajectory requires tracking both its position and momentum (angular) information. However, the product of position and momentum uncertainty in a simultaneous measurement of the two parameters is bound by the Heisenberg uncertainty limit (HUL). In this work, we present a proof-of-principle demonstration of a quantum-enhanced beam tracking technique, leveraging the inherent position and momentum entanglement between photons produced via spontaneous parametric down-conversion (SPDC). We show that quantum entanglement can be exploited to achieve a beam tracking accuracy beyond the HUL in a simultaneous measurement. Moreover, with existing detection technologies, it is already possible to achieve near real-time beam tracking capabilities at the single-photon level. The technique also exhibits high resilience to background influences, with negligible reduction in tracking accuracy even when subjected to a disruptive beam that is significantly brighter than SPDC.</p><p></p><p>Yingwen Zhang, Duncan England, Noah Lupu-Gladstein, Frédéric Bouchard, Guillaume Thekkadath, Philip J. Bustard, Ebrahim Karimi, and Benjamin Sussman</p><p></p><p>Phys. Rev. Lett. 134, 190804 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190601</guid>
+<pubDate>Wed, 14 May 2025 00:00:00 -0000</pubDate>
+<title>Universal Quantum Computer from Relativistic Motion</title>
+<author>Philip A. LeMaitre, T. Rick Perche, Marius Krumm, and Hans J. Briegel</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190601</link>
+<content:encoded><![CDATA[<p>We present an explicit construction of a relativistic quantum computing architecture using a variational quantum circuit approach that is shown to allow for universal quantum computing. The variational quantum circuit consists of tunable single-qubit rotations and entangling gates that are implemented successively. The single-qubit rotations are parameterized by the proper time intervals of the qubits’ trajectories and can be tuned by varying their relativistic motion in spacetime. The entangling layer is mediated by a relativistic quantum field instead of through direct coupling between the qubits. Within this setting, we give a prescription for how to use quantum field-mediated entanglement and manipulation of the relativistic motion of qubits to obtain a universal gate set, for which compact nonperturbative expressions that are valid for general spacetimes are also obtained. We also derive a lower bound on the channel fidelity that shows the existence of parameter regimes in which all entangling operations are effectively unitary, despite the noise generated from the presence of a mediating quantum field. Finally, we consider an explicit implementation of the quantum Fourier transform with relativistic qubits.</p><p></p><p>Philip A. LeMaitre, T. Rick Perche, Marius Krumm, and Hans J. Briegel</p><p></p><p>Phys. Rev. Lett. 134, 190601 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190401</guid>
+<pubDate>Tue, 13 May 2025 00:00:00 -0000</pubDate>
+<title>Universal Characterization of Quantum Many-Body States through Local Information</title>
+<author>Claudia Artiaco, Thomas Klein Kvorning, David Aceituno Chávez, Loïc Herviou, and Jens H. Bardarson</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190401</link>
+<content:encoded><![CDATA[<p>We propose a universal framework for classifying quantum states based on their scale-resolved correlation structure. Using the recently introduced information lattice, which provides an operational definition of the total amount of correlations at each scale, we define intrinsic characteristic length scales of quantum states. We analyze ground and midspectrum eigenstates of the disordered interacting Kitaev chain, showing that our framework provides a novel unbiased approach to quantum matter.</p><p></p><p>Claudia Artiaco, Thomas Klein Kvorning, David Aceituno Chávez, Loïc Herviou, and Jens H. Bardarson</p><p></p><p>Phys. Rev. Lett. 134, 190401 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190402</guid>
+<pubDate>Tue, 13 May 2025 00:00:00 -0000</pubDate>
+<title>How Pure Can We Go with Adiabatic State Manipulation?</title>
+<author>Raul A. Santos, Alex Kamenev, and Yuval Gefen</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190402</link>
+<content:encoded><![CDATA[<p>Dissipative systems with decoherence-free subspaces, also known as dark spaces (DSs), can be used to protect quantum information. At the same time, dissipation is expected to give rise to coherent information degradation outside the DS. Employed to support quantum information platforms, DSs can be adiabatically modified in a way that resembles adiabatic control of coherent systems. Here we study the slow evolution of a purely dissipative system with a spectral gap , characterized by a strong symmetry, under a cyclic protocol with period . Nonadiabatic corrections to the state evolution give rise to decoherence: the evolution within the instantaneous DS is described by a time-local effective Liouvillian operator that leads to purity degradation over a period, of order . We obtain a closed form of the latter to order . Our analysis underlines fundamental limitations of coherent quantum information processing in the absence of corrective measures.</p><p></p><p>Raul A. Santos, Alex Kamenev, and Yuval Gefen</p><p></p><p>Phys. Rev. Lett. 134, 190402 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190802</guid>
+<pubDate>Tue, 13 May 2025 00:00:00 -0000</pubDate>
+<title>Super-Heisenberg Scaling in a Triple-Point Criticality</title>
+<author>Jia-Ming Cheng, Yong-Chang Zhang, Xiang-Fa Zhou, and Zheng-Wei Zhou</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190802</link>
+<content:encoded><![CDATA[<p>We investigate quantum-enhanced metrology in a triple point criticality and discover that quantum criticality does not always enhance measurement precision. We have developed suitable adiabatic evolution protocols to effectively restrain excitations, which could accelerate the adiabatic evolutions and lead to an exponential super-Heisenberg scaling. This scaling behavior is quite valuable in practical parameter estimating experiments with limited coherence time. Dissipation can strengthen the super-Heisenberg scaling until decoherence increases to dominate in the dissipative dynamics. Additionally, measurement precisions beyond Heisenberg scaling can be experimentally achieved in the trapped ion system. Our findings strongly indicate that criticality-enhanced metrology can indeed significantly enhance measurement precisions to a super-Heisenberg scaling when combining a triple point and beneficial parameter modulations, which will be conducive to the exploration of other super-Heisenberg scaling and their applications.</p><p></p><p>Jia-Ming Cheng, Yong-Chang Zhang, Xiang-Fa Zhou, and Zheng-Wei Zhou</p><p></p><p>Phys. Rev. Lett. 134, 190802 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190803</guid>
+<pubDate>Tue, 13 May 2025 00:00:00 -0000</pubDate>
+<title>No-Go Theorems for Universal Entanglement Purification</title>
+<author>Allen Zang, Xinan Chen, Eric Chitambar, Martin Suchara, and Tian Zhong</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190803</link>
+<content:encoded><![CDATA[<img src="https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.134.190803.png"><p></p><p>An entanglement purification protocol (EPP) aims to transform multiple noisy entangled states into a single entangled state with higher fidelity. In this work we consider input-independent EPPs that always yield an output fidelity no worse than each of the original noisy states, a property we call universality. We prove there is no -to-1 EPP implementable by local operations and classical communication that is universal for all two-qubit entangled states, whereas such an EPP is possible using more general positive partial transpose-preserving (PPT) operations. We also show that universality is impossible by any bilocal Clifford EPP even when restricted to states with fidelities above an arbitrarily high threshold.</p><p></p><p>Allen Zang, Xinan Chen, Eric Chitambar, Martin Suchara, and Tian Zhong</p><p></p><p>Phys. Rev. Lett. 134, 190803 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190201</guid>
+<pubDate>Mon, 12 May 2025 00:00:00 -0000</pubDate>
+<title>Tsirelson’s Inequality for the Precession Protocol Is Maximally Violated by Quantum Theory</title>
+<author>Lin Htoo Zaw, Mirjam Weilenmann, and Valerio Scarani</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190201</link>
+<content:encoded><![CDATA[<p>The precession protocol involves measuring , the probability that a uniformly precessing observable (like the position of a harmonic oscillator or a coordinate undergoing spatial rotation) is positive at one of three equally spaced times. Tsirelson’s inequality, which states that  in classical theory, is violated in quantum theory by certain states. In this Letter, we address some open questions about the inequality: What is the maximum violation of Tsirelson’s inequality possible in quantum theory? Might other theories do better? By considering the precession protocol in a theory-independent manner for systems with finitely many outcomes, we derive a general bound for the maximum possible violation. This theory-independent bound must be satisfied by any theory whose expectation values are linear functions of observables—which includes classical, quantum, and all general probabilistic theories—and depends only on the minimum positive and negative measurement outcomes. Given any such two values, we prove by construction that quantum theory always saturates this bound. Some notable examples include the angular momentum of a spin- particle and a family of observables that outperform the quantum harmonic oscillator in the precession protocol. Finally, we also relate our findings to the recently introduced notion of constrained conditional probabilities.</p><p></p><p>Lin Htoo Zaw, Mirjam Weilenmann, and Valerio Scarani</p><p></p><p>Phys. Rev. Lett. 134, 190201 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190801</guid>
+<pubDate>Mon, 12 May 2025 00:00:00 -0000</pubDate>
+<title>Generalized Quantum Repeater Graph States</title>
+<author>Bikun Li, Kenneth Goodenough, Filip Rozpędek, and Liang Jiang</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.190801</link>
+<content:encoded><![CDATA[<p>All-photonic quantum repeaters are essential for establishing long-range quantum entanglement. Within repeater nodes, reliably performing entanglement swapping is a key component of scalable quantum communication. To tackle the challenge of probabilistic Bell state measurement in linear optics, which often leads to information loss, various approaches have been proposed to ensure the loss tolerance of distributing a single ebit. We have generalized previous work regarding repeater graph states with elaborate connectivity, enabling the efficient establishment of exploitable ebits at a finite rate with high probability. We demonstrate that our new scheme significantly outperforms the previous work with much flexibility and discuss the generation overhead of such resource states. These findings offer new insights into the scalability and reliability of loss-tolerant quantum networks.</p><p></p><p>Bikun Li, Kenneth Goodenough, Filip Rozpędek, and Liang Jiang</p><p></p><p>Phys. Rev. Lett. 134, 190801 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180201</guid>
+<pubDate>Fri, 09 May 2025 00:00:00 -0000</pubDate>
+<title>Active Optical Intensity Interferometry</title>
+<author>Lu-Chuan Liu, Cheng Wu, Wei Li, Yu-Ao Chen, Xiao-Peng Shao, Frank Wilczek, Feihu Xu, Qiang Zhang, and Jian-Wei Pan</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180201</link>
+<content:encoded><![CDATA[<img src="https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.134.180201.png"><p></p><p>Long baseline diffraction-limited optical aperture synthesis technology by interferometry plays an important role in scientific study and practical application. In contrast to amplitude (phase) interferometry, intensity interferometry—which exploits the second-order coherence of thermal light—is robust against atmospheric turbulence and optical defects. However, a thermal light source typically has a broadband spectrum, a low average photon number per mode, and a wide divergence angle, forestalling extended applications. Here, we propose and demonstrate active intensity interferometry for optical synthetic aperture imaging over the kilometer range. Our scheme employs multiple phase-independent laser emitters to generate thermal illumination and utilizes a flexible computational algorithm for image reconstruction. Through outdoor experiments, we have successfully imaged millimeter-scale targets located at 1.36 km away, achieving a resolution enhancement by about 14 times over the diffraction limit of a single telescope. The application of long-baseline active intensity interferometry holds promise for advancing high-resolution optical imaging and sensing.</p><p></p><p>Lu-Chuan Liu, Cheng Wu, Wei Li, Yu-Ao Chen, Xiao-Peng Shao, Frank Wilczek, Feihu Xu, Qiang Zhang, and Jian-Wei Pan</p><p></p><p>Phys. Rev. Lett. 134, 180201 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180405</guid>
+<pubDate>Thu, 08 May 2025 00:00:00 -0000</pubDate>
+<title>Unveiling Eigenstate Thermalization for Non-Hermitian systems</title>
+<author>Sudipto Singha Roy, Soumik Bandyopadhyay, Ricardo Costa de Almeida, and Philipp Hauke</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180405</link>
+<content:encoded><![CDATA[<p>The eigenstate thermalization hypothesis (ETH) has been highly influential in explaining thermodynamic behavior of closed quantum systems. As of yet, it is unclear whether and how the ETH applies to non-Hermitian systems. Here, we introduce a framework that extends the ETH to non-Hermitian systems, within which expectation values of local operators reproduce statistical and scaling predictions known from Hermitian ETH. We illustrate the validity of the framework on non-Hermitian random-matrix and Sachdev-Ye-Kitaev models. Further, we show numerically how the static ETH predictions become imprinted onto the dynamics of local observables. Finally, we present a prescription for observing both ETH-obeying and ETH-violating regimes in an optical-lattice experiment that implements a disordered interacting Hatano-Nelson model. Our results generalize the celebrated ETH to the non-Hermitian setting, and they show how it affects the system dynamics, and how the salient signatures can be observed in present-day cold-atom experiments.</p><p></p><p>Sudipto Singha Roy, Soumik Bandyopadhyay, Ricardo Costa de Almeida, and Philipp Hauke</p><p></p><p>Phys. Rev. Lett. 134, 180405 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180404</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 -0000</pubDate>
+<title>Unitary Designs of Symmetric Local Random Circuits</title>
+<author>Yosuke Mitsuhashi, Ryotaro Suzuki, Tomohiro Soejima, and Nobuyuki Yoshioka</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180404</link>
+<content:encoded><![CDATA[<p>We have established the method of characterizing the unitary design generated by a symmetric local random circuit. Concretely, we have shown that the necessary and sufficient condition for the circuit asymptotically forming a -design is given by simple integer optimization for general symmetry and locality. By using the result, we explicitly give the maximal order of unitary design under the , U(1), and SU(2) symmetries for general locality. This work reveals the relation between the fundamental notions of symmetry and locality in terms of randomness.</p><p></p><p>Yosuke Mitsuhashi, Ryotaro Suzuki, Tomohiro Soejima, and Nobuyuki Yoshioka</p><p></p><p>Phys. Rev. Lett. 134, 180404 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180602</guid>
+<pubDate>Wed, 07 May 2025 00:00:00 -0000</pubDate>
+<title>Quantum Dynamic Programming</title>
+<author>Jeongrak Son, Marek Gluza, Ryuji Takagi, and Nelly H. Y. Ng</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180602</link>
+<content:encoded><![CDATA[<p>We introduce a quantum extension of dynamic programming, a fundamental computational method that efficiently solves recursive problems using memory. Our innovation lies in showing how to coherently generate recursion step unitaries by using memorized intermediate quantum states. Quantum dynamic programming achieves an exponential reduction in circuit depth for a broad class of fixed-point quantum recursions, though this comes at the cost of increased circuit width. Interestingly, the trade-off becomes more favorable when the initial state is pure. By hybridizing our approach with a conventional memoryless one, we can flexibly balance circuit depth and width to optimize performance on quantum devices with fixed hardware constraints. Finally, we showcase applications of quantum dynamic programming to several quantum recursions, including a variant of Grover’s search, quantum imaginary-time evolution, and a new protocol for obliviously preparing a quantum state in its Schmidt basis.</p><p></p><p>Jeongrak Son, Marek Gluza, Ryuji Takagi, and Nelly H. Y. Ng</p><p></p><p>Phys. Rev. Lett. 134, 180602 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401</guid>
+<pubDate>Tue, 06 May 2025 00:00:00 -0000</pubDate>
+<title>Topological Quantum Batteries</title>
+<author>Zhi-Guang Lu, Guoqing Tian, Xin-You Lü, and Cheng Shang</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180401</link>
+<content:encoded><![CDATA[<p>We propose an innovative design for quantum batteries (QBs) that involves coupling two-level systems to a topological photonic waveguide. Employing the resolvent method, we analytically explore the thermodynamic performance of QBs. First, we demonstrate that in the long-time limit, only bound states significantly contribute to the stored energy of QBs. We observe that near-perfect energy transfer can occur in the topologically nontrivial phase. Moreover, the maximum stored energy exhibits singular behavior at the phase boundaries, where the number of bound states undergoes a transition. Second, when a quantum charger and a quantum battery are coupled at the same sublattice within a unit cell, the ergotropy becomes immune to dissipation at that location, facilitated by a dark state and a topologically robust dressed bound state. Third, we show that as dissipation intensifies along with the emergence of the quantum Zeno effect, the charging power of QBs experiences a temporary boost. Our findings offer valuable guidance for improving quantum battery performance in realistic conditions through structured reservoir engineering.</p><p></p><p>Zhi-Guang Lu, Guoqing Tian, Xin-You Lü, and Cheng Shang</p><p></p><p>Phys. Rev. Lett. 134, 180401 (2025)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180402</guid>
+<pubDate>Tue, 06 May 2025 00:00:00 -0000</pubDate>
+<title>Strict Area Law Entanglement versus Chirality</title>
+<author>Xiang Li, Ting-Chun Lin, John McGreevy, and Bowen Shi</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.180402</link>
+<content:encoded><![CDATA[<p>Chirality is a property of a gapped phase of matter in two spatial dimensions that can be manifested through nonzero thermal or electrical Hall conductance. In this Letter, we prove two no-go theorems that forbid such chirality for a quantum state in a finite dimensional local Hilbert space with strict area law entanglement entropies. We also show that the finite dimensional local Hilbert space condition can be relaxed to the condition that the state has finite local entanglement entropies. As a crucial ingredient in the proofs, we introduce a new quantum information-theoretic primitive called instantaneous modular flow, which has many other potential applications.</p><p></p><p>Xiang Li, Ting-Chun Lin, John McGreevy, and Bowen Shi</p><p></p><p>Phys. Rev. Lett. 134, 180402 (2025)</p><p></p>]]></content:encoded>
+</item>
+</channel>
+</rss>
