@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09061-4</guid>
+<pubDate>Sun, 25 May 2025 16:00:00 GMT</pubDate>
+<title>Scaling and logic in the color code on a superconducting quantum processor</title>
+<author>N. LacroixA. BourassaK. J. Satzinger</author>
+<link>https://www.nature.com/articles/s41586-025-09061-4</link>
+<content:encoded><![CDATA[<p>N. LacroixA. BourassaK. J. Satzinger</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02916-7</guid>
+<pubDate>Sun, 25 May 2025 16:00:00 GMT</pubDate>
+<title>Optomechanical self-organization in a mesoscopic atom array</title>
+<author>Jacquelyn HoYue-Hui LuDan M. Stamper-Kurn</author>
+<link>https://www.nature.com/articles/s41567-025-02916-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02916-7/MediaObjects/41567_2025_2916_Fig1_HTML.png"><p></p><p>Investigating mesoscopic systems can offer insights into the crossover between few-body and many-body regimes. Atomic arrays inside an optical cavity are now shown to enable the controlled study of critical properties on mesoscopic scales.</p><p></p><p>Jacquelyn HoYue-Hui LuDan M. Stamper-Kurn</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01683-4</guid>
 <pubDate>Thu, 22 May 2025 16:00:00 GMT</pubDate>
 <title>Chirality-induced quantum non-reciprocity</title>
@@ -387,22 +403,6 @@
 <author>Hana K. WarnerJeffrey HolzgrafeMarko Lončar</author>
 <link>https://www.nature.com/articles/s41567-025-02812-0</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02812-0/MediaObjects/41567_2025_2812_Fig1_HTML.png"><p></p><p>Superconducting qubits operate at microwave frequencies, but it is much more efficient to transmit information optically. Now, a superconducting qubit has been controlled with an optical signal by using a microwave–optical quantum transducer.</p><p></p><p>Hana K. WarnerJeffrey HolzgrafeMarko Lončar</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08761-1</guid>
-<pubDate>Tue, 01 Apr 2025 16:00:00 GMT</pubDate>
-<title>Near-field photon entanglement in total angular momentum</title>
-<author>Amit KamShai TsessesGuy Bartal</author>
-<link>https://www.nature.com/articles/s41586-025-08761-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08761-1/MediaObjects/41586_2025_8761_Fig1_HTML.png"><p></p><p>Non-classical correlations between two photons in the near-field regime give rise to entanglement in their total angular momentum, leading to a completely different structure of quantum correlations of photon pairs.</p><p></p><p>Amit KamShai TsessesGuy Bartal</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02821-z</guid>
-<pubDate>Thu, 27 Mar 2025 16:00:00 GMT</pubDate>
-<title>A qudit quantum computer for simulation of two-dimensional quantum electrodynamics</title>
-<author>N/A</author>
-<link>https://www.nature.com/articles/s41567-025-02821-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02821-z/MediaObjects/41567_2025_2821_Fig1_HTML.png"><p></p><p>Quantum electrodynamics (QED) is a cornerstone of the standard model of particle physics. A decade-long effort to simulate QED on a two-dimensional lattice has now succeeded — through the use of a trapped-ion quantum computer based on multidimensional ‘qudits’, which are uniquely suited to the challenge.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
