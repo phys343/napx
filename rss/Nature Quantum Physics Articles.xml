@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01682-5</guid>
+<pubDate>Sun, 01 Jun 2025 16:00:00 GMT</pubDate>
+<title>Experimental quantum-enhanced kernel-based machine learning on a photonic processor</title>
+<author>Zhenghao YinIris AgrestiPhilip Walther</author>
+<link>https://www.nature.com/articles/s41566-025-01682-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01682-5/MediaObjects/41566_2025_1682_Fig1_HTML.png"><p></p><p>A quantum kernel estimation by which feature data points are evaluated through the unitary evolution of two-boson Fock states is experimentally demonstrated on a photonic integrated processor. This model provides enhanced accuracy with respect to commonly used classical methods for several classification tasks.</p><p></p><p>Zhenghao YinIris AgrestiPhilip Walther</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02929-2</guid>
+<pubDate>Sun, 01 Jun 2025 16:00:00 GMT</pubDate>
+<title>Precision is not limited by the second law of thermodynamics</title>
+<author>Florian MeierYuri MinoguchiMarcus Huber</author>
+<link>https://www.nature.com/articles/s41567-025-02929-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02929-2/MediaObjects/41567_2025_2929_Fig1_HTML.png"><p></p><p>Clock precision is thought to be fundamentally limited by entropy production in out-of-equilibrium systems. A theoretical work now introduces a quantum clock design where precision grows exponentially with dissipation.</p><p></p><p>Florian MeierYuri MinoguchiMarcus Huber</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09016-9</guid>
 <pubDate>Tue, 27 May 2025 16:00:00 GMT</pubDate>
 <title>Observing anyonization of bosons in a quantum gas</title>
@@ -387,22 +403,6 @@
 <author>Yann Kiefer</author>
 <link>https://www.nature.com/articles/s41567-025-02881-1</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02881-1/MediaObjects/41567_2025_2881_Fig1_HTML.png"><p></p><p>Controlled dissipation enables the extraction of equilibrium properties of ultracold one-dimensional gases through the observation of anomalous dynamics.</p><p></p><p>Yann Kiefer</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02799-8</guid>
-<pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
-<title>The strongly driven Fermi polaron</title>
-<author>Franklin J. VivancoAlexander SchuckertNir Navon</author>
-<link>https://www.nature.com/articles/s41567-025-02799-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02799-8/MediaObjects/41567_2025_2799_Fig1_HTML.png"><p></p><p>Fermi polarons are quasiparticles formed by impurities immersed in a Fermi gas. An experiment in an ultracold fermionic gas now shows how to control their properties with a tunable radio-frequency field.</p><p></p><p>Franklin J. VivancoAlexander SchuckertNir Navon</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01653-w</guid>
-<pubDate>Thu, 03 Apr 2025 16:00:00 GMT</pubDate>
-<title>Space-time-topological events in photonic quantum walks</title>
-<author>Joshua FeisSebastian WeidemannAlexander Szameit</author>
-<link>https://www.nature.com/articles/s41566-025-01653-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01653-w/MediaObjects/41566_2025_1653_Fig1_HTML.png"><p></p><p>Combining space topology and time topology, topological states that are localized simultaneously in space and time are theoretically and experimentally demonstrated, potentially enabling the space-time topological shaping of light waves with applications in spatiotemporal wave control for imaging, communications and topological lasers.</p><p></p><p>Joshua FeisSebastian WeidemannAlexander Szameit</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
