@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01837-y</guid>
+<pubDate>Mon, 09 Jun 2025 16:00:00 GMT</pubDate>
+<title>Peter Lax obituary: mathematician who pioneered computer-based solutions to real-world problems</title>
+<author>Jeremy Berg</author>
+<link>https://www.nature.com/articles/d41586-025-01837-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01837-y/d41586-025-01837-y_51055562.jpg"><p></p><p>The Abel prizewinner’s pragmatic approach to solving differential equations was influential across fields ranging from weather forecasting to starting nuclear chain reactions.</p><p></p><p>Jeremy Berg</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01773-x</guid>
 <pubDate>Sun, 08 Jun 2025 16:00:00 GMT</pubDate>
 <title>Do our observations make reality happen?</title>
@@ -395,14 +403,6 @@
 <author>Mirko PittalugaYuen San LoAndrew J. Shields</author>
 <link>https://www.nature.com/articles/s41586-025-08801-w</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08801-w/MediaObjects/41586_2025_8801_Fig1_HTML.png"><p></p><p>A twin-field quantum key distribution protocol based on optical coherence is deployed over a 254-kilometre commercial telecom network, demonstrating that coherence-based quantum communication can be aligned with existing telecommunication infrastructure.</p><p></p><p>Mirko PittalugaYuen San LoAndrew J. Shields</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02819-7</guid>
-<pubDate>Tue, 22 Apr 2025 16:00:00 GMT</pubDate>
-<title>Control of spin currents by magnon interference in a canted antiferromagnet</title>
-<author>Lutong ShengAnna DuvakinaHaiming Yu</author>
-<link>https://www.nature.com/articles/s41567-025-02819-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02819-7/MediaObjects/41567_2025_2819_Fig1_HTML.png"><p></p><p>Controlling the propagation of spin currents with opposite polarities in antiferromagnets has remained challenging. Now the frequency of coherently excited spin waves in a haematite-based device is shown to control the sign of the spin current.</p><p></p><p>Lutong ShengAnna DuvakinaHaiming Yu</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
