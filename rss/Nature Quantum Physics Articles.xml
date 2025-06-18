@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02893-x</guid>
+<pubDate>Mon, 16 Jun 2025 16:00:00 GMT</pubDate>
+<title>Emergent exchange-driven giant magnetoelastic coupling in a correlated itinerant ferromagnet</title>
+<author>Carolina A. MarquesLuke C. RhodesPeter Wahl</author>
+<link>https://www.nature.com/articles/s41567-025-02893-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02893-x/MediaObjects/41567_2025_2893_Fig1_HTML.png"><p></p><p>Magnetostructural changes are usually small and driven by spin–orbit coupling. Now, electron–lattice coupling enhanced by exchange interactions is shown to produce giant magnetostriction in a correlated ferromagnet.</p><p></p><p>Carolina A. MarquesLuke C. RhodesPeter Wahl</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02931-8</guid>
 <pubDate>Sun, 15 Jun 2025 16:00:00 GMT</pubDate>
 <title>Experimental demonstration of breakeven for a compact fermionic encoding</title>
@@ -395,14 +403,6 @@
 <author>Filippo CardanoLorenzo Marrucci</author>
 <link>https://www.nature.com/articles/s41566-025-01648-7</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01648-7/MediaObjects/41566_2025_1648_Fig1_HTML.png"><p></p><p>A programmable quantum chip has been developed that generates, manipulates, and launches five-dimensional entangled photons into free-space channels, encoded as optical vortex modes, thus bridging the worlds of integrated and free-space quantum photonics.</p><p></p><p>Filippo CardanoLorenzo Marrucci</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08863-w</guid>
-<pubDate>Tue, 06 May 2025 16:00:00 GMT</pubDate>
-<title>Superconductivity and spin canting in spin–orbit-coupled trilayer graphene</title>
-<author>Caitlin L. PattersonOwen I. SheekeyAndrea F. Young</author>
-<link>https://www.nature.com/articles/s41586-025-08863-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08863-w/MediaObjects/41586_2025_8863_Fig1_HTML.png"><p></p><p>Introducing spin–orbit coupling by substrate proximity effect leads to an enhancement of superconducting phases in rhombohedral trilayer graphene.</p><p></p><p>Caitlin L. PattersonOwen I. SheekeyAndrea F. Young</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
