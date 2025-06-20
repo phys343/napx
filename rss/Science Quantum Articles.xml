@@ -5,6 +5,27 @@
 <link>https://www.science.org</link>
 <description>rss/Science Quantum Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adn0618</guid>
+<pubDate>Fri, 20 Jun 2025 17:00:21 GMT</pubDate>
+<title>Spectroscopy of elementary excitations from quench dynamics in a dipolar XY Rydberg
+                     simulator</title>
+<author>Cheng Chen</author>
+<link>https://www.science.org/doi/10.1126/science.adn0618</link>
+<content:encoded><![CDATA[<p>The nature and spectrum of elementary excitations are defining features of a many-body
+            system. Here, we use a Rydberg quantum simulator to demonstrate a form of spectroscopy,
+            called quench spectroscopy, that probes these low-energy excitations. We ...</p><p></p><p>Cheng Chen</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adw4126</guid>
+<pubDate>Thu, 19 Jun 2025 00:00:00 </pubDate>
+<title>Excision of organic macrocycles from covalent organic frameworks</title>
+<author>Roberto Sánchez-Naya</author>
+<link>https://www.science.org/doi/10.1126/science.adw4126</link>
+<content:encoded><![CDATA[<p>Molecules are typically synthesized through stepwise processes involving chemical
+            reactions between simple molecular precursors. Here, we report an advance in the synthesis
+            of new organic molecules based on the approach of clip-off chemistry, in which ...</p><p></p><p>Roberto Sánchez-Naya</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adp8444</guid>
 <pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
 <title>Gate-driven band modulation hyperdoping for high-performance p-type 2D semiconductor
@@ -172,26 +193,6 @@
 <content:encoded><![CDATA[<p>Hydrogen-like light muonic ions, in which one negative muon replaces all of the electrons,
             are extremely sensitive probes of nuclear structure. Using pulsed laser spectroscopy,
             we have measured three 2S-2P transitions in the muonic helium-3 (μ3He+) ion, ...</p><p></p><p>Karsten Schuhmann</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adn2618</guid>
-<pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
-<title>Erasure cooling, control, and hyperentanglement of motion in optical tweezers</title>
-<author>Adam L. Shaw</author>
-<link>https://www.science.org/doi/10.1126/science.adn2618</link>
-<content:encoded><![CDATA[<p>Coherently controlling the motion of single atoms in optical tweezers would enable
-            new applications in quantum information science. To demonstrate this, we first prepared
-            atoms in their motional ground state using a species-agnostic cooling mechanism ...</p><p></p><p>Adam L. Shaw</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adr7094</guid>
-<pubDate>Thu, 22 May 2025 00:00:00 </pubDate>
-<title>Deep learning–guided design of dynamic proteins</title>
-<author>Amy B. Guo</author>
-<link>https://www.science.org/doi/10.1126/science.adr7094</link>
-<content:encoded><![CDATA[<p>Deep learning has advanced the design of static protein structures, but the controlled
-            conformational changes that are hallmarks of natural signaling proteins have remained
-            inaccessible to de novo design. Here, we describe a general deep learning–guided ...</p><p></p><p>Amy B. Guo</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
