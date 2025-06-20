@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02922-9</guid>
+<pubDate>Wed, 18 Jun 2025 16:00:00 GMT</pubDate>
+<title>Neutron scattering and thermodynamic evidence for emergent photons and fractionalization in a pyrochlore spin ice</title>
+<author>Bin GaoFélix DesrochersPengcheng Dai</author>
+<link>https://www.nature.com/articles/s41567-025-02922-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02922-9/MediaObjects/41567_2025_2922_Fig1_HTML.png"><p></p><p>Quantum spin-ice phases are predicted to have emergent gauge fields and fractionalization. Neutron scattering and thermodynamic measurements of the quantum spin-ice candidate Ce2Zr2O7 show features consistent with these predictions.</p><p></p><p>Bin GaoFélix DesrochersPengcheng Dai</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02893-x</guid>
 <pubDate>Mon, 16 Jun 2025 16:00:00 GMT</pubDate>
 <title>Emergent exchange-driven giant magnetoelastic coupling in a correlated itinerant ferromagnet</title>
@@ -395,14 +403,6 @@
 <author>Olivier Pfister</author>
 <link>https://www.nature.com/articles/s41566-025-01666-5</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01666-5/MediaObjects/41566_2025_1666_Fig1_HTML.png"><p></p><p>The experimental realization of a 3D cluster quantum state paves the way for information processing employing quantum error correction.</p><p></p><p>Olivier Pfister</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01648-7</guid>
-<pubDate>Tue, 06 May 2025 16:00:00 GMT</pubDate>
-<title>Twisting entangled photons on a chip</title>
-<author>Filippo CardanoLorenzo Marrucci</author>
-<link>https://www.nature.com/articles/s41566-025-01648-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01648-7/MediaObjects/41566_2025_1648_Fig1_HTML.png"><p></p><p>A programmable quantum chip has been developed that generates, manipulates, and launches five-dimensional entangled photons into free-space channels, encoded as optical vortex modes, thus bridging the worlds of integrated and free-space quantum photonics.</p><p></p><p>Filippo CardanoLorenzo Marrucci</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
