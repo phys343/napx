@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01709-x</guid>
+<pubDate>Thu, 19 Jun 2025 16:00:00 GMT</pubDate>
+<title>Ångström-tunable polarization-resolved solid-state photon sources</title>
+<author>Yinhui KanPaul C. V. ThraneSergey I. Bozhevolnyi</author>
+<link>https://www.nature.com/articles/s41566-025-01709-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01709-x/MediaObjects/41566_2025_1709_Fig1_HTML.png"><p></p><p>A platform based on quantum-emitter-embedded metasurfaces with a microcavity that can be tuned by a micro-electromechanical system is demonstrated, enabling dynamic photon emission with narrow bandwidth, ångström-level wavelength tunability and polarization switching.</p><p></p><p>Yinhui KanPaul C. V. ThraneSergey I. Bozhevolnyi</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02922-9</guid>
 <pubDate>Wed, 18 Jun 2025 16:00:00 GMT</pubDate>
 <title>Neutron scattering and thermodynamic evidence for emergent photons and fractionalization in a pyrochlore spin ice</title>
@@ -395,14 +403,6 @@
 <author>Carlo Rovelli</author>
 <link>https://www.nature.com/articles/d41586-025-01465-6</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01465-6/d41586-025-01465-6_50925850.jpg"><p></p><p>Theoretical physicists are in thrall to a misguided mindset that allows viable ideas to be advanced only by overturning what already exists.</p><p></p><p>Carlo Rovelli</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01666-5</guid>
-<pubDate>Tue, 06 May 2025 16:00:00 GMT</pubDate>
-<title>Quantum cluster states engineered in three dimensions</title>
-<author>Olivier Pfister</author>
-<link>https://www.nature.com/articles/s41566-025-01666-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01666-5/MediaObjects/41566_2025_1666_Fig1_HTML.png"><p></p><p>The experimental realization of a 3D cluster quantum state paves the way for information processing employing quantum error correction.</p><p></p><p>Olivier Pfister</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
