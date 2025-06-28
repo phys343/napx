@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02946-1</guid>
+<pubDate>Thu, 26 Jun 2025 16:00:00 GMT</pubDate>
+<title>Atoms revolt against tweezer-imposed order</title>
+<author>A. VukicsP. Domokos</author>
+<link>https://www.nature.com/articles/s41567-025-02946-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02946-1/MediaObjects/41567_2025_2946_Fig1_HTML.png"><p></p><p>The combination of optical tweezer arrays with high-finesse cavities opens the door to the study of mesoscopic finite-size effects in the critical dynamics and optomechanical response of atomic ensembles.</p><p></p><p>A. VukicsP. Domokos</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09197-3</guid>
 <pubDate>Tue, 24 Jun 2025 16:00:00 GMT</pubDate>
 <title>Broadband transient full-Stokes luminescence spectroscopy</title>
@@ -395,14 +403,6 @@
 <author>Flora Graham</author>
 <link>https://www.nature.com/articles/d41586-025-01607-w</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01607-w/d41586-025-01607-w_17300602.png"><p></p><p>A 41-year-old man has become the first person to receive a bladder transplant in an eight-hour operation. Plus, a ‘minimalist’ approach to quantum computing and meet the dog who helps stop turtle poachers.</p><p></p><p>Flora Graham</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02868-y</guid>
-<pubDate>Sun, 18 May 2025 16:00:00 GMT</pubDate>
-<title>Entanglement meets artificial intelligence in quantum sensors</title>
-<author>Alice Sinatra</author>
-<link>https://www.nature.com/articles/s41567-025-02868-y</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02868-y/MediaObjects/41567_2025_2868_Fig1_HTML.png"><p></p><p>The high precision of atomic sensors can be further enhanced by quantum correlations between atoms prepared in an entangled state through the use of artificial intelligence.</p><p></p><p>Alice Sinatra</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
