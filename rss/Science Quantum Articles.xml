@@ -5,6 +5,82 @@
 <link>https://www.science.org</link>
 <description>rss/Science Quantum Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adl2544</guid>
+<pubDate>Fri, 04 Jul 2025 17:00:20 GMT</pubDate>
+<title>Strong interactions and isospin symmetry breaking in a supermoiré lattice</title>
+<author>Yonglong Xie</author>
+<link>https://www.science.org/doi/10.1126/science.adl2544</link>
+<content:encoded><![CDATA[<p>In multilayer moiré heterostructures, the interference of multiple twist angles ubiquitously
+            leads to tunable ultra-long-wavelength patterns known as supermoiré lattices. However,
+            their impact on the system’s many-body electronic phase diagram remains ...</p><p></p><p>Yonglong Xie</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adm7695</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 </pubDate>
+<title>Time-domain braiding of anyons</title>
+<author>M. Ruelle</author>
+<link>https://www.science.org/doi/10.1126/science.adm7695</link>
+<content:encoded><![CDATA[<p>Anyons are quasiparticles that keep a robust memory of particle exchanges via a braiding
+            phase factor. When an anyon excitation is emitted toward a quantum point contact (QPC)
+            in a fractional quantum Hall (FQH) fluid, this memory translates into ...</p><p></p><p>M. Ruelle</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adn4926</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 </pubDate>
+<title>Ferroelectric materials toward next-generation electromechanical technologies</title>
+<author>Fei Li</author>
+<link>https://www.science.org/doi/10.1126/science.adn4926</link>
+<content:encoded><![CDATA[<p>Ferroelectric materials have been widely used in various electromechanical devices,
+            from ultrasonic transducers and actuators to mechanical energy harvesters. The key
+            performance metrics of these devices, such as sensitivity, efficiency, and bandwidth
+            of ...</p><p></p><p>Fei Li</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adp0870</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 </pubDate>
+<title>The intracellular Ca2+ sensitivity of transmitter release in glutamatergic neocortical boutons</title>
+<author>Grit Bornschein</author>
+<link>https://www.science.org/doi/10.1126/science.adp0870</link>
+<content:encoded><![CDATA[<p>Synaptotagmin-1 (Syt1) and Syt2 are the main calcium (Ca2+) sensors triggering synchronous release in the brain. In this work, we studied the
+            mechanisms mediating Syt1-triggered release from neocortical synapses. We measured
+            the Ca2+ dependency of ...</p><p></p><p>Grit Bornschein</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv8590</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 </pubDate>
+<title>Random unitaries in extremely low depth</title>
+<author>Thomas Schuster</author>
+<link>https://www.science.org/doi/10.1126/science.adv8590</link>
+<content:encoded><![CDATA[<p>Random unitaries are central to quantum technologies and the study of complex quantum
+            many-body physics. However, existing protocols for generating random unitaries require
+            long evolution times and deep circuits. In this work, we prove that local quantum
+            ...</p><p></p><p>Thomas Schuster</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adz0147</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 </pubDate>
+<title>Shrinking quantum randomization</title>
+<author>Naoki Yamamoto</author>
+<link>https://www.science.org/doi/10.1126/science.adz0147</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Naoki Yamamoto</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea2121</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 </pubDate>
+<title>In Science Journals</title>
+<author>Bianca Lopez</author>
+<link>https://www.science.org/doi/10.1126/science.aea2121</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Bianca Lopez</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea2122</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 </pubDate>
+<title>In Other Journals</title>
+<author>Di Jiang</author>
+<link>https://www.science.org/doi/10.1126/science.aea2122</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Di Jiang</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv2362</guid>
 <pubDate>Thu, 26 Jun 2025 00:00:00 </pubDate>
 <title>Spontaneous formation of urea from carbon dioxide and ammonia in aqueous droplets</title>
@@ -16,7 +92,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv4551</guid>
-<pubDate>Thu, 03 Jul 2025 17:00:49 GMT</pubDate>
+<pubDate>Fri, 04 Jul 2025 17:00:20 GMT</pubDate>
 <title>Stable and uniform self-assembled organic diradical molecules for perovskite photovoltaics</title>
 <author>Wenping Wu</author>
 <link>https://www.science.org/doi/10.1126/science.adv4551</link>
@@ -42,7 +118,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adn0618</guid>
-<pubDate>Thu, 03 Jul 2025 17:00:49 GMT</pubDate>
+<pubDate>Fri, 04 Jul 2025 17:00:20 GMT</pubDate>
 <title>Spectroscopy of elementary excitations from quench dynamics in a dipolar XY Rydberg
                      simulator</title>
 <author>Cheng Chen</author>
@@ -124,74 +200,6 @@
             to slide nucleosomes, regulating chromatin structure and gene activity in cells. In
             this work, we report structures of imitation switch (ISWI) bound to the nucleosome
             ...</p><p></p><p>Youyang Sia</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady4439</guid>
-<pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-<title>Nanowires replace lost retinal cells</title>
-<author>Eduardo Fernández</author>
-<link>https://www.science.org/doi/10.1126/science.ady4439</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Eduardo Fernández</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adz3915</guid>
-<pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-<title>America is ceding the lead in creating the future</title>
-<author>H. Holden Thorp</author>
-<link>https://www.science.org/doi/10.1126/science.adz3915</link>
-<content:encoded><![CDATA[<p></p><p></p><p>H. Holden Thorp</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adz4672</guid>
-<pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-<title>In Science Journals</title>
-<author>Brent Grocholski</author>
-<link>https://www.science.org/doi/10.1126/science.adz4672</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Brent Grocholski</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adz5041</guid>
-<pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-<title>Final NSF budget proposal details massive cuts</title>
-<author>Jeffrey Mervis</author>
-<link>https://www.science.org/doi/10.1126/science.adz5041</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Jeffrey Mervis</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adz5044</guid>
-<pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-<title>Physicists’ best hint of something new vanishes</title>
-<author>Adrian Cho</author>
-<link>https://www.science.org/doi/10.1126/science.adz5044</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Adrian Cho</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adk7219</guid>
-<pubDate>Thu, 29 May 2025 00:00:00 </pubDate>
-<title>Pair wave function symmetry in UTe2 from zero-energy surface state visualization</title>
-<author>Qiangqiang Gu</author>
-<link>https://www.science.org/doi/10.1126/science.adk7219</link>
-<content:encoded><![CDATA[<p>Although nodal spin-triplet topological superconductivity appears probable in uranium
-            ditelluride (UTe2), its superconductive order parameter Δk remains unestablished. In theory, a distinctive identifier would be the existence
-            of a superconductive ...</p><p></p><p>Qiangqiang Gu</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adn5981</guid>
-<pubDate>Thu, 29 May 2025 00:00:00 </pubDate>
-<title>Testing interelectronic interaction in lithium-like tin</title>
-<author>Jonathan Morgner</author>
-<link>https://www.science.org/doi/10.1126/science.adn5981</link>
-<content:encoded><![CDATA[<p>Magnetic moments of bound-electron systems are a sensitive tool for testing fundamental
-            interactions. The g factors of lithium-like ions have been rigorously studied in recent years, enabling
-            insights into the relativistic interelectronic effects. In ...</p><p></p><p>Jonathan Morgner</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady3202</guid>
-<pubDate>Thu, 29 May 2025 00:00:00 </pubDate>
-<title>Sleuthing out the symmetry of a superconductor</title>
-<author>Andriy H. Nevidomskyy</author>
-<link>https://www.science.org/doi/10.1126/science.ady3202</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Andriy H. Nevidomskyy</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
