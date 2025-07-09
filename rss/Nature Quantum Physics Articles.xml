@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01712-2</guid>
+<pubDate>Mon, 07 Jul 2025 16:00:00 GMT</pubDate>
+<title>Tunable nanophotonic devices and cavities based on a two-dimensional magnet</title>
+<author>Ahmet Kemal DemirLuca NessiRiccardo Comin</author>
+<link>https://www.nature.com/articles/s41566-025-01712-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01712-2/MediaObjects/41566_2025_1712_Fig1_HTML.png"><p></p><p>CrSBr, a van der Waals antiferromagnetic semiconductor, is used to fabricate photonic crystal slabs, featuring exceptional in situ control over optical behaviour and thus enabling precise manipulation of photonic modes at near-visible and infrared wavelengths.</p><p></p><p>Ahmet Kemal DemirLuca NessiRiccardo Comin</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-02110-y</guid>
 <pubDate>Wed, 02 Jul 2025 16:00:00 GMT</pubDate>
 <title>‘Tour de force’ experiment probes quantum tunnelling in action</title>
@@ -395,14 +403,6 @@
 <author>Dan Garisto</author>
 <link>https://www.nature.com/articles/d41586-025-01645-4</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01645-4/d41586-025-01645-4_51013744.jpg"><p></p><p>Nature talks to scientists about an uncertain future as the US government lays siege to their university.</p><p></p><p>Dan Garisto</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09169-7</guid>
-<pubDate>Wed, 21 May 2025 16:00:00 GMT</pubDate>
-<title>Signatures of chiral superconductivity in rhombohedral graphene</title>
-<author>Tonghang HanZhengguang LuLong Ju</author>
-<link>https://www.nature.com/articles/s41586-025-09169-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09169-7/MediaObjects/41586_2025_9169_Fig1_HTML.png"><p></p><p>Observations indicating the chiral nature of superconducting states in five rhombohedral tetralayer and pentalayer graphene devices without moiré superlattice effects are reported, establishing a pure carbon material for the study of topological superconductivity.</p><p></p><p>Tonghang HanZhengguang LuLong Ju</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
