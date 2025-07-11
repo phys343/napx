@@ -5,8 +5,60 @@
 <link>https://www.science.org</link>
 <description>rss/Science Quantum Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adq8590</guid>
+<pubDate>Fri, 11 Jul 2025 17:00:28 GMT</pubDate>
+<title>Spin-filter tunneling detection of antiferromagnetic resonance with electrically tunable
+                     damping</title>
+<author>Thow Min Jerald Cham</author>
+<link>https://www.science.org/doi/10.1126/science.adq8590</link>
+<content:encoded><![CDATA[<p>Antiferromagnetic spintronics offers the potential for higher-frequency operations
+            and improved insensitivity to magnetic fields compared to ferromagnetic spintronics.
+            However, previous electrical techniques to detect antiferromagnetic dynamics have
+            ...</p><p></p><p>Thow Min Jerald Cham</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adr5817</guid>
+<pubDate>Thu, 10 Jul 2025 00:00:00 </pubDate>
+<title>Cryo-EM structure of human telomerase dimer reveals H/ACA RNP-mediated dimerization</title>
+<author>Sebastian Balch</author>
+<link>https://www.science.org/doi/10.1126/science.adr5817</link>
+<content:encoded><![CDATA[<p>Telomerase ribonucleoprotein (RNP) synthesizes telomeric repeats at chromosome ends
+            using a telomerase reverse transcriptase (TERT) and a telomerase RNA (hTR in humans).
+            Previous structural work showed that human telomerase is typically monomeric, ...</p><p></p><p>Sebastian Balch</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv9817</guid>
+<pubDate>Fri, 11 Jul 2025 17:00:29 GMT</pubDate>
+<title>Scalable emulation of protein equilibrium ensembles with generative deep learning</title>
+<author>Sarah Lewis</author>
+<link>https://www.science.org/doi/10.1126/science.adv9817</link>
+<content:encoded><![CDATA[<p>Following the sequence and structure revolutions, predicting functionally relevant
+            protein structure changes at scale remains an outstanding challenge. We introduce
+            BioEmu, a deep learning system that emulates protein equilibrium ensembles by generating
+            ...</p><p></p><p>Sarah Lewis</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx6955</guid>
+<pubDate>Fri, 11 Jul 2025 17:00:29 GMT</pubDate>
+<title>Negative capacitance overcomes Schottky-gate limits in GaN high-electron-mobility
+                     transistors</title>
+<author>Asir Intisar Khan</author>
+<link>https://www.science.org/doi/10.1126/science.adx6955</link>
+<content:encoded><![CDATA[<p>For high-electron-mobility transistors based on two-dimensional electron gas (2DEG)
+            within a quantum well, such as those based on AlGaN/GaN heterostructure, a Schottky-gate
+            is used to maximize the amount of charge that can be induced and thereby the ...</p><p></p><p>Asir Intisar Khan</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea3950</guid>
+<pubDate>Thu, 10 Jul 2025 00:00:00 </pubDate>
+<title>Atomic explosion</title>
+<author>Adrian Cho</author>
+<link>https://www.science.org/doi/10.1126/science.aea3950</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Adrian Cho</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adl2544</guid>
-<pubDate>Thu, 10 Jul 2025 17:00:16 GMT</pubDate>
+<pubDate>Fri, 11 Jul 2025 17:00:29 GMT</pubDate>
 <title>Strong interactions and isospin symmetry breaking in a supermoiré lattice</title>
 <author>Yonglong Xie</author>
 <link>https://www.science.org/doi/10.1126/science.adl2544</link>
@@ -92,13 +144,14 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv4551</guid>
-<pubDate>Thu, 10 Jul 2025 17:00:17 GMT</pubDate>
+<pubDate>Thu, 26 Jun 2025 00:00:00 </pubDate>
 <title>Stable and uniform self-assembled organic diradical molecules for perovskite photovoltaics</title>
 <author>Wenping Wu</author>
 <link>https://www.science.org/doi/10.1126/science.adv4551</link>
-<content:encoded><![CDATA[<p>Organic self-assembled molecules (SAMs), widely used in perovskite solar cells (PSCs),
-            should exhibit enhanced performance to support the ongoing advancement of perovskite
-            photovoltaics. We designed diradical SAMs through a coplanar-conjugation of donor-...</p><p></p><p>Wenping Wu</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Organic self-assembled molecules (SAMs), which are widely used in perovskite solar
+            cells (PSCs), should exhibit enhanced performance to support the ongoing advancement
+            of perovskite photovoltaics. We designed diradical SAMs through a coplanar conjugation
+            ...</p><p></p><p>Wenping Wu</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adz1676</guid>
@@ -118,7 +171,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adn0618</guid>
-<pubDate>Thu, 10 Jul 2025 17:00:17 GMT</pubDate>
+<pubDate>Fri, 11 Jul 2025 17:00:29 GMT</pubDate>
 <title>Spectroscopy of elementary excitations from quench dynamics in a dipolar XY Rydberg
                      simulator</title>
 <author>Cheng Chen</author>
@@ -148,58 +201,6 @@
             challenging because of the inherently limited physical space for incorporating charge
             dopants. Here, we report that interlayer charge-transfer doping in type III van der
             ...</p><p></p><p>Bei Zhao</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adr5478</guid>
-<pubDate>Thu, 12 Jun 2025 00:00:00 </pubDate>
-<title>Differential absorption of circularly polarized light by a centrosymmetric crystal</title>
-<author>Katherine A. Parrish</author>
-<link>https://www.science.org/doi/10.1126/science.adr5478</link>
-<content:encoded><![CDATA[<p>Crystalline solids are governed by universal structure-property relationships derived
-            from their crystal symmetry, leading to paradigmatic rules on what properties they
-            can and cannot exhibit. A long-held structure-property relationship is that ...</p><p></p><p>Katherine A. Parrish</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ado6049</guid>
-<pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-<title>Direct measurement of the quantum metric tensor in solids</title>
-<author>Sunje Kim</author>
-<link>https://www.science.org/doi/10.1126/science.ado6049</link>
-<content:encoded><![CDATA[<p>The quantum metric tensor is a central geometric quantity in modern physics that is
-            defined as the distance between nearby quantum states. Despite numerous studies highlighting
-            its relevance to fundamental physical phenomena in solids, measuring the ...</p><p></p><p>Sunje Kim</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adp9384</guid>
-<pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-<title>In-insect synthesis of oxygen-doped molecular nanocarbons</title>
-<author>Atsushi Usami</author>
-<link>https://www.science.org/doi/10.1126/science.adp9384</link>
-<content:encoded><![CDATA[<p>Many functional molecules and materials have been produced with organic chemistry
-            or with in vitro enzymatic approaches. Individual organisms, such as insects, have
-            the potential to serve as natural reaction platforms in which high densities of multiple
-            ...</p><p></p><p>Atsushi Usami</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adu2987</guid>
-<pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-<title>Tellurium nanowire retinal nanoprosthesis improves vision in models of blindness</title>
-<author>Shuiyuan Wang</author>
-<link>https://www.science.org/doi/10.1126/science.adu2987</link>
-<content:encoded><![CDATA[<p>Present vision restoration technologies have substantial constraints that limit their
-            application in the clinical setting. In this work, we fabricated a subretinal nanoprosthesis
-            using tellurium nanowire networks (TeNWNs) that converts light of both the ...</p><p></p><p>Shuiyuan Wang</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adu5654</guid>
-<pubDate>Thu, 05 Jun 2025 00:00:00 </pubDate>
-<title>Structural insights into chromatin remodeling by ISWI during active ATP hydrolysis</title>
-<author>Youyang Sia</author>
-<link>https://www.science.org/doi/10.1126/science.adu5654</link>
-<content:encoded><![CDATA[<p>Chromatin remodelers utilize the energy of adenosine triphosphate (ATP) hydrolysis
-            to slide nucleosomes, regulating chromatin structure and gene activity in cells. In
-            this work, we report structures of imitation switch (ISWI) bound to the nucleosome
-            ...</p><p></p><p>Youyang Sia</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
