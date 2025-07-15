@@ -5,6 +5,30 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02945-2</guid>
+<pubDate>Sun, 13 Jul 2025 16:00:00 GMT</pubDate>
+<title>Entanglement accelerates quantum simulation</title>
+<author>Qi ZhaoYou ZhouAndrew M. Childs</author>
+<link>https://www.nature.com/articles/s41567-025-02945-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02945-2/MediaObjects/41567_2025_2945_Fig1_HTML.png"><p></p><p>Large quantum systems with high entanglement are difficult to simulate with classical methods, but now it is shown that entanglement may be beneficial for quantum simulations.</p><p></p><p>Qi ZhaoYou ZhouAndrew M. Childs</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09367-3</guid>
+<pubDate>Sun, 13 Jul 2025 16:00:00 GMT</pubDate>
+<title>Experimental demonstration of logical magic state distillation</title>
+<author>Pedro Sales RodriguezJohn M. RobinsonSergio H. Cantú</author>
+<link>https://www.nature.com/articles/s41586-025-09367-3</link>
+<content:encoded><![CDATA[<p>Pedro Sales RodriguezJohn M. RobinsonSergio H. Cantú</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02978-7</guid>
+<pubDate>Sun, 13 Jul 2025 16:00:00 GMT</pubDate>
+<title>Ultrafast Pockels laser</title>
+<author>Lishu Wu</author>
+<link>https://www.nature.com/articles/s41567-025-02978-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02978-7/MediaObjects/41567_2025_2978_Figa_HTML.png"><p></p><p>Lishu Wu</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02952-3</guid>
 <pubDate>Thu, 10 Jul 2025 16:00:00 GMT</pubDate>
 <title>Measurement of phonon angular momentum</title>
@@ -379,30 +403,6 @@
 <author>Daniel González-CuadraMajd HamdanAlexei Bylinskii</author>
 <link>https://www.nature.com/articles/s41586-025-09051-6</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09051-6/MediaObjects/41586_2025_9051_Fig1_HTML.png"><p></p><p>A quantum simulation of a (2 + 1)-dimensional lattice gauge theory is carried out on a quantum computer working with neutral atoms trapped by optical tweezers in a Kagome geometry.</p><p></p><p>Daniel González-CuadraMajd HamdanAlexei Bylinskii</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01581-3</guid>
-<pubDate>Tue, 03 Jun 2025 16:00:00 GMT</pubDate>
-<title>Simulation of matter–antimatter creation on quantum platforms</title>
-<author>Michele Burrello</author>
-<link>https://www.nature.com/articles/d41586-025-01581-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01581-3/d41586-025-01581-3_51055350.jpg"><p></p><p>Two-dimensional quantum platforms have simulated a process in particle physics called string breaking that generates matter–antimatter pairs.</p><p></p><p>Michele Burrello</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-08999-9</guid>
-<pubDate>Tue, 03 Jun 2025 16:00:00 GMT</pubDate>
-<title>Visualizing dynamics of charges and strings in (2 + 1)D lattice gauge theories</title>
-<author>T. A. CochranB. JobstP. Roushan</author>
-<link>https://www.nature.com/articles/s41586-025-08999-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-08999-9/MediaObjects/41586_2025_8999_Fig1_HTML.png"><p></p><p>In a quantum simulation of a (2+1)D lattice gauge theory using a superconducting quantum processor, the dynamics of strings reveal the transition from deconfined to confined excitations as the effective electric field is increased.</p><p></p><p>T. A. CochranB. JobstP. Roushan</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09092-x</guid>
-<pubDate>Tue, 03 Jun 2025 16:00:00 GMT</pubDate>
-<title>A soft-clamped topological waveguide for phonons</title>
-<author>Xiang XiIlia ChernobrovkinAlbert Schliesser</author>
-<link>https://www.nature.com/articles/s41586-025-09092-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09092-x/MediaObjects/41586_2025_9092_Fig1_HTML.png"><p></p><p>A substantial reduction of losses in a phononic waveguide can be achieved by soft clamping, through which phonons can be guided through very sharp turns with losses accounting for less than one phonon in a million.</p><p></p><p>Xiang XiIlia ChernobrovkinAlbert Schliesser</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
