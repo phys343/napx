@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-02197-3</guid>
+<pubDate>Tue, 15 Jul 2025 16:00:00 GMT</pubDate>
+<title>The breakthrough proof bringing mathematics closer to a grand unified theory</title>
+<author>Ananyo Bhattacharya</author>
+<link>https://www.nature.com/articles/d41586-025-02197-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-02197-3/d41586-025-02197-3_51209060.jpg"><p></p><p>The Langlands programme has inspired and befuddled mathematicians for more than 50 years. A major advance has now opened up new worlds for them to explore.</p><p></p><p>Ananyo Bhattacharya</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02945-2</guid>
 <pubDate>Sun, 13 Jul 2025 16:00:00 GMT</pubDate>
 <title>Entanglement accelerates quantum simulation</title>
@@ -395,14 +403,6 @@
 <author>N/A</author>
 <link>https://www.nature.com/articles/d41586-025-01696-7</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01696-7/d41586-025-01696-7_51055366.png"><p></p><p>High-performance photonic integrated chips have been demonstrated that generate robust optical quantum bits called Gottesman–Kitaev–Preskill qubits. One such chip has been used to realize qubit states, reconstruct the quantum features of these states and verify the quality of the qubits.</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09051-6</guid>
-<pubDate>Tue, 03 Jun 2025 16:00:00 GMT</pubDate>
-<title>Observation of string breaking on a (2 + 1)D Rydberg quantum simulator</title>
-<author>Daniel González-CuadraMajd HamdanAlexei Bylinskii</author>
-<link>https://www.nature.com/articles/s41586-025-09051-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09051-6/MediaObjects/41586_2025_9051_Fig1_HTML.png"><p></p><p>A quantum simulation of a (2 + 1)-dimensional lattice gauge theory is carried out on a quantum computer working with neutral atoms trapped by optical tweezers in a Kagome geometry.</p><p></p><p>Daniel González-CuadraMajd HamdanAlexei Bylinskii</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
