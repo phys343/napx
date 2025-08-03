@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01707-z</guid>
+<pubDate>Thu, 31 Jul 2025 16:00:00 GMT</pubDate>
+<title>Theory, innovations and applications of stimulated Raman scattering microscopy</title>
+<author>Wei MinJi-Xin ChengYasuyuki Ozeki</author>
+<link>https://www.nature.com/articles/s41566-025-01707-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01707-z/MediaObjects/41566_2025_1707_Fig1_HTML.png"><p></p><p>This Review provides an overview of the theoretical foundations, recent advances and promising applications of Raman scattering microscopy.</p><p></p><p>Wei MinJi-Xin ChengYasuyuki Ozeki</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01726-w</guid>
+<pubDate>Thu, 31 Jul 2025 16:00:00 GMT</pubDate>
+<title>van der Waals materials for waveguide QED</title>
+<author>Alexander Poddubny</author>
+<link>https://www.nature.com/articles/s41566-025-01726-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01726-w/MediaObjects/41566_2025_1726_Fig1_HTML.png"><p></p><p>Guiding light is an essential task in optics, from optical fibres to compact nanoscale systems. Here, a few-atoms-thin MoTe2 layer embedded into a planar waveguide emits photons into waveguide modes that propagate coherently, paving the way for waveguide quantum electrodynamics with van der Waals materials.</p><p></p><p>Alexander Poddubny</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-02342-y</guid>
 <pubDate>Tue, 29 Jul 2025 16:00:00 GMT</pubDate>
 <title>Physicists disagree wildly on what quantum mechanics says about reality, Nature survey shows</title>
@@ -387,22 +403,6 @@
 <author>Alyssa Ney</author>
 <link>https://www.nature.com/articles/d41586-025-01773-x</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01773-x/d41586-025-01773-x_51060362.jpg"><p></p><p>Finally answering the most-vexed question in quantum theory might mean redefining what is real.</p><p></p><p>Alyssa Ney</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01701-5</guid>
-<pubDate>Thu, 05 Jun 2025 16:00:00 GMT</pubDate>
-<title>Harnessing micro-Fabry–Pérot reference cavities in photonic integrated circuits</title>
-<author>Haotian ChengChao XiangPeter T. Rakich</author>
-<link>https://www.nature.com/articles/s41566-025-01701-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01701-5/MediaObjects/41566_2025_1701_Fig1_HTML.png"><p></p><p>Self-injection locking of an on-chip laser to a milimetre-scale vacuum-gap Fabry–Pérot cavity is demonstrated, with a phase noise of –97 dBc Hz–1 at a 10-kHz offset frequency and a fractional frequency stability of 5 × 10−13 at 10 ms, enabling next-generation high-performance integrated systems.</p><p></p><p>Haotian ChengChao XiangPeter T. Rakich</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01797-3</guid>
-<pubDate>Wed, 04 Jun 2025 16:00:00 GMT</pubDate>
-<title>Quantum computers tackle unexplored particle physics</title>
-<author>Davide Castelvecchi</author>
-<link>https://www.nature.com/articles/d41586-025-01797-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01797-3/d41586-025-01797-3_51069132.jpg"><p></p><p>Two quantum-simulation experiments make a step towards understanding the forces between elementary particles.</p><p></p><p>Davide Castelvecchi</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
