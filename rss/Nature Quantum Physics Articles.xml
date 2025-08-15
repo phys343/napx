@@ -5,6 +5,30 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02990-x</guid>
+<pubDate>Thu, 14 Aug 2025 16:00:00 GMT</pubDate>
+<title>Efficient implementation of arbitrary two-qubit gates using unified control</title>
+<author>Zhen ChenWeiyang LiuFei Yan</author>
+<link>https://www.nature.com/articles/s41567-025-02990-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02990-x/MediaObjects/41567_2025_2990_Fig1_HTML.png"><p></p><p>The efficiency of a quantum computer depends on which basic operations it can implement. Now a scheme that can implement any two-qubit logic gate has been demonstrated on a superconducting architecture.</p><p></p><p>Zhen ChenWeiyang LiuFei Yan</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02961-2</guid>
+<pubDate>Thu, 14 Aug 2025 16:00:00 GMT</pubDate>
+<title>Entanglement and the density matrix renormalization group in the generalized Landau paradigm</title>
+<author>Laurens LootensClement DelcampFrank Verstraete</author>
+<link>https://www.nature.com/articles/s41567-025-02961-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02961-2/MediaObjects/41567_2025_2961_Fig1_HTML.png"><p></p><p>Quantum spin chains can be represented in several ways, and eigenstates in these dual models have different entanglement structures. By characterizing the dual theories, the optimal tensor network algorithm for simulating the models has been found.</p><p></p><p>Laurens LootensClement DelcampFrank Verstraete</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-02587-7</guid>
+<pubDate>Wed, 13 Aug 2025 16:00:00 GMT</pubDate>
+<title>Controversial quantum-computing paper gets hefty correction — but concerns linger</title>
+<author>Dan Garisto</author>
+<link>https://www.nature.com/articles/d41586-025-02587-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-02587-7/d41586-025-02587-7_51345886.jpg"><p></p><p>The journal Science has lifted an expression of concern on a paper claiming evidence of Majorana quasiparticles and added new details.</p><p></p><p>Dan Garisto</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02975-w</guid>
 <pubDate>Tue, 12 Aug 2025 16:00:00 GMT</pubDate>
 <title>A mechanical quantum memory for microwave photons</title>
@@ -379,30 +403,6 @@
 <author>Samuel K. BarteeWill GilbertDavid J. Reilly</author>
 <link>https://www.nature.com/articles/s41586-025-09157-x</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09157-x/MediaObjects/41586_2025_9157_Fig1_HTML.png"><p></p><p>CMOS-based circuits can be integrated with silicon-based spin qubits and can be controlled at milli-kelvin temperatures, which can potentially help scale up these systems.</p><p></p><p>Samuel K. BarteeWill GilbertDavid J. Reilly</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02941-6</guid>
-<pubDate>Mon, 23 Jun 2025 16:00:00 GMT</pubDate>
-<title>Quantum neural networks can be normal</title>
-<author>Jayne Thompson</author>
-<link>https://www.nature.com/articles/s41567-025-02941-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02941-6/MediaObjects/41567_2025_2941_Fig1_HTML.png"><p></p><p>As many classical neural networks get larger, they can be described as Gaussian processes, the generalization of the normal distribution to infinite dimensions. A similar connection has now been proven for quantum neural networks.</p><p></p><p>Jayne Thompson</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01709-x</guid>
-<pubDate>Thu, 19 Jun 2025 16:00:00 GMT</pubDate>
-<title>Ångström-tunable polarization-resolved solid-state photon sources</title>
-<author>Yinhui KanPaul C. V. ThraneSergey I. Bozhevolnyi</author>
-<link>https://www.nature.com/articles/s41566-025-01709-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01709-x/MediaObjects/41566_2025_1709_Fig1_HTML.png"><p></p><p>A platform based on quantum-emitter-embedded metasurfaces with a microcavity that can be tuned by a micro-electromechanical system is demonstrated, enabling dynamic photon emission with narrow bandwidth, ångström-level wavelength tunability and polarization switching.</p><p></p><p>Yinhui KanPaul C. V. ThraneSergey I. Bozhevolnyi</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02922-9</guid>
-<pubDate>Wed, 18 Jun 2025 16:00:00 GMT</pubDate>
-<title>Neutron scattering and thermodynamic evidence for emergent photons and fractionalization in a pyrochlore spin ice</title>
-<author>Bin GaoFélix DesrochersPengcheng Dai</author>
-<link>https://www.nature.com/articles/s41567-025-02922-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02922-9/MediaObjects/41567_2025_2922_Fig1_HTML.png"><p></p><p>Quantum spin-ice phases are predicted to have emergent gauge fields and fractionalization. Neutron scattering and thermodynamic measurements of the quantum spin-ice candidate Ce2Zr2O7 show features consistent with these predictions.</p><p></p><p>Bin GaoFélix DesrochersPengcheng Dai</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
