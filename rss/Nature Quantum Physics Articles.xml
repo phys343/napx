@@ -5,6 +5,94 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03004-6</guid>
+<pubDate>Thu, 21 Aug 2025 16:00:00 GMT</pubDate>
+<title>Magnon-polarons in the Fermi–Hubbard model</title>
+<author>Max L. PrichardZengli BaWaseem S. Bakr</author>
+<link>https://www.nature.com/articles/s41567-025-03004-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03004-6/MediaObjects/41567_2025_3004_Fig1_HTML.png"><p></p><p>In strongly correlated systems, how magnetic excitations are renormalized by charge carriers remains an open question. An experiment now reports the observation of magnon-polarons—magnons dressed by doped holes—in a Fermi–Hubbard quantum simulator.</p><p></p><p>Max L. PrichardZengli BaWaseem S. Bakr</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03002-8</guid>
+<pubDate>Wed, 20 Aug 2025 16:00:00 GMT</pubDate>
+<title>Universal quantum gate set for Gottesman–Kitaev–Preskill logical qubits</title>
+<author>V. G. MatsosC. H. ValahuT. R. Tan</author>
+<link>https://www.nature.com/articles/s41567-025-03002-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03002-8/MediaObjects/41567_2025_3002_Fig1_HTML.png"><p></p><p>There are many quantum systems that act as high-quality quantum harmonic oscillators, and they can be used to store quantum information using the Gottesman–Kitaev–Preskill code. Entangling gates have now been demonstrated between two of these qubits.</p><p></p><p>V. G. MatsosC. H. ValahuT. R. Tan</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03011-7</guid>
+<pubDate>Wed, 20 Aug 2025 16:00:00 GMT</pubDate>
+<title>Quantum logic with bosonic error correction</title>
+<author>Zhubing Jia</author>
+<link>https://www.nature.com/articles/s41567-025-03011-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03011-7/MediaObjects/41567_2025_3011_Fig1_HTML.png"><p></p><p>The most commonly pursued quantum error-correction schemes encode quantum information using multiple two-level qubits. Now, two logical qubits have been encoded in the infinite-dimensional bosonic motional degrees of freedom of a trapped ion.</p><p></p><p>Zhubing Jia</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02991-w</guid>
+<pubDate>Wed, 20 Aug 2025 16:00:00 GMT</pubDate>
+<title>Extended native gate sets to unlock the performance of quantum processors</title>
+<author>N/A</author>
+<link>https://www.nature.com/articles/s41567-025-02991-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02991-w/MediaObjects/41567_2025_2991_Fig1_HTML.png"><p></p><p>Quantum operations are modelled as unitary matrices, yet experimental implementations have been restricted to only a few gate types. This fundamental limitation has now been overcome using a scheme that combines frequency control with microwave driving, enabling universal implementation of arbitrary two-qubit operations.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09417-w</guid>
+<pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+<title>A fluorescent-protein spin qubit</title>
+<author>Jacob S. FederBenjamin S. SolowayPeter C. Maurer</author>
+<link>https://www.nature.com/articles/s41586-025-09417-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09417-w/MediaObjects/41586_2025_9417_Fig1_HTML.png"><p></p><p>An optically addressable fluorescent-protein spin qubit is realized using enhanced yellow fluorescent protein; the qubit can be coherently controlled at liquid-nitrogen temperatures and the spin detected at room temperature in cells.</p><p></p><p>Jacob S. FederBenjamin S. SolowayPeter C. Maurer</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09377-1</guid>
+<pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+<title>Realization of a doped quantum antiferromagnet in a Rydberg tweezer array</title>
+<author>Mu QiaoGabriel EmperaugerAntoine Browaeys</author>
+<link>https://www.nature.com/articles/s41586-025-09377-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09377-1/MediaObjects/41586_2025_9377_Fig1_HTML.png"><p></p><p>A doped quantum antiferromagnet is obtained by using a Rydberg tweezer array comprising three levels encoding spins and holes to implement a tunable model that allows the study of previously inaccessible parameter regimes.</p><p></p><p>Mu QiaoGabriel EmperaugerAntoine Browaeys</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09386-0</guid>
+<pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+<title>Proximity screening greatly enhances electronic quality of graphene</title>
+<author>Daniil DomaretskiyZefei WuAndre K. Geim</author>
+<link>https://www.nature.com/articles/s41586-025-09386-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09386-0/MediaObjects/41586_2025_9386_Fig1_HTML.png"><p></p><p>Screening by a graphite gate placed at 1 nm proximity to graphene produces transformative improvement in its electronic quality, reducing charge inhomogeneity by two orders of magnitude.</p><p></p><p>Daniil DomaretskiyZefei WuAndre K. Geim</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02971-0</guid>
+<pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+<title>Optical signatures of interlayer electron coherence in a bilayer semiconductor</title>
+<author>Xiaoling LiuNadine LeisgangMikhail D. Lukin</author>
+<link>https://www.nature.com/articles/s41567-025-02971-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02971-0/MediaObjects/41567_2025_2971_Fig1_HTML.png"><p></p><p>Condensates of excitons have been observed in the quantum Hall regime, but evidence for their existence at low magnetic fields remains controversial. Now evidence of coherence between optically pumped interlayer excitons in MoS2 marks a step towards confirming exciton condensation at low magnetic fields.</p><p></p><p>Xiaoling LiuNadine LeisgangMikhail D. Lukin</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09042-7</guid>
+<pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+<title>Electrochemical loading enhances deuterium fusion rates in a metal target</title>
+<author>Kuo-Yi ChenJannis MaiwaldCurtis P. Berlinguette</author>
+<link>https://www.nature.com/articles/s41586-025-09042-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09042-7/MediaObjects/41586_2025_9042_Fig1_HTML.png"><p></p><p>A benchtop fusion reactor, called the Thunderbird Reactor, is described, showing that electrochemically loading a metal lattice with deuterium could enhance nuclear fusion rates when that metal is also bombarded by deuterium ions.</p><p></p><p>Kuo-Yi ChenJannis MaiwaldCurtis P. Berlinguette</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09405-0</guid>
+<pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+<title>Experimental determination of partial charges with electron diffraction</title>
+<author>Soheil MahmoudiTim GrueneBernhard K. Keppler</author>
+<link>https://www.nature.com/articles/s41586-025-09405-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09405-0/MediaObjects/41586_2025_9405_Fig1_HTML.png"><p></p><p>An experimental method is used to assign partial charges based on crystal structure determination through electron diffraction, applicable to any crystalline compound.</p><p></p><p>Soheil MahmoudiTim GrueneBernhard K. Keppler</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02998-3</guid>
+<pubDate>Mon, 18 Aug 2025 16:00:00 GMT</pubDate>
+<title>Coherent control of magnon–polaritons using an exceptional point</title>
+<author>N. J. LambertJ. J. LongdellS. Rotter</author>
+<link>https://www.nature.com/articles/s41567-025-02998-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02998-3/MediaObjects/41567_2025_2998_Fig1_HTML.png"><p></p><p>Deterministic control of the gain–loss balance in non-Hermitian systems remains challenging. A magnonic hybrid platform is now shown to enable this and, hence, coherently control excitations by leveraging an exceptional point.</p><p></p><p>N. J. LambertJ. J. LongdellS. Rotter</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02990-x</guid>
 <pubDate>Thu, 14 Aug 2025 16:00:00 GMT</pubDate>
 <title>Efficient implementation of arbitrary two-qubit gates using unified control</title>
@@ -18,7 +106,7 @@
 <title>AI helps assemble ‘brain’ of future quantum computer</title>
 <author>Jenna  Ahart</author>
 <link>https://www.nature.com/articles/d41586-025-02577-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-02577-9/d41586-025-02577-9_51345924.jpg"><p></p><p>As a demonstration, AI system helps to make a miniature, high-speed animation of physicists’ favourite feline.</p><p></p><p>Jenna  Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-02577-9/d41586-025-02577-9_51345924.jpg"><p></p><p>As a demonstration, artificial-intelligence system helps to make a miniature, high-speed animation of physicists’ favourite feline.</p><p></p><p>Jenna  Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02961-2</guid>
@@ -315,94 +403,6 @@
 <author>Ahmet Kemal DemirLuca NessiRiccardo Comin</author>
 <link>https://www.nature.com/articles/s41566-025-01712-2</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01712-2/MediaObjects/41566_2025_1712_Fig1_HTML.png"><p></p><p>CrSBr, a van der Waals antiferromagnetic semiconductor, is used to fabricate photonic crystal slabs, featuring exceptional in situ control over optical behaviour and thus enabling precise manipulation of photonic modes at near-visible and infrared wavelengths.</p><p></p><p>Ahmet Kemal DemirLuca NessiRiccardo Comin</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-02110-y</guid>
-<pubDate>Wed, 02 Jul 2025 16:00:00 GMT</pubDate>
-<title>‘Tour de force’ experiment probes quantum tunnelling in action</title>
-<author>Elizabeth Gibney</author>
-<link>https://www.nature.com/articles/d41586-025-02110-y</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-02110-y/d41586-025-02110-y_51180268.jpg"><p></p><p>Probing photons inside a barrier also challenges a long-standing interpretation of quantum physics.</p><p></p><p>Elizabeth Gibney</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01702-4</guid>
-<pubDate>Wed, 02 Jul 2025 16:00:00 GMT</pubDate>
-<title>High-harmonic generation meets quantum optics</title>
-<author>Marcelo Ciappina</author>
-<link>https://www.nature.com/articles/s41566-025-01702-4</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01702-4/MediaObjects/41566_2025_1702_Fig1_HTML.png"><p></p><p>Quantum light is shown to perturb strong-field interactions in solids, revealing photon bunching in high-harmonic sidebands. The generation of attosecond non-classical states opens up quantum-enhanced photonics in novel temporal and spectral domains.</p><p></p><p>Marcelo Ciappina</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01710-4</guid>
-<pubDate>Wed, 02 Jul 2025 16:00:00 GMT</pubDate>
-<title>On-chip programmable nonlinearity</title>
-<author>Fei Xia</author>
-<link>https://www.nature.com/articles/s41566-025-01710-4</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01710-4/MediaObjects/41566_2025_1710_Fig1_HTML.png"><p></p><p>Programmable nonlinearities — including control over the response order up to high orders — can now be realized on-chip at ultralow power via field programmability. This advance paves the way for more scalable and energy-efficient photonic computing in applications such as machine learning, optical signal processing and communications, analogue computing and quantum photonics.</p><p></p><p>Fei Xia</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09224-3</guid>
-<pubDate>Tue, 01 Jul 2025 16:00:00 GMT</pubDate>
-<title>Hybrid quantum network for sensing in the acoustic frequency range</title>
-<author>Valeriy NovikovJun JiaEugene Simon Polzik</author>
-<link>https://www.nature.com/articles/s41586-025-09224-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09224-3/MediaObjects/41586_2025_9224_Fig1_HTML.png"><p></p><p>A hybrid quantum network combining entangled light with an atomic spin ensemble engineered to act as a negative-mass oscillator enables frequency-dependent quantum noise reduction for measurements in the acoustic noise frequency range relevant for gravitational-wave detection.</p><p></p><p>Valeriy NovikovJun JiaEugene Simon Polzik</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01715-z</guid>
-<pubDate>Mon, 30 Jun 2025 16:00:00 GMT</pubDate>
-<title>Resolving the phase of Fano resonance wave packets with photoelectron frequency-resolved optical gating</title>
-<author>Pengju ZhangHao LiangHans Jakob Wörner</author>
-<link>https://www.nature.com/articles/s41566-025-01715-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01715-z/MediaObjects/41566_2025_1715_Fig1_HTML.png"><p></p><p>The researchers demonstrate direct measurement and complete characterization of structured electronic wave packets created within a prototypical Fano resonance. The method may be broadly applicable to the study of ultrafast processes, especially electronic ones, in complex systems, as well as coherent control of such systems on their fundamental timescales.</p><p></p><p>Pengju ZhangHao LiangHans Jakob Wörner</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02946-1</guid>
-<pubDate>Thu, 26 Jun 2025 16:00:00 GMT</pubDate>
-<title>Atoms revolt against tweezer-imposed order</title>
-<author>A. VukicsP. Domokos</author>
-<link>https://www.nature.com/articles/s41567-025-02946-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02946-1/MediaObjects/41567_2025_2946_Fig1_HTML.png"><p></p><p>The combination of optical tweezer arrays with high-finesse cavities opens the door to the study of mesoscopic finite-size effects in the critical dynamics and optomechanical response of atomic ensembles.</p><p></p><p>A. VukicsP. Domokos</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09197-3</guid>
-<pubDate>Tue, 24 Jun 2025 16:00:00 GMT</pubDate>
-<title>Broadband transient full-Stokes luminescence spectroscopy</title>
-<author>Antti-Pekka M. ReponenMarcel MattesSascha Feldmann</author>
-<link>https://www.nature.com/articles/s41586-025-09197-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09197-3/MediaObjects/41586_2025_9197_Fig1_HTML.png"><p></p><p>A high-sensitivity, broadband, transient, full-Stokes spectroscopy setup is demonstrated, which can detect quickly varying small signals from chiral emitters.</p><p></p><p>Antti-Pekka M. ReponenMarcel MattesSascha Feldmann</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01713-9</guid>
-<pubDate>Tue, 24 Jun 2025 16:00:00 GMT</pubDate>
-<title>Droplets of three electrons behave like a liquid</title>
-<author>Masaya Kataoka</author>
-<link>https://www.nature.com/articles/d41586-025-01713-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01713-9/d41586-025-01713-9_51133720.png"><p></p><p>Experiments in which systems of interacting electrons are split apart reveal the signatures of a liquid-like state — even for as few as three electrons.</p><p></p><p>Masaya Kataoka</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09143-3</guid>
-<pubDate>Tue, 24 Jun 2025 16:00:00 GMT</pubDate>
-<title>Coherent bunching of anyons and dissociation in an interference experiment</title>
-<author>Bikash GhoshMaria LabendikDavid F. Mross</author>
-<link>https://www.nature.com/articles/s41586-025-09143-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09143-3/MediaObjects/41586_2025_9143_Fig1_HTML.png"><p></p><p>The coherent bunching of anyons and their dissociation was observed in an interference experiment.</p><p></p><p>Bikash GhoshMaria LabendikDavid F. Mross</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-01927-x</guid>
-<pubDate>Tue, 24 Jun 2025 16:00:00 GMT</pubDate>
-<title>Here’s why China’s science and innovation model is thriving</title>
-<author>Jacob   Dreyer</author>
-<link>https://www.nature.com/articles/d41586-025-01927-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-01927-x/d41586-025-01927-x_51140040.jpg"><p></p><p>A combination of government planning, academic ambition and bold entrepreneurship are hallmarks of the country’s success.</p><p></p><p>Jacob   Dreyer</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09138-0</guid>
-<pubDate>Tue, 24 Jun 2025 16:00:00 GMT</pubDate>
-<title>Soft magnetic hysteresis in a dysprosium amide–alkene complex up to 100 kelvin</title>
-<author>Jack Emerson-KingGemma K. GransburyDavid P. Mills</author>
-<link>https://www.nature.com/articles/s41586-025-09138-0</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09138-0/MediaObjects/41586_2025_9138_Fig1_HTML.png"><p></p><p>A dysprosium amide–alkene complex shows soft magnetic hysteresis loops up to 100 kelvin, arising from the high charge density of the amide ligands and the structural role of the pendant alkene.</p><p></p><p>Jack Emerson-KingGemma K. GransburyDavid P. Mills</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
