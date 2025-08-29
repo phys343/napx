@@ -5,6 +5,25 @@
 <link>https://www.science.org</link>
 <description>rss/Science Quantum Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx6176</guid>
+<pubDate>Thu, 28 Aug 2025 00:00:00 </pubDate>
+<title>Classical-decisive quantum internet by integrated photonics</title>
+<author>Yichi Zhang</author>
+<link>https://www.science.org/doi/10.1126/science.adx6176</link>
+<content:encoded><![CDATA[<p>Classical and quantum technologies have traditionally been viewed as orthogonal, with
+            classical systems being deterministic and quantum systems inherently probabilistic.
+            This distinction hinders the development of a scalable quantum internet even as the
+            ...</p><p></p><p>Yichi Zhang</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb7641</guid>
+<pubDate>Thu, 28 Aug 2025 00:00:00 </pubDate>
+<title>In Science Journals</title>
+<author>Angela Hessler</author>
+<link>https://www.science.org/doi/10.1126/science.aeb7641</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Angela Hessler</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ado1611</guid>
 <pubDate>Thu, 21 Aug 2025 00:00:00 </pubDate>
 <title>Electrical coherent driving of chiral antiferromagnet</title>
@@ -103,7 +122,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adu7710</guid>
-<pubDate>Thu, 28 Aug 2025 17:00:56 GMT</pubDate>
+<pubDate>Fri, 29 Aug 2025 17:00:17 GMT</pubDate>
 <title>Directly observing replica symmetry breaking in a vector quantum-optical spin glass</title>
 <author>Ronen M. Kroeze</author>
 <link>https://www.science.org/doi/10.1126/science.adu7710</link>
@@ -174,24 +193,6 @@
 <author>Adam Mann</author>
 <link>https://www.science.org/doi/10.1126/science.aeb4274</link>
 <content:encoded><![CDATA[<p></p><p></p><p>Adam Mann</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb4275</guid>
-<pubDate>Thu, 14 Aug 2025 00:00:00 </pubDate>
-<title>Europe eyes civilian science funding for defense research</title>
-<author>Elise Cutts</author>
-<link>https://www.science.org/doi/10.1126/science.aeb4275</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Elise Cutts</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adu2637</guid>
-<pubDate>Thu, 07 Aug 2025 00:00:00 </pubDate>
-<title>Imaging collective quantum fluctuations of the structure of a complex molecule</title>
-<author>Benoît Richard</author>
-<link>https://www.science.org/doi/10.1126/science.adu2637</link>
-<content:encoded><![CDATA[<p>Because of the Heisenberg uncertainty principle, the structure of a molecule fluctuates
-            about its mean geometry, even in the ground state. Observing this fundamental quantum
-            effect experimentally—particularly, revealing the collective nature of the ...</p><p></p><p>Benoît Richard</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
