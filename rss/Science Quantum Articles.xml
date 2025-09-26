@@ -5,6 +5,43 @@
 <link>https://www.science.org</link>
 <description>rss/Science Quantum Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adu0719</guid>
+<pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
+<title>Identification of short-range ordering motifs in semiconductors</title>
+<author>Lilian M. Vogl</author>
+<link>https://www.science.org/doi/10.1126/science.adu0719</link>
+<content:encoded><![CDATA[<p>Chemical short-range ordering is expected to be a key factor for tuning the electronic
+            structure of semiconductors. However, experimental evidence of short-range ordering
+            is still lacking due to the challenge of characterizing atomic-scale ordering ...</p><p></p><p>Lilian M. Vogl</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv2560</guid>
+<pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
+<title>Quantum learning advantage on a scalable photonic platform</title>
+<author>Zheng-Hao Liu</author>
+<link>https://www.science.org/doi/10.1126/science.adv2560</link>
+<content:encoded><![CDATA[<p>Recent advances in quantum technologies have demonstrated that quantum systems can
+            outperform classical ones in specific tasks, a concept known as quantum advantage.
+            Although previous efforts have focused on computational speedups, a definitive and
+            ...</p><p></p><p>Zheng-Hao Liu</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec5108</guid>
+<pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
+<title>In Science Journals</title>
+<author>Yury Suleymanov</author>
+<link>https://www.science.org/doi/10.1126/science.aec5108</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Yury Suleymanov</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec5123</guid>
+<pubDate>Thu, 25 Sep 2025 00:00:00 </pubDate>
+<title>NSF held captive</title>
+<author>Jeffrey Mervis</author>
+<link>https://www.science.org/doi/10.1126/science.aec5123</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Jeffrey Mervis</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx2202</guid>
 <pubDate>Thu, 18 Sep 2025 00:00:00 </pubDate>
 <title>Kinetic organization of the genome revealed by ultraresolution multiscale live imaging</title>
@@ -143,7 +180,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx1745</guid>
-<pubDate>Thu, 25 Sep 2025 17:00:43 GMT</pubDate>
+<pubDate>Fri, 26 Sep 2025 17:00:40 GMT</pubDate>
 <title>Electron accumulation across the perovskite layer enhances tandem solar cells with
                      textured silicon</title>
 <author>Oussama Er-raji</author>
@@ -159,43 +196,6 @@
 <author>Marc S. Lavine</author>
 <link>https://www.science.org/doi/10.1126/science.aeb8938</link>
 <content:encoded><![CDATA[<p></p><p></p><p>Marc S. Lavine</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb8939</guid>
-<pubDate>Thu, 04 Sep 2025 00:00:00 </pubDate>
-<title>In Other Journals</title>
-<author>Peter Stern</author>
-<link>https://www.science.org/doi/10.1126/science.aeb8939</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Peter Stern</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx6176</guid>
-<pubDate>Thu, 28 Aug 2025 00:00:00 </pubDate>
-<title>Classical-decisive quantum internet by integrated photonics</title>
-<author>Yichi Zhang</author>
-<link>https://www.science.org/doi/10.1126/science.adx6176</link>
-<content:encoded><![CDATA[<p>Classical and quantum technologies have traditionally been viewed as orthogonal, with
-            classical systems being deterministic and quantum systems inherently probabilistic.
-            This distinction hinders the development of a scalable quantum internet even as the
-            ...</p><p></p><p>Yichi Zhang</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb7641</guid>
-<pubDate>Thu, 28 Aug 2025 00:00:00 </pubDate>
-<title>In Science Journals</title>
-<author>Angela Hessler</author>
-<link>https://www.science.org/doi/10.1126/science.aeb7641</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Angela Hessler</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ado1611</guid>
-<pubDate>Thu, 21 Aug 2025 00:00:00 </pubDate>
-<title>Electrical coherent driving of chiral antiferromagnet</title>
-<author>Yutaro Takeuchi</author>
-<link>https://www.science.org/doi/10.1126/science.ado1611</link>
-<content:encoded><![CDATA[<p>Electric current driving of antiferromagnetic states at radio or higher frequencies
-            remains challenging to achieve. In this study, we report all-electrical, gigahertz-range
-            coherent driving of chiral antiferromagnet manganese-tin (Mn3Sn) nanodot samples. ...</p><p></p><p>Yutaro Takeuchi</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
