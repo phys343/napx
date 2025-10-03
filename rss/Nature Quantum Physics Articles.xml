@@ -5,6 +5,30 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01765-3</guid>
+<pubDate>Thu, 02 Oct 2025 16:00:00 GMT</pubDate>
+<title>Spin–photon interfaces in silicon</title>
+<author>Benjamin Pingault</author>
+<link>https://www.nature.com/articles/s41566-025-01765-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01765-3/MediaObjects/41566_2025_1765_Fig1_HTML.png"><p></p><p>Electrically induced single-photon emission and spin initialization of a silicon T centre in photonic structures is a promising step towards integrated spin–photon interfaces for quantum networks.</p><p></p><p>Benjamin Pingault</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03036-y</guid>
+<pubDate>Thu, 02 Oct 2025 16:00:00 GMT</pubDate>
+<title>Imaging isospin order in rhombohedral graphene reveals anisotropy in correlated states</title>
+<author>N/A</author>
+<link>https://www.nature.com/articles/s41567-025-03036-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03036-y/MediaObjects/41567_2025_3036_Fig1_HTML.png"><p></p><p>The microscopic magnetic textures of isospin symmetry-broken phases in rhombohedral tetralayer graphene have been directly imaged. By probing spin orientation and magnetic anisotropy at ultra-low fields, key energy scales — the spin–orbit coupling and intervalley Hund’s exchange — have been extracted, shedding new light on the phase hierarchy in strongly correlated electron systems.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01761-7</guid>
+<pubDate>Thu, 02 Oct 2025 16:00:00 GMT</pubDate>
+<title>A Compact Topological Microwave Isolator</title>
+<author>Alexander Cerjan</author>
+<link>https://www.nature.com/articles/s41566-025-01761-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01761-7/MediaObjects/41566_2025_1761_Fig1_HTML.png"><p></p><p>A central goal of topological photonics has been to develop compact isolators using protected, non-reciprocal edge states. A recent demonstration of a ferrite-based microwave isolator leverages the magnon-induced topological photonic bandgap to achieve over 100 dB of isolation in a device smaller than a single free-space wavelength.</p><p></p><p>Alexander Cerjan</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03035-z</guid>
 <pubDate>Wed, 01 Oct 2025 16:00:00 GMT</pubDate>
 <title>Isospin magnetic texture and intervalley exchange interaction in rhombohedral tetralayer graphene</title>
@@ -38,7 +62,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03051-z</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Cool nanoparticles</title>
 <author>Tania Monteiro</author>
 <link>https://www.nature.com/articles/s41567-025-03051-z</link>
@@ -46,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03031-3</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Sub-picosecond topological phase transition in nonlinear exciton–polariton superlattices</title>
 <author>Hefei ZhaoZheng GuanWenjing Liu</author>
 <link>https://www.nature.com/articles/s41567-025-03031-3</link>
@@ -54,7 +78,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09543-5</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Low-overhead transversal fault tolerance for universal quantum computation</title>
 <author>Hengyun ZhouChen ZhaoMikhail D. Lukin</author>
 <link>https://www.nature.com/articles/s41586-025-09543-5</link>
@@ -62,7 +86,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09641-4</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>A tweezer array with 6100 highly coherent atomic qubits</title>
 <author>Hannah J. ManetschGyohei NomuraManuel Endres</author>
 <link>https://www.nature.com/articles/s41586-025-09641-4</link>
@@ -70,7 +94,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09531-9</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Industry-compatible silicon spin-qubit unit cells exceeding 99% fidelity</title>
 <author>Paul SteinackerNard Dumoulin StuyckAndrew S. Dzurak</author>
 <link>https://www.nature.com/articles/s41586-025-09531-9</link>
@@ -78,7 +102,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01735-9</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Chip-scale electrically driven superconducting coherent photon sources for quantum information processing</title>
 <author>Kaveh Delfanazari</author>
 <link>https://www.nature.com/articles/s41566-025-01735-9</link>
@@ -86,7 +110,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03106-4</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Daily briefing: World’s first AI-designed viruses attack antibiotic-resistant bacteria</title>
 <author>Flora Graham</author>
 <link>https://www.nature.com/articles/d41586-025-03106-4</link>
@@ -94,7 +118,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03002-x</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Atomic ‘conveyor belt’ boosts power of quantum computer</title>
 <author>Davide Castelvecchi</author>
 <link>https://www.nature.com/articles/d41586-025-03002-x</link>
@@ -102,7 +126,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03027-z</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Acoustic phonon phase gates with number-resolving phonon detection</title>
 <author>Hong QiaoZhaoyou WangAndrew N. Cleland</author>
 <link>https://www.nature.com/articles/s41567-025-03027-z</link>
@@ -110,7 +134,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03026-0</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Constant-overhead magic state distillation</title>
 <author>Adam WillsMin-Hsiu HsiehHayata Yamasaki</author>
 <link>https://www.nature.com/articles/s41567-025-03026-0</link>
@@ -118,7 +142,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01750-w</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Topological microwave isolator with >100-dB isolation</title>
 <author>Gang WangLing Lu</author>
 <link>https://www.nature.com/articles/s41566-025-01750-w</link>
@@ -126,7 +150,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09596-6</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Continuous operation of a coherent 3,000-qubit system</title>
 <author>Neng-Chun ChiuElias C. TrappMikhail D. Lukin</author>
 <link>https://www.nature.com/articles/s41586-025-09596-6</link>
@@ -134,7 +158,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-02939-3</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Weird ‘time crystals’ are made visible at last</title>
 <author>Elizabeth Gibney</author>
 <link>https://www.nature.com/articles/d41586-025-02939-3</link>
@@ -142,7 +166,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09608-5</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Publisher Correction: Experimental determination of partial charges with electron diffraction</title>
 <author>Soheil MahmoudiTim GrueneBernhard K. Keppler</author>
 <link>https://www.nature.com/articles/s41586-025-09608-5</link>
@@ -150,7 +174,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03022-4</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:05 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:22 GMT</pubDate>
 <title>Parallelized telecom quantum networking with an ytterbium-171 atom array</title>
 <author>Lintao LiXiye HuJacob P. Covey</author>
 <link>https://www.nature.com/articles/s41567-025-03022-4</link>
@@ -158,7 +182,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01752-8</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Electrically triggered spin–photon devices in silicon</title>
 <author>Michael DobinsonCamille BownessDaniel B. Higginbottom</author>
 <link>https://www.nature.com/articles/s41566-025-01752-8</link>
@@ -166,7 +190,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09475-0</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Probing the Kitaev honeycomb model on a neutral-atom quantum computer</title>
 <author>Simon J. EveredMarcin KalinowskiMikhail D. Lukin</author>
 <link>https://www.nature.com/articles/s41586-025-09475-0</link>
@@ -174,7 +198,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09456-3</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Probing non-equilibrium topological order on a quantum processor</title>
 <author>M. WillT. A. CochranF. Pollmann</author>
 <link>https://www.nature.com/articles/s41586-025-09456-3</link>
@@ -182,7 +206,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09518-6</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Amplifying antigen-induced cellular responses with proximity labelling</title>
 <author>Shuojun LiYinghui MenShuo Han</author>
 <link>https://www.nature.com/articles/s41586-025-09518-6</link>
@@ -190,7 +214,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09506-w</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Stabilizing effect of amino acids on protein and colloidal dispersions</title>
 <author>Ting MaoXufeng XuFrancesco Stellacci</author>
 <link>https://www.nature.com/articles/s41586-025-09506-w</link>
@@ -198,7 +222,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03025-1</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Certifying almost all quantum states with few single-qubit measurements</title>
 <author>Hsin-Yuan HuangJohn PreskillMehdi Soleimanifar</author>
 <link>https://www.nature.com/articles/s41567-025-03025-1</link>
@@ -206,7 +230,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01748-4</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Photons learn to classify with a quantum edge</title>
 <author>Nicholas HarrisDarius Bunandar</author>
 <link>https://www.nature.com/articles/s41566-025-01748-4</link>
@@ -214,7 +238,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01734-w</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Taming photons on a chip</title>
 <author>Xiangyu HuangNa Liu</author>
 <link>https://www.nature.com/articles/s41566-025-01734-w</link>
@@ -222,7 +246,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09474-1</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>3D-printed micro ion trap technology for quantum information applications</title>
 <author>Shuqi XuXiaoxing XiaHartmut Häffner</author>
 <link>https://www.nature.com/articles/s41586-025-09474-1</link>
@@ -230,7 +254,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09384-2</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Training of physical neural networks</title>
 <author>Ali MomeniBabak RahmaniRomain Fleury</author>
 <link>https://www.nature.com/articles/s41586-025-09384-2</link>
@@ -238,7 +262,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-02787-1</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>These ‘glass straw’ optical fibres could speed up the Internet</title>
 <author>Davide Castelvecchi</author>
 <link>https://www.nature.com/articles/d41586-025-02787-1</link>
@@ -246,7 +270,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-02832-z</guid>
-<pubDate>Thu, 02 Oct 2025 17:00:06 GMT</pubDate>
+<pubDate>Fri, 03 Oct 2025 17:00:23 GMT</pubDate>
 <title>Daily briefing: Epigenetic atlas shows how ageing tweaks DNA</title>
 <author>Flora Graham</author>
 <link>https://www.nature.com/articles/d41586-025-02832-z</link>
@@ -379,30 +403,6 @@
 <author>N. J. LambertA. SchumerH. G. L. Schwefel</author>
 <link>https://www.nature.com/articles/s41567-025-02998-3</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02998-3/MediaObjects/41567_2025_2998_Fig1_HTML.png"><p></p><p>Deterministic control of the gain–loss balance in non-Hermitian systems remains challenging. A magnonic hybrid platform is now shown to enable this and, hence, coherently control excitations by leveraging an exceptional point.</p><p></p><p>N. J. LambertA. SchumerH. G. L. Schwefel</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02990-x</guid>
-<pubDate>Thu, 14 Aug 2025 16:00:00 GMT</pubDate>
-<title>Efficient implementation of arbitrary two-qubit gates using unified control</title>
-<author>Zhen ChenWeiyang LiuFei Yan</author>
-<link>https://www.nature.com/articles/s41567-025-02990-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02990-x/MediaObjects/41567_2025_2990_Fig1_HTML.png"><p></p><p>The efficiency of a quantum computer depends on which basic operations it can implement. Now a scheme that can implement any two-qubit logic gate has been demonstrated on a superconducting architecture.</p><p></p><p>Zhen ChenWeiyang LiuFei Yan</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-02577-9</guid>
-<pubDate>Thu, 14 Aug 2025 16:00:00 GMT</pubDate>
-<title>AI helps assemble ‘brain’ of future quantum computer</title>
-<author>Jenna  Ahart</author>
-<link>https://www.nature.com/articles/d41586-025-02577-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-02577-9/d41586-025-02577-9_51345924.jpg"><p></p><p>As a demonstration, artificial-intelligence system helps to make a miniature, high-speed animation of physicists’ favourite feline.</p><p></p><p>Jenna  Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-02961-2</guid>
-<pubDate>Thu, 14 Aug 2025 16:00:00 GMT</pubDate>
-<title>Entanglement and the density matrix renormalization group in the generalized Landau paradigm</title>
-<author>Laurens LootensClement DelcampFrank Verstraete</author>
-<link>https://www.nature.com/articles/s41567-025-02961-2</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-02961-2/MediaObjects/41567_2025_2961_Fig1_HTML.png"><p></p><p>Quantum spin chains can be represented in several ways, and eigenstates in these dual models have different entanglement structures. By characterizing the dual theories, the optimal tensor network algorithm for simulating the models has been found.</p><p></p><p>Laurens LootensClement DelcampFrank Verstraete</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
