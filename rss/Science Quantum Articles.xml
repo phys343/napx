@@ -5,6 +5,32 @@
 <link>https://www.science.org</link>
 <description>rss/Science Quantum Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ado6830</guid>
+<pubDate>Fri, 10 Oct 2025 17:01:22 GMT</pubDate>
+<title>Locating the missing chlorophylls f in far-red photosystem I</title>
+<author>Giovanni Consoli</author>
+<link>https://www.science.org/doi/10.1126/science.ado6830</link>
+<content:encoded><![CDATA[<p>The discovery of chlorophyll f-containing photosystems, with their long-wavelength
+            photochemistry, represented a distinct, low-energy paradigm for oxygenic photosynthesis.
+            Structural studies on chlorophyll f-containing photosystem I could identify some ...</p><p></p><p>Giovanni Consoli</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec8709</guid>
+<pubDate>Thu, 09 Oct 2025 00:00:00 </pubDate>
+<title>In Other Journals</title>
+<author>Sacha Vignieri</author>
+<link>https://www.science.org/doi/10.1126/science.aec8709</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Sacha Vignieri</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec9016</guid>
+<pubDate>Thu, 09 Oct 2025 00:00:00 </pubDate>
+<title>Quantum effects in circuits honored with Physics Nobel</title>
+<author>Adrian Cho</author>
+<link>https://www.science.org/doi/10.1126/science.aec9016</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Adrian Cho</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adq2541</guid>
 <pubDate>Thu, 02 Oct 2025 00:00:00 </pubDate>
 <title>Lithium-ion intercalation by coupled ion-electron transfer</title>
@@ -17,7 +43,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adu0401</guid>
-<pubDate>Thu, 09 Oct 2025 17:00:52 GMT</pubDate>
+<pubDate>Fri, 10 Oct 2025 17:01:22 GMT</pubDate>
 <title>Observation of undepleted phosphine in the atmosphere of a low-temperature brown dwarf</title>
 <author>Adam J. Burgasser</author>
 <link>https://www.science.org/doi/10.1126/science.adu0401</link>
@@ -166,37 +192,6 @@
 <content:encoded><![CDATA[<p>Photosystem I (PSI) is a pigment-protein complex, which converts light energy into
             chemical energy in photosynthesis. Among photosynthetic organisms, PSI-LHC (light-harvesting
             complex) structures exhibit substantial differences in their sizes, reflecting ...</p><p></p><p>Lili Shen</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady0247</guid>
-<pubDate>Thu, 11 Sep 2025 00:00:00 </pubDate>
-<title>A main-group metal carbonyl complex: Structure and isomerization to a carbene-stabilized
-                     tin atom</title>
-<author>Maximilian Dietz</author>
-<link>https://www.science.org/doi/10.1126/science.ady0247</link>
-<content:encoded><![CDATA[<p>In contrast to transition elements, s- and p-block metal compounds that coordinate
-            carbon monoxide (CO) under near-ambient conditions are elusive. Here, we report an
-            isolable, crystalline main-group metal carbonyl complex and its isomerization to a
-            ...</p><p></p><p>Maximilian Dietz</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady1723</guid>
-<pubDate>Thu, 11 Sep 2025 00:00:00 </pubDate>
-<title>Microcanonical kinetics of water-mediated proton transfer in microhydrated 4-aminobenzoic
-                     acid</title>
-<author>Abhijit Rana</author>
-<link>https://www.science.org/doi/10.1126/science.ady1723</link>
-<content:encoded><![CDATA[<p>Isolated cluster systems can help to elucidate the molecular level description of
-            water-mediated proton transfer. Protonation of neutral 4-aminobenzoic acid (4ABA)
-            occurs at the acid (O-protomer) and amine (N-protomer) functionalities, yielding two ...</p><p></p><p>Abhijit Rana</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec1442</guid>
-<pubDate>Thu, 11 Sep 2025 00:00:00 </pubDate>
-<title>In Science Journals</title>
-<author>Bianca Lopez</author>
-<link>https://www.science.org/doi/10.1126/science.aec1442</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Bianca Lopez</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
