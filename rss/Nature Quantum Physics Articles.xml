@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09687-4</guid>
+<pubDate>Tue, 04 Nov 2025 16:00:00 GMT</pubDate>
+<title>Millisecond lifetimes and coherence times in 2D transmon qubits</title>
+<author>Matthew P. BlandFaranak BahramiAndrew A. Houck</author>
+<link>https://www.nature.com/articles/s41586-025-09687-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09687-4/MediaObjects/41586_2025_9687_Fig1_HTML.png"><p></p><p>A materials platform using tantalum as a base layer and silicon as the substrate to construct superconducting qubits enables device performance improvements such as millisecond lifetimes and coherence times, as well as high time-averaged quality factors.</p><p></p><p>Matthew P. BlandFaranak BahramiAndrew A. Houck</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03617-0</guid>
+<pubDate>Tue, 04 Nov 2025 16:00:00 GMT</pubDate>
+<title>Chinese scientists increasingly lead joint projects with the UK, US and Europe</title>
+<author>Mohana Basu</author>
+<link>https://www.nature.com/articles/d41586-025-03617-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03617-0/d41586-025-03617-0_51670520.jpg"><p></p><p>Although China needs to strengthen its leadership in artificial intelligence, semiconductors and energy, say researchers.</p><p></p><p>Mohana Basu</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01792-0</guid>
 <pubDate>Mon, 03 Nov 2025 16:00:00 GMT</pubDate>
 <title>Quantum fusion of independent networks based on multi-user entanglement swapping</title>
@@ -358,7 +374,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03051-z</guid>
-<pubDate>Tue, 04 Nov 2025 17:00:23 GMT</pubDate>
+<pubDate>Wed, 05 Nov 2025 17:00:28 GMT</pubDate>
 <title>Cool nanoparticles</title>
 <author>Tania Monteiro</author>
 <link>https://www.nature.com/articles/s41567-025-03051-z</link>
@@ -366,7 +382,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03031-3</guid>
-<pubDate>Tue, 04 Nov 2025 17:00:23 GMT</pubDate>
+<pubDate>Wed, 05 Nov 2025 17:00:28 GMT</pubDate>
 <title>Sub-picosecond topological phase transition in nonlinear exciton–polariton superlattices</title>
 <author>Hefei ZhaoZheng GuanWenjing Liu</author>
 <link>https://www.nature.com/articles/s41567-025-03031-3</link>
@@ -374,7 +390,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09543-5</guid>
-<pubDate>Tue, 04 Nov 2025 17:00:23 GMT</pubDate>
+<pubDate>Wed, 05 Nov 2025 17:00:28 GMT</pubDate>
 <title>Low-overhead transversal fault tolerance for universal quantum computation</title>
 <author>Hengyun ZhouChen ZhaoMikhail D. Lukin</author>
 <link>https://www.nature.com/articles/s41586-025-09543-5</link>
@@ -382,27 +398,11 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09641-4</guid>
-<pubDate>Tue, 04 Nov 2025 17:00:23 GMT</pubDate>
+<pubDate>Wed, 05 Nov 2025 17:00:28 GMT</pubDate>
 <title>A tweezer array with 6,100 highly coherent atomic qubits</title>
 <author>Hannah J. ManetschGyohei NomuraManuel Endres</author>
 <link>https://www.nature.com/articles/s41586-025-09641-4</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09641-4/MediaObjects/41586_2025_9641_Fig1_HTML.png"><p></p><p>An array of optical tweezers trapping 6,100 neutral-atom qubits in 12,000 sites is experimentally realized, demonstrating performance exceeding present technologies and enabling the prospect of large-scale quantum computing and quantum error correction.</p><p></p><p>Hannah J. ManetschGyohei NomuraManuel Endres</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09531-9</guid>
-<pubDate>Tue, 04 Nov 2025 17:00:23 GMT</pubDate>
-<title>Industry-compatible silicon spin-qubit unit cells exceeding 99% fidelity</title>
-<author>Paul SteinackerNard Dumoulin StuyckAndrew S. Dzurak</author>
-<link>https://www.nature.com/articles/s41586-025-09531-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09531-9/MediaObjects/41586_2025_9531_Fig1_HTML.png"><p></p><p>Two-qubit operations exceeding 99% fidelity have been demonstrated by silicon devices made with standard semiconductor tooling in a 300-mm foundry environment.</p><p></p><p>Paul SteinackerNard Dumoulin StuyckAndrew S. Dzurak</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01735-9</guid>
-<pubDate>Tue, 04 Nov 2025 17:00:23 GMT</pubDate>
-<title>Chip-scale electrically driven superconducting coherent photon sources for quantum information processing</title>
-<author>Kaveh Delfanazari</author>
-<link>https://www.nature.com/articles/s41566-025-01735-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01735-9/MediaObjects/41566_2025_1735_Fig1_HTML.png"><p></p><p>This Review highlights chip-scale superconducting coherent photon source technologies and their rich potential as an important integrated quantum hardware to advance quantum information processing and communication networks.</p><p></p><p>Kaveh Delfanazari</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
