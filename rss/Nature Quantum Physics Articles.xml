@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09848-5</guid>
+<pubDate>Sun, 09 Nov 2025 16:00:00 GMT</pubDate>
+<title>A fault-tolerant neutral-atom architecture for universal quantum computation</title>
+<author>Dolev BluvsteinAlexandra A. GeimMikhail D. Lukin</author>
+<link>https://www.nature.com/articles/s41586-025-09848-5</link>
+<content:encoded><![CDATA[<p>Dolev BluvsteinAlexandra A. GeimMikhail D. Lukin</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03072-8</guid>
 <pubDate>Thu, 06 Nov 2025 16:00:00 GMT</pubDate>
 <title>Fractional quantization in insulators from Hall to Chern</title>
@@ -395,14 +403,6 @@
 <author>Weijie WuEmily J. DavisNorman Y. Yao</author>
 <link>https://www.nature.com/articles/s41586-025-09524-8</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09524-8/MediaObjects/41586_2025_9524_Fig1_HTML.png"><p></p><p>An ensemble of spins from nitrogen–vacancy centres in diamonds is prepared in a spin-squeezed state.</p><p></p><p>Weijie WuEmily J. DavisNorman Y. Yao</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09452-7</guid>
-<pubDate>Tue, 30 Sep 2025 16:00:00 GMT</pubDate>
-<title>Signal amplification in a solid-state sensor through asymmetric many-body echo</title>
-<author>Haoyang GaoLeigh S. MartinMikhail D. Lukin</author>
-<link>https://www.nature.com/articles/s41586-025-09452-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09452-7/MediaObjects/41586_2025_9452_Fig1_HTML.png"><p></p><p>The experimental demonstration of many-body signal amplification in a solid-state, room-temperature quantum sensor is reported.</p><p></p><p>Haoyang GaoLeigh S. MartinMikhail D. Lukin</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
