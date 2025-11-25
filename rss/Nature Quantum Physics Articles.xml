@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03100-7</guid>
+<pubDate>Sun, 23 Nov 2025 16:00:00 GMT</pubDate>
+<title>Electric toroidal invariance generates distinct transverse electromagnetic responses</title>
+<author>Kai DuDaegeun JoSang-Wook Cheong</author>
+<link>https://www.nature.com/articles/s41567-025-03100-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03100-7/MediaObjects/41567_2025_3100_Fig1_HTML.png"><p></p><p>Magnetic toroidal invariance generates transverse electromagnetic effects in materials with broken symmetries. Now a distinct magnetic response is shown to emerge in ferro-rotational systems in which both inversion and time-reversal symmetries are preserved.</p><p></p><p>Kai DuDaegeun JoSang-Wook Cheong</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01795-x</guid>
 <pubDate>Thu, 20 Nov 2025 16:00:00 GMT</pubDate>
 <title>Progress in quantum structured light</title>
@@ -395,14 +403,6 @@
 <author>Leo Joon Il MoonPaul M. SchindlerAshok Ajoy</author>
 <link>https://www.nature.com/articles/s41567-025-03028-y</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03028-y/MediaObjects/41567_2025_3028_Fig1_HTML.png"><p></p><p>Previous work on periodically driven many-body systems has demonstrated the formation of time crystals that break time-translation symmetry. Now, more general phases with partial temporal ordering have been realized.</p><p></p><p>Leo Joon Il MoonPaul M. SchindlerAshok Ajoy</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03045-x</guid>
-<pubDate>Mon, 13 Oct 2025 16:00:00 GMT</pubDate>
-<title>Ultrafast topological control</title>
-<author>Hyun Gyu SongSu-Hyun Gong</author>
-<link>https://www.nature.com/articles/s41567-025-03045-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03045-x/MediaObjects/41567_2025_3045_Fig1_HTML.png"><p></p><p>Exciton–polariton superlattices allow sub-picosecond switching of topological phases, paving the way for ultrafast and reconfigurable topological photonic devices.</p><p></p><p>Hyun Gyu SongSu-Hyun Gong</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
