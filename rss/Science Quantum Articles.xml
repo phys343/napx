@@ -5,6 +5,14 @@
 <link>https://www.science.org</link>
 <description>rss/Science Quantum Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee0605</guid>
+<pubDate>Tue, 25 Nov 2025 17:00:44 GMT</pubDate>
+<title>Accelerating science with AI</title>
+<author>Darío Gil</author>
+<link>https://www.science.org/doi/10.1126/science.aee0605</link>
+<content:encoded><![CDATA[<p>Darío Gil</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adq7082</guid>
 <pubDate>Thu, 20 Nov 2025 00:00:00 </pubDate>
 <title>Realization of a Rydberg-dressed extended Bose-Hubbard model</title>
@@ -56,7 +64,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adw5137</guid>
-<pubDate>Mon, 24 Nov 2025 17:00:54 GMT</pubDate>
+<pubDate>Tue, 25 Nov 2025 17:00:44 GMT</pubDate>
 <title>Termination of the integrated stress response</title>
 <author>Claudia De Miguel</author>
 <link>https://www.science.org/doi/10.1126/science.adw5137</link>
@@ -77,7 +85,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea3381</guid>
-<pubDate>Mon, 24 Nov 2025 17:00:54 GMT</pubDate>
+<pubDate>Tue, 25 Nov 2025 17:00:44 GMT</pubDate>
 <title>A whole-brain single-cell atlas of circadian neural activity in mice</title>
 <author>Katsunari Yamashita</author>
 <link>https://www.science.org/doi/10.1126/science.aea3381</link>
@@ -141,7 +149,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv8376</guid>
-<pubDate>Mon, 24 Nov 2025 17:00:54 GMT</pubDate>
+<pubDate>Tue, 25 Nov 2025 17:00:45 GMT</pubDate>
 <title>Experimental evidence for nodal superconducting gap in moiré graphene</title>
 <author>Jeong Min Park</author>
 <link>https://www.science.org/doi/10.1126/science.adv8376</link>
@@ -188,16 +196,6 @@
 <author>Rachel Wood</author>
 <link>https://www.science.org/doi/10.1126/science.aed6116</link>
 <content:encoded><![CDATA[<p></p><p></p><p>Rachel Wood</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adn9391</guid>
-<pubDate>Thu, 30 Oct 2025 00:00:00 </pubDate>
-<title>Porous materials: The next frontier in energy technologies</title>
-<author>Eliyahu M. Farber</author>
-<link>https://www.science.org/doi/10.1126/science.adn9391</link>
-<content:encoded><![CDATA[<p>Porous materials with pore sizes spanning the range from molecular to macroscopic
-            dimensions (from angstroms to centimeters) are essential in electrochemical, thermoelectric,
-            nuclear, and solar power sources and in the extraction of oil, gas, and ...</p><p></p><p>Eliyahu M. Farber</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
