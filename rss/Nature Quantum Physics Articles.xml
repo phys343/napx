@@ -5,6 +5,78 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03102-5</guid>
+<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+<title>Fault-tolerant quantum computation with polylogarithmic time and constant space overheads</title>
+<author>Shiro TamiyaMasato KoashiHayata Yamasaki</author>
+<link>https://www.nature.com/articles/s41567-025-03102-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03102-5/MediaObjects/41567_2025_3102_Fig1_HTML.png"><p></p><p>Quantum low-density parity-check codes are anticipated to be an efficient approach to quantum error correction. Now it has been proven that these codes can be time-efficient with only a constant overhead in the required number of qubits.</p><p></p><p>Shiro TamiyaMasato KoashiHayata Yamasaki</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01806-x</guid>
+<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+<title>A large-scale reconfigurable multiplexed quantum photonic network</title>
+<author>Natalia Herrera ValenciaAnnameng MaMehul Malik</author>
+<link>https://www.nature.com/articles/s41566-025-01806-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01806-x/MediaObjects/41566_2025_1806_Fig1_HTML.png"><p></p><p>A reconfigurable eight-user photonic network is realized by connecting two local four-user networks through a programmable 8 × 8-dimensional multi-port device. Multiplexed routing and swapping of qubit entanglement are demonstrated for all network configurations and channels.</p><p></p><p>Natalia Herrera ValenciaAnnameng MaMehul Malik</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03086-2</guid>
+<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+<title>Learning quantum states of continuous-variable systems</title>
+<author>Francesco A. MeleAntonio A. MeleSalvatore F. E. Oliviero</author>
+<link>https://www.nature.com/articles/s41567-025-03086-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03086-2/MediaObjects/41567_2025_3086_Fig1_HTML.png"><p></p><p>Finding a classical description of a quantum state can require resource-intensive tomography protocols. It has now been shown that, for bosonic systems, tomography is extremely inefficient in general, but can be done efficiently for some useful states.</p><p></p><p>Francesco A. MeleAntonio A. MeleSalvatore F. E. Oliviero</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09790-6</guid>
+<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+<title>Entanglement-enhanced nanoscale single-spin sensing</title>
+<author>Xu ZhouMengqi WangJiangfeng Du</author>
+<link>https://www.nature.com/articles/s41586-025-09790-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09790-6/MediaObjects/41586_2025_9790_Fig1_HTML.png"><p></p><p>An entanglement-enhanced sensing strategy making use of entangled nitrogen–vacancy pairs is described, demonstrating a 3.4-fold improvement in sensitivity and a 1.6-fold improvement in spatial resolution relative to single nitrogen–vacancy centres under ambient conditions.</p><p></p><p>Xu ZhouMengqi WangJiangfeng Du</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09767-5</guid>
+<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+<title>Operating two exchange-only qubits in parallel</title>
+<author>Mateusz T. MądzikFlorian LuthiJames S. Clarke</author>
+<link>https://www.nature.com/articles/s41586-025-09767-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09767-5/MediaObjects/41586_2025_9767_Fig1_HTML.png"><p></p><p>Parallel operation of two exchange-only qubits consisting of six quantum dots arranged linearly is shown to be achievable and maintains qubit control quality compared with sequential operation, with potential for use in scaled quantum computing.</p><p></p><p>Mateusz T. MądzikFlorian LuthiJames S. Clarke</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09760-y</guid>
+<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+<title>Multi-qubit nanoscale sensing with entanglement as a resource</title>
+<author>Jared RovnyShimon KolkowitzNathalie P. de Leon</author>
+<link>https://www.nature.com/articles/s41586-025-09760-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09760-y/MediaObjects/41586_2025_9760_Fig1_HTML.png"><p></p><p>Controlling pairs of nitrogen vacancy centres enables the measurement of magnetic correlations below the optical diffraction limit, and the use of entangled pairs shows a linear scaling of the measurement sensitivity with readout noise, as opposed to the quadratic scaling that would be obtained with unentangled spins.</p><p></p><p>Jared RovnyShimon KolkowitzNathalie P. de Leon</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03890-z</guid>
+<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+<title>Trump's AI ‘Genesis Mission': what are the risks and opportunities?</title>
+<author>Elizabeth GibneyAlexandra WitzeJenna Ahart</author>
+<link>https://www.nature.com/articles/d41586-025-03890-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03890-z/d41586-025-03890-z_51762454.jpg"><p></p><p>National laboratories have been instructed to broaden access to their data sets to accelerate research as part of the federal government's AI platform. But who stands to benefit?</p><p></p><p>Elizabeth GibneyAlexandra WitzeJenna Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01780-4</guid>
+<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+<title>Electrical control of photon spin angular momentum in organic electroluminescent materials</title>
+<author>Francesco FurlanMichal ŠámalMatthew J. Fuchter</author>
+<link>https://www.nature.com/articles/s41566-025-01780-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01780-4/MediaObjects/41566_2025_1780_Fig1_HTML.png"><p></p><p>Electrical tuning of the recombination zone in circularly polarized (CP) OLEDs enables switching the CP generation mechanism between normal and anomalous CP electroluminescence. This is exploited to electrically control the handedness of emitted CP light from the same device with the same enantiomer material.</p><p></p><p>Francesco FurlanMichal ŠámalMatthew J. Fuchter</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03853-4</guid>
+<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
+<title>Why the world must wake up to China’s science leadership</title>
+<author>Kerry Brown</author>
+<link>https://www.nature.com/articles/d41586-025-03853-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03853-4/d41586-025-03853-4_51711008.jpg"><p></p><p>The nation’s next generation of scientists and technologists will shape the coming decades.</p><p></p><p>Kerry Brown</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03592-6</guid>
 <pubDate>Mon, 24 Nov 2025 16:00:00 GMT</pubDate>
 <title>Thirty years of Bose–Einstein condensation</title>
@@ -331,78 +403,6 @@
 <author>James O’SullivanJaime TravesedoEmmanuel Flurin</author>
 <link>https://www.nature.com/articles/s41567-025-03049-7</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03049-7/MediaObjects/41567_2025_3049_Fig1_HTML.png"><p></p><p>Nuclear spins in solid-state systems can have very long coherence times, which makes them attractive for use as qubits. Now a nuclear spin qubit device has been developed with all-microwave two-qubit control that has important performance benefits.</p><p></p><p>James O’SullivanJaime TravesedoEmmanuel Flurin</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03046-w</guid>
-<pubDate>Tue, 21 Oct 2025 16:00:00 GMT</pubDate>
-<title>Practical limits on entanglement manipulation</title>
-<author>Kun Fang</author>
-<link>https://www.nature.com/articles/s41567-025-03046-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03046-w/MediaObjects/41567_2025_3046_Fig1_HTML.png"><p></p><p>Entanglement is a powerful resource for quantum technologies but real-world computation limits can drastically change what is achievable. Now research reveals that computational constraints reshape our understanding of entanglement manipulation.</p><p></p><p>Kun Fang</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09527-5</guid>
-<pubDate>Tue, 21 Oct 2025 16:00:00 GMT</pubDate>
-<title>Optimization by decoded quantum interferometry</title>
-<author>Stephen P. JordanNoah ShuttyRyan Babbush</author>
-<link>https://www.nature.com/articles/s41586-025-09527-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09527-5/MediaObjects/41586_2025_9527_Fig1_HTML.png"><p></p><p>Decoded quantum interferometry is a quantum algorithm that uses the quantum Fourier transform to reduce optimization problems to decoding problems.</p><p></p><p>Stephen P. JordanNoah ShuttyRyan Babbush</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03132-2</guid>
-<pubDate>Tue, 21 Oct 2025 16:00:00 GMT</pubDate>
-<title>Is there a ‘smoking gun’ test for quantum gravity?</title>
-<author>Zachary Weller-Davies</author>
-<link>https://www.nature.com/articles/d41586-025-03132-2</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03132-2/d41586-025-03132-2_51595998.png"><p></p><p>Quantum-entanglement experiments have been proposed as a way to test whether gravity is quantum, but getting definitive proof might be harder than previously thought.</p><p></p><p>Zachary Weller-Davies</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03064-8</guid>
-<pubDate>Sun, 19 Oct 2025 16:00:00 GMT</pubDate>
-<title>Cavity electrodynamics of van der Waals heterostructures</title>
-<author>Gunda KippHope M. BretscherJames W. McIver</author>
-<link>https://www.nature.com/articles/s41567-025-03064-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03064-8/MediaObjects/41567_2025_3064_Fig1_HTML.png"><p></p><p>Integrating an electronic device with a cavity can cause the electrons to couple to photons strongly enough to form hybrid modes. Now, the cavity effects induced by intrinsic graphite gates are shown to modify the low-energy properties of graphene.</p><p></p><p>Gunda KippHope M. BretscherJames W. McIver</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03070-w</guid>
-<pubDate>Thu, 16 Oct 2025 16:00:00 GMT</pubDate>
-<title>Demonstration of dynamic surface codes</title>
-<author>Alec EickbuschMatt McEwenAlexis Morvan</author>
-<link>https://www.nature.com/articles/s41567-025-03070-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03070-w/MediaObjects/41567_2025_3070_Fig1_HTML.png"><p></p><p>Typical quantum error correcting codes assign fixed roles to the underlying physical qubits. Now the performance benefits of alternative, dynamic error correction schemes have been demonstrated on a superconducting quantum processor.</p><p></p><p>Alec EickbuschMatt McEwenAlexis Morvan</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03033-1</guid>
-<pubDate>Wed, 15 Oct 2025 16:00:00 GMT</pubDate>
-<title>Electrons herald non-classical light</title>
-<author>Germaine ArendGuanhao HuangClaus Ropers</author>
-<link>https://www.nature.com/articles/s41567-025-03033-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03033-1/MediaObjects/41567_2025_3033_Fig1_HTML.png"><p></p><p>When free electrons emit light, an entangled electron–photon state is created. Here measurements of the correlated multiparticle system have been used to produce non-classical photonic states.</p><p></p><p>Germaine ArendGuanhao HuangClaus Ropers</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09583-x</guid>
-<pubDate>Tue, 14 Oct 2025 16:00:00 GMT</pubDate>
-<title>Efficient quantum thermal simulation</title>
-<author>Chi-Fang ChenMichael KastoryanoAndrás Gilyén</author>
-<link>https://www.nature.com/articles/s41586-025-09583-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09583-x/MediaObjects/41586_2025_9583_Fig1_HTML.png"><p></p><p>An efficient quantum thermal simulation algorithm that exhibits detailed balance, respects locality, and serves as a self-contained model for thermalization in open quantum systems.</p><p></p><p>Chi-Fang ChenMichael KastoryanoAndrás Gilyén</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09616-5</guid>
-<pubDate>Tue, 14 Oct 2025 16:00:00 GMT</pubDate>
-<title>Spatial metabolic gradients in the liver and small intestine</title>
-<author>Laith Z. SamarahClover ZhengJoshua D. Rabinowitz</author>
-<link>https://www.nature.com/articles/s41586-025-09616-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09616-5/MediaObjects/41586_2025_9616_Fig1_HTML.png"><p></p><p>Mapping of spatial metabolic gradients in the mouse liver and intestine identifies fructose-induced focal derangements in liver metabolism.</p><p></p><p>Laith Z. SamarahClover ZhengJoshua D. Rabinowitz</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09605-8</guid>
-<pubDate>Tue, 14 Oct 2025 16:00:00 GMT</pubDate>
-<title>Patchy nanoparticles by atomic stencilling</title>
-<author>Ahyoung KimChansong KimQian Chen</author>
-<link>https://www.nature.com/articles/s41586-025-09605-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09605-8/MediaObjects/41586_2025_9605_Fig1_HTML.png"><p></p><p>An atomic stencilling method based on the co-adsorption of iodide and 2-naphthalenethiol on gold is described, yielding more than 20 different types of nanoparticle with masked and painted regions and patchy particle morphologies not reported previously.</p><p></p><p>Ahyoung KimChansong KimQian Chen</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
