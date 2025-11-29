@@ -5,8 +5,71 @@
 <link>https://www.science.org</link>
 <description>rss/Science Quantum Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adp6802</guid>
+<pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
+<title>Programmable higher-order nonequilibrium topological phases on a superconducting quantum
+                     processor</title>
+<author>Haoran Qian</author>
+<link>https://www.science.org/doi/10.1126/science.adp6802</link>
+<content:encoded><![CDATA[<p>Topological phases of matter are of both fundamental and practical interest. In this
+            study, we implemented both equilibrium and nonequilibrium higher-order topological
+            phases using a two-dimensional programmable superconducting quantum processor. Quantum
+            ...</p><p></p><p>Haoran Qian</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ads8327</guid>
+<pubDate>Sat, 29 Nov 2025 17:01:27 GMT</pubDate>
+<title>Characterizing transport in a quantum gas by measuring Drude weights</title>
+<author>Philipp Schüttelkopf</author>
+<link>https://www.science.org/doi/10.1126/science.ads8327</link>
+<content:encoded><![CDATA[<p>Transport properties define materials as insulators, metals, or superconductors. A
+            fundamental parameter is the Drude weight, which quantifies the ballistic transport
+            of charge carriers. Here, we measure the Drude weights of an ultracold gas of ...</p><p></p><p>Philipp Schüttelkopf</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv0990</guid>
+<pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
+<title>Realization of three- and four-body interactions between momentum states in a cavity</title>
+<author>Chengyi Luo</author>
+<link>https://www.science.org/doi/10.1126/science.adv0990</link>
+<content:encoded><![CDATA[<p>Spin Hamiltonians in condensed matter and quantum sensing typically utilize pairwise
+            or two-body interactions between constituents in the material or ensemble. However,
+            there is growing interest in exploring more general n-body interactions for n > 2. In ...</p><p></p><p>Chengyi Luo</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx9650</guid>
+<pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
+<title>Laser annealing enables rapid, degradation-free ambient processing of perovskite solar
+                     modules</title>
+<author>Zhaoyang Chu</author>
+<link>https://www.science.org/doi/10.1126/science.adx9650</link>
+<content:encoded><![CDATA[<p>Unlike small-area perovskite films produced by spin coating, which undergo prolonged
+            thermal annealing in inert atmosphere for full crystallization, printable perovskite
+            photovoltaics face a critical trade-off between crystal growth quality and ambient
+            ...</p><p></p><p>Zhaoyang Chu</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady6571</guid>
+<pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
+<title>Spectral kernel machines with electrically tunable photodetectors</title>
+<author>Dehui Zhang</author>
+<link>https://www.science.org/doi/10.1126/science.ady6571</link>
+<content:encoded><![CDATA[<p>Spectral machine vision collects spectral and spatial information as three-dimensional
+            hypercubes and digitally processes them, which causes a data bottleneck, limiting
+            power efficiency, frame rate, and spectral-spatial resolution. This work introduces
+            ...</p><p></p><p>Dehui Zhang</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee1038</guid>
+<pubDate>Thu, 27 Nov 2025 00:00:00 </pubDate>
+<title>In Science Journals</title>
+<author>Julie S. Haas</author>
+<link>https://www.science.org/doi/10.1126/science.aee1038</link>
+<content:encoded><![CDATA[<p></p><p></p><p>Julie S. Haas</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aee0605</guid>
-<pubDate>Thu, 27 Nov 2025 17:00:46 GMT</pubDate>
+<pubDate>Sat, 29 Nov 2025 17:01:27 GMT</pubDate>
 <title>Accelerating science with AI</title>
 <author>Darío Gil</author>
 <link>https://www.science.org/doi/10.1126/science.aee0605</link>
@@ -64,7 +127,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adw5137</guid>
-<pubDate>Thu, 27 Nov 2025 17:00:46 GMT</pubDate>
+<pubDate>Sat, 29 Nov 2025 17:01:27 GMT</pubDate>
 <title>Termination of the integrated stress response</title>
 <author>Claudia De Miguel</author>
 <link>https://www.science.org/doi/10.1126/science.adw5137</link>
@@ -85,7 +148,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea3381</guid>
-<pubDate>Thu, 27 Nov 2025 17:00:46 GMT</pubDate>
+<pubDate>Sat, 29 Nov 2025 17:01:27 GMT</pubDate>
 <title>A whole-brain single-cell atlas of circadian neural activity in mice</title>
 <author>Katsunari Yamashita</author>
 <link>https://www.science.org/doi/10.1126/science.aea3381</link>
@@ -138,64 +201,6 @@
             yields: Nanometer-level fabrication variations compromise the strict frequency-phase
             matching mandated by energy- and momentum-conserving nonlinear processes. We introduce
             ...</p><p></p><p>Mahmoud Jalali Mehrabad</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adu7099</guid>
-<pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
-<title>Shrinking interconnects beyond copper</title>
-<author>Mehrdad T. Kiani</author>
-<link>https://www.science.org/doi/10.1126/science.adu7099</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Mehrdad T. Kiani</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv8376</guid>
-<pubDate>Thu, 27 Nov 2025 17:00:47 GMT</pubDate>
-<title>Experimental evidence for nodal superconducting gap in moiré graphene</title>
-<author>Jeong Min Park</author>
-<link>https://www.science.org/doi/10.1126/science.adv8376</link>
-<content:encoded><![CDATA[<p>Understanding the nature of superconductivity in magic-angle graphene remains challenging.
-            A key difficulty lies in discerning the different energy scales in this strongly interacting
-            system, particularly the superconducting gap. Here, we report ...</p><p></p><p>Jeong Min Park</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adw8780</guid>
-<pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
-<title>Homogenized chlorine distribution for >27% power conversion efficiency in perovskite
-                     solar cells</title>
-<author>Zhuang Xiong</author>
-<link>https://www.science.org/doi/10.1126/science.adw8780</link>
-<content:encoded><![CDATA[<p>The spatial heterogeneity of halogen distribution in perovskite thin films represents
-            a critical factor currently limiting both the power conversion efficiency and stability
-            of solar cells. We identified pronounced through-film inhomogeneity in chlorine ...</p><p></p><p>Zhuang Xiong</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady4885</guid>
-<pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
-<title>Ultrafast inverse chirality-induced spin selectivity observed by THz emission</title>
-<author>Yifan Dong</author>
-<link>https://www.science.org/doi/10.1126/science.ady4885</link>
-<content:encoded><![CDATA[<p>Chirality-induced spin selectivity (CISS) phenomena arise from an interplay among
-            structural chirality, electron spin orientation, and charge current. Steady-state
-            observations such as magnetoresistance offer little insight into the timescales that
-            ...</p><p></p><p>Yifan Dong</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea4299</guid>
-<pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
-<title>Strengthening Ni alloys with nanoscale interfaces of negative excess energy</title>
-<author>J. X. Li</author>
-<link>https://www.science.org/doi/10.1126/science.aea4299</link>
-<content:encoded><![CDATA[<p>The strength of nanograined and nanotwinned metals is limited by the inherent instability
-            of grain or twin boundaries below a length scale of typically about 10 nanometers.
-            From experimental and density functional theory calculations, we found that the ...</p><p></p><p>J. X. Li</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aed6116</guid>
-<pubDate>Thu, 06 Nov 2025 00:00:00 </pubDate>
-<title>In Science Journals</title>
-<author>Rachel Wood</author>
-<link>https://www.science.org/doi/10.1126/science.aed6116</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Rachel Wood</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
