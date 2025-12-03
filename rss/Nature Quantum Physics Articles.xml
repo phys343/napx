@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01820-z</guid>
+<pubDate>Mon, 01 Dec 2025 16:00:00 GMT</pubDate>
+<title>An optical conveyor belt for 3,000 qubits</title>
+<author>Giampaolo Pitruzzello</author>
+<link>https://www.nature.com/articles/s41566-025-01820-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01820-z/MediaObjects/41566_2025_1820_Figa_HTML.png"><p></p><p>Giampaolo Pitruzzello</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03098-y</guid>
 <pubDate>Thu, 27 Nov 2025 16:00:00 GMT</pubDate>
 <title>Quantum superconducting diode effect with perfect efficiency above liquid-nitrogen temperature</title>
@@ -395,14 +403,6 @@
 <author>Elizabeth Gibney</author>
 <link>https://www.nature.com/articles/d41586-025-03300-4</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03300-4/d41586-025-03300-4_51605214.jpg"><p></p><p>The firm says it has solved a problem on a quantum processor faster than a classical computer, and is optimistic about future scientific applications.</p><p></p><p>Elizabeth Gibney</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09526-6</guid>
-<pubDate>Tue, 21 Oct 2025 16:00:00 GMT</pubDate>
-<title>Observation of constructive interference at the edge of quantum ergodicity</title>
-<author>Dmitry A. AbaninRajeev AcharyaNicholas Zobrist</author>
-<link>https://www.nature.com/articles/s41586-025-09526-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09526-6/MediaObjects/41586_2025_9526_Fig1_HTML.png"><p></p><p>Experimental measurements of high-order out-of-time-order correlators on a superconducting quantum processor show that these correlators remain highly sensitive to the quantum many-body dynamics in quantum computers at long timescales.</p><p></p><p>Dmitry A. AbaninRajeev AcharyaNicholas Zobrist</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
