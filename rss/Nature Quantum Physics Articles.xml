@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03113-2</guid>
+<pubDate>Sun, 28 Dec 2025 16:00:00 GMT</pubDate>
+<title>Interplay of orbital angular momentum and chirality</title>
+<author>Dongjin OhHendrik BentmannRiccardo Comin</author>
+<link>https://www.nature.com/articles/s41567-025-03113-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03113-2/MediaObjects/41567_2025_3113_Fig1_HTML.png"><p></p><p>Orbital angular momentum textures can drive orbital currents and enable applications in orbitronics. This Perspective shows how polarization-dependent angle-resolved photoemission spectroscopy can visualize orbital textures in momentum space.</p><p></p><p>Dongjin OhHendrik BentmannRiccardo Comin</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-025-04108-y</guid>
 <pubDate>Thu, 18 Dec 2025 16:00:00 GMT</pubDate>
 <title>AI and quantum science take centre stage under Trump — but with little new proposed funding</title>
@@ -395,14 +403,6 @@
 <author>Jonas HeimerlAndrei RasputnyiPeter Hommelhoff</author>
 <link>https://www.nature.com/articles/s41567-025-03087-1</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03087-1/MediaObjects/41567_2025_3087_Fig1_HTML.png"><p></p><p>The common description of strong-field light–matter interaction neglects the quantum-optical nature of the driving field. Now signatures of strong-field photoemission appear in electron energy spectra when driving with non-classical light.</p><p></p><p>Jonas HeimerlAndrei RasputnyiPeter Hommelhoff</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03092-4</guid>
-<pubDate>Thu, 06 Nov 2025 16:00:00 GMT</pubDate>
-<title>Quantum light steers photoelectrons</title>
-<author>Marcelo Ciappina</author>
-<link>https://www.nature.com/articles/s41567-025-03092-4</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03092-4/MediaObjects/41567_2025_3092_Fig1_HTML.png"><p></p><p>When driven by nonclassical light, photoemission from a needle tip reveals signatures of strong-field physics, opening up opportunities to control matter and to engineer the building blocks of quantum technologies.</p><p></p><p>Marcelo Ciappina</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
