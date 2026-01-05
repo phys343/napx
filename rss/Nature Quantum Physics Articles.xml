@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-04151-9</guid>
+<pubDate>Sun, 04 Jan 2026 16:00:00 GMT</pubDate>
+<title>These women helped to shape quantum mechanics — it’s time to recognize them</title>
+<author>Indianara Lima Silva</author>
+<link>https://www.nature.com/articles/d41586-025-04151-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-04151-9/d41586-025-04151-9_51821838.jpg"><p></p><p>An astute book redresses our collective perception of a field that became known as ‘boys’ physics’.</p><p></p><p>Indianara Lima Silva</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03123-0</guid>
 <pubDate>Thu, 01 Jan 2026 16:00:00 GMT</pubDate>
 <title>Self-induced superradiant masing</title>
@@ -395,14 +403,6 @@
 <author>Geunhee GwakChan RohYoung-Sik Ra</author>
 <link>https://www.nature.com/articles/s41566-025-01787-x</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01787-x/MediaObjects/41566_2025_1787_Fig1_HTML.png"><p></p><p>A resource-efficient characterization method to completely characterize multimode second-order nonlinear optical quantum processes is demonstrated, satisfying the required physical condition. Scaling quadratically with the mode number, it enables complete 16-mode analysis.</p><p></p><p>Geunhee GwakChan RohYoung-Sik Ra</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09848-5</guid>
-<pubDate>Sun, 09 Nov 2025 16:00:00 GMT</pubDate>
-<title>A fault-tolerant neutral-atom architecture for universal quantum computation</title>
-<author>Dolev BluvsteinAlexandra A. GeimMikhail D. Lukin</author>
-<link>https://www.nature.com/articles/s41586-025-09848-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09848-5/MediaObjects/41586_2025_9848_Fig1_HTML.png"><p></p><p>Reconfigurable arrays of up to 448 neutral atoms are used to implement and combine the key elements of a universal, fault-tolerant quantum processing architecture and experimentally explore their underlying working mechanisms.</p><p></p><p>Dolev BluvsteinAlexandra A. GeimMikhail D. Lukin</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
