@@ -5,8 +5,72 @@
 <link>https://www.science.org</link>
 <description>rss/Science Quantum Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adk9181</guid>
+<pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
+<title>Data sharing helps avoid “smoking gun” claims of topological milestones</title>
+<author>S. M. Frolov</author>
+<link>https://www.science.org/doi/10.1126/science.adk9181</link>
+<content:encoded><![CDATA[<p>Manipulating the topology of electronic bands can realize new states of matter, with
+            possible implications for information technology. A central question is how to tell
+            whether a topological regime has been achieved. Experiments are often guided by a
+            ...</p><p></p><p>S. M. Frolov</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adp8989</guid>
+<pubDate>Fri, 09 Jan 2026 17:00:50 GMT</pubDate>
+<title>A precessing jet from an active galactic nucleus drives gas outflow from a disk galaxy</title>
+<author>Justin A. Kader</author>
+<link>https://www.science.org/doi/10.1126/science.adp8989</link>
+<content:encoded><![CDATA[<p>To reproduce observed galaxy properties, cosmological simulations require that massive
+            galaxies experience feedback from active galactic nuclei, which regulates star formation
+            within those galaxies. However, the energetics and timescales of these ...</p><p></p><p>Justin A. Kader</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adq9891</guid>
+<pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
+<title>Self-induced Floquet magnons in magnetic vortices</title>
+<author>Christopher Heins</author>
+<link>https://www.science.org/doi/10.1126/science.adq9891</link>
+<content:encoded><![CDATA[<p>Driving condensed matter systems with periodic electromagnetic fields can result in
+            exotic states not found in equilibrium. Termed Floquet engineering, such periodic
+            driving applied to electronic systems can induce topological band structures and control
+            ...</p><p></p><p>Christopher Heins</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ads9530</guid>
+<pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
+<title>Deep contrastive learning enables genome-wide virtual screening</title>
+<author>Yinjun Jia</author>
+<link>https://www.science.org/doi/10.1126/science.ads9530</link>
+<content:encoded><![CDATA[<p>Recent breakthroughs in protein structure prediction have opened new avenues for genome-wide
+            drug discovery, yet existing virtual screening methods remain computationally prohibitive.
+            We present DrugCLIP, a contrastive learning framework that achieves ...</p><p></p><p>Yinjun Jia</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea0656</guid>
+<pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
+<title>Multivalent ligands regulate dimensional engineering for inverted perovskite solar
+                     modules</title>
+<author>Xiaoming Chang</author>
+<link>https://www.science.org/doi/10.1126/science.aea0656</link>
+<content:encoded><![CDATA[<p>Multivalent, resonance-stabilized amidinium ligands enable stronger chemical coordination
+            and reduced deprotonation compared with conventional monovalent ammonium ligands in
+            low-dimensional perovskites. Here, we introduce a controllable one- to two-...</p><p></p><p>Xiaoming Chang</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea8228</guid>
+<pubDate>Thu, 08 Jan 2026 00:00:00 </pubDate>
+<title>Molecular press annealing enables robust perovskite solar cells</title>
+<author>Jianfei Hu</author>
+<link>https://www.science.org/doi/10.1126/science.aea8228</link>
+<content:encoded><![CDATA[<p>Thermal annealing improves the crystallinity of perovskite films and boosts their
+            power conversion efficiencies (PCEs) in solar cells but also induces surface iodine
+            loss and local lattice degradation. We demonstrate a molecular press annealing (MPA)
+            ...</p><p></p><p>Jianfei Hu</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ads5266</guid>
-<pubDate>Thu, 08 Jan 2026 17:00:51 GMT</pubDate>
+<pubDate>Fri, 09 Jan 2026 17:00:50 GMT</pubDate>
 <title>Giant enhancement of exciton diffusion near an electronic Mott insulator</title>
 <author>Pranshoo Upadhyay</author>
 <link>https://www.science.org/doi/10.1126/science.ads5266</link>
@@ -141,63 +205,6 @@
 <author>Jesse Smith</author>
 <link>https://www.science.org/doi/10.1126/science.aee5868</link>
 <content:encoded><![CDATA[<p></p><p></p><p>Jesse Smith</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ado6686</guid>
-<pubDate>Thu, 04 Dec 2025 00:00:00 </pubDate>
-<title>Cracking chemistry with quantum simulations</title>
-<author>Philipp Schleich</author>
-<link>https://www.science.org/doi/10.1126/science.ado6686</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Philipp Schleich</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adr1522</guid>
-<pubDate>Thu, 04 Dec 2025 00:00:00 </pubDate>
-<title>Pre- and postantibiotic epoch: The historical spread of antimicrobial resistance</title>
-<author>Adrian Cazares</author>
-<link>https://www.science.org/doi/10.1126/science.adr1522</link>
-<content:encoded><![CDATA[<p>Plasmids are now the primary vectors of antimicrobial resistance, but our understanding
-            of how human industrialization of antibiotics influenced their evolution is limited
-            by a paucity of data predating the antibiotic era (PAE). By investigating plasmids
-            ...</p><p></p><p>Adrian Cazares</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adr3521</guid>
-<pubDate>Thu, 04 Dec 2025 00:00:00 </pubDate>
-<title>Semiseparated biphasic bicontinuous dielectric elastomer for high-performance artificial
-                     muscle</title>
-<author>Xiaotian Shi</author>
-<link>https://www.science.org/doi/10.1126/science.adr3521</link>
-<content:encoded><![CDATA[<p>Electrically driven dielectric elastomer artificial muscles represent a transformative
-            advancement in the field of soft robotics. However, their output performance has encountered
-            a bottleneck owing to the insufficient electromechanical sensitivity of ...</p><p></p><p>Xiaotian Shi</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adt1732</guid>
-<pubDate>Thu, 04 Dec 2025 00:00:00 </pubDate>
-<title>Dawn of quantum simulators</title>
-<author>Pedram Roushan</author>
-<link>https://www.science.org/doi/10.1126/science.adt1732</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Pedram Roushan</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adu9077</guid>
-<pubDate>Thu, 04 Dec 2025 00:00:00 </pubDate>
-<title>Toward science-based conviction criteria to deter wildlife crime</title>
-<author>Ruocheng Hu</author>
-<link>https://www.science.org/doi/10.1126/science.adu9077</link>
-<content:encoded><![CDATA[<p></p><p></p><p>Ruocheng Hu</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv6588</guid>
-<pubDate>Thu, 04 Dec 2025 00:00:00 </pubDate>
-<title>Multiscale structure of chromatin condensates explains phase separation and material
-                     properties</title>
-<author>Huabin Zhou</author>
-<link>https://www.science.org/doi/10.1126/science.adv6588</link>
-<content:encoded><![CDATA[<p>The structure and interaction networks of molecules within biomolecular condensates
-            are poorly understood. Using cryo–electron tomography and molecular dynamics simulations,
-            we elucidated the structure of phase-separated chromatin condensates across ...</p><p></p><p>Huabin Zhou</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
