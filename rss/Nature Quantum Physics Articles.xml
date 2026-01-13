@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03141-y</guid>
+<pubDate>Mon, 12 Jan 2026 16:00:00 GMT</pubDate>
+<title>Maximal device-independent randomness in every dimension</title>
+<author>Máté FarkasJurij VolčičLaura Mančinska</author>
+<link>https://www.nature.com/articles/s41567-025-03141-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03141-y/MediaObjects/41567_2025_3141_Fig1_HTML.png"><p></p><p>The laws of quantum mechanics make it possible to design device-independent security protocols that do not need trusted equipment. Now, explicit protocols are provided that achieve the optimal rate of device-independent random number generation.</p><p></p><p>Máté FarkasJurij VolčičLaura Mančinska</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03145-8</guid>
 <pubDate>Thu, 08 Jan 2026 16:00:00 GMT</pubDate>
 <title>Dynamic magneto-chiral instability in photoexcited tellurium</title>
@@ -395,14 +403,6 @@
 <author>Matthias Christandl</author>
 <link>https://www.nature.com/articles/s41567-025-03084-4</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03084-4/MediaObjects/41567_2025_3084_Fig1_HTML.png"><p></p><p>The second law of thermodynamics says that entropy may only ever increase during the conversion of one physical state into another. Finding an analogous quantity to characterize the conversion of entangled quantum states has been a rollercoaster ride.</p><p></p><p>Matthias Christandl</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01802-1</guid>
-<pubDate>Wed, 12 Nov 2025 16:00:00 GMT</pubDate>
-<title>Self-compressed waveform-stable light transients enabling water-window attosecond spectroscopy</title>
-<author>Valentina Utrio LanfaloniFederico VismarraHans Jakob Wörner</author>
-<link>https://www.nature.com/articles/s41566-025-01802-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01802-1/MediaObjects/41566_2025_1802_Fig1_HTML.png"><p></p><p>Researchers demonstrate phase-stable sub-cycle self-compressed light transients, as well as their sampling down to half of an optical cycle, and determine their waveform phase offset. They apply the transients to soft X-ray high-harmonic generation and attosecond X-ray absorption spectroscopy.</p><p></p><p>Valentina Utrio LanfaloniFederico VismarraHans Jakob Wörner</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
