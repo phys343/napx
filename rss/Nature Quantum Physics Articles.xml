@@ -5,6 +5,182 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03110-5</guid>
+<pubDate>Thu, 29 Jan 2026 16:00:00 GMT</pubDate>
+<title>Quantum computing isn’t just about scaling</title>
+<author>Murphy Yuezhen Niu</author>
+<link>https://www.nature.com/articles/s41567-025-03110-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03110-5/MediaObjects/41567_2025_3110_Fig1_HTML.png"><p></p><p>The race to demonstrate quantum error correction often focuses on making ever-larger devices. A demonstration showing that splitting a surface-code logical qubit into two simpler repetition codes substantially reduces logical gate errors reminds us that advancing quantum computing does not hinge solely on scaling qubit numbers.</p><p></p><p>Murphy Yuezhen Niu</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03090-6</guid>
+<pubDate>Thu, 29 Jan 2026 16:00:00 GMT</pubDate>
+<title>Lattice surgery realized on two distance-three repetition codes with superconducting qubits</title>
+<author>Ilya BesedinMichael KerschbaumAndreas Wallraff</author>
+<link>https://www.nature.com/articles/s41567-025-03090-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03090-6/MediaObjects/41567_2025_3090_Fig1_HTML.png"><p></p><p>Quantum error correction codes protect quantum information, but running algorithms also requires the ability to perform gates on logical qubits. A lattice surgery scheme for fault-tolerant gates has now been demonstrated in a quantum repetition code.</p><p></p><p>Ilya BesedinMichael KerschbaumAndreas Wallraff</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00274-9</guid>
+<pubDate>Thu, 29 Jan 2026 16:00:00 GMT</pubDate>
+<title>China is betting on ‘optical’ computer chips – will they power AI?</title>
+<author>Mohana Basu</author>
+<link>https://www.nature.com/articles/d41586-026-00274-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00274-9/d41586-026-00274-9_51990124.jpg"><p></p><p>Semiconductor chips that process light rather than electricity could boost processing speeds and reduce energy use.</p><p></p><p>Mohana Basu</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-10035-9</guid>
+<pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+<title>A cavity-array microscope for parallel single-atom interfacing</title>
+<author>Adam L. ShawAnna SoperJonathan Simon</author>
+<link>https://www.nature.com/articles/s41586-025-10035-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-10035-9/MediaObjects/41586_2025_10035_Fig1_HTML.png"><p></p><p>A cavity-array microscope is realized using intra-cavity lenses to create a two-dimensional array of over 40 modes, each coupled to a single atom in free-space.</p><p></p><p>Adam L. ShawAnna SoperJonathan Simon</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-10048-4</guid>
+<pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+<title>Optical switching of a moiré Chern ferromagnet</title>
+<author>Xiangbin CaiHaiyang PanWeibo Gao</author>
+<link>https://www.nature.com/articles/s41586-025-10048-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-10048-4/MediaObjects/41586_2025_10048_Fig1_HTML.png"><p></p><p>Optical switching of a moiré Chern ferromagnet is demonstrated in twisted molybdenum ditelluride bilayers using continuous-wave circularly polarized light, paving the way for dissipationless spintronics and quantized Chern junction devices.</p><p></p><p>Xiangbin CaiHaiyang PanWeibo Gao</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09959-z</guid>
+<pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+<title>Low-power integrated optical amplification through second-harmonic resonance</title>
+<author>Devin J. DeanTaewon ParkAmir H. Safavi-Naeini</author>
+<link>https://www.nature.com/articles/s41586-025-09959-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09959-z/MediaObjects/41586_2025_9959_Fig1_HTML.png"><p></p><p>An integrated optical parametric amplifier on thin-film lithium niobate achieves more than 17 dB gain with less than 200 mW input power.</p><p></p><p>Devin J. DeanTaewon ParkAmir H. Safavi-Naeini</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09777-3</guid>
+<pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+<title>Optical control of integer and fractional Chern insulators</title>
+<author>William HoltzmannWeijie LiXiaodong Xu</author>
+<link>https://www.nature.com/articles/s41586-025-09777-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09777-3/MediaObjects/41586_2025_9777_Fig1_HTML.png"><p></p><p>Optical control of integer and fractional Chern insulators is demonstrated by circularly polarized optical pumping in tMoTe2.</p><p></p><p>William HoltzmannWeijie LiXiaodong Xu</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09977-x</guid>
+<pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+<title>Prethermalization by random multipolar driving on a 78-qubit processor</title>
+<author>Zheng-He LiuYu LiuHeng Fan</author>
+<link>https://www.nature.com/articles/s41586-025-09977-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09977-x/MediaObjects/41586_2025_9977_Fig1_HTML.png"><p></p><p>The existence of a long-lived, prethermal regime in many-body systems with tunable heating rates, driven by structured random protocols, is observed using a 78-qubit superconducting quantum processor.</p><p></p><p>Zheng-He LiuYu LiuHeng Fan</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09984-y</guid>
+<pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+<title>Intestinal macrophages modulate synucleinopathy along the gut–brain axis</title>
+<author>Sebastiaan De SchepperViktoras KonstantellosTim Bartels</author>
+<link>https://www.nature.com/articles/s41586-025-09984-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09984-y/MediaObjects/41586_2025_9984_Fig1_HTML.png"><p></p><p>Muscularis macrophages, housekeepers of enteric nervous system integrity and intestinal homeostasis, modulate α-synuclein pathology and neurodegeneration in models of Parkinson’s disease, and understanding the accompanying mechanisms could pave the way for early-stage biomarkers.</p><p></p><p>Sebastiaan De SchepperViktoras KonstantellosTim Bartels</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09851-w</guid>
+<pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+<title>Optical control over topological Chern number in moiré materials</title>
+<author>O. HuberK. KuhlbrodtT. Smoleński</author>
+<link>https://www.nature.com/articles/s41586-025-09851-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09851-w/MediaObjects/41586_2025_9851_Fig1_HTML.png"><p></p><p>Optical spin orientation of itinerant ferromagnets in twisted MoTe2 homobilayers is demonstrated, enabling control of topological Chern numbers with circularly polarized light.</p><p></p><p>O. HuberK. KuhlbrodtT. Smoleński</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-10019-9</guid>
+<pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+<title>Ferromagnet-like binary switching of a Stoner–Wohlfarth antiferromagnet</title>
+<author>Zhanshan WangYining XiangShiwei Wu</author>
+<link>https://www.nature.com/articles/s41586-025-10019-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-10019-9/MediaObjects/41586_2025_10019_Fig1_HTML.png"><p></p><p>CrPS4, a 2D van der Waals A-type antiferromagnet, is shown to exhibit ideal characteristics of Stoner–Wohlfarth antiferromagnets, such as ferromagnet-like binary switching rather than layer-by-layer flipping as in other 2D A-type antiferromagnets.</p><p></p><p>Zhanshan WangYining XiangShiwei Wu</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03157-4</guid>
+<pubDate>Wed, 21 Jan 2026 16:00:00 GMT</pubDate>
+<title>Demonstration of low-overhead quantum error correction codes</title>
+<author>Ke WangZhide LuDong-Ling Deng</author>
+<link>https://www.nature.com/articles/s41567-025-03157-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03157-4/MediaObjects/41567_2025_3157_Fig1_HTML.png"><p></p><p>Quantum low-density parity-check error correction codes are anticipated to deliver high performance, but require long-range qubit–qubit interactions. Two of these error correction codes have now been successfully implemented on a superconducting device.</p><p></p><p>Ke WangZhide LuDong-Ling Deng</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00188-6</guid>
+<pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
+<title>From quantum computing to mRNA therapeutics: seven technologies to watch in 2026</title>
+<author>Michael Eisenstein</author>
+<link>https://www.nature.com/articles/d41586-026-00188-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00188-6/d41586-026-00188-6_51944096.jpg"><p></p><p>Nature’s round-up of innovations that are poised to make a splash in the year ahead.</p><p></p><p>Michael Eisenstein</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09917-9</guid>
+<pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
+<title>Probing quantum mechanics with nanoparticle matter-wave interferometry</title>
+<author>Sebastian PedalinoBruno E. Ramírez-GalindoStefan Gerlich</author>
+<link>https://www.nature.com/articles/s41586-025-09917-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09917-9/MediaObjects/41586_2025_9917_Fig1_HTML.png"><p></p><p>Quantum interference of sodium nanoparticles, which can each contain more than 7,000 atoms at masses greater than 170,000 Da, is demonstrated.</p><p></p><p>Sebastian PedalinoBruno E. Ramírez-GalindoStefan Gerlich</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00177-9</guid>
+<pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
+<title>Schrödinger’s cat just got bigger: quantum physicists create largest ever ‘superposition’</title>
+<author>Elizabeth Gibney</author>
+<link>https://www.nature.com/articles/d41586-026-00177-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00177-9/d41586-026-00177-9_51965438.jpg"><p></p><p>Record-breaking experiment shows that a cluster of thousands of atoms can act like a wave as well as a particle.</p><p></p><p>Elizabeth Gibney</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09971-3</guid>
+<pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
+<title>Quantum spin resonance in engineered proteins for multimodal sensing</title>
+<author>Gabriel AbrahamsAna ŠtuhecHarrison Steel</author>
+<link>https://www.nature.com/articles/s41586-025-09971-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09971-3/MediaObjects/41586_2025_9971_Fig1_HTML.png"><p></p><p>A recently developed class of magneto-sensitive fluorescent proteins are engineered to alter the properties of their response to magnetic fields and radio frequencies, enabling multimodal sensing of biological systems.</p><p></p><p>Gabriel AbrahamsAna ŠtuhecHarrison Steel</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00185-9</guid>
+<pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
+<title>AI and nuclear energy feature strongly in agenda-setting technologies for 2026</title>
+<author>N/A</author>
+<link>https://www.nature.com/articles/d41586-026-00185-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00185-9/d41586-026-00185-9_51961188.jpg"><p></p><p>Nature’s annual list of technologies to watch is a chance to celebrate progress and stimulate research into both opportunities and risks.</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00227-2</guid>
+<pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
+<title>The biggest ‘Schrödinger’s cat’ yet — physicists put 7,000 atoms in superposition</title>
+<author>Nick Petrić HoweBenjamin Thompson</author>
+<link>https://www.nature.com/articles/d41586-026-00227-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00227-2/d41586-026-00227-2_51965098.jpg"><p></p><p>Quantum superposition gets supersized — plus, US science after a year of Trump.</p><p></p><p>Nick Petrić HoweBenjamin Thompson</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-04097-y</guid>
+<pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
+<title>Quantum effect observed for biggest objects yet</title>
+<author>Tim Kovachy</author>
+<link>https://www.nature.com/articles/d41586-025-04097-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-04097-y/d41586-025-04097-y_51853340.png"><p></p><p>An experiment has broken the size record for an object exhibiting matter-wave interference — fuelling the debate about possible size constraints.</p><p></p><p>Tim Kovachy</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09883-2</guid>
+<pubDate>Tue, 20 Jan 2026 16:00:00 GMT</pubDate>
+<title>Symmetry, microscopy and spectroscopy signatures of altermagnetism</title>
+<author>Tomas JungwirthJairo SinovaLibor Šmejkal</author>
+<link>https://www.nature.com/articles/s41586-025-09883-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09883-2/MediaObjects/41586_2025_9883_Fig1_HTML.png"><p></p><p>The symmetry, microscopy and spectroscopy signatures of altermagnetism are reviewed, and compared with traditional ferromagnetism and Néel antiferromagnetism, and magnetic phases with symmetry-protected compensated non-collinear spin orders.</p><p></p><p>Tomas JungwirthJairo SinovaLibor Šmejkal</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03144-9</guid>
+<pubDate>Mon, 19 Jan 2026 16:00:00 GMT</pubDate>
+<title>Dynamical simulations of many-body quantum chaos on a quantum computer</title>
+<author>Laurin E. FischerMatea LeahySergey N. Filippov</author>
+<link>https://www.nature.com/articles/s41567-025-03144-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03144-9/MediaObjects/41567_2025_3144_Fig1_HTML.png"><p></p><p>Studying many-body quantum chaos on current quantum hardware is hindered by noise and limited scalability. Now it is shown that a superconducting processor, combined with error mitigation, can accurately simulate dual-unitary circuit dynamics.</p><p></p><p>Laurin E. FischerMatea LeahySergey N. Filippov</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10108-3</guid>
+<pubDate>Sun, 18 Jan 2026 16:00:00 GMT</pubDate>
+<title>Publisher Correction: A fault-tolerant neutral-atom architecture for universal quantum computation</title>
+<author>Dolev BluvsteinAlexandra A. GeimMikhail D. Lukin</author>
+<link>https://www.nature.com/articles/s41586-026-10108-3</link>
+<content:encoded><![CDATA[<p>Dolev BluvsteinAlexandra A. GeimMikhail D. Lukin</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09961-5</guid>
 <pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
 <title>Trapping of single atoms in metasurface optical tweezer arrays</title>
@@ -227,182 +403,6 @@
 <author>Ricky ElwellJames E. S. TerhuneEric R. Hudson</author>
 <link>https://www.nature.com/articles/s41586-025-09776-4</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09776-4/MediaObjects/41586_2025_9776_Fig1_HTML.png"><p></p><p>Laser-induced conversion electron Mössbauer spectroscopy, which detects electrons emitted by 229Th nuclei in a thin ThO2 sample excited by vacuum ultraviolet light, is demonstrated, opening the possibility of a conversion-electron-based nuclear clock.</p><p></p><p>Ricky ElwellJames E. S. TerhuneEric R. Hudson</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09775-5</guid>
-<pubDate>Tue, 09 Dec 2025 16:00:00 GMT</pubDate>
-<title>Observation of deuteron and antideuteron formation from resonance-decay nucleons</title>
-<author>S. AcharyaA. AgarwalN. Zurlo</author>
-<link>https://www.nature.com/articles/s41586-025-09775-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09775-5/MediaObjects/41586_2025_9775_Fig1_HTML.png"><p></p><p>The ALICE Collaboration provides details on the microscopic mechanism that ends up creating antideuteron in high-energy proton–proton collisions at the Large Hadron Collider.</p><p></p><p>S. AcharyaA. AgarwalN. Zurlo</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03116-z</guid>
-<pubDate>Tue, 02 Dec 2025 16:00:00 GMT</pubDate>
-<title>Electrically tuned light topology</title>
-<author>Shai TsessesAviv Karnieli</author>
-<link>https://www.nature.com/articles/s41567-025-03116-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03116-z/MediaObjects/41567_2025_3116_Fig1_HTML.png"><p></p><p>Controlling topological photonic quasiparticles is a prerequisite for their implementation in devices. Now, their precise manipulation has been demonstrated using synthetic gauge fields based on the manipulation of the material’s dielectric index.</p><p></p><p>Shai TsessesAviv Karnieli</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03591-7</guid>
-<pubDate>Tue, 02 Dec 2025 16:00:00 GMT</pubDate>
-<title>Quarks in ‘exotic’ quartets prefer to stick together</title>
-<author>Elena Santopinto</author>
-<link>https://www.nature.com/articles/d41586-025-03591-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03591-7/d41586-025-03591-7_51771874.jpg"><p></p><p>Evidence of a particle made up of four tightly bound quarks tests physicists’ understanding of the force that holds protons and neutrons together.</p><p></p><p>Elena Santopinto</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09711-7</guid>
-<pubDate>Tue, 02 Dec 2025 16:00:00 GMT</pubDate>
-<title>Determination of the spin and parity of all-charm tetraquarks</title>
-<author>A. HayrapetyanV. MakarenkoA. Snigirev</author>
-<link>https://www.nature.com/articles/s41586-025-09711-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09711-7/MediaObjects/41586_2025_9711_Fig1_HTML.png"><p></p><p>The CMS Collaboration reports the measurement of the spin, parity, and charge conjugation properties of all-charm tetraquarks, exotic fleeting particles formed in proton–proton collisions at the Large Hadron Collider.</p><p></p><p>A. HayrapetyanV. MakarenkoA. Snigirev</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01820-z</guid>
-<pubDate>Mon, 01 Dec 2025 16:00:00 GMT</pubDate>
-<title>An optical conveyor belt for 3,000 qubits</title>
-<author>Giampaolo Pitruzzello</author>
-<link>https://www.nature.com/articles/s41566-025-01820-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01820-z/MediaObjects/41566_2025_1820_Figa_HTML.png"><p></p><p>Giampaolo Pitruzzello</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03098-y</guid>
-<pubDate>Thu, 27 Nov 2025 16:00:00 GMT</pubDate>
-<title>Quantum superconducting diode effect with perfect efficiency above liquid-nitrogen temperature</title>
-<author>Heng WangYuying ZhuDing Zhang</author>
-<link>https://www.nature.com/articles/s41567-025-03098-y</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03098-y/MediaObjects/41567_2025_3098_Fig1_HTML.png"><p></p><p>A device for rectifying supercurrents at liquid-nitrogen temperature with high efficiency is demonstrated. This is a practical step towards implementing dissipationless electronics.</p><p></p><p>Heng WangYuying ZhuDing Zhang</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03095-1</guid>
-<pubDate>Wed, 26 Nov 2025 16:00:00 GMT</pubDate>
-<title>Twisting the Hubbard model into the momentum-mixing Hatsugai–Kohmoto model</title>
-<author>Peizhi MaiJinchao ZhaoPhilip W. Phillips</author>
-<link>https://www.nature.com/articles/s41567-025-03095-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03095-1/MediaObjects/41567_2025_3095_Fig1_HTML.png"><p></p><p>The Hubbard model describes the physics of strongly correlated electron systems, but is difficult to solve. Now, a scheme to systematically and efficiently relate the exactly solvable Hatsugai–Kohmoto model to the Hubbard model has been identified.</p><p></p><p>Peizhi MaiJinchao ZhaoPhilip W. Phillips</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03102-5</guid>
-<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
-<title>Fault-tolerant quantum computation with polylogarithmic time and constant space overheads</title>
-<author>Shiro TamiyaMasato KoashiHayata Yamasaki</author>
-<link>https://www.nature.com/articles/s41567-025-03102-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03102-5/MediaObjects/41567_2025_3102_Fig1_HTML.png"><p></p><p>Quantum low-density parity-check codes are anticipated to be an efficient approach to quantum error correction. Now it has been proven that these codes can be time-efficient with only a constant overhead in the required number of qubits.</p><p></p><p>Shiro TamiyaMasato KoashiHayata Yamasaki</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01806-x</guid>
-<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
-<title>A large-scale reconfigurable multiplexed quantum photonic network</title>
-<author>Natalia Herrera ValenciaAnnameng MaMehul Malik</author>
-<link>https://www.nature.com/articles/s41566-025-01806-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01806-x/MediaObjects/41566_2025_1806_Fig1_HTML.png"><p></p><p>A reconfigurable eight-user photonic network is realized by connecting two local four-user networks through a programmable 8 × 8-dimensional multi-port device. Multiplexed routing and swapping of qubit entanglement are demonstrated for all network configurations and channels.</p><p></p><p>Natalia Herrera ValenciaAnnameng MaMehul Malik</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03086-2</guid>
-<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
-<title>Learning quantum states of continuous-variable systems</title>
-<author>Francesco A. MeleAntonio A. MeleSalvatore F. E. Oliviero</author>
-<link>https://www.nature.com/articles/s41567-025-03086-2</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03086-2/MediaObjects/41567_2025_3086_Fig1_HTML.png"><p></p><p>Finding a classical description of a quantum state can require resource-intensive tomography protocols. It has now been shown that, for bosonic systems, tomography is extremely inefficient in general, but can be done efficiently for some useful states.</p><p></p><p>Francesco A. MeleAntonio A. MeleSalvatore F. E. Oliviero</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09790-6</guid>
-<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
-<title>Entanglement-enhanced nanoscale single-spin sensing</title>
-<author>Xu ZhouMengqi WangJiangfeng Du</author>
-<link>https://www.nature.com/articles/s41586-025-09790-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09790-6/MediaObjects/41586_2025_9790_Fig1_HTML.png"><p></p><p>An entanglement-enhanced sensing strategy making use of entangled nitrogen–vacancy pairs is described, demonstrating a 3.4-fold improvement in sensitivity and a 1.6-fold improvement in spatial resolution relative to single nitrogen–vacancy centres under ambient conditions.</p><p></p><p>Xu ZhouMengqi WangJiangfeng Du</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09767-5</guid>
-<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
-<title>Operating two exchange-only qubits in parallel</title>
-<author>Mateusz T. MądzikFlorian LuthiJames S. Clarke</author>
-<link>https://www.nature.com/articles/s41586-025-09767-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09767-5/MediaObjects/41586_2025_9767_Fig1_HTML.png"><p></p><p>Parallel operation of two exchange-only qubits consisting of six quantum dots arranged linearly is shown to be achievable and maintains qubit control quality compared with sequential operation, with potential for use in scaled quantum computing.</p><p></p><p>Mateusz T. MądzikFlorian LuthiJames S. Clarke</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09760-y</guid>
-<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
-<title>Multi-qubit nanoscale sensing with entanglement as a resource</title>
-<author>Jared RovnyShimon KolkowitzNathalie P. de Leon</author>
-<link>https://www.nature.com/articles/s41586-025-09760-y</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09760-y/MediaObjects/41586_2025_9760_Fig1_HTML.png"><p></p><p>Controlling pairs of nitrogen vacancy centres enables the measurement of magnetic correlations below the optical diffraction limit, and the use of entangled pairs shows a linear scaling of the measurement sensitivity with readout noise, as opposed to the quadratic scaling that would be obtained with unentangled spins.</p><p></p><p>Jared RovnyShimon KolkowitzNathalie P. de Leon</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03890-z</guid>
-<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
-<title>Trump’s AI ‘Genesis Mission’: what are the risks and opportunities?</title>
-<author>Elizabeth GibneyAlexandra WitzeJenna Ahart</author>
-<link>https://www.nature.com/articles/d41586-025-03890-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03890-z/d41586-025-03890-z_51762454.jpg"><p></p><p>National laboratories have been instructed to broaden access to their data sets to accelerate research as part of the federal government’s AI platform. But who stands to benefit?</p><p></p><p>Elizabeth GibneyAlexandra WitzeJenna Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01780-4</guid>
-<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
-<title>Electrical control of photon spin angular momentum in organic electroluminescent materials</title>
-<author>Francesco FurlanMichal ŠámalMatthew J. Fuchter</author>
-<link>https://www.nature.com/articles/s41566-025-01780-4</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01780-4/MediaObjects/41566_2025_1780_Fig1_HTML.png"><p></p><p>Electrical tuning of the recombination zone in circularly polarized (CP) OLEDs enables switching the CP generation mechanism between normal and anomalous CP electroluminescence. This is exploited to electrically control the handedness of emitted CP light from the same device with the same enantiomer material.</p><p></p><p>Francesco FurlanMichal ŠámalMatthew J. Fuchter</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03853-4</guid>
-<pubDate>Tue, 25 Nov 2025 16:00:00 GMT</pubDate>
-<title>Why the world must wake up to China’s science leadership</title>
-<author>Kerry Brown</author>
-<link>https://www.nature.com/articles/d41586-025-03853-4</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03853-4/d41586-025-03853-4_51711008.jpg"><p></p><p>The nation’s next generation of scientists and technologists will shape the coming decades.</p><p></p><p>Kerry Brown</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03592-6</guid>
-<pubDate>Mon, 24 Nov 2025 16:00:00 GMT</pubDate>
-<title>Thirty years of Bose–Einstein condensation</title>
-<author>Zoran HadzibabicUlrich Schneider</author>
-<link>https://www.nature.com/articles/d41586-025-03592-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03592-6/d41586-025-03592-6_51741312.jpg"><p></p><p>In 1995, two papers reported long-sought proof of an exotic state of matter — with applications in fields as diverse as quantum computing and cosmology.</p><p></p><p>Zoran HadzibabicUlrich Schneider</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03100-7</guid>
-<pubDate>Sun, 23 Nov 2025 16:00:00 GMT</pubDate>
-<title>Electric toroidal invariance generates distinct transverse electromagnetic responses</title>
-<author>Kai DuDaegeun JoSang-Wook Cheong</author>
-<link>https://www.nature.com/articles/s41567-025-03100-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03100-7/MediaObjects/41567_2025_3100_Fig1_HTML.png"><p></p><p>Magnetic toroidal invariance generates transverse electromagnetic effects in materials with broken symmetries. Now a distinct magnetic response is shown to emerge in ferro-rotational systems in which both inversion and time-reversal symmetries are preserved.</p><p></p><p>Kai DuDaegeun JoSang-Wook Cheong</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01795-x</guid>
-<pubDate>Thu, 20 Nov 2025 16:00:00 GMT</pubDate>
-<title>Progress in quantum structured light</title>
-<author>Andrew ForbesFazilah NothlawalaAdam Vallés</author>
-<link>https://www.nature.com/articles/s41566-025-01795-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01795-x/MediaObjects/41566_2025_1795_Fig1_HTML.png"><p></p><p>This Review provides an overview of the progress in quantum structured light, both as single and entangled photon states, with an emphasis on prospective applications in quantum information science such as quantum communication and quantum imaging.</p><p></p><p>Andrew ForbesFazilah NothlawalaAdam Vallés</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09712-6</guid>
-<pubDate>Tue, 18 Nov 2025 16:00:00 GMT</pubDate>
-<title>Topological nodal i-wave superconductivity in PtBi2</title>
-<author>Susmita ChangdarOleksandr SuvorovJeroen van den Brink</author>
-<link>https://www.nature.com/articles/s41586-025-09712-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09712-6/MediaObjects/41586_2025_9712_Fig1_HTML.png"><p></p><p>Angle-resolved photoemission spectroscopy shows that Weyl semimetal PtBi2 harbours nodes in its superconducting gap, implying unconventional i-wave pairing symmetry.</p><p></p><p>Susmita ChangdarOleksandr SuvorovJeroen van den Brink</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03091-5</guid>
-<pubDate>Tue, 18 Nov 2025 16:00:00 GMT</pubDate>
-<title>A charge transfer mechanism for optically addressable solid-state spin pairs</title>
-<author>Islay O. RobertsonBenjamin WhitefieldJean-Philippe Tetienne</author>
-<link>https://www.nature.com/articles/s41567-025-03091-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03091-5/MediaObjects/41567_2025_3091_Fig1_HTML.png"><p></p><p>Optical spin defects in semiconductors are crucial for applications, but it is often difficult to establish their microscopic origin. A mechanism for the spin behaviour of a family of bright emitters in hexagonal boron nitride has now been identified.</p><p></p><p>Islay O. RobertsonBenjamin WhitefieldJean-Philippe Tetienne</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-03699-w</guid>
-<pubDate>Tue, 18 Nov 2025 16:00:00 GMT</pubDate>
-<title>Budget release: Canada courts US researchers and signals wider commitment to science</title>
-<author>Brian Owens</author>
-<link>https://www.nature.com/articles/d41586-025-03699-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-03699-w/d41586-025-03699-w_51704278.jpg"><p></p><p>Artificial intelligence and international scientists are some of the big winners in the country’s spending plan this year.</p><p></p><p>Brian Owens</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
