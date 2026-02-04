@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01837-4</guid>
+<pubDate>Mon, 02 Feb 2026 16:00:00 GMT</pubDate>
+<title>Universal loss and gain characterization inside photonic integrated circuits</title>
+<author>Haoran ChenRuxuan LiuXu Yi</author>
+<link>https://www.nature.com/articles/s41566-025-01837-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01837-4/MediaObjects/41566_2025_1837_Fig1_HTML.png"><p></p><p>A universal, non-destructive and scalable method to precisely characterize loss and gain of optical components inside photonic integrated circuits is discussed.</p><p></p><p>Haoran ChenRuxuan LiuXu Yi</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03173-y</guid>
+<pubDate>Mon, 02 Feb 2026 16:00:00 GMT</pubDate>
+<title>Mitigated chaos</title>
+<author>Bruno Bertini</author>
+<link>https://www.nature.com/articles/s41567-026-03173-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03173-y/MediaObjects/41567_2026_3173_Fig1_HTML.png"><p></p><p>Using classical operations to reverse the effects of noise, current quantum devices can outperform classical computers in simulating the dynamics of a chaotic quantum system.</p><p></p><p>Bruno Bertini</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10177-4</guid>
 <pubDate>Sun, 01 Feb 2026 16:00:00 GMT</pubDate>
 <title>Long-lived remote ion-ion entanglement for scalable quantum repeaters</title>
@@ -387,22 +403,6 @@
 <author>Xiaoying You</author>
 <link>https://www.nature.com/articles/d41586-025-04048-7</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-04048-7/d41586-025-04048-7_51813388.jpg"><p></p><p>The United States tops the remaining areas in an assessment of 74 technologies.</p><p></p><p>Xiaoying You</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-04063-8</guid>
-<pubDate>Wed, 10 Dec 2025 16:00:00 GMT</pubDate>
-<title>Quantum computing ‘KPIs’ could distinguish true breakthroughs from spurious claims</title>
-<author>Elizabeth Gibney</author>
-<link>https://www.nature.com/articles/d41586-025-04063-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-04063-8/d41586-025-04063-8_51817468.jpg"><p></p><p>Researchers are devising ways to make new machines face off, without the hype.</p><p></p><p>Elizabeth Gibney</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03118-x</guid>
-<pubDate>Wed, 10 Dec 2025 16:00:00 GMT</pubDate>
-<title>A super-conducting diode with ultimate efficiency and noise resilience at 77 K</title>
-<author>N/A</author>
-<link>https://www.nature.com/articles/s41567-025-03118-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03118-x/MediaObjects/41567_2025_3118_Fig1_HTML.png"><p></p><p>An electrical method is shown to reliably introduce nonreciprocal behaviour across a Josephson junction made of high-temperature cuprate superconductors, which then, under microwave irradiation, forms a ‘quantum superconducting diode’. The device is magnetic-field-free, works at a temperature of 77 K with a diode efficiency of 100%, and, owing to Shapiro steps that quantize the output voltage, has robust noise-filtering.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
