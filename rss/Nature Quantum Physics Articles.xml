@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01841-8</guid>
+<pubDate>Thu, 05 Feb 2026 16:00:00 GMT</pubDate>
+<title>Super-broadband stimulated Raman scattering spectroscopy and imaging</title>
+<author>Jin GuoMingzhen WangHanqing Xiong</author>
+<link>https://www.nature.com/articles/s41566-025-01841-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01841-8/MediaObjects/41566_2025_1841_Fig1_HTML.png"><p></p><p>A stimulated Raman scattering method based on dual-band laser-induced quantum interference enables ultra broadband and rapid hyperspectral Raman imaging of biological tissue and the detection of up to 11 key biomarkers in human serum.</p><p></p><p>Jin GuoMingzhen WangHanqing Xiong</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01834-7</guid>
 <pubDate>Wed, 04 Feb 2026 16:00:00 GMT</pubDate>
 <title>Scaling quantum photonics networks</title>
@@ -395,14 +403,6 @@
 <author>Dongjin OhHendrik BentmannRiccardo Comin</author>
 <link>https://www.nature.com/articles/s41567-025-03113-2</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03113-2/MediaObjects/41567_2025_3113_Fig1_HTML.png"><p></p><p>Orbital angular momentum textures can drive orbital currents and enable applications in orbitronics. This Perspective shows how polarization-dependent angle-resolved photoemission spectroscopy can visualize orbital textures in momentum space.</p><p></p><p>Dongjin OhHendrik BentmannRiccardo Comin</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-025-04108-y</guid>
-<pubDate>Thu, 18 Dec 2025 16:00:00 GMT</pubDate>
-<title>AI and quantum science take centre stage under Trump — but with little new proposed funding</title>
-<author>Jenna Ahart</author>
-<link>https://www.nature.com/articles/d41586-025-04108-y</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-025-04108-y/d41586-025-04108-y_51840180.jpg"><p></p><p>The US administration is banking on public–private partnerships and an expanded workforce to deliver progress, but critics say that this strategy could be offset by other US policies.</p><p></p><p>Jenna Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
