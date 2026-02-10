@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01846-x</guid>
+<pubDate>Mon, 09 Feb 2026 16:00:00 GMT</pubDate>
+<title>Heralded high-dimensional photon–photon quantum gate</title>
+<author>Zhi-Feng LiuZhi-Cheng RenHui-Tian Wang</author>
+<link>https://www.nature.com/articles/s41566-026-01846-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01846-x/MediaObjects/41566_2026_1846_Fig1_HTML.png"><p></p><p>A general protocol for high-dimensional entangling gates is developed and applied for two four-dimensional qudits encoded in orbital angular momentum (OAM). The phase-locking technique stabilizes OAM sorters, leading to a process fidelity within a range from 0.71 to 0.85.</p><p></p><p>Zhi-Feng LiuZhi-Cheng RenHui-Tian Wang</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03177-8</guid>
+<pubDate>Sun, 08 Feb 2026 16:00:00 GMT</pubDate>
+<title>Non-equilibrium entropy production and information dissipation in a non-Markovian quantum dot</title>
+<author>Yuejun ShenChutian ChenAaron M. Lindenberg</author>
+<link>https://www.nature.com/articles/s41567-026-03177-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03177-8/MediaObjects/41567_2026_3177_Fig1_HTML.png"><p></p><p>Experimentally assessing entropy production in nanosystems is challenging. Now, the dissipation is visualized in a time-dependently driven non-Markovian quantum-dot blinking process in real time.</p><p></p><p>Yuejun ShenChutian ChenAaron M. Lindenberg</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01841-8</guid>
 <pubDate>Thu, 05 Feb 2026 16:00:00 GMT</pubDate>
 <title>Super-broadband stimulated Raman scattering spectroscopy and imaging</title>
@@ -387,22 +403,6 @@
 <author>Wenzel KerstenNikolaus de ZordoJörg Schmiedmayer</author>
 <link>https://www.nature.com/articles/s41567-025-03123-0</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03123-0/MediaObjects/41567_2025_3123_Fig1_HTML.png"><p></p><p>Superradiance is usually driven by light-mediated couplings, leaving the role of direct emitter interactions unclear. Now, it is shown that dipole–dipole interactions in diamond spins drive self-induced pulsed and continuous superradiant masing.</p><p></p><p>Wenzel KerstenNikolaus de ZordoJörg Schmiedmayer</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09864-5</guid>
-<pubDate>Tue, 30 Dec 2025 16:00:00 GMT</pubDate>
-<title>A chiral fermionic valve driven by quantum geometry</title>
-<author>Anvesh DixitPranava K. SivakumarStuart S. P. Parkin</author>
-<link>https://www.nature.com/articles/s41586-025-09864-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09864-5/MediaObjects/41586_2025_9864_Fig1_HTML.png"><p></p><p>Fermionic currents of opposing chirality can be spatially filtered without the need for a magnetic field using the quantum geometry of topological bands in single-crystal PdGa.</p><p></p><p>Anvesh DixitPranava K. SivakumarStuart S. P. Parkin</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03113-2</guid>
-<pubDate>Sun, 28 Dec 2025 16:00:00 GMT</pubDate>
-<title>Interplay of orbital angular momentum and chirality</title>
-<author>Dongjin OhHendrik BentmannRiccardo Comin</author>
-<link>https://www.nature.com/articles/s41567-025-03113-2</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03113-2/MediaObjects/41567_2025_3113_Fig1_HTML.png"><p></p><p>Orbital angular momentum textures can drive orbital currents and enable applications in orbitronics. This Perspective shows how polarization-dependent angle-resolved photoemission spectroscopy can visualize orbital textures in momentum space.</p><p></p><p>Dongjin OhHendrik BentmannRiccardo Comin</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
