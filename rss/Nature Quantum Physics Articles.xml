@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01839-2</guid>
+<pubDate>Sun, 15 Feb 2026 16:00:00 GMT</pubDate>
+<title>Super-resolution imaging of limited-size objects</title>
+<author>Taeyong ChangGiorgio AdamoNikolay I. Zheludev</author>
+<link>https://www.nature.com/articles/s41566-025-01839-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01839-2/MediaObjects/41566_2025_1839_Fig1_HTML.png"><p></p><p>Limited-size object microscopy (LSOM) enables label-free super-resolution imaging of isolated nano-objects with a resolution as low as λ/8 under the sole assumption of the limited size of the imaged object.</p><p></p><p>Taeyong ChangGiorgio AdamoNikolay I. Zheludev</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03168-9</guid>
 <pubDate>Thu, 12 Feb 2026 16:00:00 GMT</pubDate>
 <title>Quantum metrology for human health</title>
@@ -66,7 +74,7 @@
 <title>Sub-part-per-trillion test of the Standard Model with atomic hydrogen</title>
 <author>Lothar MaisenbacherVitaly WirthlThomas Udem</author>
 <link>https://www.nature.com/articles/s41586-026-10124-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10124-3/MediaObjects/41586_2026_10124_Fig1_HTML.png"><p></p><p>Measurement of the 2S–6P transition in cryogenic atomic hydrogen using laser spectroscopy reveals a rp value that is 2.5-fold more precise than previous determinations and in excellent agreement with the muonic value, and tests the Standard Model to 0.7 parts per trillion.</p><p></p><p>Lothar MaisenbacherVitaly WirthlThomas Udem</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10124-3/MediaObjects/41586_2026_10124_Fig1_HTML.png"><p></p><p>Measurement of the 2S–6P transition in cryogenic atomic hydrogen using laser spectroscopy reveals a proton radius value that is 2.5-fold more precise than previous determinations and in excellent agreement with the muonic value, and tests the Standard Model to 0.7 parts per trillion.</p><p></p><p>Lothar MaisenbacherVitaly WirthlThomas Udem</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01846-x</guid>
@@ -395,14 +403,6 @@
 <author>Alexander WendtMatthew J. StoreyMatt Eichenfield</author>
 <link>https://www.nature.com/articles/s41586-025-09950-8</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09950-8/MediaObjects/41586_2025_9950_Fig1_HTML.png"><p></p><p>A completely solid-state, single-chip, microwave-frequency surface acoustic wave phonon laser can generate coherent phonons from thermal noise or resonantly amplify injected phonons using only a direct current bias field.</p><p></p><p>Alexander WendtMatthew J. StoreyMatt Eichenfield</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09911-1</guid>
-<pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
-<title>Coherent nonlinear X-ray four-photon interaction with core-shell electrons</title>
-<author>Ana Sofia Morillo-CandasSven AugustinGregor Knopp</author>
-<link>https://www.nature.com/articles/s41586-025-09911-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09911-1/MediaObjects/41586_2025_9911_Fig1_HTML.png"><p></p><p>Using single broadband X-ray pulses from a free-electron laser on a gaseous neon target, coherent, nonlinear four-photon interactions with core–shell electrons is demonstrated, representing a strategy for multidimensional correlation spectroscopy at the atomic scale.</p><p></p><p>Ana Sofia Morillo-CandasSven AugustinGregor Knopp</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
