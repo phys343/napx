@@ -5,6 +5,30 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03183-w</guid>
+<pubDate>Tue, 17 Feb 2026 16:00:00 GMT</pubDate>
+<title>Statistical localization of U(1) lattice gauge theory in a Rydberg simulator</title>
+<author>Prithvi Raj DatlaLuheng ZhaoHuanqian Loh</author>
+<link>https://www.nature.com/articles/s41567-026-03183-w</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03183-w/MediaObjects/41567_2026_3183_Fig1_HTML.png"><p></p><p>Lattice gauge theories with non-local conservation laws are expected to thermalize locally. Using a Rydberg simulator, it is now shown that most charge patterns can remain effectively frozen, a phenomenon known as statistical localization.</p><p></p><p>Prithvi Raj DatlaLuheng ZhaoHuanqian Loh</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10173-8</guid>
+<pubDate>Tue, 17 Feb 2026 16:00:00 GMT</pubDate>
+<title>Higher-dimensional Fermiology in bulk moiré metals</title>
+<author>Kevin P. NuckollsNisarga PaulJoseph G. Checkelsky</author>
+<link>https://www.nature.com/articles/s41586-026-10173-8</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10173-8/MediaObjects/41586_2026_10173_Fig1_HTML.png"><p></p><p>Aperiodic composite crystals were discovered that emulate 2D moiré materials, demonstrating a potentially scalable approach for producing moiré materials for next-generation electronics and a generalizable approach for realizing theoretical predictions of higher-dimensional quantum phenomena.</p><p></p><p>Kevin P. NuckollsNisarga PaulJoseph G. Checkelsky</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00484-1</guid>
+<pubDate>Tue, 17 Feb 2026 16:00:00 GMT</pubDate>
+<title>Chip-scale device efficiently boosts light signals</title>
+<author>N/A</author>
+<link>https://www.nature.com/articles/d41586-026-00484-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00484-1/d41586-026-00484-1_52070260.png"><p></p><p>Optical-amplifier devices that boost light signals are workhorses of modern technology, but shrinking them onto microchips requires impractically high power. An amplifier architecture has been developed that recycles its own ‘pump’ energy to achieve high performance at power levels ten times lower than those of previous designs, making low-power, chip-scale optical amplification practical.</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01839-2</guid>
 <pubDate>Sun, 15 Feb 2026 16:00:00 GMT</pubDate>
 <title>Super-resolution imaging of limited-size objects</title>
@@ -379,30 +403,6 @@
 <author>Dolev BluvsteinAlexandra A. GeimMikhail D. Lukin</author>
 <link>https://www.nature.com/articles/s41586-026-10108-3</link>
 <content:encoded><![CDATA[<p>Dolev BluvsteinAlexandra A. GeimMikhail D. Lukin</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09961-5</guid>
-<pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
-<title>Trapping of single atoms in metasurface optical tweezer arrays</title>
-<author>Aaron HolmanYuan XuSebastian Will</author>
-<link>https://www.nature.com/articles/s41586-025-09961-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09961-5/MediaObjects/41586_2025_9961_Fig1_HTML.png"><p></p><p>Single strontium atoms are trapped in optical tweezer arrays generated via holographic metasurfaces, overcoming a critical barrier to realizing scalable neutral-atom quantum technologies.</p><p></p><p>Aaron HolmanYuan XuSebastian Will</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-025-03135-w</guid>
-<pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
-<title>Emergent topological semimetal from quantum criticality</title>
-<author>D. M. KirschbaumL. ChenS. Paschen</author>
-<link>https://www.nature.com/articles/s41567-025-03135-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-025-03135-w/MediaObjects/41567_2025_3135_Fig1_HTML.png"><p></p><p>Examples of materials with non-trivial band topology in the presence of strong electron correlations are rare. Now it is shown that quantum fluctuations near a quantum phase transition can promote topological phases in a heavy-fermion compound.</p><p></p><p>D. M. KirschbaumL. ChenS. Paschen</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09950-8</guid>
-<pubDate>Tue, 13 Jan 2026 16:00:00 GMT</pubDate>
-<title>An electrically injected solid-state surface acoustic wave phonon laser</title>
-<author>Alexander WendtMatthew J. StoreyMatt Eichenfield</author>
-<link>https://www.nature.com/articles/s41586-025-09950-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09950-8/MediaObjects/41586_2025_9950_Fig1_HTML.png"><p></p><p>A completely solid-state, single-chip, microwave-frequency surface acoustic wave phonon laser can generate coherent phonons from thermal noise or resonantly amplify injected phonons using only a direct current bias field.</p><p></p><p>Alexander WendtMatthew J. StoreyMatt Eichenfield</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
