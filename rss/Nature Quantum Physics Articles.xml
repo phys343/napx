@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00880-7</guid>
+<pubDate>Sun, 22 Mar 2026 16:00:00 GMT</pubDate>
+<title>Drowning in data sets? Here’s how to cut them down to size</title>
+<author>Sarah Wild</author>
+<link>https://www.nature.com/articles/d41586-026-00880-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00880-7/d41586-026-00880-7_52194774.jpg"><p></p><p>Indefinite data retention is neither financially nor practically possible, but there are ways to give your data maximal long-term value.</p><p></p><p>Sarah Wild</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01857-8</guid>
 <pubDate>Thu, 19 Mar 2026 16:00:00 GMT</pubDate>
 <title>Orders-of-magnitude improvement in precision spectroscopy of an inner-shell orbital clock transition in neutral ytterbium</title>
@@ -395,14 +403,6 @@
 <author>Qi XiaoGleb PenyazkovShiqian Ding</author>
 <link>https://www.nature.com/articles/s41586-026-10107-4</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10107-4/MediaObjects/41586_2026_10107_Fig1_HTML.png"><p></p><p>A continuous-wave narrow-linewidth vacuum ultraviolet laser generated using four-wave mixing in cadmium vapour is shown to improve linewidth by five orders of magnitude compared with previous single-frequency lasers below 190 nm.</p><p></p><p>Qi XiaoGleb PenyazkovShiqian Ding</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-09927-7</guid>
-<pubDate>Tue, 10 Feb 2026 16:00:00 GMT</pubDate>
-<title>Single-shot parity readout of a minimal Kitaev chain</title>
-<author>Nick van LooFrancesco ZatelliLeo P. Kouwenhoven</author>
-<link>https://www.nature.com/articles/s41586-025-09927-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-09927-7/MediaObjects/41586_2025_9927_Fig1_HTML.png"><p></p><p>A measurement strategy is described that is able to read out the parity of minimal two-site Kitaev chains in real time, by coupling two Majoranas and resolving their quantum capacitance.</p><p></p><p>Nick van LooFrancesco ZatelliLeo P. Kouwenhoven</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
