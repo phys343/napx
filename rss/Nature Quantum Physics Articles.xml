@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00804-5</guid>
+<pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
+<title>Long-distance quantum link generates entanglement faster than it is lost</title>
+<author>Ronald HansonTracy Northup</author>
+<link>https://www.nature.com/articles/d41586-026-00804-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00804-5/d41586-026-00804-5_52208502.jpg"><p></p><p>Entanglement between ions connected by 10 kilometres of optical fibre is a step towards large-scale quantum communications networks.</p><p></p><p>Ronald HansonTracy Northup</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10209-z</guid>
+<pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
+<title>Superluminal correlations in ensembles of optical phase singularities</title>
+<author>T. BucherA. GorlachI. Kaminer</author>
+<link>https://www.nature.com/articles/s41586-026-10209-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10209-z/MediaObjects/41586_2026_10209_Fig1_HTML.png"><p></p><p>Ultrafast electron imaging shows full phase-space dynamics of optical singularities, which can reach superluminal velocities before annihilation and break the particle-like analogy of topological defects.</p><p></p><p>T. BucherA. GorlachI. Kaminer</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00880-7</guid>
 <pubDate>Sun, 22 Mar 2026 16:00:00 GMT</pubDate>
 <title>Drowning in data sets? Here’s how to cut them down to size</title>
@@ -387,22 +403,6 @@
 <author>Ruo-Ran MengPei-Xi LiuGuang-Can Guo</author>
 <link>https://www.nature.com/articles/s41566-026-01845-y</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01845-y/MediaObjects/41566_2026_1845_Fig1_HTML.png"><p></p><p>Integrated quantum memories based on 151Eu3+:Y2SiO5 crystals coupled with impedance-matched optical cavities are demonstrated. Multiplexed quantum storage efficiencies of 80.3% and 69.8% are achieved for weak coherent pulses and telecom-heralded single photons, respectively.</p><p></p><p>Ruo-Ran MengPei-Xi LiuGuang-Can Guo</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10152-z</guid>
-<pubDate>Tue, 10 Feb 2026 16:00:00 GMT</pubDate>
-<title>Large-scale quantum communication networks with integrated photonics</title>
-<author>Yun ZhengHanyu WangJianwei Wang</author>
-<link>https://www.nature.com/articles/s41586-026-10152-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10152-z/MediaObjects/41586_2026_10152_Fig1_HTML.png"><p></p><p>A lab-scale proof-of-principle demonstration of a quantum network comprising one server chip and 20 client photonic chips implementing twin-field quantum key distribution shows excellent scalability and reliability and yields a pathway towards future large-scale networks.</p><p></p><p>Yun ZhengHanyu WangJianwei Wang</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10133-2</guid>
-<pubDate>Tue, 10 Feb 2026 16:00:00 GMT</pubDate>
-<title>Parity-doublet coherence times in optically trapped polyatomic molecules</title>
-<author>Paige RobichaudChristian HallasJohn M. Doyle</author>
-<link>https://www.nature.com/articles/s41586-026-10133-2</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10133-2/MediaObjects/41586_2026_10133_Fig1_HTML.png"><p></p><p>Optically trapped CaOH molecules in parity-doublet states achieve coherence times exceeding vibrational lifetimes, which are a defining milestone for the use of polyatomic molecules in quantum science.</p><p></p><p>Paige RobichaudChristian HallasJohn M. Doyle</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
