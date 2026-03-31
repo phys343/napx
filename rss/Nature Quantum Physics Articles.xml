@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00959-1</guid>
+<pubDate>Sun, 29 Mar 2026 16:00:00 GMT</pubDate>
+<title>Quantum simulations verified by experiments for the first time</title>
+<author>Davide Castelvecchi</author>
+<link>https://www.nature.com/articles/d41586-026-00959-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00959-1/d41586-026-00959-1_52216524.jpg"><p></p><p>Physicists cross-checked quantum computer predictions against experimental data about materials' properties.</p><p></p><p>Davide Castelvecchi</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01010-z</guid>
+<pubDate>Sun, 29 Mar 2026 16:00:00 GMT</pubDate>
+<title>Anthony Leggett obituary: physicist who brought quantum theory to the macro world</title>
+<author>Philip Stamp</author>
+<link>https://www.nature.com/articles/d41586-026-01010-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01010-z/d41586-026-01010-z_52213026.jpg"><p></p><p>The polymath also trained as a philosopher and won a Nobel prize for his theory of superfluids.</p><p></p><p>Philip Stamp</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01877-4</guid>
 <pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
 <title>Large exciton longitudinal–transverse splitting enables room-temperature ultrafast coherent polaritonics in layered perovskite crystals</title>
@@ -387,22 +403,6 @@
 <author>Kevin P. NuckollsNisarga PaulJoseph G. Checkelsky</author>
 <link>https://www.nature.com/articles/s41586-026-10173-8</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10173-8/MediaObjects/41586_2026_10173_Fig1_HTML.png"><p></p><p>Aperiodic composite crystals were discovered that emulate 2D moiré materials, demonstrating a potentially scalable approach for producing moiré materials for next-generation electronics and a generalizable approach for realizing theoretical predictions of higher-dimensional quantum phenomena.</p><p></p><p>Kevin P. NuckollsNisarga PaulJoseph G. Checkelsky</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00484-1</guid>
-<pubDate>Tue, 17 Feb 2026 16:00:00 GMT</pubDate>
-<title>Chip-scale device efficiently boosts light signals</title>
-<author>N/A</author>
-<link>https://www.nature.com/articles/d41586-026-00484-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00484-1/d41586-026-00484-1_52070260.png"><p></p><p>Optical-amplifier devices that boost light signals are workhorses of modern technology, but shrinking them onto microchips requires impractically high power. An amplifier architecture has been developed that recycles its own ‘pump’ energy to achieve high performance at power levels ten times lower than those of previous designs, making low-power, chip-scale optical amplification practical.</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-025-01839-2</guid>
-<pubDate>Sun, 15 Feb 2026 16:00:00 GMT</pubDate>
-<title>Super-resolution imaging of limited-size objects</title>
-<author>Taeyong ChangGiorgio AdamoNikolay I. Zheludev</author>
-<link>https://www.nature.com/articles/s41566-025-01839-2</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-025-01839-2/MediaObjects/41566_2025_1839_Fig1_HTML.png"><p></p><p>Limited-size object microscopy (LSOM) enables label-free super-resolution imaging of isolated nano-objects with a resolution as low as λ/8 under the sole assumption of the limited size of the imaged object.</p><p></p><p>Taeyong ChangGiorgio AdamoNikolay I. Zheludev</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
