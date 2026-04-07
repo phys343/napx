@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03219-1</guid>
+<pubDate>Sun, 05 Apr 2026 16:00:00 GMT</pubDate>
+<title>Quantum ground-state cooling of two librational modes of a nanorotor</title>
+<author>Stephan TroyerFlorian FechtelMarkus Arndt</author>
+<link>https://www.nature.com/articles/s41567-026-03219-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03219-1/MediaObjects/41567_2026_3219_Fig1_HTML.png"><p></p><p>Controlling the rotational motion of nanoscale objects by trapping and cooling is a prerequisite for exploring quantum rotational phenomena. Now, two orthogonal librational modes of a levitated nanorotor are cooled into their quantum ground state.</p><p></p><p>Stephan TroyerFlorian FechtelMarkus Arndt</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01886-3</guid>
 <pubDate>Thu, 02 Apr 2026 16:00:00 GMT</pubDate>
 <title>All-optical polarization control in time-varying low-index films via plasma symmetry breaking</title>
@@ -395,14 +403,6 @@
 <author>Benjamin E. Feldman</author>
 <link>https://www.nature.com/articles/s41567-026-03209-3</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03209-3/MediaObjects/41567_2026_3209_Fig1_HTML.png"><p></p><p>In a semiconductor bilayer system, local moments in one layer interact with itinerant carriers in the other to realize a two-dimensional topological Kondo insulator.</p><p></p><p>Benjamin E. Feldman</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03185-8</guid>
-<pubDate>Thu, 05 Mar 2026 16:00:00 GMT</pubDate>
-<title>High-field triplet superconductivity in a transition metal dichalcogenide superlattice</title>
-<author>S. Y. Frank ZhaoPaul M. NevesJoseph G. Checkelsky</author>
-<link>https://www.nature.com/articles/s41567-026-03185-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03185-8/MediaObjects/41567_2026_3185_Fig1_HTML.png"><p></p><p>BaTa2S5, which consists of alternating layers of TaS2 and Ba2TaS4, is shown to host a triplet superconducting phase at high magnetic field. This triplet phase emerges from another—more conventional—superconducting state.</p><p></p><p>S. Y. Frank ZhaoPaul M. NevesJoseph G. Checkelsky</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
