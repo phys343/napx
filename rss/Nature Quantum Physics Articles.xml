@@ -5,6 +5,38 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10356-3</guid>
+<pubDate>Tue, 07 Apr 2026 16:00:00 GMT</pubDate>
+<title>High-fidelity collisional quantum gates with fermionic atoms</title>
+<author>Petar BojovićTimon HilkerTitus Franz</author>
+<link>https://www.nature.com/articles/s41586-026-10356-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10356-3/MediaObjects/41586_2026_10356_Fig1_HTML.png"><p></p><p>A robust composite pair-exchange gate based on controlled interactions of fermionic atoms in an optical superlattice demonstrates high fidelities and long Bell-state lifetimes, marking an important step towards a fully digital fermionic quantum computer.</p><p></p><p>Petar BojovićTimon HilkerTitus Franz</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10285-1</guid>
+<pubDate>Tue, 07 Apr 2026 16:00:00 GMT</pubDate>
+<title>Protected quantum gates using qubit doublons in dynamical optical lattices</title>
+<author>Yann KieferZijie ZhuTilman Esslinger</author>
+<link>https://www.nature.com/articles/s41586-026-10285-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10285-1/MediaObjects/41586_2026_10285_Fig1_HTML.png"><p></p><p>A purely geometric two-qubit SWAP gate can be realized by transiently populating qubit doublon states of fermionic atoms in a dynamical optical lattice.</p><p></p><p>Yann KieferZijie ZhuTilman Esslinger</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01884-5</guid>
+<pubDate>Tue, 07 Apr 2026 16:00:00 GMT</pubDate>
+<title>Microcombs for the generation of tunable structured microwaves</title>
+<author>Yuanhua FengXuebing Zhang</author>
+<link>https://www.nature.com/articles/s41566-026-01884-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01884-5/MediaObjects/41566_2026_1884_Fig1_HTML.png"><p></p><p>Structured microwaves emitted by a chip-based microcomb source equipped with an antenna array enable ultrahigh-capacity communications and multi-variable sensing.</p><p></p><p>Yuanhua FengXuebing Zhang</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10168-5</guid>
+<pubDate>Tue, 07 Apr 2026 16:00:00 GMT</pubDate>
+<title>High-precision measurement of the W boson mass with the CMS experiment</title>
+<author>V. ChekhovskyA. HayrapetyanD. Druzhkin</author>
+<link>https://www.nature.com/articles/s41586-026-10168-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10168-5/MediaObjects/41586_2026_10168_Fig1_HTML.png"><p></p><p>The CMS experiment at CERN reports one of the highest-precision measurements of the W boson mass, finding it in line with standard model predictions and at odds with recent anomalous measurements.</p><p></p><p>V. ChekhovskyA. HayrapetyanD. Druzhkin</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03219-1</guid>
 <pubDate>Sun, 05 Apr 2026 16:00:00 GMT</pubDate>
 <title>Quantum ground-state cooling of two librational modes of a nanorotor</title>
@@ -75,6 +107,14 @@
 <author>Bryan L. TuroBahaa E. A. SalehAyman F. Abouraddy</author>
 <link>https://www.nature.com/articles/s41566-026-01872-9</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01872-9/MediaObjects/41566_2026_1872_Fig1_HTML.png"><p></p><p>By projecting the multimoded, spatiotemporally structured signal photon onto a single spatial mode to herald the arrival of the idler photon, a diffraction-free single-photon space-time wave packet in the idler that did not traverse the spectral modulator is remotely prepared.</p><p></p><p>Bryan L. TuroBahaa E. A. SalehAyman F. Abouraddy</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01114-6</guid>
+<pubDate>Wed, 01 Apr 2026 16:00:00 GMT</pubDate>
+<title>Daily briefing: Quantum computers could crack cybersecurity systems before 2030</title>
+<author>Jacob Smith</author>
+<link>https://www.nature.com/articles/d41586-026-01114-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01114-6/d41586-026-01114-6_17300602.png"><p></p><p>Quantum-computing advances could pose an imminent threat to systems such as Internet communications. Plus, the progress of the Artemis II Moon mission and a high-speed plane chase for climate research.</p><p></p><p>Jacob Smith</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10230-2</guid>
@@ -363,46 +403,6 @@
 <author>Quan LinTianyu LiPeng Xue</author>
 <link>https://www.nature.com/articles/s41566-026-01854-x</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01854-x/MediaObjects/41566_2026_1854_Fig1_HTML.png"><p></p><p>A three-band time-multiplexed photonic quantum walk simulates a Floquet non-Abelian topological insulator. The observation of the anomalous non-Abelian phase confirms the bulk-boundary correspondence using the topological configuration of phase-band singularities.</p><p></p><p>Quan LinTianyu LiPeng Xue</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00489-w</guid>
-<pubDate>Tue, 10 Mar 2026 16:00:00 GMT</pubDate>
-<title>Photonic ‘ski jump’ steers light beam from silicon chip</title>
-<author>Cheryl Sorace-Agaskar</author>
-<link>https://www.nature.com/articles/d41586-026-00489-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00489-w/d41586-026-00489-w_52151960.jpg"><p></p><p>Chip-based beam scanners use tiny electrically controlled cantilevers instead of moving mirrors to control the direction of light projected into free space.</p><p></p><p>Cheryl Sorace-Agaskar</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01866-7</guid>
-<pubDate>Mon, 09 Mar 2026 16:00:00 GMT</pubDate>
-<title>A 1-km photonic link connecting superconducting circuits in two dilution refrigerators</title>
-<author>Yiyu ZhouYufeng WuHong X. Tang</author>
-<link>https://www.nature.com/articles/s41566-026-01866-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01866-7/MediaObjects/41566_2026_1866_Fig1_HTML.png"><p></p><p>The microwave-to-optical transduction between two superconducting circuits over a 1-km telecom link is implemented. The transduced signal preserves classical coherence with the original microwave signal, showing the feasibility of microwave distribution via optical carriers.</p><p></p><p>Yiyu ZhouYufeng WuHong X. Tang</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03204-8</guid>
-<pubDate>Thu, 05 Mar 2026 16:00:00 GMT</pubDate>
-<title>Cavity-enhanced spectroscopy in the deep cryogenic regime for quantum sensing and metrology</title>
-<author>K. StankiewiczM. MakowskiP. Wcisło</author>
-<link>https://www.nature.com/articles/s41567-026-03204-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03204-8/MediaObjects/41567_2026_3204_Fig1_HTML.png"><p></p><p>Operating cavity-based spectrometers at low temperature has several advantages, such as improved sensitivity. Now, a cavity-enhanced spectrometer is demonstrated down to 4 K.</p><p></p><p>K. StankiewiczM. MakowskiP. Wcisło</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03211-9</guid>
-<pubDate>Thu, 05 Mar 2026 16:00:00 GMT</pubDate>
-<title>Logical multi-qubit entanglement with dual-rail superconducting qubits</title>
-<author>Wenhui HuangXuandong SunDapeng Yu</author>
-<link>https://www.nature.com/articles/s41567-026-03211-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03211-9/MediaObjects/41567_2026_3211_Fig1_HTML.png"><p></p><p>Quantum computers often exhibit a bias in the type of error that is the most common or severe. Entanglement has now been demonstrated for qubits encoded with an error correction code that is designed to efficiently handle biased errors.</p><p></p><p>Wenhui HuangXuandong SunDapeng Yu</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03209-3</guid>
-<pubDate>Thu, 05 Mar 2026 16:00:00 GMT</pubDate>
-<title>Kondo with a topological twist</title>
-<author>Benjamin E. Feldman</author>
-<link>https://www.nature.com/articles/s41567-026-03209-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03209-3/MediaObjects/41567_2026_3209_Fig1_HTML.png"><p></p><p>In a semiconductor bilayer system, local moments in one layer interact with itinerant carriers in the other to realize a two-dimensional topological Kondo insulator.</p><p></p><p>Benjamin E. Feldman</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
