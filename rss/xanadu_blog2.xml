@@ -5,8 +5,16 @@
 <link>https://www.xanadu.ai</link>
 <description>rss/xanadu_blog2.xml</description>
 <item>
+<guid isPermaLink="true">https://www.xanadu.ai/blog/propelling-aerospace-applications-with-xanadus-pennylane-rolls-royce-amd</guid>
+<pubDate>Thu, 16 Apr 2026 17:01:36 GMT</pubDate>
+<title>Propelling aerospace applications with Xanadu’s PennyLane, Rolls-Royce, and AMD</title>
+<link>https://www.xanadu.ai/blog/propelling-aerospace-applications-with-xanadus-pennylane-rolls-royce-amd</link>
+<content:encoded><![CDATA[<img src="https://www.xanadu.aiN/A"><p></p><p>By Josh Izaac Designing the next generation of efficient, low-emission jet engines is a monumental task that
+relies heavily on computational…</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.xanadu.ai/blog/quantum-computing-for-photodynamic-cancer-therapy</guid>
-<pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
+<pubDate>Thu, 16 Apr 2026 17:01:36 GMT</pubDate>
 <title>Quantum computing for photodynamic cancer therapy</title>
 <link>https://www.xanadu.ai/blog/quantum-computing-for-photodynamic-cancer-therapy</link>
 <content:encoded><![CDATA[<img src="https://www.xanadu.aiN/A"><p></p><p>By Stepan Fomichev and Yanbing Zhou Drug discovery is perhaps one of the most frequently cited future applications of quantum computers.
@@ -14,7 +22,7 @@ And…</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.xanadu.ai/blog/accelerating-quantum-workflows-with-pennylane-and-amd</guid>
-<pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
+<pubDate>Thu, 16 Apr 2026 17:01:36 GMT</pubDate>
 <title>Accelerating quantum workflows with Xanadu's PennyLane and AMD</title>
 <link>https://www.xanadu.ai/blog/accelerating-quantum-workflows-with-pennylane-and-amd</link>
 <content:encoded><![CDATA[<img src="https://www.xanadu.aiN/A"><p></p><p>By Josh Izaac Xanadu's photonic hardware is advancing rapidly. This year alone, we announced  Aurora, the
@@ -22,19 +30,10 @@ first scalable networked and…</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.xanadu.ai/blog/xanadu-residency-program-the-launchpad-for-tomorrow-quantum-leaders</guid>
-<pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
+<pubDate>Thu, 16 Apr 2026 17:01:36 GMT</pubDate>
 <title>Xanadu Residency Program: The Launchpad for Tomorrow's Quantum Leaders</title>
 <link>https://www.xanadu.ai/blog/xanadu-residency-program-the-launchpad-for-tomorrow-quantum-leaders</link>
 <content:encoded><![CDATA[<img src="https://www.xanadu.aiN/A"><p></p><p>This summer, a select group of students embarked on a journey into the world of quantum computing through Xanadu’s 16-week Residency Program…</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.xanadu.ai/blog/the-photonic-qubit-of-the-future</guid>
-<pubDate>Fri, 20 Feb 2026 17:03:24 GMT</pubDate>
-<title>The photonic qubit of the future</title>
-<link>https://www.xanadu.ai/blog/the-photonic-qubit-of-the-future</link>
-<content:encoded><![CDATA[<img src="https://www.xanadu.aiN/A"><p></p><p>Today,  we announced 
-the first ever demonstration of GKP qubits on an integrated photonic chip. This
-is a significant breakthrough in…</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
