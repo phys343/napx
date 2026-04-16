@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01236-x</guid>
+<pubDate>Wed, 15 Apr 2026 16:00:00 GMT</pubDate>
+<title>Quantum computers take on health care: light-sensitive cancer drugs win US$2 million contest</title>
+<author>Elizabeth Gibney</author>
+<link>https://www.nature.com/articles/d41586-026-01236-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01236-x/d41586-026-01236-x_52293008.jpg"><p></p><p>Quantum machines are making inroads into biology, but have no ‘advantage’ over classical machines yet.</p><p></p><p>Elizabeth Gibney</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03246-y</guid>
+<pubDate>Tue, 14 Apr 2026 16:00:00 GMT</pubDate>
+<title>Efficient thermalization and universal quantum computing with quantum Gibbs samplers</title>
+<author>Cambyse RouzéDaniel Stilck FrançaÁlvaro M. Alhambra</author>
+<link>https://www.nature.com/articles/s41567-026-03246-y</link>
+<content:encoded><![CDATA[<p>Quantum simulation of equilibrium many-body systems requires the ability to sample from the thermal distribution of quantum states. An algorithm has now been proven to be an appropriate quantum analogue to classical Monte Carlo methods.</p><p></p><p>Cambyse RouzéDaniel Stilck FrançaÁlvaro M. Alhambra</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03225-3</guid>
 <pubDate>Mon, 13 Apr 2026 16:00:00 GMT</pubDate>
 <title>Intrinsic phononic dressed states in a nanomechanical system</title>
@@ -387,22 +403,6 @@
 <author>Tao JiangJianbin CaiJian-Wei Pan</author>
 <link>https://www.nature.com/articles/s41567-026-03179-6</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03179-6/MediaObjects/41567_2026_3179_Fig1_HTML.png"><p></p><p>Measurement-based quantum computing implements quantum algorithms by performing sequences of measurements on special classes of entangled states, such as cluster states. This approach has now been demonstrated on a superconducting quantum processor.</p><p></p><p>Tao JiangJianbin CaiJian-Wei Pan</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00724-4</guid>
-<pubDate>Tue, 10 Mar 2026 16:00:00 GMT</pubDate>
-<title>Quantum entanglement as a tool to image distant astronomical objects</title>
-<author>N/A</author>
-<link>https://www.nature.com/articles/d41586-026-00724-4</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00724-4/d41586-026-00724-4_52151872.png"><p></p><p>Particles entangled over long distances can, in theory, improve the sensitivity of long-baseline interferometers that are observing weak thermal light sources. A proof-of-concept experiment now demonstrates entanglement-assisted interferometry, paving the way for entanglement-enhanced non‑local sensing techniques.</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-025-10038-6</guid>
-<pubDate>Tue, 10 Mar 2026 16:00:00 GMT</pubDate>
-<title>Nanophotonic waveguide chip-to-world beam scanning</title>
-<author>Matt SahaY. Henry WenDirk Englund</author>
-<link>https://www.nature.com/articles/s41586-025-10038-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-025-10038-6/MediaObjects/41586_2025_10038_Fig1_HTML.png"><p></p><p>A monolithically integrated photonic ski-jump enables scalable, diffraction-limited 2D beam scanning from photonic chips, achieving ultrahigh spot rates, compact footprints and applications spanning displays, sensing and quantum photonics.</p><p></p><p>Matt SahaY. Henry WenDirk Englund</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
