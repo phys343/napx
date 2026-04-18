@@ -5,12 +5,20 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03261-z</guid>
+<pubDate>Thu, 16 Apr 2026 16:00:00 GMT</pubDate>
+<title>Inter-magnet pumping counters dissipation in artificial ferrimagnets</title>
+<author>Kai ZhangY. X. NiuJ. Li</author>
+<link>https://www.nature.com/articles/s41567-026-03261-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03261-z/MediaObjects/41567_2026_3261_Fig1_HTML.png"><p></p><p>Reducing dissipation when generating spin currents remains a central challenge in spintronics. Now, an artificial ferrimagnet is shown to produce spin current output and simultaneously lower magnetic damping.</p><p></p><p>Kai ZhangY. X. NiuJ. Li</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01236-x</guid>
 <pubDate>Wed, 15 Apr 2026 16:00:00 GMT</pubDate>
-<title>Quantum computers take on health care: light-sensitive cancer drugs win US$2 million contest</title>
+<title>Quantum computers take on health care: light-sensitive cancer drugs win US$2-million contest</title>
 <author>Elizabeth Gibney</author>
 <link>https://www.nature.com/articles/d41586-026-01236-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01236-x/d41586-026-01236-x_52293008.jpg"><p></p><p>Quantum machines are making inroads into biology, but have no ‘advantage’ over classical machines yet.</p><p></p><p>Elizabeth Gibney</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01236-x/d41586-026-01236-x_52293008.jpg"><p></p><p>Quantum machines are making inroads into biology but have no ‘advantage’ over classical machines yet.</p><p></p><p>Elizabeth Gibney</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03246-y</guid>
@@ -395,14 +403,6 @@
 <author>N/A</author>
 <link>https://www.nature.com/articles/s41567-026-03186-7</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03186-7/MediaObjects/41567_2026_3186_Fig1_HTML.png"><p></p><p>Understanding how to optimally detect and extract quantum entanglement typically involves intractable formulae that require optimization over many copies of quantum states. A shift of perspective leads to a much simpler formula based on the quantum relative entropy of a single quantum state, made possible by a new result in quantum state discrimination.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03179-6</guid>
-<pubDate>Tue, 10 Mar 2026 16:00:00 GMT</pubDate>
-<title>One- and two-dimensional cluster states for topological phase simulation and measurement-based quantum computation</title>
-<author>Tao JiangJianbin CaiJian-Wei Pan</author>
-<link>https://www.nature.com/articles/s41567-026-03179-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03179-6/MediaObjects/41567_2026_3179_Fig1_HTML.png"><p></p><p>Measurement-based quantum computing implements quantum algorithms by performing sequences of measurements on special classes of entangled states, such as cluster states. This approach has now been demonstrated on a superconducting quantum processor.</p><p></p><p>Tao JiangJianbin CaiJian-Wei Pan</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
