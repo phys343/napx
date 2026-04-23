@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10396-9</guid>
+<pubDate>Tue, 21 Apr 2026 16:00:00 GMT</pubDate>
+<title>Glycerol-driven TNAP activation in thermogenesis and mineralization</title>
+<author>Mohammed Faiz HussainShreya S. KrishnanLawrence Kazak</author>
+<link>https://www.nature.com/articles/s41586-026-10396-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10396-9/MediaObjects/41586_2026_10396_Fig1_HTML.png"><p></p><p>Glycerol is an allosteric activator of tissue-nonspecific alkaline phosphatase (TNAP), activating the futile creatine cycle.</p><p></p><p>Mohammed Faiz HussainShreya S. KrishnanLawrence Kazak</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03254-y</guid>
 <pubDate>Mon, 20 Apr 2026 16:00:00 GMT</pubDate>
 <title>Two-electron quantum walks for probing entanglement and decoherence in an electron microscope</title>
@@ -395,14 +403,6 @@
 <author>Fanhao ShenYujie JiJianwei Yin</author>
 <link>https://www.nature.com/articles/s41567-026-03218-2</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03218-2/MediaObjects/41567_2026_3218_Fig1_HTML.png"><p></p><p>Random access memory has multiple data registers and uses addresses to specify which register should be read or modified. Now a quantum random access memory has been demonstrated that uses quantum addresses to return data in superposition.</p><p></p><p>Fanhao ShenYujie JiJianwei Yin</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01874-7</guid>
-<pubDate>Sun, 15 Mar 2026 16:00:00 GMT</pubDate>
-<title>Degeneracy-locked optical parametric oscillator</title>
-<author>Fengyan YangJiacheng XieHong X. Tang</author>
-<link>https://www.nature.com/articles/s41566-026-01874-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01874-7/MediaObjects/41566_2026_1874_Fig1_HTML.png"><p></p><p>Locking of an optical parametric oscillator’s degeneracy over a broad bandwidth enables robust operation against both pump detuning and temperature fluctuations.</p><p></p><p>Fengyan YangJiacheng XieHong X. Tang</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
