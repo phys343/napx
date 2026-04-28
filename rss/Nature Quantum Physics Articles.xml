@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01864-9</guid>
+<pubDate>Sun, 26 Apr 2026 16:00:00 GMT</pubDate>
+<title>Integrated photonics for continuous-variable quantum optics</title>
+<author>Rachel N. ClarkBethany PuzioJonathan C. F. Matthews</author>
+<link>https://www.nature.com/articles/s41566-026-01864-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01864-9/MediaObjects/41566_2026_1864_Fig1_HTML.png"><p></p><p>In this Review the authors cover the latest efforts to integrate sources and detectors of continuous-variable quantum light states into chip-scale photonic integrated circuits.</p><p></p><p>Rachel N. ClarkBethany PuzioJonathan C. F. Matthews</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03266-8</guid>
 <pubDate>Wed, 22 Apr 2026 16:00:00 GMT</pubDate>
 <title>Planckian scattering and parallel conduction channels in an iron chalcogenide superconductor</title>
@@ -77,20 +85,20 @@
 <content:encoded><![CDATA[<p>Quantum simulation of equilibrium many-body systems requires the ability to sample from the thermal distribution of quantum states. An algorithm has now been proven to be an appropriate quantum analogue to classical Monte Carlo methods.</p><p></p><p>Cambyse RouzéDaniel Stilck FrançaÁlvaro M. Alhambra</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01119-1</guid>
-<pubDate>Mon, 13 Apr 2026 16:00:00 GMT</pubDate>
-<title>NSF awards record number of coveted PhD fellowships in surprise move</title>
-<author>Dan Garisto</author>
-<link>https://www.nature.com/articles/d41586-026-01119-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01119-1/d41586-026-01119-1_52289450.jpg"><p></p><p>Quantum science and AI research are big winners just a year after the US funding giant slashed its Graduate Research Fellowship Program awards in half.</p><p></p><p>Dan Garisto</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03225-3</guid>
 <pubDate>Mon, 13 Apr 2026 16:00:00 GMT</pubDate>
 <title>Intrinsic phononic dressed states in a nanomechanical system</title>
 <author>M. YukselM. P. MaksymowychM. L. Roukes</author>
 <link>https://www.nature.com/articles/s41567-026-03225-3</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03225-3/MediaObjects/41567_2026_3225_Fig1_HTML.png"><p></p><p>Exploiting the differences between quantum and classical physics typically requires nonlinear devices. Quantum nonlinear effects have now been demonstrated in a nanomechanical resonator due to strong coupling with an intrinsic two-level defect.</p><p></p><p>M. YukselM. P. MaksymowychM. L. Roukes</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01119-1</guid>
+<pubDate>Mon, 13 Apr 2026 16:00:00 GMT</pubDate>
+<title>NSF awards record number of coveted PhD fellowships in surprise move</title>
+<author>Dan Garisto</author>
+<link>https://www.nature.com/articles/d41586-026-01119-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01119-1/d41586-026-01119-1_52289450.jpg"><p></p><p>Quantum science and AI research are big winners just a year after the US funding giant slashed its Graduate Research Fellowship Program awards in half.</p><p></p><p>Dan Garisto</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10356-3</guid>
@@ -395,14 +403,6 @@
 <author>Iris PaparelleJohan HenaffValentina Parigi</author>
 <link>https://www.nature.com/articles/s41566-026-01880-9</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01880-9/MediaObjects/41566_2026_1880_Fig1_HTML.png"><p></p><p>Researchers demonstrate a photonic quantum reservoir computing platform that uses spectral and temporal multiplexing in a continuous-variable setting. Real-time memory is implemented, and nonlinear temporal tasks are enabled.</p><p></p><p>Iris PaparelleJohan HenaffValentina Parigi</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03216-4</guid>
-<pubDate>Mon, 16 Mar 2026 16:00:00 GMT</pubDate>
-<title>Origin of strange metallicity in a d-orbital kagome metal</title>
-<author>Jean C. SouzaMoshe HaimHaim Beidenkopf</author>
-<link>https://www.nature.com/articles/s41567-026-03216-4</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03216-4/MediaObjects/41567_2026_3216_Fig1_HTML.png"><p></p><p>The mechanism of strange metallicity remains difficult to understand. Now it is shown that in a strongly correlated d-orbital kagome metal, compact orbitals created by destructive interference can produce the unusual electronic behaviour.</p><p></p><p>Jean C. SouzaMoshe HaimHaim Beidenkopf</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
