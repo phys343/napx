@@ -5,6 +5,30 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10445-3</guid>
+<pubDate>Tue, 28 Apr 2026 16:00:00 GMT</pubDate>
+<title>Digital quantum magnetism on a trapped-ion quantum computer</title>
+<author>R. HaghshenasE. ChertkovM. Foss-Feig</author>
+<link>https://www.nature.com/articles/s41586-026-10445-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10445-3/MediaObjects/41586_2026_10445_Fig1_HTML.png"><p></p><p>Simulations performed using Quantinuum’s H2 trapped-ion quantum computer for observing thermalization on challenging timescales demonstrate the usefulness of digital quantum computers for investigating continuous-time dynamics in regimes that classical simulation methods find difficult.</p><p></p><p>R. HaghshenasE. ChertkovM. Foss-Feig</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10559-8</guid>
+<pubDate>Mon, 27 Apr 2026 16:00:00 GMT</pubDate>
+<title>Author Correction: Quantum error correction below the surface code threshold</title>
+<author>Rajeev AcharyaDmitry A. AbaninNicholas Zobrist</author>
+<link>https://www.nature.com/articles/s41586-026-10559-8</link>
+<content:encoded><![CDATA[<p>Rajeev AcharyaDmitry A. AbaninNicholas Zobrist</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03259-7</guid>
+<pubDate>Mon, 27 Apr 2026 16:00:00 GMT</pubDate>
+<title>Exceptional deficiency of non-Hermitian systems</title>
+<author>Zhen LiRundong CaiGuancong Ma</author>
+<link>https://www.nature.com/articles/s41567-026-03259-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03259-7/MediaObjects/41567_2026_3259_Fig1_HTML.png"><p></p><p>Exceptional points and their related phenomena are limited to a narrow bandwidth and require precise control to realize. Now a high-dimensional generalization of exceptional points is shown to enable broadband non-Hermitian dynamics.</p><p></p><p>Zhen LiRundong CaiGuancong Ma</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01864-9</guid>
 <pubDate>Sun, 26 Apr 2026 16:00:00 GMT</pubDate>
 <title>Integrated photonics for continuous-variable quantum optics</title>
@@ -379,30 +403,6 @@
 <author>Siwei ZhangWeijun YuanSebastian Will</author>
 <link>https://www.nature.com/articles/s41586-026-10245-9</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10245-9/MediaObjects/41586_2026_10245_Fig1_HTML.png"><p></p><p>Self-bound droplets and droplet arrays are observed in an ultracold gas of strongly dipolar sodium–caesium molecules, establishing ultracold molecules as a system for the exploration of strongly dipolar quantum matter.</p><p></p><p>Siwei ZhangWeijun YuanSebastian Will</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10232-0</guid>
-<pubDate>Tue, 17 Mar 2026 16:00:00 GMT</pubDate>
-<title>The E3 ubiquitin ligase mechanism specifying targeted microRNA degradation</title>
-<author>Jakob FarnungElena SlobodyanyukDavid P. Bartel</author>
-<link>https://www.nature.com/articles/s41586-026-10232-0</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10232-0/MediaObjects/41586_2026_10232_Fig1_HTML.png"><p></p><p>Target-directed microRNA degradation is driven by the atypical ZSWIM8–CUL3 E3 ubiquitin ligase that uses a two-RNA-factor authentication mechanism to specifically recognize AGO–miRNA–trigger RNA complexes and polyubiquitylate AGO.</p><p></p><p>Jakob FarnungElena SlobodyanyukDavid P. Bartel</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00897-y</guid>
-<pubDate>Tue, 17 Mar 2026 16:00:00 GMT</pubDate>
-<title>Daily briefing: Funding calls plummet as NIH turns away from agency-directed science</title>
-<author>Flora Graham</author>
-<link>https://www.nature.com/articles/d41586-026-00897-y</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00897-y/d41586-026-00897-y_17300602.png"><p></p><p>The US National Institutes of Health will now focus on ‘unsolicited’ research proposals driven by the interests of individual scientists. Plus, the oldest known recording of a whale’s song and how tiny electric vehicles can help to change the world.</p><p></p><p>Flora Graham</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01880-9</guid>
-<pubDate>Mon, 16 Mar 2026 16:00:00 GMT</pubDate>
-<title>Experimental memory control in continuous-variable optical quantum reservoir computing</title>
-<author>Iris PaparelleJohan HenaffValentina Parigi</author>
-<link>https://www.nature.com/articles/s41566-026-01880-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01880-9/MediaObjects/41566_2026_1880_Fig1_HTML.png"><p></p><p>Researchers demonstrate a photonic quantum reservoir computing platform that uses spectral and temporal multiplexing in a continuous-variable setting. Real-time memory is implemented, and nonlinear temporal tasks are enabled.</p><p></p><p>Iris PaparelleJohan HenaffValentina Parigi</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
