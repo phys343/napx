@@ -5,6 +5,46 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10423-9</guid>
+<pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
+<title>Two-qubit logic and teleportation with mobile spin qubits in silicon</title>
+<author>Y. MatsumotoM. De SmetL. M. K. Vandersypen</author>
+<link>https://www.nature.com/articles/s41586-026-10423-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10423-9/MediaObjects/41586_2026_10423_Fig1_HTML.png"><p></p><p>A device architecture comprising silicon-based mobile qubits and the shuttling of two electron spins together demonstrates two-qubit gate fidelity of about 99% as well as quantum state teleportation between qubits separated by 320 nm.</p><p></p><p>Y. MatsumotoM. De SmetL. M. K. Vandersypen</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01157-9</guid>
+<pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
+<title>Nanoscale ‘conveyor belt’ teleports quantum state of electron</title>
+<author>Lars R. Schreiber</author>
+<link>https://www.nature.com/articles/d41586-026-01157-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01157-9/d41586-026-01157-9_52378528.jpg"><p></p><p>Mobile quantum bits, which can be shuttled to where they are needed in a circuit, have been used to perform a quantum process called state teleportation.</p><p></p><p>Lars R. Schreiber</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10441-7</guid>
+<pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
+<title>Quantum coherent manipulation and readout of superconducting vortex states</title>
+<author>Ameya NambisanSimon GünzlerIoan M. Pop</author>
+<link>https://www.nature.com/articles/s41586-026-10441-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10441-7/MediaObjects/41586_2026_10441_Fig1_HTML.png"><p></p><p>Vortices trapped in superconducting granular aluminium films can behave as a quantum two-level system that can be manipulated and read out, suggesting that they could be used for future quantum technologies.</p><p></p><p>Ameya NambisanSimon GünzlerIoan M. Pop</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10495-7</guid>
+<pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
+<title>Purcell-enhanced spin–phonon coupling with a single colour centre</title>
+<author>Graham JoeMichael HaasMarko Lončar</author>
+<link>https://www.nature.com/articles/s41586-026-10495-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10495-7/MediaObjects/41586_2026_10495_Fig1_HTML.png"><p></p><p>The acoustic Purcell effect is observed by constructing a specially engineered, microwave-frequency nanomechanical resonator around a colour centre spin qubit in diamond.</p><p></p><p>Graham JoeMichael HaasMarko Lončar</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01154-y</guid>
+<pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
+<title>In twisted graphene, some electrons are heavier than others</title>
+<author>Hongyun ZhangShuyun Zhou</author>
+<link>https://www.nature.com/articles/d41586-026-01154-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01154-y/d41586-026-01154-y_52359356.jpg"><p></p><p>When two graphene layers are twisted at a ‘magic angle’, their electrons can behave as both heavy and light particles, depending on momentum.</p><p></p><p>Hongyun ZhangShuyun Zhou</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03273-9</guid>
 <pubDate>Mon, 04 May 2026 16:00:00 GMT</pubDate>
 <title>Quantum random access memory put to the test</title>
@@ -363,46 +403,6 @@
 <author>Dan Garisto</author>
 <link>https://www.nature.com/articles/d41586-026-00977-z</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00977-z/d41586-026-00977-z_52212976.jpg"><p></p><p>Sparse academic presence on the US President’s Council of Advisors on Science and Technology reflects a focus on technology and industry.</p><p></p><p>Dan Garisto</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00804-5</guid>
-<pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
-<title>Long-distance quantum link generates entanglement faster than it is lost</title>
-<author>Ronald HansonTracy Northup</author>
-<link>https://www.nature.com/articles/d41586-026-00804-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00804-5/d41586-026-00804-5_52208502.jpg"><p></p><p>Entanglement between ions connected by 10 kilometres of optical fibre is a step towards large-scale quantum communications networks.</p><p></p><p>Ronald HansonTracy Northup</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10209-z</guid>
-<pubDate>Tue, 24 Mar 2026 16:00:00 GMT</pubDate>
-<title>Superluminal correlations in ensembles of optical phase singularities</title>
-<author>T. BucherA. GorlachI. Kaminer</author>
-<link>https://www.nature.com/articles/s41586-026-10209-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10209-z/MediaObjects/41586_2026_10209_Fig1_HTML.png"><p></p><p>Ultrafast electron imaging shows full phase-space dynamics of optical singularities, which can reach superluminal velocities before annihilation and break the particle-like analogy of topological defects.</p><p></p><p>T. BucherA. GorlachI. Kaminer</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00880-7</guid>
-<pubDate>Sun, 22 Mar 2026 16:00:00 GMT</pubDate>
-<title>Drowning in data sets? Here’s how to cut them down to size</title>
-<author>Sarah Wild</author>
-<link>https://www.nature.com/articles/d41586-026-00880-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00880-7/d41586-026-00880-7_52194774.jpg"><p></p><p>Indefinite data retention is neither financially nor practically possible, but there are ways to give your data maximal long-term value.</p><p></p><p>Sarah Wild</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01857-8</guid>
-<pubDate>Thu, 19 Mar 2026 16:00:00 GMT</pubDate>
-<title>Orders-of-magnitude improvement in precision spectroscopy of an inner-shell orbital clock transition in neutral ytterbium</title>
-<author>Taiki IshiyamaKoki OnoYoshiro Takahashi</author>
-<link>https://www.nature.com/articles/s41566-026-01857-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01857-8/MediaObjects/41566_2026_1857_Fig1_HTML.png"><p></p><p>Precision spectroscopy of an inner-shell orbital clock transition in Yb is developed. It reveals the transition moment, the intrinsic lifetime of the excited state and the interorbital Feshbach resonance. Isotope shifts with uncertainties below 10 Hz are also measured.</p><p></p><p>Taiki IshiyamaKoki OnoYoshiro Takahashi</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03217-3</guid>
-<pubDate>Thu, 19 Mar 2026 16:00:00 GMT</pubDate>
-<title>Exceptional sensitivity near the bistable transition point of a hybrid quantum system</title>
-<author>Hanfeng WangKurt JacobsMatthew E. Trusheim</author>
-<link>https://www.nature.com/articles/s41567-026-03217-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03217-3/MediaObjects/41567_2026_3217_Fig1_HTML.png"><p></p><p>Operating devices close to a phase transition can improve performance due to the singular behaviour at critical points. An enhancement in sensitivity has now been achieved using the bistable transition point in a hybrid quantum system.</p><p></p><p>Hanfeng WangKurt JacobsMatthew E. Trusheim</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
