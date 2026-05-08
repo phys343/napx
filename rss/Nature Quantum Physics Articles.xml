@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01911-5</guid>
+<pubDate>Wed, 06 May 2026 16:00:00 GMT</pubDate>
+<title>A metropolitan-scale multiplexed quantum repeater with Bell non-locality</title>
+<author>Tian-Xiang ZhuChao ZhangGuang-Can Guo</author>
+<link>https://www.nature.com/articles/s41566-026-01911-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01911-5/MediaObjects/41566_2026_1911_Fig1_HTML.png"><p></p><p>Time-division multiplexing in a metropolitan-scale quantum repeater is demonstrated. Heralded entanglement between remote quantum memories is implemented over a distance of 14.5 km, generating a Bell state with a fidelity of 78.6% with a Bell inequality violation of S = 2.22.</p><p></p><p>Tian-Xiang ZhuChao ZhangGuang-Can Guo</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01904-4</guid>
+<pubDate>Wed, 06 May 2026 16:00:00 GMT</pubDate>
+<title>Ytterbium spectroscopy for new physics searches</title>
+<author>Julian Berengut</author>
+<link>https://www.nature.com/articles/s41566-026-01904-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01904-4/MediaObjects/41566_2026_1904_Fig1_HTML.png"><p></p><p>Highly precise measurements of inner-shell transitions in ytterbium atoms can help test our understanding of physics and the existence and properties of new fundamental particles.</p><p></p><p>Julian Berengut</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10423-9</guid>
 <pubDate>Tue, 05 May 2026 16:00:00 GMT</pubDate>
 <title>Two-qubit logic and teleportation with mobile spin qubits in silicon</title>
@@ -387,22 +403,6 @@
 <author>Philip Stamp</author>
 <link>https://www.nature.com/articles/d41586-026-01010-z</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01010-z/d41586-026-01010-z_52213026.jpg"><p></p><p>The polymath also trained as a philosopher and won a Nobel prize for his theory of superfluids.</p><p></p><p>Philip Stamp</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01877-4</guid>
-<pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
-<title>Large exciton longitudinal–transverse splitting enables room-temperature ultrafast coherent polaritonics in layered perovskite crystals</title>
-<author>Rui CaiSiow Mean LohTze Chien Sum</author>
-<link>https://www.nature.com/articles/s41566-026-01877-4</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01877-4/MediaObjects/41566_2026_1877_Fig1_HTML.png"><p></p><p>The researchers demonstrate room-temperature control over bulk exciton–polaritons (EPs) in a bare halide perovskite crystal and show that long-range bulk EP propagation occurs in the ballistic regime. Furthermore, slow light is demonstrated across the visible wavelength range.</p><p></p><p>Rui CaiSiow Mean LohTze Chien Sum</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-00977-z</guid>
-<pubDate>Wed, 25 Mar 2026 16:00:00 GMT</pubDate>
-<title>Trump’s new science advisers include 12 technology chiefs — and one academic</title>
-<author>Dan Garisto</author>
-<link>https://www.nature.com/articles/d41586-026-00977-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00977-z/d41586-026-00977-z_52212976.jpg"><p></p><p>Sparse academic presence on the US President’s Council of Advisors on Science and Technology reflects a focus on technology and industry.</p><p></p><p>Dan Garisto</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
