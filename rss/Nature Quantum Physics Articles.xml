@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03281-9</guid>
+<pubDate>Sun, 10 May 2026 16:00:00 GMT</pubDate>
+<title>Scalable generation of massive Schrödinger cat states via quantum tunnelling</title>
+<author>Han ZhangYong-Kui WangBing Yang</author>
+<link>https://www.nature.com/articles/s41567-026-03281-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03281-9/MediaObjects/41567_2026_3281_Fig1_HTML.png"><p></p><p>Massive spatial superpositions are a resource for quantum interferometry, but it has been hard to generate them beyond single atoms. Now spatially entangled massive states are realized through the tunnelling of atomic clusters in optical lattices.</p><p></p><p>Han ZhangYong-Kui WangBing Yang</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01911-5</guid>
 <pubDate>Wed, 06 May 2026 16:00:00 GMT</pubDate>
 <title>A metropolitan-scale multiplexed quantum repeater with Bell non-locality</title>
@@ -395,14 +403,6 @@
 <author>Davide Castelvecchi</author>
 <link>https://www.nature.com/articles/d41586-026-00959-1</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-00959-1/d41586-026-00959-1_52216524.jpg"><p></p><p>Physicists cross-checked quantum computer predictions against experimental data about materials’ properties.</p><p></p><p>Davide Castelvecchi</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01010-z</guid>
-<pubDate>Sun, 29 Mar 2026 16:00:00 GMT</pubDate>
-<title>Anthony Leggett obituary: physicist who brought quantum theory to the macro world</title>
-<author>Philip Stamp</author>
-<link>https://www.nature.com/articles/d41586-026-01010-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01010-z/d41586-026-01010-z_52213026.jpg"><p></p><p>The polymath also trained as a philosopher and won a Nobel prize for his theory of superfluids.</p><p></p><p>Philip Stamp</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
