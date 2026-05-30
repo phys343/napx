@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01393-z</guid>
+<pubDate>Thu, 28 May 2026 16:00:00 GMT</pubDate>
+<title>How jazz boosts my creativity in physics</title>
+<author>Dom Byrne</author>
+<link>https://www.nature.com/articles/d41586-026-01393-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01393-z/d41586-026-01393-z_52283656.jpg"><p></p><p>Stephon Alexander says his passion for musical improvisation helps him to understand and teach complex ideas.</p><p></p><p>Dom Byrne</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10521-8</guid>
 <pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
 <title>Experimental randomness amplification</title>
@@ -395,14 +403,6 @@
 <author>Petar BojovićTimon HilkerTitus Franz</author>
 <link>https://www.nature.com/articles/s41586-026-10356-3</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10356-3/MediaObjects/41586_2026_10356_Fig1_HTML.png"><p></p><p>A robust composite pair-exchange gate based on controlled interactions of fermionic atoms in an optical superlattice demonstrates high fidelities and long Bell-state lifetimes, marking an important step towards a fully digital fermionic quantum computer.</p><p></p><p>Petar BojovićTimon HilkerTitus Franz</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10285-1</guid>
-<pubDate>Tue, 07 Apr 2026 16:00:00 GMT</pubDate>
-<title>Protected quantum gates using qubit doublons in dynamical optical lattices</title>
-<author>Yann KieferZijie ZhuTilman Esslinger</author>
-<link>https://www.nature.com/articles/s41586-026-10285-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10285-1/MediaObjects/41586_2026_10285_Fig1_HTML.png"><p></p><p>A purely geometric two-qubit SWAP gate can be realized by transiently populating qubit doublon states of fermionic atoms in a dynamical optical lattice.</p><p></p><p>Yann KieferZijie ZhuTilman Esslinger</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
