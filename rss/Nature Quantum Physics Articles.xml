@@ -5,6 +5,46 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10628-y</guid>
+<pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+<title>Improved quantum processor logical error rates via correction and detection</title>
+<author>A. PaetznickB. W. ReichardtK. M. Svore</author>
+<link>https://www.nature.com/articles/s41586-026-10628-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10628-y/MediaObjects/41586_2026_10628_Fig1_HTML.png"><p></p><p>Experimental demonstration of quantum error-correcting codes combined with error detection and post-selection applied to a trapped-ion quantum processor shows improvements in logical error rates ranging from 11× to 800× compared with several physical circuit baselines.</p><p></p><p>A. PaetznickB. W. ReichardtK. M. Svore</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03303-6</guid>
+<pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+<title>Spinon mediation of witness spin dynamics in herbertsmithite</title>
+<author>Hiroto TakahashiJack MurphyJ. C. Séamus Davis</author>
+<link>https://www.nature.com/articles/s41567-026-03303-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03303-6/MediaObjects/41567_2026_3303_Fig1_HTML.png"><p></p><p>There is a long-running effort to find a material with a spin liquid ground state, but existing experimental probes have not given definitive evidence. Now, impurity spins have been used as probes of the putative spin liquid phase of herbertsmithite.</p><p></p><p>Hiroto TakahashiJack MurphyJ. C. Séamus Davis</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10636-y</guid>
+<pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+<title>Two-component exciton condensates in an electron–hole bilayer</title>
+<author>Ruishi QiQize LiFeng Wang</author>
+<link>https://www.nature.com/articles/s41586-026-10636-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10636-y/MediaObjects/41586_2026_10636_Fig1_HTML.png"><p></p><p>Macroscopic quantum coherence arises in two-component exciton Bose–Einstein condensates within MoSe2/hBN/WSe2 electron–hole bilayers, exhibiting distinct spin–valley polarized phases, quantum phase transitions under magnetic fields and stable condensate behaviour up to approximately 1.8 K.</p><p></p><p>Ruishi QiQize LiFeng Wang</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10580-x</guid>
+<pubDate>Tue, 09 Jun 2026 16:00:00 GMT</pubDate>
+<title>Lignin to adipic acid in a high-yield chemical and biological redox process</title>
+<author>Kathryn M. MainsChad T. PalumboGregg T. Beckham</author>
+<link>https://www.nature.com/articles/s41586-026-10580-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10580-x/MediaObjects/41586_2026_10580_Fig1_HTML.png"><p></p><p>A chemical and biological redox process that resembles processes in petrochemical refining is used to convert lignin from poplar into a single, valuable bioproduct, adipic acid, in high yields.</p><p></p><p>Kathryn M. MainsChad T. PalumboGregg T. Beckham</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03333-0</guid>
+<pubDate>Mon, 08 Jun 2026 16:00:00 GMT</pubDate>
+<title>Observation of exact quantum critical states</title>
+<author>Wenhui HuangXin-Chi ZhouDapeng Yu</author>
+<link>https://www.nature.com/articles/s41567-026-03333-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03333-0/MediaObjects/41567_2026_3333_Fig1_HTML.png"><p></p><p>Anderson localization allows critical states between localized and extended regimes, but observing them is difficult. Now critical states are experimentally realized in a superconducting-qubit simulator implementing a quasiperiodic lattice model.</p><p></p><p>Wenhui HuangXin-Chi ZhouDapeng Yu</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01933-z</guid>
 <pubDate>Thu, 04 Jun 2026 16:00:00 GMT</pubDate>
 <title>The thin line for optical neural networks towards broad practical relevance</title>
@@ -363,46 +403,6 @@
 <author>R. HaghshenasE. ChertkovM. Foss-Feig</author>
 <link>https://www.nature.com/articles/s41586-026-10445-3</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10445-3/MediaObjects/41586_2026_10445_Fig1_HTML.png"><p></p><p>Simulations performed using Quantinuum’s H2 trapped-ion quantum computer for observing thermalization on challenging timescales demonstrate the usefulness of digital quantum computers for investigating continuous-time dynamics in regimes that classical simulation methods find difficult.</p><p></p><p>R. HaghshenasE. ChertkovM. Foss-Feig</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10559-8</guid>
-<pubDate>Mon, 27 Apr 2026 16:00:00 GMT</pubDate>
-<title>Author Correction: Quantum error correction below the surface code threshold</title>
-<author>Rajeev AcharyaDmitry A. AbaninNicholas Zobrist</author>
-<link>https://www.nature.com/articles/s41586-026-10559-8</link>
-<content:encoded><![CDATA[<p>Rajeev AcharyaDmitry A. AbaninNicholas Zobrist</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03259-7</guid>
-<pubDate>Mon, 27 Apr 2026 16:00:00 GMT</pubDate>
-<title>Exceptional deficiency of non-Hermitian systems</title>
-<author>Zhen LiRundong CaiGuancong Ma</author>
-<link>https://www.nature.com/articles/s41567-026-03259-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03259-7/MediaObjects/41567_2026_3259_Fig1_HTML.png"><p></p><p>Exceptional points and their related phenomena are limited to a narrow bandwidth and require precise control to realize. Now a high-dimensional generalization of exceptional points is shown to enable broadband non-Hermitian dynamics.</p><p></p><p>Zhen LiRundong CaiGuancong Ma</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01864-9</guid>
-<pubDate>Sun, 26 Apr 2026 16:00:00 GMT</pubDate>
-<title>Integrated photonics for continuous-variable quantum optics</title>
-<author>Rachel N. ClarkBethany PuzioJonathan C. F. Matthews</author>
-<link>https://www.nature.com/articles/s41566-026-01864-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01864-9/MediaObjects/41566_2026_1864_Fig1_HTML.png"><p></p><p>In this Review the authors cover the latest efforts to integrate sources and detectors of continuous-variable quantum light states into chip-scale photonic integrated circuits.</p><p></p><p>Rachel N. ClarkBethany PuzioJonathan C. F. Matthews</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03266-8</guid>
-<pubDate>Wed, 22 Apr 2026 16:00:00 GMT</pubDate>
-<title>Planckian scattering and parallel conduction channels in an iron chalcogenide superconductor</title>
-<author>Ralph Romero IIIHee Taek YiN. P. Armitage</author>
-<link>https://www.nature.com/articles/s41567-026-03266-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03266-8/MediaObjects/41567_2026_3266_Fig1_HTML.png"><p></p><p>The link between the strange metal with its linear-in-temperature resistivity and superconductivity is ambiguous. Now, a channel in the normal state whose scattering rate is linear in temperature is shown to drive superconductivity in FeTe1−xSex.</p><p></p><p>Ralph Romero IIIHee Taek YiN. P. Armitage</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03272-w</guid>
-<pubDate>Wed, 22 Apr 2026 16:00:00 GMT</pubDate>
-<title>Field-induced superconductivity in a magnetically doped two-dimensional crystal</title>
-<author>Adrian LlanosVeronica ShowJoseph Falson</author>
-<link>https://www.nature.com/articles/s41567-026-03272-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03272-w/MediaObjects/41567_2026_3272_Fig1_HTML.png"><p></p><p>Magnetic fields usually weaken superconductivity. By contrast, a material platform is demonstrated where applying a moderate field induces superconductivity.</p><p></p><p>Adrian LlanosVeronica ShowJoseph Falson</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
