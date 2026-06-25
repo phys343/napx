@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03341-0</guid>
+<pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
+<title>Floquet topological state induced by light-driven band inversion in SnTe</title>
+<author>F. ChassotA. PulkkinenC. Monney</author>
+<link>https://www.nature.com/articles/s41567-026-03341-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03341-0/MediaObjects/41567_2026_3341_Fig1_HTML.png"><p></p><p>Floquet engineering could, in principle, induce a topological phase in semiconductors, but clear evidence has been lacking. Now it is shown in SnTe that femtosecond light pulses briefly create a topological state that is absent at equilibrium.</p><p></p><p>F. ChassotA. PulkkinenC. Monney</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01917-z</guid>
 <pubDate>Tue, 23 Jun 2026 16:00:00 GMT</pubDate>
 <title>Deuterated compounds for organic light-emitting diodes</title>
@@ -395,14 +403,6 @@
 <author>Yu-Huai LiTing ZengJian-Wei Pan</author>
 <link>https://www.nature.com/articles/s41566-026-01910-6</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01910-6/MediaObjects/41566_2026_1910_Fig1_HTML.png"><p></p><p>By developing frequency locking and time synchronization between independent ultrastable lasers and atomic clocks, twin-field quantum key distribution is demonstrated over 14.2-km turbulent free-space channels, with a secure key rate exceeding the repeaterless capacity bound.</p><p></p><p>Yu-Huai LiTing ZengJian-Wei Pan</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03265-9</guid>
-<pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-<title>Entanglement-enabled image transmission through complex media</title>
-<author>Chloé VernièreRaphaël GuitterHugo Defienne</author>
-<link>https://www.nature.com/articles/s41567-026-03265-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03265-9/MediaObjects/41567_2026_3265_Fig1_HTML.png"><p></p><p>Classical approaches to imaging through complex media do not account for the quantum nature of the incident field. Now, images encoded on an entangled two-photon state are shown to transmit through a scattering medium whereas scattered by classical light.</p><p></p><p>Chloé VernièreRaphaël GuitterHugo Defienne</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
