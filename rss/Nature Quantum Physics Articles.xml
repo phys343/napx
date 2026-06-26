@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03319-y</guid>
+<pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
+<title>Coherent control of interacting solid-state spins below the diffraction limit</title>
+<author>Haitong XuMehmet T. UysalJeff D. Thompson</author>
+<link>https://www.nature.com/articles/s41567-026-03319-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03319-y/MediaObjects/41567_2026_3319_Fig1_HTML.png"><p></p><p>Interacting electron spins in solid-state devices could be used for quantum networks, but such spins are often too closely spaced to be individually addressed. Single-spin control has now been demonstrated for interacting rare-earth dopants.</p><p></p><p>Haitong XuMehmet T. UysalJeff D. Thompson</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03340-1</guid>
+<pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
+<title>Ultrashort light pulses can transform a semiconductor into a topological insulator</title>
+<author>N/A</author>
+<link>https://www.nature.com/articles/s41567-026-03340-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03340-1/MediaObjects/41567_2026_3340_Fig1_HTML.png"><p></p><p>The electronic structure of materials can be tailored using pulses of light, and through this so-called Floquet engineering, novel materials can be designed. Now, the technique has been used to create light-induced metallic surface states in the band gap of a semiconductor — transforming the material, transiently, into a topological insulator.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03341-0</guid>
 <pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
 <title>Floquet topological state induced by light-driven band inversion in SnTe</title>
@@ -277,20 +293,20 @@
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03302-7/MediaObjects/41567_2026_3302_Fig1_HTML.png"><p></p><p>Hong–Ou–Mandel interference has been difficult to extend to ensembles of many massive particles. Measurements on up to 12 neutral atoms now exhibit characteristic multiparticle interference pattern with single-atom resolution and negligible loss.</p><p></p><p>Martin QuensenMareike HetzelCarsten Klempt</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01688-1</guid>
-<pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
-<title>Polymarket vs science: why researchers are sceptical of the prediction-market hype</title>
-<author>Jenna Ahart</author>
-<link>https://www.nature.com/articles/d41586-026-01688-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01688-1/d41586-026-01688-1_52481740.jpg"><p></p><p>Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.</p><p></p><p>Jenna Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03294-4</guid>
 <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
 <title>Single- and two-mode magnon thermal squeezing</title>
 <author>Tomosato HiokiKaito TojoEiji Saitoh</author>
 <link>https://www.nature.com/articles/s41567-026-03294-4</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03294-4/MediaObjects/41567_2026_3294_Fig1_HTML.png"><p></p><p>Obtaining squeezed states in magnets are a key challenge for future spin-based sensing and information technology. Now thermal squeezing of magnons, where noise drops below thermal levels, is shown in a ferrimagnetic insulator device.</p><p></p><p>Tomosato HiokiKaito TojoEiji Saitoh</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01688-1</guid>
+<pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
+<title>Polymarket vs science: why researchers are sceptical of the prediction-market hype</title>
+<author>Jenna Ahart</author>
+<link>https://www.nature.com/articles/d41586-026-01688-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01688-1/d41586-026-01688-1_52481740.jpg"><p></p><p>Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.</p><p></p><p>Jenna Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01393-z</guid>
@@ -333,20 +349,20 @@
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10579-4/MediaObjects/41586_2026_10579_Fig1_HTML.png"><p></p><p>A direct, dynamical black-hole mass measurement in a strongly lensed little red dot at high redshift indicates that it is a massive black-hole seed caught in its earliest accretion phase.</p><p></p><p>Ignas JuodžbalisCosimo MarconciniSaiyang Zhang</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10669-3</guid>
-<pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
-<title>Bottom-up synthesis of molecular nanodiamond from nanographene</title>
-<author>Jiaxu LiangChristopher P. EnderTanja Weil</author>
-<link>https://www.nature.com/articles/s41586-026-10669-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10669-3/MediaObjects/41586_2026_10669_Fig1_HTML.png"><p></p><p>Bottom-up synthesis from molecular nanographenes produces ultrasmall, uniform nanodiamonds for quantum colour centre incorporation, enabling scalable fabrication of high-quality quantum sensing materials.</p><p></p><p>Jiaxu LiangChristopher P. EnderTanja Weil</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03322-3</guid>
 <pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
 <title>Robustness of Majorana modes to a disorder potential in atomic chains on a superconducting Rashba alloy</title>
 <author>Harim JangDaniel CrawfordRoland Wiesendanger</author>
 <link>https://www.nature.com/articles/s41567-026-03322-3</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03322-3/MediaObjects/41567_2026_3322_Fig1_HTML.png"><p></p><p>The presence of Majorana zero modes is often difficult to confirm experimentally due to the detrimental effects of disorder. Now, a chain of magnetic atoms on a proximatized surface is shown to exhibit robust Majorana states with disorder present.</p><p></p><p>Harim JangDaniel CrawfordRoland Wiesendanger</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10669-3</guid>
+<pubDate>Mon, 25 May 2026 16:00:00 GMT</pubDate>
+<title>Bottom-up synthesis of molecular nanodiamond from nanographene</title>
+<author>Jiaxu LiangChristopher P. EnderTanja Weil</author>
+<link>https://www.nature.com/articles/s41586-026-10669-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10669-3/MediaObjects/41586_2026_10669_Fig1_HTML.png"><p></p><p>Bottom-up synthesis from molecular nanographenes produces ultrasmall, uniform nanodiamonds for quantum colour centre incorporation, enabling scalable fabrication of high-quality quantum sensing materials.</p><p></p><p>Jiaxu LiangChristopher P. EnderTanja Weil</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01916-0</guid>
@@ -387,22 +403,6 @@
 <author>Doris KalteneckerIzabela HorvathAli Ertürk</author>
 <link>https://www.nature.com/articles/s41586-026-10535-2</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10535-2/MediaObjects/41586_2026_10535_Fig1_HTML.png"><p></p><p>An analysis of diet-induced obesity using MouseMapper—a suite of foundation-model-based deep-learning algorithms—identifies structural alterations of the infraorbital branch of the trigeminal ganglia.</p><p></p><p>Doris KalteneckerIzabela HorvathAli Ertürk</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10565-w</guid>
-<pubDate>Tue, 19 May 2026 16:00:00 GMT</pubDate>
-<title>Cusp-singularity-enhanced Coriolis effect for sensitive chip-scale gyroscopes</title>
-<author>Sen ZhangDingbang XiaoXin Zhou</author>
-<link>https://www.nature.com/articles/s41586-026-10565-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10565-w/MediaObjects/41586_2026_10565_Fig1_HTML.png"><p></p><p>By using singularity physics to enable cubic-root scaling of frequency and phase modulations induced by the Coriolis effect to enhance the performance of chip-scale Coriolis vibratory gyroscopes, substantial improvements in signal-to-noise ratio and precision are demonstrated.</p><p></p><p>Sen ZhangDingbang XiaoXin Zhou</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01910-6</guid>
-<pubDate>Mon, 18 May 2026 16:00:00 GMT</pubDate>
-<title>Free-space twin-field quantum key distribution</title>
-<author>Yu-Huai LiTing ZengJian-Wei Pan</author>
-<link>https://www.nature.com/articles/s41566-026-01910-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01910-6/MediaObjects/41566_2026_1910_Fig1_HTML.png"><p></p><p>By developing frequency locking and time synchronization between independent ultrastable lasers and atomic clocks, twin-field quantum key distribution is demonstrated over 14.2-km turbulent free-space channels, with a secure key rate exceeding the repeaterless capacity bound.</p><p></p><p>Yu-Huai LiTing ZengJian-Wei Pan</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
