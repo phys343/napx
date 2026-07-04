@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03357-6</guid>
+<pubDate>Thu, 02 Jul 2026 16:00:00 GMT</pubDate>
+<title>Fast thermalization with quantum algorithms</title>
+<author>Anirban Chowdhury</author>
+<link>https://www.nature.com/articles/s41567-026-03357-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03357-6/MediaObjects/41567_2026_3357_Fig1_HTML.png"><p></p><p>Quantum algorithms excel at simulating Hamiltonian dynamics, but they struggle with preparing the thermal equilibrium states needed for quantum simulation. Now it has been shown that a recent algorithm can efficiently prepare an important class of thermal states.</p><p></p><p>Anirban Chowdhury</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01952-w</guid>
 <pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
 <title>Organic cocrystals offer record photothermal conversion</title>
@@ -365,20 +373,20 @@
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03302-7/MediaObjects/41567_2026_3302_Fig1_HTML.png"><p></p><p>Hong–Ou–Mandel interference has been difficult to extend to ensembles of many massive particles. Measurements on up to 12 neutral atoms now exhibit characteristic multiparticle interference pattern with single-atom resolution and negligible loss.</p><p></p><p>Martin QuensenMareike HetzelCarsten Klempt</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01688-1</guid>
-<pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
-<title>Polymarket vs science: why researchers are sceptical of the prediction-market hype</title>
-<author>Jenna Ahart</author>
-<link>https://www.nature.com/articles/d41586-026-01688-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01688-1/d41586-026-01688-1_52481740.jpg"><p></p><p>Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.</p><p></p><p>Jenna Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03294-4</guid>
 <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
 <title>Single- and two-mode magnon thermal squeezing</title>
 <author>Tomosato HiokiKaito TojoEiji Saitoh</author>
 <link>https://www.nature.com/articles/s41567-026-03294-4</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03294-4/MediaObjects/41567_2026_3294_Fig1_HTML.png"><p></p><p>Obtaining squeezed states in magnets are a key challenge for future spin-based sensing and information technology. Now thermal squeezing of magnons, where noise drops below thermal levels, is shown in a ferrimagnetic insulator device.</p><p></p><p>Tomosato HiokiKaito TojoEiji Saitoh</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01688-1</guid>
+<pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
+<title>Polymarket vs science: why researchers are sceptical of the prediction-market hype</title>
+<author>Jenna Ahart</author>
+<link>https://www.nature.com/articles/d41586-026-01688-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01688-1/d41586-026-01688-1_52481740.jpg"><p></p><p>Online prediction markets are taking bets on everything from climate change to quantum computing. But researchers question their accuracy.</p><p></p><p>Jenna Ahart</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01393-z</guid>
@@ -395,14 +403,6 @@
 <author>Anatoly KulikovSimon StorzRenato Renner</author>
 <link>https://www.nature.com/articles/s41586-026-10521-8</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10521-8/MediaObjects/41586_2026_10521_Fig1_HTML.png"><p></p><p>An experimental realization of device-independent randomness amplification is demonstrated using superconducting qubits, in which a source of weak, correlated randomness is converted into virtually perfect random bits, certified by a Bell test.</p><p></p><p>Anatoly KulikovSimon StorzRenato Renner</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10585-6</guid>
-<pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
-<title>Dynamical freezing for magnetometry in an interacting spin ensemble</title>
-<author>Ya-Nan LuDong YuanPan-Yu Hou</author>
-<link>https://www.nature.com/articles/s41586-026-10585-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10585-6/MediaObjects/41586_2026_10585_Fig1_HTML.png"><p></p><p>Dynamical freezing, a mechanism by which a driven quantum system may not thermalize to a featureless ‘infinite-temperature’ state at long times, is experimentally observed in an ensemble of interacting nitrogen-vacancy spins in diamond.</p><p></p><p>Ya-Nan LuDong YuanPan-Yu Hou</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
