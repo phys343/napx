@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10759-2</guid>
+<pubDate>Tue, 07 Jul 2026 16:00:00 GMT</pubDate>
+<title>Reinforcement learning control of quantum error correction</title>
+<author>Volodymyr SivakAlexis MorvanPaul V. Klimov</author>
+<link>https://www.nature.com/articles/s41586-026-10759-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10759-2/MediaObjects/41586_2026_10759_Fig1_HTML.png"><p></p><p>By integrating reinforcement learning with quantum error correction, a quantum computer continuously self-calibrates during computation, achieving record logical error rates and enhanced resilience to drift.</p><p></p><p>Volodymyr SivakAlexis MorvanPaul V. Klimov</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10882-0</guid>
 <pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
 <title>Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity</title>
@@ -395,14 +403,6 @@
 <author>Man LiXuexin YuJun Li</author>
 <link>https://www.nature.com/articles/s41586-026-10597-2</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10597-2/MediaObjects/41586_2026_10597_Fig1_HTML.png"><p></p><p>A non-canonical metabolic route for spermine synthesis mediated by ALDH18A1 limits iron availability and lipid peroxidation in hepatocellular carcinoma.</p><p></p><p>Man LiXuexin YuJun Li</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01791-3</guid>
-<pubDate>Mon, 01 Jun 2026 16:00:00 GMT</pubDate>
-<title>Daily briefing: Bad supervisors bump early-career researchers out of academia</title>
-<author>Flora Graham</author>
-<link>https://www.nature.com/articles/d41586-026-01791-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01791-3/d41586-026-01791-3_17300602.png"><p></p><p>Almost 40% of respondents to a survey said that their supervisor was disorganized and a poor communicator. Plus, promising results against a hard-to-treat cancer and whether AI will help or hinder social sciences.</p><p></p><p>Flora Graham</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
