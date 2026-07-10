@@ -5,6 +5,14 @@
 <link>https://arxiv.org</link>
 <description>rss/Pan arXiv Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2607.08418</guid>
+<pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
+<title>Efficient photo-ionizing elimination of detrimental electric fields for Rydberg atoms</title>
+<author>Zhou-Chen Deng, Hao-Nan Lin, Yu-Cheng Duan, Qi Zhang, Xiang-Can Cheng, Yang Liu, Zhao-Yang Yuan, Jie Li, Peng Liu, Zhan Wu, Chao-Yang Lu, Jun Rui, Jian-Wei Pan</author>
+<link>https://arxiv.org/abs/2607.08418</link>
+<content:encoded><![CDATA[<p>Rydberg atoms are highly sensitive to external electric fields due to their exaggerated electronic properties. This unique feature lays the foundation for many of their applications in quantum science. However, an uncontrolled stray electric field can be detrimental, severely degrading their quantum control. In this work, we demonstrate a universal scheme that relies on the efficient creation of an in-vacuum plasma source by photo-ionizing laser-cooled atoms to eliminate detrimental electric fields in a Rydberg-atom tweezer array platform, requiring only readily available resources. With this method, we began with a Stark-ionized Rydberg continuum spectrum caused by a large, unknown stray electric field and ultimately recovered stable, coherent excitation of an individual Rydberg state after fully eliminating the field. Our method is directly applicable to existing Rydberg-atom platforms and can also be useful in other experiments sensitive to stray electric fields.</p><p></p><p>Zhou-Chen Deng, Hao-Nan Lin, Yu-Cheng Duan, Qi Zhang, Xiang-Can Cheng, Yang Liu, Zhao-Yang Yuan, Jie Li, Peng Liu, Zhan Wu, Chao-Yang Lu, Jun Rui, Jian-Wei Pan</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.01473</guid>
 <pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
 <title>Surface code logical operations on a superconducting quantum processor</title>
@@ -46,7 +54,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2604.18072</guid>
-<pubDate>Sun, 19 Apr 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
 <title>Preparation of quasi-two-dimensional Bose mixture of ultracold $^{23}$Na and $^{87}$Rb atoms</title>
 <author>Ji-Kai Liao, Hao-Ran Zhang, Xiao-Rong Yu, Ya-Qun Qi, Yi-Cheng Guo, Bo Zhao, Jun Rui, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2604.18072</link>
@@ -395,14 +403,6 @@
 <author>Rui Lin, Han-Sen Zhong, You Li, Zhang-Rui Zhao, Le-Tian Zheng, Tai-Ran Hu, Hong-Ming Wu, Zhan Wu, Wei-Jie Ma, Yan Gao, Yi-Kang Zhu, Zhao-Feng Su, Wan-Li Ouyang, Yu-Chen Zhang, Jun Rui, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2412.14647</link>
 <content:encoded><![CDATA[<p>Assembling increasingly larger-scale defect-free optical tweezer-trapped atom arrays is essential for quantum computation and quantum simulations based on atoms. Here, we propose an AI-enabled, rapid, constant-time-overhead rearrangement protocol, and we experimentally assemble defect-free 2D and 3D atom arrays with up to 2024 atoms with a constant time cost of 60 ms. The AI model calculates the holograms for real-time atom rearrangement. With precise controls over both position and phase, a high-speed spatial light modulator moves all the atoms simultaneously. This protocol can be readily used to generate defect-free arrays of tens of thousands of atoms with current technologies, and become a useful toolbox for quantum error correction.</p><p></p><p>Rui Lin, Han-Sen Zhong, You Li, Zhang-Rui Zhao, Le-Tian Zheng, Tai-Ran Hu, Hong-Ming Wu, Zhan Wu, Wei-Jie Ma, Yan Gao, Yi-Kang Zhu, Zhao-Feng Su, Wan-Li Ouyang, Yu-Chen Zhang, Jun Rui, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2412.13849</guid>
-<pubDate>Wed, 18 Dec 2024 16:00:00 GMT</pubDate>
-<title>99.9%-fidelity in measuring a superconducting qubit</title>
-<author>Can Wang, Feng-Ming Liu, He Chen, Yi-Fei Du, Chong Ying, Jian-Wen Wang, Yong-Heng Huo, Cheng-Zhi Peng, Xiaobo Zhu, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan</author>
-<link>https://arxiv.org/abs/2412.13849</link>
-<content:encoded><![CDATA[<p>Despite the significant progress in superconducting quantum computation over the past years, quantum state measurement still lags nearly an order of magnitude behind quantum gate operations in speed and fidelity. The main challenge is that the strong coupling and readout signal used to probe the quantum state may also introduce additional channels which may cause qubit state transitions. Here, we design a novel architecture to implement the long-sought longitudinal interaction scheme between qubits and resonators. This architecture not only provides genuine longitudinal interaction by eliminating residual transversal couplings, but also introduces proper nonlinearity to the resonator that can further minimize decay error and measurement-induced excitation error. Our experimental results demonstrate a measurement fidelity of 99.8% in 202 ns without the need for any first-stage amplification. After subtracting the residual preparation errors, the pure measurement fidelity is above 99.9%. Our scheme is compatible with the multiplexing readout scheme and can be used for quantum error correction.</p><p></p><p>Can Wang, Feng-Ming Liu, He Chen, Yi-Fei Du, Chong Ying, Jian-Wen Wang, Yong-Heng Huo, Cheng-Zhi Peng, Xiaobo Zhu, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
