@@ -5,6 +5,14 @@
 <link>https://circuitqed.net</link>
 <description>rss/CircuitQED News.xml</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2607.09508</guid>
+<pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
+<title>Superconducting singlet-triplet qubits</title>
+<author>Anatoliy Lotkov, Maria Spethmann, and Daniel Loss</author>
+<link>https://arxiv.org/abs/2607.09508</link>
+<content:encoded><![CDATA[<p>Hybrid devices integrating quantum dots with Josephson junctions are gaining interest because they combine spin-based quantum computing with circuit quantum electrodynamics (circuitQED) methods. In particular, Andreev spin qubits have shown significant experimental progress including strong two-qubit coupling, and are predicted to exhibit all-to-all connectivity. Here we propose superconducting singlet-triplet (SST) qubits that rely on parallel-aligned double quantum dots in Josephson junctions. While Andreev spin qubits require spin-orbit interaction to unlock the spin degree-of-freedom, SST qubits do not require spin-orbit interaction, making the advantages of hybrid devices available to a wider range of materials. Similar to Andreev spin qubits, the qubit states couple to the superconducting phase across the junction, which allows for control and readout using circuit QED, and supports all-to-all connectivity. Only N flux lines are required to perform any single- and two-qubit gate among N qubits, and thus the overhead of control lines is small. Finally, linear protection from charge or flux noise makes these qubits interesting candidates for a future quantum processor.</p><p></p><p>Anatoliy Lotkov, Maria Spethmann, and Daniel Loss</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.07999</guid>
 <pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
 <title>Optimizing LZSM protocol for high-fidelity gates in open-system fluxonium</title>
@@ -75,14 +83,6 @@
 <author>Huili Zhang, Meiling Li, Shuang Yang, Yaqing Feng, Yulong Li, Cheng Chen, Pei Liu, Guangming Xue, and Haifeng Yu</author>
 <link>https://arxiv.org/abs/2607.01422</link>
 <content:encoded><![CDATA[<p>High-fidelity universal two-qubit gates are critical for building fault-tolerant quantum computers. In scalable superconducting processors, shortened coherence times introduce moreincoherent errors in gate operations. With a constrained error budget, there is reduced tolerance for coherent errors stemming from parameter deviations. In this work, we develop a closed-loop workflow to enhance the CZ gate calibration precision. Utilizing the echoed leakage error amplification (ELEA) and the repurposed context-aware fidelity estimation (CAFE) circuits, we suppress the population leakage to non-computational states, and, for the first time, demonstrate a CZ gate fidelity exceeding 99.9% on an 84-qubit processor, with coherent error suppressed to 0.007%. Meanwhile, we obtain a median fidelity of 99.25% among 72 CZ gates, demonstrating that the workflow can be generalized to the calibration of parallel CZ gates. Finally, we realize automated calibration and observe enhanced stability of the CZ gate throughout 9-hour comparative monitoring experiments. Our results, realized on a completely domestic platform, establish an efficient and automated route to quantum computation with superconducting quantum systems.</p><p></p><p>Huili Zhang, Meiling Li, Shuang Yang, Yaqing Feng, Yulong Li, Cheng Chen, Pei Liu, Guangming Xue, and Haifeng Yu</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2607.00809</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
-<title>Vanadium superconducting microwave resonators on silicon wafers</title>
-<author>Y. Fujita, Y. Urade, Y. Hibino, M. Tsujimoto, K. Inomata, G. Fujii, and W. Mizubayashi</author>
-<link>https://arxiv.org/abs/2607.00809</link>
-<content:encoded><![CDATA[<p>Understanding the correlation between material properties and microwave losses in superconducting films is a crucial subject for developing low-loss materials for quantum circuits.We focus on vanadium (V) as a novel material for superconducting quantum devices and discuss loss in V films in relation to their structural properties. Using a sputtering method, we grow four V-film structures on (001)-oriented Si wafers, employing Nb and Ta as the buffer and capping layer materials, respectively: Nb/V/Ta, Nb/V, V/Ta, and V. X-ray diffraction and atomic force microscopy reveal that the V films grown on the Nb buffer layers have higher uniformity of lattice orientation and smaller grain size than that directly grown on the Si wafer. Coplanar waveguide resonators are fabricated from the four V-film structures, and averaged photon number (⟨nph⟩) dependences of internal quality factor (Qint) are obtained by performing microwave measurements. By analyzing the obtained Qint vs ⟨nph⟩, it is found that loss at the V surface is dominated by ⟨nph⟩-independent non-two-level-system (non-TLS) losses, which can be mitigated by introducing the Ta capping layer. Furthermore, the V films on the Nb buffer layers exhibit lower Qint in the ⟨nph⟩ range from 100 to 106 and higher non-TLS loss than that directly grown on Si wafers, even though the former has higher lattice-orientation uniformity than the latter. Origins of these trends might be relevant to V oxides, of which presence at surfaces and grain boundaries in bulk regions in the V resonators is suggested by energy dispersive X-ray spectroscopy and X-ray photoelectron spectroscopy, and/or V hydrides.</p><p></p><p>Y. Fujita, Y. Urade, Y. Hibino, M. Tsujimoto, K. Inomata, G. Fujii, and W. Mizubayashi</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
