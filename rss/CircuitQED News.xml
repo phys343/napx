@@ -5,6 +5,22 @@
 <link>https://circuitqed.net</link>
 <description>rss/CircuitQED News.xml</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2607.16151</guid>
+<pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+<title>Radiopurity material assays and radiation exposure projections for superconducting qubit measurements at SNOLAB</title>
+<author>Y. Ahmed, B. Binoy, R. Bunker, D. Chauhan, P. Delsing, R. Germond, J. Hall, Z. Hong, A. Iqbal, V. Iyer, A. Klepikova, A. Kubik, S. P. Mantry, A. C. Masuskapoe, C. C. Monk, G. Peng, P. Qin, W. Rau, T. Reynolds, M. Stukel, C. M. Wilson, B. Zatschler, S. Zatschler, and A. Zuniga</author>
+<link>https://arxiv.org/abs/2607.16151</link>
+<content:encoded><![CDATA[<p>Interactions of cosmic rays and other forms of ionizing radiation pose a significant challenge to the reliable operation of state-of-the-art quantum devices and error correction inquantum computing based on superconducting circuits which are typically fabricated on semiconductor substrates. Shielded by 2 km of rock overburden, the Cryogenic Underground TEst facility (CUTE) at SNOLAB provides a unique ultra-low radiation environment to probe the performance of quantum technologies with a particular interest in quantum coherence studies. In this article, we present the findings of an extensive material assaying program in preparation for the first underground operation of superconducting qubits at SNOLAB. The radioactivity levels identified by the material assays enter a thorough Monte Carlo study based on the Geant4 particle physics tracking code. From these simulations, we estimate the rates of energy deposits from radiogenic sources expected for a quantum-device assembly operated in the CUTE facility. We further characterize the spectral components of the projected background and identify the dominant particle interaction types. Finally, we outline how crystal dynamics simulations using the G4CMP solid-state physics extension for Geant4 can inform the community-wide efforts to identify effective strategies to mitigate the effects of high-energy particle impacts.</p><p></p><p>Y. Ahmed, B. Binoy, R. Bunker, D. Chauhan, P. Delsing, R. Germond, J. Hall, Z. Hong, A. Iqbal, V. Iyer, A. Klepikova, A. Kubik, S. P. Mantry, A. C. Masuskapoe, C. C. Monk, G. Peng, P. Qin, W. Rau, T. Reynolds, M. Stukel, C. M. Wilson, B. Zatschler, S. Zatschler, and A. Zuniga</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2607.15757</guid>
+<pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+<title>Contactless terahertz mapping of wafer-scale superconducting NbTiN thin films</title>
+<author>Yayi Lin, Marc Neis, Marcello Pio Guardascione, Janine Lorenz, Thomas J. Smart, F. Stefan Tautz, Felix Lüpke, Frederik Bolle, Martin Dressel, Rami Barends, Pavel A. Bushev, and Marc Scheffler</author>
+<link>https://arxiv.org/abs/2607.15757</link>
+<content:encoded><![CDATA[<p>For large-scale superconducting quantum technology, e.g. quantum computing, the homogeneity of wafer-scale superconducting thin films is vital for consistent performance of the fabricateddevices. Terahertz (THz) spectroscopy as a contactless and non-destructive measurement technique is a powerful tool to characterize the superconducting films. In this work, a set of niobium titanium nitride (NbTiN) thin films on 4-inch and 6-inch silicon wafers, grown via plasma-enhanced magnetron sputtering, are investigated via THz spectroscopy: full wafers are mapped at room temperatures and exemplary segments are characterized at cryogenic temperatures. The deviations in observed sheet resistance depend on the used deposition device and the film thickness. While the deviations in superconducting sheet kinetic inductance match those of the normal-state sheet resistance, the critical temperature and energy gap exhibit little variation. This THz mapping technique demonstrates the feasibility of evaluating wafer-scale superconducting thin films before lithography, facilitating preparation of the thin films for reproducible device fabrication.</p><p></p><p>Yayi Lin, Marc Neis, Marcello Pio Guardascione, Janine Lorenz, Thomas J. Smart, F. Stefan Tautz, Felix Lüpke, Frederik Bolle, Martin Dressel, Rami Barends, Pavel A. Bushev, and Marc Scheffler</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.15230</guid>
 <pubDate>Wed, 15 Jul 2026 16:00:00 GMT</pubDate>
 <title>High-Q superconducting microwave resonators using MBE titanium nitride</title>
@@ -67,24 +83,6 @@
 <author>P. A. Gladilovich, R.A. Migdisov, A.V. Sabluk, P.S. Burtsev, N.N. Abramov, N.Y. Rudenko, V. I. Chichkov, and N. A. Maleeva</author>
 <link>https://arxiv.org/abs/2607.11514</link>
 <content:encoded><![CDATA[<p>The multi-qubit gates fidelity of superconducting quantum processors can be limited due to the dressing of computational states by noncomputational ones. Here, we experimentally andanalytically investigate a transmon-transmon-bus system where the computational states dressing is tunable over a broad range. We estimate the dressing using three methods: a full three-element model, an effective mode approach, and an unperturbed mode approach. The obtained results highlight the importance of the accurate estimation and control of the computational states dressing in order to optimize gates on superconducting platform.</p><p></p><p>P. A. Gladilovich, R.A. Migdisov, A.V. Sabluk, P.S. Burtsev, N.N. Abramov, N.Y. Rudenko, V. I. Chichkov, and N. A. Maleeva</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2607.11516</guid>
-<pubDate>Sun, 12 Jul 2026 16:00:00 GMT</pubDate>
-<title>Quantum Simulation of Strongly Correlated Fermion-Phonon Models in Circuit QED</title>
-<author>Tim Bode, Riccardo Roma, Stefan Schmitz, Alessandro Ciani, Dmitriy S. Shapiro, Dmitry Bagrets, and Frank K. Wilhelm</author>
-<link>https://arxiv.org/abs/2607.11516</link>
-<content:encoded><![CDATA[<p>Gate-based digital quantum simulations offer an exciting new paradigm for studying the many-body physics of strongly correlated systems. In this context, electron-phonon models arechallenging for qubit-only quantum simulators, as bosonic degrees of freedom require costly finite-dimensional encodings. Here, we elaborate on an alternative approach based on a digital-analog circuit QED architecture, where fermions are encoded in transmon qubits while bosons are represented directly by microwave resonators. The central building block of this framework is a qubit-resonator Rabi gate that emulates strong electron-phonon coupling and can be implemented through a sequence of resonant Jaynes-Cummings gates interleaved with layers of single-qubit rotations. Using this Rabi gate as the fundamental unitary operation, we construct quantum circuits for the Hubbard-Holstein and Yukawa-Sachdev-Ye-Kitaev models, which describe, respectively, strongly correlated electrons coupled to phonons and phonon-mediated interactions among Majorana fermions. We further demonstrate how nonclassical phonon physics and signatures of quantum chaos in these models can be probed through circuit simulations, and develop measurement and variational protocols tailored to near-term superconducting quantum hardware.</p><p></p><p>Tim Bode, Riccardo Roma, Stefan Schmitz, Alessandro Ciani, Dmitriy S. Shapiro, Dmitry Bagrets, and Frank K. Wilhelm</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2607.11668</guid>
-<pubDate>Sun, 12 Jul 2026 16:00:00 GMT</pubDate>
-<title>Multi-Stage Mamba-Based Architecture for Fast and Scalable Superconducting Qubit Readout</title>
-<author>Luca Otting, Xiaorang Guo, Emmanouil Giortamis, Benjamin Lienhard, Pramod Bhatotia, and Martin Schulz</author>
-<link>https://arxiv.org/abs/2607.11668</link>
-<content:encoded><![CDATA[<p>Reliable qubit readout is a critical bottleneck toward fault-tolerant quantum computing (FTQC). In superconducting quantum processors, readout operations are both error-prone and high-latency.These challenges become more severe in frequency-multiplexed architectures, where signal crosstalk among neighboring qubits significantly degrades readout fidelity. Existing machine learning (ML)-based approaches rely on feed-forward neural networks (FNNs) that suffer from large parameter sizes and lack an end-to-end network that jointly addresses relaxation errors and discriminates qubit states.
-
-In this work, we present a multi-stage qubit state discriminator based on the Mamba model, which enables efficient sequence modeling with linear complexity. The first stage performs initial state discrimination, followed by a refinement stage that identifies and mitigates relaxation-induced errors. Our lightweight model achieves a geometric mean readout fidelity of 0.906, outperforming the best-reported state-of-the-art method while reducing parameter size by 49.6%; our optimal model further reaches 0.911. Both models remain robust across varying input trace lengths, maintaining a high fidelity of 0.893 at readout durations as short as 500 ns, achieving up to a 26% reduction in logical error rate over prior work in quantum error correction (QEC).</p><p></p><p>Luca Otting, Xiaorang Guo, Emmanouil Giortamis, Benjamin Lienhard, Pramod Bhatotia, and Martin Schulz</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
