@@ -5,6 +5,22 @@
 <link>https://circuitqed.net</link>
 <description>rss/CircuitQED News.xml</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2607.17562</guid>
+<pubDate>Sun, 19 Jul 2026 16:00:00 GMT</pubDate>
+<title>Temporal Diffraction Grating for Engineered Superconducting Qubit Dissipation</title>
+<author>Pratik J. Barge, and Kater W. Murch</author>
+<link>https://arxiv.org/abs/2607.17562</link>
+<content:encoded><![CDATA[<p>Parametric frequency modulation is a standard tool in superconducting circuits for activating tunable interactions and implementing quantum gates. Here, we engineer dissipation in aflux-tunable transmon qubit by using sideband modulation to bring it into resonance with a lossy resonator, opening an on-demand Purcell decay channel. We find that pulsing this channel on and off does not simply lower the time-averaged decay rate; instead, it reorganizes the dissipation spectrum into a structured interference pattern. A Chebyshev-propagator model for the repeated on/off block reproduces the measured spectra and reveals a close structural correspondence to N-slit Fraunhofer diffraction, with each on-window acting as a temporal aperture. By varying the pulse duration and duty cycle, we demonstrate control over the spacing, contrast, and envelope of the dissipation spectrum. These results establish pulsed parametric modulation as a direct method for shaping engineered dissipation in superconducting circuits and provide a new control knob for open quantum system dynamics.</p><p></p><p>Pratik J. Barge, and Kater W. Murch</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2607.17204</guid>
+<pubDate>Sat, 18 Jul 2026 16:00:00 GMT</pubDate>
+<title>Heralded Leakage Detection with Preserved Computational-State Coherence in a Fixed-Frequency Transmon</title>
+<author>Takeaki Miyamura, Zhiling Wang, Peter A. Spring, Hiroto Mukai, Kohei Matsuura, Jesper Ilves, Yoshiki Sunada, and Yasunobu Nakamura</author>
+<link>https://arxiv.org/abs/2607.17204</link>
+<content:encoded><![CDATA[<p>Leakage out of the computational subspace is a major error mechanism in superconducting quantum processors. Detecting leakage without disturbing the encoded quantum information canprovide a heralded error signal that error-correction decoders exploit. However, standard dispersive readout collapses all qubit eigenstates indiscriminately. Here, we demonstrate heralded leakage detection on a fixed-frequency transmon by applying a Rabi drive on the computational transition during dispersive readout. The drive makes the computational states indistinguishable to the probe on the resonator while leaving the second and higher excited states distinguishable from the computational states. We achieve a leakage-detection fidelity of 97.1(3)% within the 80-ns detection window, with a false-flag rate of 2.3(3)% from the computational subspace. Conditioned on the no-leakage outcome, the post-detection state retains an average fidelity of 92.9(5)% across the six cardinal states for an equal mixture of computational and leakage population. The scheme requires no circuit elements beyond those used for standard dispersive readout, making it applicable to various types of superconducting qubits without hardware modification.</p><p></p><p>Takeaki Miyamura, Zhiling Wang, Peter A. Spring, Hiroto Mukai, Kohei Matsuura, Jesper Ilves, Yoshiki Sunada, and Yasunobu Nakamura</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.16151</guid>
 <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
 <title>Radiopurity material assays and radiation exposure projections for superconducting qubit measurements at SNOLAB</title>
@@ -67,22 +83,6 @@
 <author>Guglielmo La Magna, and Gianluigi Catelani</author>
 <link>https://arxiv.org/abs/2607.13870</link>
 <content:encoded><![CDATA[<p>Thanks to low dissipation, superconducting devices are promising for a number of applications, such as detectors and implementations of quantum computation. However, their working canbe adversely impacted by quasiparticles, which is why so-called quasiparticle poisoning mechanisms and their mitigation are under intense investigation. Here we focus on one poisoning mechanism, namely pair-breaking phonons, and its mitigation through down-conversion by a normal-metal film – the process in which scattering of high-energy phonons by electrons lowers the energy of the former below the pair-breaking threshold. To study the down-conversion, we introduce a model based on kinetic equations, which we solve both analytically (approximately) and numerically in the steady state. We use the solution the estimate a properly-defined down-conversion efficiency which depends on material parameters (such as the strength of electron-phonon interaction and the phonon transmission coefficient at interfaces) and film and substrate thicknesses. Interestingly, we find that the efficiency is nearly optimal over a finite range of metal thicknesses, with the minimum near-optimal thickness being typically of the order of a micron.</p><p></p><p>Guglielmo La Magna, and Gianluigi Catelani</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2607.13834</guid>
-<pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
-<title>Wireless millikelvin interconnects for superconducting quantum hardware</title>
-<author>Kristopher Barr, Mingyan Zhong, Euan Parry, Manoj Stanley, Qusay Al-Taai, Paniz Foshat, Kaveh Delfanazari, Martin Weides, Nick M. Ridler, Chong Li, and Alessandro Rossi</author>
-<link>https://arxiv.org/abs/2607.13834</link>
-<content:encoded><![CDATA[<p>Scalable quantum computing is limited by the dense network of electrical interconnects linking cryogenic quantum processors to room-temperature control electronics. To overcome thisbottleneck, considerable effort has focused on cryogenic CMOS electronics and microwave-to-optical transduction, aiming to reduce wiring complexity and thermal loading. Wireless interconnects have recently emerged as a promising complementary approach, yet their compatibility with superconducting quantum hardware remains largely unexplored. Here, we demonstrate the wireless excitation of a superconducting microwave resonator of the type routinely employed for qubit readout, operating at millikelvin temperatures inside a dilution refrigerator. By directly comparing wired and wireless operation within the same cryogenic environment, we show that wireless coupling preserves the intrinsic resonator response while revealing parasitic electromagnetic pathways arising from stray radiation within the cryostat enclosure. These results establish a framework for the co-design of wireless interconnects, cryogenic packaging and superconducting quantum hardware.</p><p></p><p>Kristopher Barr, Mingyan Zhong, Euan Parry, Manoj Stanley, Qusay Al-Taai, Paniz Foshat, Kaveh Delfanazari, Martin Weides, Nick M. Ridler, Chong Li, and Alessandro Rossi</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2607.11514</guid>
-<pubDate>Sun, 12 Jul 2026 16:00:00 GMT</pubDate>
-<title>States dressing analysis in a transmon-transmon-bus system</title>
-<author>P. A. Gladilovich, R.A. Migdisov, A.V. Sabluk, P.S. Burtsev, N.N. Abramov, N.Y. Rudenko, V. I. Chichkov, and N. A. Maleeva</author>
-<link>https://arxiv.org/abs/2607.11514</link>
-<content:encoded><![CDATA[<p>The multi-qubit gates fidelity of superconducting quantum processors can be limited due to the dressing of computational states by noncomputational ones. Here, we experimentally andanalytically investigate a transmon-transmon-bus system where the computational states dressing is tunable over a broad range. We estimate the dressing using three methods: a full three-element model, an effective mode approach, and an unperturbed mode approach. The obtained results highlight the importance of the accurate estimation and control of the computational states dressing in order to optimize gates on superconducting platform.</p><p></p><p>P. A. Gladilovich, R.A. Migdisov, A.V. Sabluk, P.S. Burtsev, N.N. Abramov, N.Y. Rudenko, V. I. Chichkov, and N. A. Maleeva</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
