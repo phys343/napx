@@ -5,6 +5,14 @@
 <link>https://circuitqed.net</link>
 <description>rss/CircuitQED News.xml</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2607.19543</guid>
+<pubDate>Mon, 20 Jul 2026 16:00:00 GMT</pubDate>
+<title>Simple, accurate lumped-element models of distributed resonators for superconducting quantum circuits</title>
+<author>Elizabeth H. Kunz, and Eli M. Levenson-Falk</author>
+<link>https://arxiv.org/abs/2607.19543</link>
+<content:encoded><![CDATA[<p>Superconducting quantum circuit design is reliant on accurately mapping design parameters to a quantum Hamiltonian. Designers typically rely on computationally intensive finite-elementelectromagnetic simulations. However, effective circuit-level models can in principle capture much of the relevant physics for these systems, reducing the need for finite-element simulations. A barrier to implementing these simpler models has been the prevalence of distributed elements such as coplanar waveguides resonators in device designs. Techniques for modeling these distributed elements have been developed, but may be difficult to scale, reduce intuition, and give inaccurate results under strong coupling. In this work we describe a simple effective circuit-level model that faithfully reproduces the scattering parameters, and subsequently can predict certain Hamiltonian parameters, for a coupled, distributed element within a broader two-port network even up to strong coupling. Our approach does not explicitly require an electromagnetic simulation. Our model, along with other common lumped models used in black box quantization, is publicly available to researchers via an open-source code package, .</p><p></p><p>Elizabeth H. Kunz, and Eli M. Levenson-Falk</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.17562</guid>
 <pubDate>Sun, 19 Jul 2026 16:00:00 GMT</pubDate>
 <title>Temporal Diffraction Grating for Engineered Superconducting Qubit Dissipation</title>
@@ -75,14 +83,6 @@
 <author>Daniel Gaytan-Villarreal, Peter Meiring, Daniel Baxter, Daniel Bowring, Grace Bratrud, Matteo Cremonesi, Giuseppe Di Guglielmo, Grace Wagner, and Bowen Xiao</author>
 <link>https://arxiv.org/abs/2607.14293</link>
 <content:encoded><![CDATA[<p>Ionizing radiation from cosmic rays and gammas can induce discontinuous jumps in the environmental charge of superconducting qubits (charge jumps), causing correlated errors that challengefault-tolerant quantum computing while simultaneously providing a detection signature for quantum sensing applications. Current detection methods operate offline, introducing latency incompatible with in-the-loop qubit control. In this paper, an online detector of charge jumps for superconducting qubits, based on a dilated causal convolutional neural network (DCCNN) designed for in-the-loop deployment on the Quantum Instrumentation Control Kit (QICK) platform, is presented. The network is trained on synthetic Ramsey tomography scans generated from qubit templates measured at the Northwestern Experimental Underground Site (NEXUS) at Fermilab, and translated to FPGA firmware via hls4ml with ap_fixed⟨16,6⟩ quantization, reaching a per-inference latency of 6.19μs on the Zynq UltraScale+ RFSoC ZCU216. At this operating point the DCCNN matches the detection efficiency of the established offline χ2 algorithm (0.843±0.022 vs. 0.866±0.020 on |Δq|∈[0.1,0.5]e at matched false-positive rate), while requiring no per-qubit hyperparameter tuning. This shifts charge-jump detection from a post-hoc diagnostic to a control-loop primitive, enabling adaptive protocols that respond to radiation-induced events in situ, with applications to quantum-computing error mitigation and to the use of superconducting qubits as particle detectors.</p><p></p><p>Daniel Gaytan-Villarreal, Peter Meiring, Daniel Baxter, Daniel Bowring, Grace Bratrud, Matteo Cremonesi, Giuseppe Di Guglielmo, Grace Wagner, and Bowen Xiao</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2607.13870</guid>
-<pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
-<title>Phonon down-conversion by normal metals for superconducting devices</title>
-<author>Guglielmo La Magna, and Gianluigi Catelani</author>
-<link>https://arxiv.org/abs/2607.13870</link>
-<content:encoded><![CDATA[<p>Thanks to low dissipation, superconducting devices are promising for a number of applications, such as detectors and implementations of quantum computation. However, their working canbe adversely impacted by quasiparticles, which is why so-called quasiparticle poisoning mechanisms and their mitigation are under intense investigation. Here we focus on one poisoning mechanism, namely pair-breaking phonons, and its mitigation through down-conversion by a normal-metal film – the process in which scattering of high-energy phonons by electrons lowers the energy of the former below the pair-breaking threshold. To study the down-conversion, we introduce a model based on kinetic equations, which we solve both analytically (approximately) and numerically in the steady state. We use the solution the estimate a properly-defined down-conversion efficiency which depends on material parameters (such as the strength of electron-phonon interaction and the phonon transmission coefficient at interfaces) and film and substrate thicknesses. Interestingly, we find that the efficiency is nearly optimal over a finite range of metal thicknesses, with the minimum near-optimal thickness being typically of the order of a micron.</p><p></p><p>Guglielmo La Magna, and Gianluigi Catelani</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
