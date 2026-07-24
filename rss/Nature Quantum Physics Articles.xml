@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02307-9</guid>
+<pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
+<title>Daily briefing: Orcas smash sunfish to smithereens</title>
+<author>Jacob Smith</author>
+<link>https://www.nature.com/articles/d41586-026-02307-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-02307-9/d41586-026-02307-9_17300602.png"><p></p><p>The dolphins might be helping their young eat, or just having fun. Plus, the beauty and skill of scientific illustration and a crash course in quantum computing.</p><p></p><p>Jacob Smith</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01973-5</guid>
 <pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
 <title>Manipulating spin dynamics via exciton–exciton interactions for bright spin light-emitting diodes</title>
@@ -395,14 +403,6 @@
 <author>C. F. A. BaynhamR. HobsonM. G. D. van der Grinten</author>
 <link>https://www.nature.com/articles/s41586-026-10617-1</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10617-1/MediaObjects/41586_2026_10617_Fig1_HTML.png"><p></p><p>A prototype differential atom interferometer operates at the standard quantum limit with no excess noise beyond atom shot noise, achieving performance in line with the specifications for future long-baseline atom interferometers.</p><p></p><p>C. F. A. BaynhamR. HobsonM. G. D. van der Grinten</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10654-w</guid>
-<pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
-<title>Visualizing the impact of quenched disorder on 2D electron Wigner solids</title>
-<author>Zhehao GeConor SmithMichael F. Crommie</author>
-<link>https://www.nature.com/articles/s41586-026-10654-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10654-w/MediaObjects/41586_2026_10654_Fig1_HTML.png"><p></p><p>A technique combining atomically resolved scanning tunnelling microscopy with neural-quantum-state quantum Monte Carlo simulation of disordered 2D electron Wigner solids establishes a powerful framework to enable the clear identification of two distinct defect-induced disorder regimes.</p><p></p><p>Zhehao GeConor SmithMichael F. Crommie</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
