@@ -5,6 +5,14 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02311-z</guid>
+<pubDate>Mon, 27 Jul 2026 16:00:00 GMT</pubDate>
+<title>All living things emit a faint glow. Could this light be useful?</title>
+<author>Jo Marchant</author>
+<link>https://www.nature.com/articles/d41586-026-02311-z</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-02311-z/d41586-026-02311-z_53030010.jpg"><p></p><p>Ultra-weak ‘biophotons’ might be used to diagnose disease, or could even represent a new signalling mechanism in cells.</p><p></p><p>Jo Marchant</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03381-6</guid>
 <pubDate>Sun, 26 Jul 2026 16:00:00 GMT</pubDate>
 <title>Topological phase transitions and mixed-state order in a Hubbard quantum simulator</title>
@@ -395,14 +403,6 @@
 <author>Crystal Noel</author>
 <link>https://www.nature.com/articles/d41586-026-01702-6</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-01702-6/d41586-026-01702-6_52691792.jpg"><p></p><p>A quantum computer based on trapped ions can connect any two quantum bits, reaching performance levels that conventional computers cannot match.</p><p></p><p>Crystal Noel</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10660-y</guid>
-<pubDate>Tue, 16 Jun 2026 16:00:00 GMT</pubDate>
-<title>Spatial distribution of the proteome in the human body and in cancers</title>
-<author>Liang YueWenhao JiangTiannan Guo</author>
-<link>https://www.nature.com/articles/s41586-026-10660-y</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10660-y/MediaObjects/41586_2026_10660_Fig1_HTML.png"><p></p><p>A spatially resolved map of the human proteome across a variety of healthy tissues and cancers provides wide-ranging insights in developmental biology and oncology, and could aid the identification of therapeutic targets and development of treatments for cancer.</p><p></p><p>Liang YueWenhao JiangTiannan Guo</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
