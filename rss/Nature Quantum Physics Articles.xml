@@ -5,6 +5,22 @@
 <link>https://www.nature.com</link>
 <description>rss/Nature Quantum Physics Articles.xml</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03321-4</guid>
+<pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+<title>Long-lived phonons from resonators with reduced surface interactions</title>
+<author>N/A</author>
+<link>https://www.nature.com/articles/s41567-026-03321-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03321-4/MediaObjects/41567_2026_3321_Fig1_HTML.png"><p></p><p>Using Brillouin-based phonon spectroscopy, surface interactions have been identified as the dominant source of phonon decoherence in crystalline media. When these interactions are reduced through chemical mechanical polishing, high-frequency bulk acoustic wave oscillators can be realized with record Q-factors and coherence times, suitable for use as long-lived solid-state quantum memories.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03384-3</guid>
+<pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+<title>Rotation through sound</title>
+<author>Franklin J. Vivanco</author>
+<link>https://www.nature.com/articles/s41567-026-03384-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03384-3/MediaObjects/41567_2026_3384_Fig1_HTML.png"><p></p><p>Detecting quantized circulation in strongly correlated matter is challenging. Now it has been shown that phononic interferometry can reveal the quantized angular momentum of a strongly interacting rotating superfluid.</p><p></p><p>Franklin J. Vivanco</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02124-0</guid>
 <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
 <title>How silicon-chip technology is being re-engineered for quantum computing</title>
@@ -387,22 +403,6 @@
 <author>N/A</author>
 <link>https://www.nature.com/articles/s41567-026-03340-1</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03340-1/MediaObjects/41567_2026_3340_Fig1_HTML.png"><p></p><p>The electronic structure of materials can be tailored using pulses of light, and through this so-called Floquet engineering, novel materials can be designed. Now, the technique has been used to create light-induced metallic surface states in the band gap of a semiconductor — transforming the material, transiently, into a topological insulator.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03341-0</guid>
-<pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
-<title>Floquet topological state induced by light-driven band inversion in SnTe</title>
-<author>F. ChassotA. PulkkinenC. Monney</author>
-<link>https://www.nature.com/articles/s41567-026-03341-0</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03341-0/MediaObjects/41567_2026_3341_Fig1_HTML.png"><p></p><p>Floquet engineering could, in principle, induce a topological phase in semiconductors, but clear evidence has been lacking. Now it is shown in SnTe that femtosecond light pulses briefly create a topological state that is absent at equilibrium.</p><p></p><p>F. ChassotA. PulkkinenC. Monney</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01917-z</guid>
-<pubDate>Tue, 23 Jun 2026 16:00:00 GMT</pubDate>
-<title>Deuterated compounds for organic light-emitting diodes</title>
-<author>Ross D. Jansen-van VuurenJingwen YaoShou-Cheng Dong</author>
-<link>https://www.nature.com/articles/s41566-026-01917-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01917-z/MediaObjects/41566_2026_1917_Fig1_HTML.png"><p></p><p>This Review surveys recent advances in deuterated compounds for light-emitting devices, addressing the advantages of deuteration, its working mechanisms, and prospects for wider implementation.</p><p></p><p>Ross D. Jansen-van VuurenJingwen YaoShou-Cheng Dong</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
