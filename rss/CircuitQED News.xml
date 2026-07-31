@@ -5,6 +5,14 @@
 <link>https://circuitqed.net</link>
 <description>rss/CircuitQED News.xml</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2607.28479</guid>
+<pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+<title>Mitigating quantum decoherence via global optimal control</title>
+<author>Ashkan Abedi, Roberto Menta, Julien Despres, Marco Polini, Francesco Caravelli, and Vittorio Giovannetti</author>
+<link>https://arxiv.org/abs/2607.28479</link>
+<content:encoded><![CDATA[<p>We show that global optimal control can drastically suppress the impact of decoherence in globally driven superconducting quantum computing architectures, taking as a prototype a recentlyproposed quasi-two-dimensional ladder geometry. Using a tensor-network-based approach, we quantify how amplitude-damping and dephasing channels degrade the flow of quantum information along the ladder and the fidelity of one- and two-qubit gate operations. We then demonstrate that shaping the global drive compresses the gate sequences by an order of magnitude in time, restoring high gate fidelities. We stress that this mitigation is far from trivial: in a globally driven processor, dissipation acts on every physical qubit—including those outside the logical register that sustain the surrounding ordered phases—so its impact cannot be suppressed by protecting an isolated subsystem, and is instead overcome purely through the temporal shaping of the global drive.</p><p></p><p>Ashkan Abedi, Roberto Menta, Julien Despres, Marco Polini, Francesco Caravelli, and Vittorio Giovannetti</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.27094</guid>
 <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
 <title>Native CCZ Gate with Fluxonium Qubits and a Microwave-Driven Coupler</title>
@@ -77,14 +85,6 @@ Using dressed-eigenstate analysis together with Lindblad master-equation simulat
 <author>Mahmoud Almansouri, Umar T. F. Alhuwaymel, Ibraheem AlYousef, Albaraa Shafi, Abdullah Albogime, Igor Getmanov, Ahmed Hajr, and Atif Shamim</author>
 <link>https://arxiv.org/abs/2607.22265</link>
 <content:encoded><![CDATA[<p>Material losses in superconducting circuits fundamentally limit qubit coherence times and resonator quality factors. Most research efforts focus on mitigating losses at circuit interfaces,including metal–substrate, substrate–air, and metal–air interfaces. However, the correlation between TLS and non-TLS losses with the intrinsic properties of the superconducting metal and the dielectric edge smoothness is not well studied. In this work, we link the aluminum film grain size to non-TLS losses and the dielectric trimming profile and roughness to TLS loss; both loss mechanisms are subsequently mitigated. To reduce metal-related losses, we engineer the aluminum microstructure by heating during deposition, increasing grain size and reducing grain boundary density. Beyond mitigating metal losses, we introduce a two-step etching technique, Tropic etching, to suppress dielectric TLS loss by producing an ultra-smooth silicon surface with minimal defects and redeposition. These results lay out the fabrication pathway for aluminum resonators with lower loss, demonstrating two-orders-of-magnitude improvement in quality factor from 6×104 to 2.3×106. Since aluminum is the basis for most high-coherence Josephson junctions and dielectric edges are inherent to all common device geometries, the improvements in aluminum microstructure and edge profiling, presented here, can enhance the performance of superconducting quantum devices.</p><p></p><p>Mahmoud Almansouri, Umar T. F. Alhuwaymel, Ibraheem AlYousef, Albaraa Shafi, Abdullah Albogime, Igor Getmanov, Ahmed Hajr, and Atif Shamim</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2607.22138</guid>
-<pubDate>Thu, 23 Jul 2026 16:00:00 GMT</pubDate>
-<title>Capacitive Loading in Two-dimensional Fluxonium Quantum Processors</title>
-<author>Quan Guan, Guo Xuan Chan, Xu Dou, Chunqing Deng, and Lijing Jin</author>
-<link>https://arxiv.org/abs/2607.22138</link>
-<content:encoded><![CDATA[<p>Capacitive loading has emerged as a major obstacle to scaling fluxonium qubits from one-dimensional to highly connected two-dimensional (2D) architectures, yet its physical origin remainspoorly understood. We derive an analytical relation between the qubit capacitance budget and the achievable capacitive coupling to external circuit elements, identifying the parasitic capacitances of Josephson junctions and Josephson junction arrays as the dominant source of capacitive loading while showing that the qubit-pad geometry can instead be engineered to mitigate it. Building on these insights, we formulate practical design principles and numerically demonstrate ultrafast, high-fidelity two-qubit gates in 2D fluxonium architectures. Our results reveal that capacitive loading does not constitute a fundamental limit for 2D fluxonium quantum processors.</p><p></p><p>Quan Guan, Guo Xuan Chan, Xu Dou, Chunqing Deng, and Lijing Jin</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
