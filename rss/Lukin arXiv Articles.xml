@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Lukin arXiv Articles</title>
-<link>https://arxiv.org</link>
-<description>rss/Lukin arXiv Articles.xml</description>
+<link>https://arxiv.org/search/?searchtype=author&amp;query=Lukin%2C+M+D</link>
+<description>Lukin arXiv Articles</description>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.21554</guid>
-<pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 <title>Strategic Plan for Neutral Atom Quantum Computation</title>
 <author>Adrian J. Menssen, Tout Wang, Michael Gullans, Tom Manovitz, Jacob M. Taylor, Jason Cong, Josiah Sinclair, Ziv Aqua, Daniel J. Blumenthal, J. Pablo Bonilla Ataides, Johannes Borregaard, Antoine Browaeys, Paola Cappellaro, Soonwon Choi, Alexandre Cooper, Robin Côté, Jacob P. Covey, Alexandre Dauphin, Ivana Dimitrova, Matt Eichenfield, Dirk Englund, Jacob Freedman, Akihisa Goban, Brandon Grinkemeyer, Andi Gu , et al. (31 additional authors not shown)</author>
 <link>https://arxiv.org/abs/2607.21554</link>
@@ -14,7 +14,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.07848</guid>
-<pubDate>Tue, 07 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
 <title>Quantum Sensors for Chemistry and Materials Science</title>
 <author>Piotr Put, Arjun Pillai, Xuan Hoang Le, Mikhail D. Lukin, Hongkun Park</author>
 <link>https://arxiv.org/abs/2607.07848</link>
@@ -22,7 +22,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2606.27297</guid>
-<pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
 <title>Exploring dynamics of individual vortices in a superconductor via a levitated magnetic transducer</title>
 <author>Yiqi Wang, Trisha Madhavan, J. DaLi Schaefer, Addison NewRingeisen, Frankie Fung, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2606.27297</link>
@@ -30,7 +30,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2605.11249</guid>
-<pubDate>Sun, 10 May 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
 <title>Optical signatures of antiferromagnetic correlations in a strongly interacting quantum Hall MoSe2 monolayer</title>
 <author>Jiho Sung, Pavel A. Volkov, Ilya Esterlis, Jue Wang, Luke N. Holtzmann, Takashi Taniguchi, Kenji Watanabe, Katayun Barmak, James Hone, Mikhail D. Lukin, Philip Kim, Hongkun Park</author>
 <link>https://arxiv.org/abs/2605.11249</link>
@@ -38,7 +38,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2604.25987</guid>
-<pubDate>Mon, 27 Apr 2026 16:00:00 GMT</pubDate>
+<pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
 <title>High-fidelity entangling gates and nonlocal circuits with neutral atoms</title>
 <author>Simon J. Evered, Muqing Xu, Sophie H. Li, Alexandra A. Geim, J. Pablo Bonilla Ataides, Marcin Kalinowski, Dolev Bluvstein, Nishad Maskara, Christian Kokail, Markus Greiner, Vladan Vuletić, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2604.25987</link>
@@ -46,7 +46,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2604.11870</guid>
-<pubDate>Sun, 12 Apr 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
 <title>Three-body interactions in Rydberg lattices</title>
 <author>Rhine Samajdar, Mikhail D. Lukin, Valentin Walther</author>
 <link>https://arxiv.org/abs/2604.11870</link>
@@ -54,7 +54,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2604.08358</guid>
-<pubDate>Wed, 08 Apr 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
 <title>Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation</title>
 <author>Andi Gu, J. Pablo Bonilla Ataides, Mikhail D. Lukin, Susanne F. Yelin</author>
 <link>https://arxiv.org/abs/2604.08358</link>
@@ -62,7 +62,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2603.10119</guid>
-<pubDate>Mon, 09 Mar 2026 16:00:00 GMT</pubDate>
+<pubDate>Tue, 10 Mar 2026 00:00:00 GMT</pubDate>
 <title>Digital dissipative state preparation for frustration-free gapless quantum systems</title>
 <author>Johannes Feldmeier, Yu-Jie Liu, Mikhail D. Lukin, Soonwon Choi</author>
 <link>https://arxiv.org/abs/2603.10119</link>
@@ -70,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2602.18555</guid>
-<pubDate>Thu, 19 Feb 2026 16:00:00 GMT</pubDate>
+<pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
 <title>Engineering quantum criticality and dynamics on an analog-digital simulator</title>
 <author>Alexandra A. Geim, Nazli Ugur Koyluoglu, Simon J. Evered, Rahul Sahay, Sophie H. Li, Muqing Xu, Dolev Bluvstein, Nik O. Gjonbalaj, Nishad Maskara, Marcin Kalinowski, Tom Manovitz, Ruben Verresen, Susanne F. Yelin, Johannes Feldmeier, Markus Greiner, Vladan Vuletic, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2602.18555</link>
@@ -78,7 +78,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2601.21472</guid>
-<pubDate>Tue, 03 Feb 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
 <title>In-situ benchmarking of fault-tolerant quantum circuits. I. Clifford circuits</title>
 <author>Xiao Xiao, Dominik Hangleiter, Dolev Bluvstein, Mikhail D. Lukin, Michael J. Gullans</author>
 <link>https://arxiv.org/abs/2601.21472</link>
@@ -86,7 +86,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2601.20927</guid>
-<pubDate>Tue, 27 Jan 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
 <title>Entangling logical qubits without physical operations</title>
 <author>Jin Ming Koh, Anqi Gong, Andrei C. Diaconu, Daniel Bochen Tan, Alexandra A. Geim, Michael J. Gullans, Norman Y. Yao, Mikhail D. Lukin, Shayan Majidy</author>
 <link>https://arxiv.org/abs/2601.20927</link>
@@ -94,7 +94,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2601.12239</guid>
-<pubDate>Fri, 16 Jan 2026 16:00:00 GMT</pubDate>
+<pubDate>Sat, 17 Jan 2026 00:00:00 GMT</pubDate>
 <title>Inverse Quantum Simulation for Quantum Material Design</title>
 <author>Christian Kokail, Pavel E. Dolgirev, Rick van Bijnen, Daniel Gonzalez-Cuadra, Mikhail D. Lukin, Peter Zoller</author>
 <link>https://arxiv.org/abs/2601.12239</link>
@@ -102,7 +102,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2601.06345</guid>
-<pubDate>Thu, 08 Jan 2026 16:00:00 GMT</pubDate>
+<pubDate>Fri, 09 Jan 2026 00:00:00 GMT</pubDate>
 <title>Controlling Rydberg atom-polariton interactions: from exceptional points to fast readout</title>
 <author>Tamara Šumarac, Emily H. Qiu, Shai Tsesses, Peiran Niu, Adrian J. Menssen, Wenchao Xu, Valentin Walther, Uroš Delić, Soonwon Choi, Mikhail D. Lukin, Vladan Vuletić</author>
 <link>https://arxiv.org/abs/2601.06345</link>
@@ -110,7 +110,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2512.09043</guid>
-<pubDate>Mon, 08 Dec 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
 <title>Dressed-state Hamiltonian engineering in a strongly interacting solid-state spin ensemble</title>
 <author>Haoyang Gao, Nathaniel T. Leitao, Siddharth Dandavate, Lillian B. Hughes Wyatt, Piotr Put, Mathew Mammen, Leigh S. Martin, Hongkun Park, Ania C. Bleszynski Jayich, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2512.09043</link>
@@ -118,7 +118,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2511.09758</guid>
-<pubDate>Tue, 11 Nov 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
 <title>Local arrows of time in quantum many-body systems</title>
 <author>Andrew G. Yates, Jordan Cotler, Nishad Maskara, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2511.09758</link>
@@ -126,7 +126,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2510.11706</guid>
-<pubDate>Sun, 12 Oct 2025 16:00:00 GMT</pubDate>
+<pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
 <title>Probing emergent prethermal dynamics and resonant melting on a programmable quantum simulator</title>
 <author>Siva Darbha, Alexey Khudorozhkov, Pedro L. S. Lopes, Fangli Liu, Ermal Rrapaj, Jan Balewski, Majd Hamdan, Pavel E. Dolgirev, Alexander Schuckert, Katherine Klymko, Sheng-Tao Wang, Mikhail D. Lukin, Daan Camps, Milan Kornjača</author>
 <link>https://arxiv.org/abs/2510.11706</link>
@@ -134,7 +134,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2510.06159</guid>
-<pubDate>Mon, 06 Oct 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
 <title>Batched high-rate logical operations for quantum LDPC codes</title>
 <author>Qian Xu, Hengyun Zhou, Dolev Bluvstein, Madelyn Cain, Marcin Kalinowski, John Preskill, Mikhail D. Lukin, Nishad Maskara</author>
 <link>https://arxiv.org/abs/2510.06159</link>
@@ -142,7 +142,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.23576</guid>
-<pubDate>Fri, 26 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Sat, 27 Sep 2025 00:00:00 GMT</pubDate>
 <title>High Finesse Buckled Microcavities</title>
 <author>Sophie Weiyi Ding, Brandon Grinkemeyer, G. Eirini Mandopoulou, Rui Jiang, Alexander Sasha Zibrov, Guanhao Huang, Kiyoul Yang, Mikail D. Lukin, Marko Lončar</author>
 <link>https://arxiv.org/abs/2509.23576</link>
@@ -150,7 +150,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.12124</guid>
-<pubDate>Thu, 07 May 2026 16:00:00 GMT</pubDate>
+<pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
 <title>Loading and Imaging Atom Arrays via Electromagnetically Induced Transparency</title>
 <author>Emily H. Qiu, Tamara Šumarac, Peiran Niu, Shai Tsesses, Fadi Wassaf, David C. Spierings, Meng-Wei Chen, Mehmet T. Uysal, Audrey Bartlett, Adrian J. Menssen, Mikhail D. Lukin, Vladan Vuletić</author>
 <link>https://arxiv.org/abs/2509.12124</link>
@@ -158,7 +158,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.11370</guid>
-<pubDate>Sat, 13 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
 <title>Neural Decoders for Universal Quantum Algorithms</title>
 <author>J. Pablo Bonilla Ataides, Andi Gu, Susanne F. Yelin, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2509.11370</link>
@@ -166,7 +166,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.09465</guid>
-<pubDate>Tue, 16 Dec 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 17 Dec 2025 00:00:00 GMT</pubDate>
 <title>Enhancing Optical Imaging via Quantum Computation</title>
 <author>Aleksandr Mokeev, Babak Saif, Mikhail D. Lukin, Johannes Borregaard</author>
 <link>https://arxiv.org/abs/2509.09465</link>
@@ -174,7 +174,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.09464</guid>
-<pubDate>Thu, 11 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Fri, 12 Sep 2025 00:00:00 GMT</pubDate>
 <title>Entanglement Assisted Non-local Optical Interferometry in a Quantum Network</title>
 <author>P. -J. Stas, Y. -C. Wei, M. Sirotin, Y. Q. Huan, U. Yazlar, F. Abdo Arias, E. Knyazev, G. Baranes, B. Machielse, S. Grandi, D. Riedel, J. Borregaard, H. Park, M. Lončar, A. Suleymanzade, M. D. Lukin</author>
 <link>https://arxiv.org/abs/2509.09464</link>
@@ -182,7 +182,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.08898</guid>
-<pubDate>Tue, 09 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
 <title>Fast simulation of fermions with reconfigurable qubits</title>
 <author>Nishad Maskara, Marcin Kalinowski, Daniel Gonzalez-Cuadra, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2509.08898</link>
@@ -190,7 +190,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2508.10714</guid>
-<pubDate>Wed, 05 Nov 2025 16:00:00 GMT</pubDate>
+<pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
 <title>Magic tricycles: Efficient magic state generation with finite block-length quantum LDPC codes</title>
 <author>Varun Menon, J. Pablo Bonilla-Ataides, Rohan Mehta, Andi Gu, Daniel Bochen Tan, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2508.10714</link>
@@ -198,7 +198,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2508.08366</guid>
-<pubDate>Wed, 03 Dec 2025 16:00:00 GMT</pubDate>
+<pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
 <title>Deconfined quantum criticality on a triangular Rydberg array</title>
 <author>Lisa Bombieri, Torsten V. Zache, Gabriele Calliari, Mikhail D. Lukin, Hannes Pichler, Daniel González-Cuadra</author>
 <link>https://arxiv.org/abs/2508.08366</link>
@@ -206,7 +206,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2506.20661</guid>
-<pubDate>Tue, 24 Jun 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 25 Jun 2025 00:00:00 GMT</pubDate>
 <title>Architectural mechanisms of a universal fault-tolerant quantum computer</title>
 <author>Dolev Bluvstein, Alexandra A. Geim, Sophie H. Li, Simon J. Evered, J. Pablo Bonilla Ataides, Gefen Baranes, Andi Gu, Tom Manovitz, Muqing Xu, Marcin Kalinowski, Shayan Majidy, Christian Kokail, Nishad Maskara, Elias C. Trapp, Luke M. Stewart, Simon Hollerith, Hengyun Zhou, Michael J. Gullans, Susanne F. Yelin, Markus Greiner, Vladan Vuletic, Madelyn Cain, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2506.20661</link>
@@ -214,7 +214,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2506.20660</guid>
-<pubDate>Wed, 20 May 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
 <title>Continuous operation of a coherent 3,000-qubit system</title>
 <author>Neng-Chun Chiu, Elias C. Trapp, Jinen Guo, Mohamed H. Abobeih, Luke M. Stewart, Simon Hollerith, Pavel Stroganov, Marcin Kalinowski, Alexandra A. Geim, Simon J. Evered, Sophie H. Li, Xingjian Lyu, Lisa M. Peters, Dolev Bluvstein, Tout T. Wang, Markus Greiner, Vladan Vuletić, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2506.20660</link>
@@ -222,7 +222,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2506.18765</guid>
-<pubDate>Sun, 21 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
 <title>Hardware-efficient quantum phase estimation via local control</title>
 <author>Benjamin F. Schiffer, Dominik S. Wild, Nishad Maskara, Mikhail D. Lukin, J. Ignacio Cirac</author>
 <link>https://arxiv.org/abs/2506.18765</link>
@@ -230,7 +230,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2506.11920</guid>
-<pubDate>Tue, 28 Oct 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
 <title>Collective many-body dynamics in a solid-state quantum sensor controlled through nanoscale magnetic gradients</title>
 <author>Piotr Put, Nathaniel T. Leitao, Haoyang Gao, Christina Spaegele, Oksana Makarova, Lillian B. Hughes Wyatt, Andrew C. Maccabe, Matthew Mammen, Bartholomeus Machielse, Hengyun Zhou, Szymon Pustelny, Ania C. Bleszynski Jayich, Federico Capasso, Leigh S. Martin, Hongkun Park, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2506.11920</link>
@@ -238,7 +238,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2505.21621</guid>
-<pubDate>Mon, 26 May 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 27 May 2025 00:00:00 GMT</pubDate>
 <title>Designing Fault-Tolerant Blind Quantum Computation</title>
 <author>Gefen Baranes, Iria W. Wang, Francisco Machado, Aziza Suleymanzade, Pieter-Jan Stas, Yan-Cheng Wei, Susanne F. Yelin, Johannes Borregaard, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2505.21621</link>
@@ -246,7 +246,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2505.15907</guid>
-<pubDate>Tue, 20 May 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 21 May 2025 00:00:00 GMT</pubDate>
 <title>Resource Analysis of Low-Overhead Transversal Architectures for Reconfigurable Atom Arrays</title>
 <author>Hengyun Zhou, Casey Duckering, Chen Zhao, Dolev Bluvstein, Madelyn Cain, Aleksander Kubica, Sheng-Tao Wang, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2505.15907</link>
@@ -254,7 +254,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2505.13587</guid>
-<pubDate>Thu, 19 Jun 2025 16:00:00 GMT</pubDate>
+<pubDate>Fri, 20 Jun 2025 00:00:00 GMT</pubDate>
 <title>Fast correlated decoding of transversal logical algorithms</title>
 <author>Madelyn Cain, Dolev Bluvstein, Chen Zhao, Shouzhen Gu, Nishad Maskara, Marcin Kalinowski, Alexandra A. Geim, Aleksander Kubica, Mikhail D. Lukin, Hengyun Zhou</author>
 <link>https://arxiv.org/abs/2505.13587</link>
@@ -262,7 +262,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2505.00260</guid>
-<pubDate>Tue, 29 Apr 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
 <title>Wideband covariance magnetometry below the diffraction limit</title>
 <author>Xuan Hoang Le, Pavel E. Dolgirev, Piotr Put, Eric L. Peterson, Arjun Pillai, Alexander A. Zibrov, Eugene Demler, Hongkun Park, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2505.00260</link>
@@ -270,7 +270,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2503.14598</guid>
-<pubDate>Mon, 17 Mar 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
 <title>Signal amplification in a solid-state quantum sensor via asymmetric time-reversal of many-body dynamics</title>
 <author>Haoyang Gao, Leigh S. Martin, Lillian B. Hughes, Nathaniel T. Leitao, Piotr Put, Hengyun Zhou, Nazli U. Koyluoglu, Simon A. Meynell, Ania C. Bleszynski Jayich, Hongkun Park, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2503.14598</link>
@@ -278,7 +278,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2503.01958</guid>
-<pubDate>Thu, 30 Oct 2025 16:00:00 GMT</pubDate>
+<pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
 <title>Counterdiabatic Driving with Performance Guarantees</title>
 <author>Jernej Rudi Finžgar, Simone Notarnicola, Madelyn Cain, Mikhail D. Lukin, Dries Sels</author>
 <link>https://arxiv.org/abs/2503.01958</link>
@@ -286,7 +286,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2502.20558</guid>
-<pubDate>Sat, 24 Jan 2026 16:00:00 GMT</pubDate>
+<pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
 <title>Leveraging Qubit Loss Detection in Fault Tolerant Quantum Algorithms</title>
 <author>Gefen Baranes, Madelyn Cain, J. Pablo Bonilla Ataides, Dolev Bluvstein, Josiah Sinclair, Vladan Vuletic, Hengyun Zhou, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2502.20558</link>
@@ -294,7 +294,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2502.09542</guid>
-<pubDate>Fri, 07 Nov 2025 16:00:00 GMT</pubDate>
+<pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate>
 <title>Constant-Overhead Fault-Tolerant Bell-Pair Distillation using High-Rate Codes</title>
 <author>J. Pablo Bonilla Ataides, Hengyun Zhou, Qian Xu, Gefen Baranes, Bikun Li, Mikhail D. Lukin, Liang Jiang</author>
 <link>https://arxiv.org/abs/2502.09542</link>
@@ -302,7 +302,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2501.18554</guid>
-<pubDate>Sun, 05 Oct 2025 16:00:00 GMT</pubDate>
+<pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
 <title>Probing the Kitaev honeycomb model on a neutral-atom quantum computer</title>
 <author>Simon J. Evered, Marcin Kalinowski, Alexandra A. Geim, Tom Manovitz, Dolev Bluvstein, Sophie H. Li, Nishad Maskara, Hengyun Zhou, Sepehr Ebadi, Muqing Xu, Joseph Campo, Madelyn Cain, Stefan Ostermann, Susanne F. Yelin, Subir Sachdev, Markus Greiner, Vladan Vuletić, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2501.18554</link>
@@ -310,7 +310,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2412.15165</guid>
-<pubDate>Wed, 18 Dec 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
 <title>Experimental Demonstration of Logical Magic State Distillation</title>
 <author>Pedro Sales Rodriguez, John M. Robinson, Paul Niklas Jepsen, Zhiyang He, Casey Duckering, Chen Zhao, Kai-Hsin Wu, Joseph Campo, Kevin Bagnall, Minho Kwon, Thomas Karolyshyn, Phillip Weinberg, Madelyn Cain, Simon J. Evered, Alexandra A. Geim, Marcin Kalinowski, Sophie H. Li, Tom Manovitz, Jesse Amato-Grill, James I. Basham, Liane Bernstein, Boris Braverman, Alexei Bylinskii, Adam Choukri, Robert DeAngelo , et al. (48 additional authors not shown)</author>
 <link>https://arxiv.org/abs/2412.15165</link>
@@ -318,7 +318,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2412.03020</guid>
-<pubDate>Sun, 08 Dec 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
 <title>Universal distributed blind quantum computing with solid-state qubits</title>
 <author>Yan-Cheng Wei, Pieter-Jan Stas, Aziza Suleymanzade, Gefen Baranes, Francisco Machado, Yan Qi Huan, Can M. Knaut, Weiyi Sophie Ding, Moritz Merz, Erik N Knall, Umut Yazlar, Maxim Sirotin, Iria W. Wang, Bart Machielse, Susanne F. Yelin, Johannes Borregaard, Hongkun Park, Marko Loncar, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2412.03020</link>
@@ -326,7 +326,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2411.06709</guid>
-<pubDate>Wed, 27 Aug 2025 16:00:00 GMT</pubDate>
+<pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
 <title>Experimentally probing entropy reduction via iterative quantum information transfer</title>
 <author>Toshihiro Yada, Pieter-Jan Stas, Aziza Suleymanzade, Erik N. Knall, Nobuyuki Yoshioka, Takahiro Sagawa, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2411.06709</link>
@@ -334,7 +334,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2411.04645</guid>
-<pubDate>Thu, 17 Apr 2025 16:00:00 GMT</pubDate>
+<pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
 <title>Quantum adiabatic optimization with Rydberg arrays: localization phenomena and encoding strategies</title>
 <author>Lisa Bombieri, Zhongda Zeng, Roberto Tricarico, Rui Lin, Simone Notarnicola, Madelyn Cain, Mikhail D. Lukin, Hannes Pichler</author>
 <link>https://arxiv.org/abs/2411.04645</link>
@@ -342,7 +342,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2410.16558</guid>
-<pubDate>Sun, 20 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
 <title>Observation of string breaking on a (2 + 1)D Rydberg quantum simulator</title>
 <author>Daniel Gonzalez-Cuadra, Majd Hamdan, Torsten V. Zache, Boris Braverman, Milan Kornjaca, Alexander Lukin, Sergio H. Cantu, Fangli Liu, Sheng-Tao Wang, Alexander Keesling, Mikhail D. Lukin, Peter Zoller, Alexei Bylinskii</author>
 <link>https://arxiv.org/abs/2410.16558</link>
@@ -350,7 +350,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2410.10787</guid>
-<pubDate>Sun, 13 Oct 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 14 Oct 2024 00:00:00 GMT</pubDate>
 <title>Error-Detected Quantum Operations with Neutral Atoms Mediated by an Optical Cavity</title>
 <author>Brandon Grinkemeyer, Elmer Guardado-Sanchez, Ivana Dimitrova, Danilo Shchepanovich, G. Eirini Mandopoulou, Johannes Borregaard, Vladan Vuletić, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2410.10787</link>
@@ -358,7 +358,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2409.08329</guid>
-<pubDate>Wed, 11 Sep 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
 <title>Optical signatures of interlayer electron coherence in a bilayer semiconductor</title>
 <author>Xiaoling Liu, Nadine Leisgang, Pavel E. Dolgirev, Alexander A. Zibrov, Jiho Sung, Jue Wang, Takashi Taniguchi, Kenji Watanabe, Valentin Walther, Hongkun Park, Eugene Demler, Philip Kim, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2409.08329</link>
@@ -366,7 +366,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2408.15936</guid>
-<pubDate>Tue, 27 Aug 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 28 Aug 2024 00:00:00 GMT</pubDate>
 <title>Fast quantum interconnects via constant-rate entanglement distillation</title>
 <author>Christopher A. Pattison, Gefen Baranes, J. Pablo Bonilla Ataides, Mikhail D. Lukin, Hengyun Zhou</author>
 <link>https://arxiv.org/abs/2408.15936</link>
@@ -374,7 +374,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2408.12645</guid>
-<pubDate>Wed, 21 Aug 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
 <title>Probing topological entanglement on large scales</title>
 <author>Robert Ott, Torsten V. Zache, Nishad Maskara, Mikhail D. Lukin, Peter Zoller, Hannes Pichler</author>
 <link>https://arxiv.org/abs/2408.12645</link>
@@ -382,7 +382,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2408.09524</guid>
-<pubDate>Sun, 01 Dec 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
 <title>Enhancing Quantum Memory Lifetime with Measurement-Free Local Error Correction and Reinforcement Learning</title>
 <author>Mincheol Park, Nishad Maskara, Marcin Kalinowski, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2408.09524</link>
@@ -390,7 +390,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2408.02741</guid>
-<pubDate>Sun, 04 Aug 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
 <title>Floquet engineering of interactions and entanglement in periodically driven Rydberg chains</title>
 <author>Nazlı Uğur Köylüoğlu, Nishad Maskara, Johannes Feldmeier, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2408.02741</link>
@@ -398,7 +398,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2408.02733</guid>
-<pubDate>Sun, 04 Aug 2024 16:00:00 GMT</pubDate>
+<pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
 <title>Quantum simulation of dynamical gauge theories in periodically driven Rydberg atom arrays</title>
 <author>Johannes Feldmeier, Nishad Maskara, Nazlı Uğur Köylüoğlu, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2408.02733</link>
