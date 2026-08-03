@@ -6,39 +6,39 @@
 <description>arXiv quant-ph Hot Papers</description>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28795</guid>
-<pubDate>Mon, 03 Aug 2026 12:42:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:58:18 GMT</pubDate>
 <title>[94★] High-rate qLDPC processors</title>
 <author>Aditya Bhardwaj, ..., Qian Xu, Hsin-Yuan Huang</author>
 <link>https://arxiv.org/abs/2607.28795</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 94 ★</p><p><b>Authors:</b> Aditya Bhardwaj, ..., Qian Xu, Hsin-Yuan Huang</p><p><b>arXiv ID:</b> 2607.28795 (<a href="https://arxiv.org/abs/2607.28795">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.28795">scirate</a>)</p><p><b>Abstract:</b></p><p>Despite significant progress on quantum low-density parity-check (qLDPC) codes, building qLDPC processors that are high-rate, high-throughput, hardware-friendly, and fast-to-decode remains a challenge. We introduce mitten codes, a family of qLDPC processor codes of encoding rate 20%20%20\% and check weight 999, based on non-abelian groups. Their non-abelian structure evades distance bounds constraining abelian counterparts, allowing mitten codes to reach distance 181818 and beyond with just a few hundred data qubits. The logical operators of a mitten code are related by the group action, yielding a modular, low-overhead logical toolkit: full Clifford operations follow from bridging two reusable seed surgery gadgets or from a single fixed extractor. Furthermore, qLDPC processors based on mitten codes support high-rate surgery that executes many logical measurements in parallel, and parallel magic-state injection into all logical qubits at once. Under circuit-level noise, with our fast decoder, the [[300,60,14]][[300,60,14]][\![300,60,14]\!] mitten code achieves, without extrapolation, a block logical error rate of ∼10−11∼10−11{\sim}10^{-11} per round at 0.1%0.1%0.1\% physical error rate (PER), while the [[975,195,≤24]][[975,195,≤24]][\![ 975,195,\leq 24 ]\!] code reaches ∼10−8∼10−8{\sim}10^{-8} at 0.4%0.4%0.4\% PER. Decoding 151515 billion surgery experiments on the [[540,108,18]][[540,108,18]][\![540,108,18]\!] code at 0.1%0.1%0.1\% PER, we observe only two logical failures, demonstrating a qLDPC processor capable of running ∼1010∼1010{\sim}10^{10} logical operations. Our decoder is compatible with sub-millisecond average latency per logical cycle, sufficient for real-time decoding on neutral atom hardware. Discovered by an end-to-end design pipeline built on sQetch, a distance estimator orders of magnitude faster than existing tools, and mapping efficiently onto near-term neutral atom and superconducting hardware, mitten codes open a practical path toward fault-tolerant quantum computation.</p></p><p></p><p>Aditya Bhardwaj, ..., Qian Xu, Hsin-Yuan Huang</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 94 ★</p><p><b>Authors:</b> Aditya Bhardwaj, ..., Qian Xu, Hsin-Yuan Huang</p><p><b>arXiv ID:</b> 2607.28795 (<a href="https://arxiv.org/abs/2607.28795">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.28795">scirate</a>)</p><p><b>Abstract:</b></p><p>Despite significant progress on quantum low-density parity-check (qLDPC) codes, building qLDPC processors that are high-rate, high-throughput, hardware-friendly, and fast-to-decode remains a challenge. We introduce mitten codes, a family of qLDPC processor codes of encoding rate 20%20\% and check weight 99, based on non-abelian groups. Their non-abelian structure evades distance bounds constraining abelian counterparts, allowing mitten codes to reach distance 1818 and beyond with just a few hundred data qubits. The logical operators of a mitten code are related by the group action, yielding a modular, low-overhead logical toolkit: full Clifford operations follow from bridging two reusable seed surgery gadgets or from a single fixed extractor. Furthermore, qLDPC processors based on mitten codes support high-rate surgery that executes many logical measurements in parallel, and parallel magic-state injection into all logical qubits at once. Under circuit-level noise, with our fast decoder, the [[300,60,14]][\![300,60,14]\!] mitten code achieves, without extrapolation, a block logical error rate of ∼10−11{\sim}10^{-11} per round at 0.1%0.1\% physical error rate (PER), while the [[975,195,≤24]][\![ 975,195,\leq 24 ]\!] code reaches ∼10−8{\sim}10^{-8} at 0.4%0.4\% PER. Decoding 1515 billion surgery experiments on the [[540,108,18]][\![540,108,18]\!] code at 0.1%0.1\% PER, we observe only two logical failures, demonstrating a qLDPC processor capable of running ∼1010{\sim}10^{10} logical operations. Our decoder is compatible with sub-millisecond average latency per logical cycle, sufficient for real-time decoding on neutral atom hardware. Discovered by an end-to-end design pipeline built on sQetch, a distance estimator orders of magnitude faster than existing tools, and mapping efficiently onto near-term neutral atom and superconducting hardware, mitten codes open a practical path toward fault-tolerant quantum computation.</p></p><p></p><p>Aditya Bhardwaj, ..., Qian Xu, Hsin-Yuan Huang</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29680</guid>
-<pubDate>Mon, 03 Aug 2026 12:41:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:57:18 GMT</pubDate>
 <title>[52★] Spectrum Estimation is Almost as Hard as Tomography</title>
 <author>Marco Fanizza, Ryan O'Donnell, Chirag Wadhwa</author>
 <link>https://arxiv.org/abs/2607.29680</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 52 ★</p><p><b>Authors:</b> Marco Fanizza, Ryan O&#x27;Donnell, Chirag Wadhwa</p><p><b>arXiv ID:</b> 2607.29680 (<a href="https://arxiv.org/abs/2607.29680">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29680">scirate</a>)</p><p><b>Abstract:</b></p><p>We study the sample complexity of estimating and testing fundamental unitarily invariant properties of unknown quantum states; namely, the tasks of spectrum estimation, von Neumann entropy estimation, and rank-testing. For ddd-dimensional states, and for every γ&gt;0γ&gt;0\gamma&gt;0, we prove a sample complexity lower bound of Ω(d2−γ)Ω(d2−γ)\Omega(d^{2-\gamma}) for spectrum estimation to constant sorted total-variation error, entropy estimation to constant additive error, and rank-testing to constant trace distance. Our hard instances are constructed from sandwiched products of Haar-random projectors, suitably normalized using a novel technique that lets us derive explicit expressions for high-order tensor moments of the resultant states. These moments can be expressed as symmetric functions of Jucys--Murphy elements of the symmetric group algebra. To show that two such mixtures are indistinguishable, we analyze the log-likelihood ratio and perform moment-matching, i.e., we set its low-order Jucys--Murphy components to zero. Indistinguishability is then obtained by bounding an fff-divergence through the high-order components; the non-zero high-order terms and concentration of functions of Haar-random unitaries also imply separations in typical spectra, entropies, and ranks, proving all our lower bounds.</p></p><p></p><p>Marco Fanizza, Ryan O'Donnell, Chirag Wadhwa</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 52 ★</p><p><b>Authors:</b> Marco Fanizza, Ryan O&#x27;Donnell, Chirag Wadhwa</p><p><b>arXiv ID:</b> 2607.29680 (<a href="https://arxiv.org/abs/2607.29680">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29680">scirate</a>)</p><p><b>Abstract:</b></p><p>We study the sample complexity of estimating and testing fundamental unitarily invariant properties of unknown quantum states; namely, the tasks of spectrum estimation, von Neumann entropy estimation, and rank-testing. For dd-dimensional states, and for every γ&gt;0\gamma&gt;0, we prove a sample complexity lower bound of Ω(d2−γ)\Omega(d^{2-\gamma}) for spectrum estimation to constant sorted total-variation error, entropy estimation to constant additive error, and rank-testing to constant trace distance. Our hard instances are constructed from sandwiched products of Haar-random projectors, suitably normalized using a novel technique that lets us derive explicit expressions for high-order tensor moments of the resultant states. These moments can be expressed as symmetric functions of Jucys--Murphy elements of the symmetric group algebra. To show that two such mixtures are indistinguishable, we analyze the log-likelihood ratio and perform moment-matching, i.e., we set its low-order Jucys--Murphy components to zero. Indistinguishability is then obtained by bounding an ff-divergence through the high-order components; the non-zero high-order terms and concentration of functions of Haar-random unitaries also imply separations in typical spectra, entropies, and ranks, proving all our lower bounds.</p></p><p></p><p>Marco Fanizza, Ryan O'Donnell, Chirag Wadhwa</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29686</guid>
-<pubDate>Mon, 03 Aug 2026 12:40:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:56:18 GMT</pubDate>
 <title>[38★] Online Shadow Tomography Matching the Classical Bounds</title>
 <author>Sitan Chen, ..., Angelos Pelecanos, John Wright</author>
 <link>https://arxiv.org/abs/2607.29686</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 38 ★</p><p><b>Authors:</b> Sitan Chen, ..., Angelos Pelecanos, John Wright</p><p><b>arXiv ID:</b> 2607.29686 (<a href="https://arxiv.org/abs/2607.29686">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29686">scirate</a>)</p><p><b>Abstract:</b></p><p>In \emphOnline Shadow Tomography, we are given copies of an unknown ddd-dimensional quantum state ρρ\rho, an adversary (adaptively) proposes a sequence of bounded observables A(1),…,A(m)A(1),…,A(m)A^{(1)},\ldots,A^{(m)}, and after each A(t)A(t)A^{(t)} is given we must estimate \Tr(A(t)ρ)\Tr(A(t)ρ)\Tr(A^{(t)}\rho) to within ±ϵ±ϵ\pm \epsilon. This is the direct quantum generalization of the classical problem of \emphAdaptive Data Analysis. %The ``offline&#x27;&#x27; case, in which A(1),…,A(m)A(1),…,A(m)A^{(1)}, \ldots, A^{(m)} are given upfront, is also a well-studied problem. The main goal is to minimize the number of copies, nnn, required. Prior results for online Shadow Tomography were suboptimal in all three parameters m,d,ϵm,d,ϵm, d, \epsilon, lagging behind the best known and classical rates~\citebassily2021algorithmic, for which there is some evidence of optimality. In this work, we finally close this gap, giving a pair of algorithms matching the classical rates. The bound on the left is the first to achieve o(log2m)o(log2m)o(\log^2 m)-dependence together with \poly(log(d)/\eps)\poly(log(d)/\eps)\poly(\log(d)/\eps); moreover, it improves all three exponents even in the \emphOffline Shadow Tomography setting. The bound on the right is known to be optimal among bounds independent of~ddd, and improves the best prior result by a √mlogmm−−√logm\sqrt{m} \log m factor. The key to our proof is a new framework for quantifying post-measurement damage, based on the quantum Efron--Stein decomposition.</p></p><p></p><p>Sitan Chen, ..., Angelos Pelecanos, John Wright</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 38 ★</p><p><b>Authors:</b> Sitan Chen, ..., Angelos Pelecanos, John Wright</p><p><b>arXiv ID:</b> 2607.29686 (<a href="https://arxiv.org/abs/2607.29686">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29686">scirate</a>)</p><p><b>Abstract:</b></p><p>In \emphOnline Shadow Tomography, we are given copies of an unknown dd-dimensional quantum state ρ\rho, an adversary (adaptively) proposes a sequence of bounded observables A(1),…,A(m)A^{(1)},\ldots,A^{(m)}, and after each A(t)A^{(t)} is given we must estimate \Tr(A(t)ρ)\Tr(A^{(t)}\rho) to within ±ϵ\pm \epsilon. This is the direct quantum generalization of the classical problem of \emphAdaptive Data Analysis. %The ``offline&#x27;&#x27; case, in which A(1),…,A(m)A^{(1)}, \ldots, A^{(m)} are given upfront, is also a well-studied problem. The main goal is to minimize the number of copies, nn, required. Prior results for online Shadow Tomography were suboptimal in all three parameters m,d,ϵm, d, \epsilon, lagging behind the best known and classical rates~\citebassily2021algorithmic, for which there is some evidence of optimality. In this work, we finally close this gap, giving a pair of algorithms matching the classical rates. The bound on the left is the first to achieve o(log2m)o(\log^2 m)-dependence together with \poly(log(d)/\eps)\poly(\log(d)/\eps); moreover, it improves all three exponents even in the \emphOffline Shadow Tomography setting. The bound on the right is known to be optimal among bounds independent of~dd, and improves the best prior result by a √mlogm\sqrt{m} \log m factor. The key to our proof is a new framework for quantifying post-measurement damage, based on the quantum Efron--Stein decomposition.</p></p><p></p><p>Sitan Chen, ..., Angelos Pelecanos, John Wright</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29672</guid>
-<pubDate>Mon, 03 Aug 2026 12:39:16 GMT</pubDate>
-<title>[24★] The Kikuchi Hierarchy is Sharp for kkkXOR</title>
+<pubDate>Mon, 03 Aug 2026 12:55:18 GMT</pubDate>
+<title>[25★] The Kikuchi Hierarchy is Sharp for kkXOR</title>
 <author>Alexander Schmidhuber, Matthew B. Hastings</author>
 <link>https://arxiv.org/abs/2607.29672</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 24 ★</p><p><b>Authors:</b> Alexander Schmidhuber, Matthew B. Hastings</p><p><b>arXiv ID:</b> 2607.29672 (<a href="https://arxiv.org/abs/2607.29672">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29672">scirate</a>)</p><p><b>Abstract:</b></p><p>Planted noisy kkkXOR and the strong refutation of random kkkXOR are governed by a conjectured trade-off between signal strength and time: Level ℓℓ\ell of the Kikuchi hierarchy should achieve the smooth curve \beginequation* m\ ≳ \rho^-2n^k/2/\ell^k/2-1\ \textclauses \quad\Longleftrightarrow\quad \textsolvable in time n^O(\ell), \endequation* where ρρ\rho is the bias of the planted signal or, for refutation, the target advantage. However, every spectral analysis of sparse kkkXOR to date loses polylogarithmic factors against this curve, a loss that enters the exponent of the running time. We show that a normalized variant of the Kikuchi hierarchy achieves the sharp conjectured trade-off, with no logarithmic loss, at every arity k≥3k≥3k\ge3. At the scale above, our algorithms achieve strong detection, weak recovery, and strong refutation; an additional cleanup step boosts weak recovery to exact recovery, and the refutation certificates yield sum-of-squares proofs of degree Ok(ℓ)Ok(ℓ)O_k(\ell). We also prove matching lower bounds in the same model. The inference and refutation upper bounds transfer to more general planting laws and predicates. Finally, we give a quantum algorithm that achieves a quartic speedup over the classical spectral algorithms for detection and weak recovery. The proofs rest on two key ingredients: a normalization of the sparse Kikuchi matrix, and a sharp count of the closed walks in its trace expansion. We use a closely related trace-walk count to prove Feige&#x27;s 2008 hypergraph Moore bound conjecture in a companion paper.</p></p><p></p><p>Alexander Schmidhuber, Matthew B. Hastings</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 25 ★</p><p><b>Authors:</b> Alexander Schmidhuber, Matthew B. Hastings</p><p><b>arXiv ID:</b> 2607.29672 (<a href="https://arxiv.org/abs/2607.29672">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29672">scirate</a>)</p><p><b>Abstract:</b></p><p>Planted noisy kkXOR and the strong refutation of random kkXOR are governed by a conjectured trade-off between signal strength and time: Level ℓ\ell of the Kikuchi hierarchy should achieve the smooth curve \beginequation* m\ ≳ \rho^-2n^k/2/\ell^k/2-1\ \textclauses \quad\Longleftrightarrow\quad \textsolvable in time n^O(\ell), \endequation* where ρ\rho is the bias of the planted signal or, for refutation, the target advantage. However, every spectral analysis of sparse kkXOR to date loses polylogarithmic factors against this curve, a loss that enters the exponent of the running time. We show that a normalized variant of the Kikuchi hierarchy achieves the sharp conjectured trade-off, with no logarithmic loss, at every arity k≥3k\ge3. At the scale above, our algorithms achieve strong detection, weak recovery, and strong refutation; an additional cleanup step boosts weak recovery to exact recovery, and the refutation certificates yield sum-of-squares proofs of degree Ok(ℓ)O_k(\ell). We also prove matching lower bounds in the same model. The inference and refutation upper bounds transfer to more general planting laws and predicates. Finally, we give a quantum algorithm that achieves a quartic speedup over the classical spectral algorithms for detection and weak recovery. The proofs rest on two key ingredients: a normalization of the sparse Kikuchi matrix, and a sharp count of the closed walks in its trace expansion. We use a closely related trace-walk count to prove Feige&#x27;s 2008 hypergraph Moore bound conjecture in a companion paper.</p></p><p></p><p>Alexander Schmidhuber, Matthew B. Hastings</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29603</guid>
-<pubDate>Mon, 03 Aug 2026 12:38:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:54:18 GMT</pubDate>
 <title>[19★] Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units</title>
 <author>Shin Nishio, ..., Takahiko Satoh, Dan E. Browne</author>
 <link>https://arxiv.org/abs/2607.29603</link>
@@ -46,15 +46,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29670</guid>
-<pubDate>Mon, 03 Aug 2026 12:37:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:53:18 GMT</pubDate>
 <title>[17★] Fermionic entropy: an efficiently measurable strong monotone for non-Gaussianity</title>
 <author>Lorenzo Leone, Lennart Bittel</author>
 <link>https://arxiv.org/abs/2607.29670</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 17 ★</p><p><b>Authors:</b> Lorenzo Leone, Lennart Bittel</p><p><b>arXiv ID:</b> 2607.29670 (<a href="https://arxiv.org/abs/2607.29670">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29670">scirate</a>)</p><p><b>Abstract:</b></p><p>Fermionic Gaussian states form a central class of classically tractable quantum states, while fermionic non-Gaussianity provides the resource required to go beyond free-fermion dynamics. A key challenge is to quantify this resource through monotones that are both mathematically rigorous and experimentally accessible. Here, we show that the fermionic entropy, defined through the squared Frobenius norm of the correlation matrix, is a strong pure-state Gaussian monotone. Its simple closed-form expression also makes it directly measurable: we show that the associated fermionic purity can be unbiasedly estimated up to additive error εε\varepsilon using O(ε−2)O(ε−2)O(\varepsilon^{-2}) two-copy measurements, independently of the system size. Moreover, we prove that the fermionic entropy obeys asymptotic continuity and, as a direct consequence, establish its operational meaning as the upper bound to the asymptotic rate of non-Gaussianity distillation. We further derive a linear sample complexity bound for tolerant testing of fermionic Gaussian states, providing a quadratic improvement over the state of the art. As a further application of our results, we study unitary designs generated by Matchgate circuits supplemented with Majorana-local non-Gaussian gates. We prove that a linear number of such gates is necessary even to achieve an approximate state 222-design with error below 0.4%0.4%0.4\%. Combined with known nearly linear upper bounds for relative-error designs, this determines the optimal doping level, up to logarithmic factors, across all relevant design notions and reveals the extensive non-Gaussianity cost required to generate Haar-like quantum dynamics in this architecture.</p></p><p></p><p>Lorenzo Leone, Lennart Bittel</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 17 ★</p><p><b>Authors:</b> Lorenzo Leone, Lennart Bittel</p><p><b>arXiv ID:</b> 2607.29670 (<a href="https://arxiv.org/abs/2607.29670">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29670">scirate</a>)</p><p><b>Abstract:</b></p><p>Fermionic Gaussian states form a central class of classically tractable quantum states, while fermionic non-Gaussianity provides the resource required to go beyond free-fermion dynamics. A key challenge is to quantify this resource through monotones that are both mathematically rigorous and experimentally accessible. Here, we show that the fermionic entropy, defined through the squared Frobenius norm of the correlation matrix, is a strong pure-state Gaussian monotone. Its simple closed-form expression also makes it directly measurable: we show that the associated fermionic purity can be unbiasedly estimated up to additive error ε\varepsilon using O(ε−2)O(\varepsilon^{-2}) two-copy measurements, independently of the system size. Moreover, we prove that the fermionic entropy obeys asymptotic continuity and, as a direct consequence, establish its operational meaning as the upper bound to the asymptotic rate of non-Gaussianity distillation. We further derive a linear sample complexity bound for tolerant testing of fermionic Gaussian states, providing a quadratic improvement over the state of the art. As a further application of our results, we study unitary designs generated by Matchgate circuits supplemented with Majorana-local non-Gaussian gates. We prove that a linear number of such gates is necessary even to achieve an approximate state 22-design with error below 0.4%0.4\%. Combined with known nearly linear upper bounds for relative-error designs, this determines the optimal doping level, up to logarithmic factors, across all relevant design notions and reveals the extensive non-Gaussianity cost required to generate Haar-like quantum dynamics in this architecture.</p></p><p></p><p>Lorenzo Leone, Lennart Bittel</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29443</guid>
-<pubDate>Mon, 03 Aug 2026 12:36:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:52:18 GMT</pubDate>
 <title>[15★] Erasure surface code circuit without mid-circuit erasure checks</title>
 <author>Margaret Pavlovich, ..., Chen Wang, Shruti Puri</author>
 <link>https://arxiv.org/abs/2607.29443</link>
@@ -62,23 +62,23 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29382</guid>
-<pubDate>Mon, 03 Aug 2026 12:35:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:51:18 GMT</pubDate>
 <title>[15★] Algebraic Speedups for Exact Inversion of Hamiltonian Evolutions</title>
 <author>Jizhe Lai, ..., Erdong Huang, Xin Wang</author>
 <link>https://arxiv.org/abs/2607.29382</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 15 ★</p><p><b>Authors:</b> Jizhe Lai, ..., Erdong Huang, Xin Wang</p><p><b>arXiv ID:</b> 2607.29382 (<a href="https://arxiv.org/abs/2607.29382">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29382">scirate</a>)</p><p><b>Abstract:</b></p><p>Deterministic exact inversion of an arbitrary ddd-dimensional unitary requires Θ(d2)Θ(d2)\Theta(d^2) coherent forward calls in the worst case. We ask how this cost changes for Hamiltonian evolution U(x)=exp(i∑jxjHj)U(x)=exp(i∑jxjHj)U(x)=\exp(i\sum_j x_jH_j) when the generators are known but the parameters are hidden. For one-parameter families with a fixed eigenbasis, we show that additive relations among the distinct eigenvalues determine the optimal query number exactly, and we construct the corresponding inversion protocol. For general families, we prove that repeated symmetry sectors do not affect the exact query complexity and give an automatic construction for combining inverses from inequivalent active sectors. We also give a sufficient phase-alignment condition under which family-specific structure can reduce the query number. These results establish structure-dependent bounds for reversing the unknown dynamics arising in Tavis-Cummings out-of-time-order correlator protocols, collective-spin echo verification, and passive multimode links, without requiring prior knowledge or explicit estimation of the underlying coupling strengths.</p></p><p></p><p>Jizhe Lai, ..., Erdong Huang, Xin Wang</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 15 ★</p><p><b>Authors:</b> Jizhe Lai, ..., Erdong Huang, Xin Wang</p><p><b>arXiv ID:</b> 2607.29382 (<a href="https://arxiv.org/abs/2607.29382">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29382">scirate</a>)</p><p><b>Abstract:</b></p><p>Deterministic exact inversion of an arbitrary dd-dimensional unitary requires Θ(d2)\Theta(d^2) coherent forward calls in the worst case. We ask how this cost changes for Hamiltonian evolution U(x)=exp(i∑jxjHj)U(x)=\exp(i\sum_j x_jH_j) when the generators are known but the parameters are hidden. For one-parameter families with a fixed eigenbasis, we show that additive relations among the distinct eigenvalues determine the optimal query number exactly, and we construct the corresponding inversion protocol. For general families, we prove that repeated symmetry sectors do not affect the exact query complexity and give an automatic construction for combining inverses from inequivalent active sectors. We also give a sufficient phase-alignment condition under which family-specific structure can reduce the query number. These results establish structure-dependent bounds for reversing the unknown dynamics arising in Tavis-Cummings out-of-time-order correlator protocols, collective-spin echo verification, and passive multimode links, without requiring prior knowledge or explicit estimation of the underlying coupling strengths.</p></p><p></p><p>Jizhe Lai, ..., Erdong Huang, Xin Wang</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28753</guid>
-<pubDate>Mon, 03 Aug 2026 12:34:16 GMT</pubDate>
-<title>[13★] Gaussian-augmented bosonic matrix-product states: theory and applications</title>
+<pubDate>Mon, 03 Aug 2026 12:50:18 GMT</pubDate>
+<title>[14★] Gaussian-augmented bosonic matrix-product states: theory and applications</title>
 <author>Erickson Tjoa, J. Ignacio Cirac</author>
 <link>https://arxiv.org/abs/2607.28753</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 13 ★</p><p><b>Authors:</b> Erickson Tjoa, J. Ignacio Cirac</p><p><b>arXiv ID:</b> 2607.28753 (<a href="https://arxiv.org/abs/2607.28753">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.28753">scirate</a>)</p><p><b>Abstract:</b></p><p>We propose and analyze the structure of a family of bosonic quantum many-body states that have the following features: (i) they include all pure Gaussian states and finite-dimensional matrix-product states as subclasses; (ii) their expectation values can be efficiently computed, allowing them to be used, among other things, for variational calculations; (iii) they admit exact parent Hamiltonians expressed as simple functions of the bosonic creation and annihilation operators.</p></p><p></p><p>Erickson Tjoa, J. Ignacio Cirac</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 14 ★</p><p><b>Authors:</b> Erickson Tjoa, J. Ignacio Cirac</p><p><b>arXiv ID:</b> 2607.28753 (<a href="https://arxiv.org/abs/2607.28753">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.28753">scirate</a>)</p><p><b>Abstract:</b></p><p>We propose and analyze the structure of a family of bosonic quantum many-body states that have the following features: (i) they include all pure Gaussian states and finite-dimensional matrix-product states as subclasses; (ii) their expectation values can be efficiently computed, allowing them to be used, among other things, for variational calculations; (iii) they admit exact parent Hamiltonians expressed as simple functions of the bosonic creation and annihilation operators.</p></p><p></p><p>Erickson Tjoa, J. Ignacio Cirac</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29660</guid>
-<pubDate>Mon, 03 Aug 2026 12:33:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:49:18 GMT</pubDate>
 <title>[10★] A Simple Necessary and Sufficient Condition for Yang--Baxter Integrability</title>
 <author>Mizuki Sanatani, Naoto Shiraishi, Fuga Ishii</author>
 <link>https://arxiv.org/abs/2607.29660</link>
@@ -86,15 +86,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29054</guid>
-<pubDate>Mon, 03 Aug 2026 12:32:16 GMT</pubDate>
-<title>[6★] Optimal complex conjugation of unknown isometry channels</title>
+<pubDate>Mon, 03 Aug 2026 12:48:18 GMT</pubDate>
+<title>[7★] Optimal complex conjugation of unknown isometry channels</title>
 <author>Satoshi Yoshida, Mio Murao</author>
 <link>https://arxiv.org/abs/2607.29054</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 6 ★</p><p><b>Authors:</b> Satoshi Yoshida, Mio Murao</p><p><b>arXiv ID:</b> 2607.29054 (<a href="https://arxiv.org/abs/2607.29054">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29054">scirate</a>)</p><p><b>Abstract:</b></p><p>Access to the complex conjugate of an unknown quantum channel is a useful resource in quantum oracle problems, motivating the question of how such access can be simulated using only a limited number of calls to the original channel. We determine the optimal deterministic protocol for approximately implementing the complex conjugate isometry ¯VV¯¯¯¯\overline{V} from nnn uses of an unknown isometry channel V:Cd→CDV: \mathbb{C}^d\to\mathbb{C}^D. We derive a closed-form expression for the optimal fidelity and prove that a parallel protocol is optimal even among general quantum superchannels, including adaptive and indefinite-causal-order strategies. The formula implies a query complexity n=Θ(d[(D−d)/ϵ+1])n=\Theta(d[(D-d)/\epsilon+1]) for achieving infidelity ϵ\epsilon. We also present a circuit construction based on the quantum Schur transform and the dual Clebsch--Gordan transform, with circuit complexity O(poly(D,1/ϵ))O(\mathrm{poly}(D,1/\epsilon)). This task is extended to the multi-copy case V⊗n↦¯V⊗kV^{\otimes n}\mapsto \overline{V}^{\otimes k}. For fixed d&lt;Dd&lt;D and kk, we show that the optimal fidelity for the multi-copy case is 1−kd(D−d)/n+o(n−1)1-kd(D-d)/n+o(n^{-1}), and that this value is asymptotically attained by a parallel estimation-based protocol. Finally, combining the isometry protocol with random Stinespring dilations yields a protocol for complex conjugation of unknown rank-rr quantum channels whose query complexity is optimal up to a constant factor if the Kraus rank rr is constant.</p></p><p></p><p>Satoshi Yoshida, Mio Murao</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 7 ★</p><p><b>Authors:</b> Satoshi Yoshida, Mio Murao</p><p><b>arXiv ID:</b> 2607.29054 (<a href="https://arxiv.org/abs/2607.29054">arxiv.org</a> | <a href="https://scirate.com/arxiv/2607.29054">scirate</a>)</p><p><b>Abstract:</b></p><p>Access to the complex conjugate of an unknown quantum channel is a useful resource in quantum oracle problems, motivating the question of how such access can be simulated using only a limited number of calls to the original channel. We determine the optimal deterministic protocol for approximately implementing the complex conjugate isometry ¯V\overline{V} from nn uses of an unknown isometry channel V:Cd→CDV: \mathbb{C}^d\to\mathbb{C}^D. We derive a closed-form expression for the optimal fidelity and prove that a parallel protocol is optimal even among general quantum superchannels, including adaptive and indefinite-causal-order strategies. The formula implies a query complexity n=Θ(d[(D−d)/ϵ+1])n=\Theta(d[(D-d)/\epsilon+1]) for achieving infidelity ϵ\epsilon. We also present a circuit construction based on the quantum Schur transform and the dual Clebsch--Gordan transform, with circuit complexity O(poly(D,1/ϵ))O(\mathrm{poly}(D,1/\epsilon)). This task is extended to the multi-copy case V⊗n↦¯V⊗kV^{\otimes n}\mapsto \overline{V}^{\otimes k}. For fixed d&lt;Dd&lt;D and kk, we show that the optimal fidelity for the multi-copy case is 1−kd(D−d)/n+o(n−1)1-kd(D-d)/n+o(n^{-1}), and that this value is asymptotically attained by a parallel estimation-based protocol. Finally, combining the isometry protocol with random Stinespring dilations yields a protocol for complex conjugation of unknown rank-rr quantum channels whose query complexity is optimal up to a constant factor if the Kraus rank rr is constant.</p></p><p></p><p>Satoshi Yoshida, Mio Murao</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28740</guid>
-<pubDate>Mon, 03 Aug 2026 12:31:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:47:18 GMT</pubDate>
 <title>[6★] Gapped Parent Hamiltonians for the Strongly Deformed Toric Code</title>
 <author>Nandagopal Manoj, Zack Weinstein, Jason Alicea</author>
 <link>https://arxiv.org/abs/2607.28740</link>
@@ -102,7 +102,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29453</guid>
-<pubDate>Mon, 03 Aug 2026 12:30:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:46:18 GMT</pubDate>
 <title>[5★] Quantum Algorithms for Modular Factorials</title>
 <author>Yann Tal</author>
 <link>https://arxiv.org/abs/2607.29453</link>
@@ -110,7 +110,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29186</guid>
-<pubDate>Mon, 03 Aug 2026 12:29:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:45:18 GMT</pubDate>
 <title>[4★] Towards the Characterization of Logical Errors in Distributed Lattice Surgery</title>
 <author>Nitish Kumar Chandra, Reza Nejabati, Eneet Kaur</author>
 <link>https://arxiv.org/abs/2607.29186</link>
@@ -118,7 +118,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28716</guid>
-<pubDate>Mon, 03 Aug 2026 12:28:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:44:18 GMT</pubDate>
 <title>[2★] Cascading amplifiers can create exponentially large coherence</title>
 <author>Lucas A. Ostrowski, ..., Howard M. Wiseman, Dominic W. Berry</author>
 <link>https://arxiv.org/abs/2607.28716</link>
@@ -126,7 +126,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29615</guid>
-<pubDate>Mon, 03 Aug 2026 12:27:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:43:18 GMT</pubDate>
 <title>[1★] Unwithered Majorana fermions in the bulk of a quantum chain</title>
 <author>Gennady Y. Chitov</author>
 <link>https://arxiv.org/abs/2607.29615</link>
@@ -134,7 +134,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29556</guid>
-<pubDate>Mon, 03 Aug 2026 12:26:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:42:18 GMT</pubDate>
 <title>[1★] Comparison of Spatial Entanglement between dissociated atom and ion : molecular ion photo-dissociated by sequential two-photon absorption and correlated two-photon absorption</title>
 <author>Krishna Rai Dastidar</author>
 <link>https://arxiv.org/abs/2607.29556</link>
@@ -142,7 +142,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29551</guid>
-<pubDate>Mon, 03 Aug 2026 12:25:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:41:18 GMT</pubDate>
 <title>[1★] iSWAP maximises the second-moment spectral gap in random quantum circuits</title>
 <author>Yanying Liang, Haoran Zhu</author>
 <link>https://arxiv.org/abs/2607.29551</link>
@@ -150,7 +150,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29342</guid>
-<pubDate>Mon, 03 Aug 2026 12:24:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:40:18 GMT</pubDate>
 <title>[1★] Information limits of photonic lantern wavefront sensing: a Fisher- and quantum-Fisher-information framework and its relation to Fourier-filtering sensitivity limits</title>
 <author>Kalaga Madhav</author>
 <link>https://arxiv.org/abs/2607.29342</link>
@@ -158,7 +158,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29219</guid>
-<pubDate>Mon, 03 Aug 2026 12:23:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:39:18 GMT</pubDate>
 <title>[1★] Fisher-Orthogonal Memory in Quantum Reservoir Computing</title>
 <author>Ce Wang, Xingze Qiu</author>
 <link>https://arxiv.org/abs/2607.29219</link>
@@ -166,7 +166,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29206</guid>
-<pubDate>Mon, 03 Aug 2026 12:22:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:38:18 GMT</pubDate>
 <title>[1★] Chiral magnons for spin-qubit state transfer</title>
 <author>Martijn Dols, ..., Victor A. S. V. Bittencourt, Silvia Viola Kusminskiy</author>
 <link>https://arxiv.org/abs/2607.29206</link>
@@ -174,7 +174,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29154</guid>
-<pubDate>Mon, 03 Aug 2026 12:21:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:37:18 GMT</pubDate>
 <title>[1★] Origins of microwave losses in superconducting circuits made with silicon-on-insulator substrates</title>
 <author>Simon Messelot, ..., Jérémie J. Viennot, Julien Renard</author>
 <link>https://arxiv.org/abs/2607.29154</link>
@@ -182,7 +182,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29145</guid>
-<pubDate>Mon, 03 Aug 2026 12:20:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:36:18 GMT</pubDate>
 <title>[1★] Transpiler Autotuning with Predictive Models for Quantum Circuit Optimization</title>
 <author>Piotr Malkowski, ..., Patrick Hopf, Ina Schaefer</author>
 <link>https://arxiv.org/abs/2607.29145</link>
@@ -190,7 +190,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29123</guid>
-<pubDate>Mon, 03 Aug 2026 12:19:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:35:18 GMT</pubDate>
 <title>[1★] Numerical Optimization of Two-Qubit Gates in Silicon Flip-Flop Qubit Arrays under Electrical Control</title>
 <author>Lorenzo D'Onofrio, Elena Ferraro, Marco De Michielis</author>
 <link>https://arxiv.org/abs/2607.29123</link>
@@ -198,7 +198,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29073</guid>
-<pubDate>Mon, 03 Aug 2026 12:18:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:34:18 GMT</pubDate>
 <title>[1★] On the Origin of Beyond-Classical Advantage in the Parity-Permutation Problem</title>
 <author>Jayashree Karmakar, ..., Sahil Gopalkrishna Naik, Kunika Agarwal</author>
 <link>https://arxiv.org/abs/2607.29073</link>
@@ -206,7 +206,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28922</guid>
-<pubDate>Mon, 03 Aug 2026 12:17:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:33:18 GMT</pubDate>
 <title>[1★] Error-Generator-Level Compression for Fast Quantum Gates</title>
 <author>Razvan Stanescu, Hugo Ribeiro</author>
 <link>https://arxiv.org/abs/2607.28922</link>
@@ -214,7 +214,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28783</guid>
-<pubDate>Mon, 03 Aug 2026 12:16:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:32:18 GMT</pubDate>
 <title>[1★] Quantum Optimal Control at Intermediate Times: Controlling Revivals in Spin Chains</title>
 <author>Juan J. Omiste, Ignacio R. Solá</author>
 <link>https://arxiv.org/abs/2607.28783</link>
@@ -222,7 +222,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28749</guid>
-<pubDate>Mon, 03 Aug 2026 12:15:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:31:18 GMT</pubDate>
 <title>[1★] Detection-resolution limits of large-momentum-transfer atom gravimetry</title>
 <author>Asad Ali, Saif Al-Kuwari</author>
 <link>https://arxiv.org/abs/2607.28749</link>
@@ -230,7 +230,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28730</guid>
-<pubDate>Mon, 03 Aug 2026 12:14:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:30:18 GMT</pubDate>
 <title>[1★] Quantum Resources in Disorder-Free Localization Dynamics of Gauge Theories</title>
 <author>Devendra Singh Bhakuni, ..., Jad C. Halimeh, Emanuele Tirrito</author>
 <link>https://arxiv.org/abs/2607.28730</link>
@@ -238,7 +238,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29666</guid>
-<pubDate>Mon, 03 Aug 2026 12:13:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:29:18 GMT</pubDate>
 <title>[0★] Release-free phononic crystal with strong microwave coupling</title>
 <author>Joey Frey, ..., Johan Kolvik, Raphaël Van Laer</author>
 <link>https://arxiv.org/abs/2607.29666</link>
@@ -246,7 +246,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29623</guid>
-<pubDate>Mon, 03 Aug 2026 12:12:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:28:18 GMT</pubDate>
 <title>[0★] Quantum geometric potential induced conformational transitions in elastic helical nanoribbons</title>
 <author>Radha Balakrishnan, Rossen Dandoloff, Avadh Saxena</author>
 <link>https://arxiv.org/abs/2607.29623</link>
@@ -254,7 +254,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29609</guid>
-<pubDate>Mon, 03 Aug 2026 12:11:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:27:18 GMT</pubDate>
 <title>[0★] Telecom-compatible polarization-to-time-bin conversion of atom-photon entanglement for heterogeneous quantum networks</title>
 <author>Christian Haen, ..., Christoph Becher, Jürgen Eschner</author>
 <link>https://arxiv.org/abs/2607.29609</link>
@@ -262,7 +262,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29582</guid>
-<pubDate>Mon, 03 Aug 2026 12:10:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:26:18 GMT</pubDate>
 <title>[0★] Quantum computing-based solver for interacting power grids</title>
 <author>Ankit Kumar Das, Durgesh Pandey, P. Arumugam</author>
 <link>https://arxiv.org/abs/2607.29582</link>
@@ -270,7 +270,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29565</guid>
-<pubDate>Mon, 03 Aug 2026 12:09:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:25:18 GMT</pubDate>
 <title>[0★] Quantum tomography of inelastic electron scattering \emphvia orbital angular momentum states</title>
 <author>Amir H. Tavabi, ..., Ebrahim Karimi, Vincenzo Grillo</author>
 <link>https://arxiv.org/abs/2607.29565</link>
@@ -278,7 +278,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29501</guid>
-<pubDate>Mon, 03 Aug 2026 12:08:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:24:18 GMT</pubDate>
 <title>[0★] Delayed Formation of Landau Polaritons in Phase-Resolved THz Spectroscopy</title>
 <author>Noureddine Charrouj, ..., Wojciech Knap, Marcin Bialek</author>
 <link>https://arxiv.org/abs/2607.29501</link>
@@ -286,7 +286,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29485</guid>
-<pubDate>Mon, 03 Aug 2026 12:07:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:23:18 GMT</pubDate>
 <title>[0★] On the Emergence of Exponential Decay from Discrete Spectra for Friedrichs Hamiltonians</title>
 <author>Tamim Al-Qaiwani, Sören Petrat</author>
 <link>https://arxiv.org/abs/2607.29485</link>
@@ -294,7 +294,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29469</guid>
-<pubDate>Mon, 03 Aug 2026 12:06:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:22:18 GMT</pubDate>
 <title>[0★] Phase Sensitivity of Spectrally Multimode SU(1,1) Interferometers with Waveguide based Optical Parametric Amplifier</title>
 <author>Sonu Jana, ..., Nadia Belabas, Syamsundar De</author>
 <link>https://arxiv.org/abs/2607.29469</link>
@@ -302,7 +302,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29467</guid>
-<pubDate>Mon, 03 Aug 2026 12:05:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:21:18 GMT</pubDate>
 <title>[0★] A spectral viewpoint on the single defect tight-binding chain</title>
 <author>Sayan Roy</author>
 <link>https://arxiv.org/abs/2607.29467</link>
@@ -310,7 +310,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29432</guid>
-<pubDate>Mon, 03 Aug 2026 12:04:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:20:18 GMT</pubDate>
 <title>[0★] First Law of Proto-Area Entropy from Modular Spectral Geometry</title>
 <author>Ling-Zheng Xia, Lixin Xu</author>
 <link>https://arxiv.org/abs/2607.29432</link>
@@ -318,7 +318,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29427</guid>
-<pubDate>Mon, 03 Aug 2026 12:03:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:19:18 GMT</pubDate>
 <title>[0★] Resolution of Infrared Entanglement Divergences via the Extended Uncertainty Principle</title>
 <author>Subhra Mondal, S. Shankaranarayanan</author>
 <link>https://arxiv.org/abs/2607.29427</link>
@@ -326,7 +326,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29418</guid>
-<pubDate>Mon, 03 Aug 2026 12:02:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:18:18 GMT</pubDate>
 <title>[0★] A Variational Framework for Time-Dependent Quantum Systems with Applications to Floquet Hamiltonians</title>
 <author>Ibsal Assi, Meenu Kumari, J. P. F. LeBlanc</author>
 <link>https://arxiv.org/abs/2607.29418</link>
@@ -334,7 +334,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29396</guid>
-<pubDate>Mon, 03 Aug 2026 12:01:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:17:18 GMT</pubDate>
 <title>[0★] Revisiting the Equation-of-Motion Method: A Universal Framework for Correlated Quantum Systems</title>
 <author>Andrea Porro</author>
 <link>https://arxiv.org/abs/2607.29396</link>
@@ -342,7 +342,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29339</guid>
-<pubDate>Mon, 03 Aug 2026 12:00:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:16:18 GMT</pubDate>
 <title>[0★] Charging and Discharging a Hubbard-Holstein Quantum Battery: Specific Mechanisms and General Insights</title>
 <author>Emil Östberg, ..., Irene D'Amico, Claudio Verdozzi</author>
 <link>https://arxiv.org/abs/2607.29339</link>
@@ -350,7 +350,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29313</guid>
-<pubDate>Mon, 03 Aug 2026 11:59:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:15:18 GMT</pubDate>
 <title>[0★] Non-Hermitian Quantum Nonlinear Optics with Single Photons</title>
 <author>Samuel Napoli, ..., Salvatore Savasta, Daniele Lamberto</author>
 <link>https://arxiv.org/abs/2607.29313</link>
@@ -358,7 +358,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29165</guid>
-<pubDate>Mon, 03 Aug 2026 11:58:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:14:18 GMT</pubDate>
 <title>[0★] Entanglement in bipartite systems with symmetry: coupled chaotic kicked Bose-Hubbard systems</title>
 <author>J. Himmelsbach, M. F. I. Kieler, A. Bäcker</author>
 <link>https://arxiv.org/abs/2607.29165</link>
@@ -366,7 +366,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29134</guid>
-<pubDate>Mon, 03 Aug 2026 11:57:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:13:18 GMT</pubDate>
 <title>[0★] InferQ: A Database-Oriented Benchmark for Quantum Circuits Simulation</title>
 <author>Andrei Ilinescu, Aadi Patwardhan, Rihan Hai</author>
 <link>https://arxiv.org/abs/2607.29134</link>
@@ -374,7 +374,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29099</guid>
-<pubDate>Mon, 03 Aug 2026 11:56:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:12:18 GMT</pubDate>
 <title>[0★] A low-temperature ultra-high-vacuum scanning probe microscope with in situ electronic transport capabilities: from macro to nano in 10 minutes</title>
 <author>Diego Exposito, Oscar Custance, Ivan Brihuega</author>
 <link>https://arxiv.org/abs/2607.29099</link>
@@ -382,7 +382,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29050</guid>
-<pubDate>Mon, 03 Aug 2026 11:55:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:11:18 GMT</pubDate>
 <title>[0★] Finite-size reliability of homothetic quantum Otto engines</title>
 <author>Gabriella G. Damas, ..., Gao Xianlong, G. D. de Moraes Neto</author>
 <link>https://arxiv.org/abs/2607.29050</link>
@@ -390,7 +390,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29046</guid>
-<pubDate>Mon, 03 Aug 2026 11:54:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:10:18 GMT</pubDate>
 <title>[0★] Nuclear Spin Squeezing Based on Spin-Exchange Collisions</title>
 <author>He-bin Zhang, Yuanjiang Tang, Yong-Chun Liu</author>
 <link>https://arxiv.org/abs/2607.29046</link>
@@ -398,7 +398,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.29012</guid>
-<pubDate>Mon, 03 Aug 2026 11:53:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:09:18 GMT</pubDate>
 <title>[0★] Bell violation with path-entangled number states under realistic detection</title>
 <author>Christoph F. Wildfeuer</author>
 <link>https://arxiv.org/abs/2607.29012</link>
@@ -406,7 +406,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28998</guid>
-<pubDate>Mon, 03 Aug 2026 11:52:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:08:18 GMT</pubDate>
 <title>[0★] Construction of Sets of Orthogonal Quantum States with Minimal Nonlocality in Bipartite and Tripartite Systems of Unequal Local Dimensions</title>
 <author>Ben-Hao Zhao, ..., Yu-Guang Yang, Guang-Bao Xu</author>
 <link>https://arxiv.org/abs/2607.28998</link>
@@ -414,7 +414,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28964</guid>
-<pubDate>Mon, 03 Aug 2026 11:51:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:07:18 GMT</pubDate>
 <title>[0★] Parent Hamiltonian and intrinsic phase transition in non-Hermitian photonic systems</title>
 <author>Yuntao Xiao, ..., Shuo Yang, Peng Xue</author>
 <link>https://arxiv.org/abs/2607.28964</link>
@@ -422,7 +422,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28961</guid>
-<pubDate>Mon, 03 Aug 2026 11:50:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:06:18 GMT</pubDate>
 <title>[0★] The Shape of Information: Global Information Geometric Limits in Multi-task Quantum Systems</title>
 <author>Zishuo Ren, Ziyang Chen, Hong Guo</author>
 <link>https://arxiv.org/abs/2607.28961</link>
@@ -430,7 +430,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28943</guid>
-<pubDate>Mon, 03 Aug 2026 11:49:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:05:18 GMT</pubDate>
 <title>[0★] Optically Resolved Excited State Hyperfine Structure of a Silicon Colour Centre in the Telecom Bands</title>
 <author>Austin Woolverton, ..., Daniel Higginbottom, Michael Thewalt</author>
 <link>https://arxiv.org/abs/2607.28943</link>
@@ -438,7 +438,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28866</guid>
-<pubDate>Mon, 03 Aug 2026 11:48:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:04:18 GMT</pubDate>
 <title>[0★] Generative IQP Circuit Learning with Physics-Informed Latent Initialization</title>
 <author>Chen-Yu Liu, ..., Marco Ballarin, Enrico Rinaldi</author>
 <link>https://arxiv.org/abs/2607.28866</link>
@@ -446,7 +446,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28799</guid>
-<pubDate>Mon, 03 Aug 2026 11:47:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:03:18 GMT</pubDate>
 <title>[0★] FedQML-Edge: Compact Quantum Feature Sketches for Communication-Constrained Roadside Federated Learning</title>
 <author>Talha Azfar, Ruimin Ke</author>
 <link>https://arxiv.org/abs/2607.28799</link>
@@ -454,7 +454,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28719</guid>
-<pubDate>Mon, 03 Aug 2026 11:46:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:02:18 GMT</pubDate>
 <title>[0★] Anomalous Boundary Modes in a Floquet Hyperbolic System</title>
 <author>Ali Fahimniya, ..., Alicia J. Kollár, Alexey V. Gorshkov</author>
 <link>https://arxiv.org/abs/2607.28719</link>
@@ -462,7 +462,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28724</guid>
-<pubDate>Mon, 03 Aug 2026 11:45:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:01:18 GMT</pubDate>
 <title>[0★] Hadron Structure from the Hierarchy of Quantum Correlations in Deep-Inelastic Scattering</title>
 <author>Henry Bloss, TJ Hobbs, Navin McGinnis</author>
 <link>https://arxiv.org/abs/2607.28724</link>
@@ -470,7 +470,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.28702</guid>
-<pubDate>Mon, 03 Aug 2026 11:44:16 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:00:18 GMT</pubDate>
 <title>[0★] Experimental Demonstration of a Measurement-Feedback Quantum Information Engine</title>
 <author>Jinfeng Wei, ..., Leilei Yan, Gang Chen</author>
 <link>https://arxiv.org/abs/2607.28702</link>
