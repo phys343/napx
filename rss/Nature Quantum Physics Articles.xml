@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Nature Quantum Physics Articles</title>
-<link>https://www.nature.com</link>
-<description>rss/Nature Quantum Physics Articles.xml</description>
+<link>https://www.nature.com/search?q=%22quantum+simulation%22+OR+%22quantum+simulator%22+OR+%22quantum+simulating%22+OR+%22quantum+computation%22+OR+%22quantum+computer%22+OR+%22quantum+computing%22+OR+%22quantum+information%22+OR+%22quantum+metrology%22+OR+%22quantum+error+correction%22+OR+%22quantum+entanglement%22+OR+%22quantum+algorithm%22+OR+%22quantum+circuit%22+OR+%22quantum+gate%22+OR+%22quantum+bit%22+OR+%22superconducting+qubit%22+OR+%22trapped+ion%22+OR+%22neutral+atom+quantum+computing%22+OR+%22photonic+quantum+computing%22+OR+%22quantum+cryptography%22+OR+%22quantum+key+distribution%22+OR+%22quantum+communication%22+OR+%22quantum+teleportation%22+OR+%22quantum+repeater%22+OR+%22quantum+sensing%22+OR+%22quantum+advantage%22+OR+%22quantum+machine+learning%22+OR+%22quantum-enhanced%22+OR+%22quantum+memory%22+OR+%22quantum+network%22++OR+%22quantum+superposition%22+OR+%22quantum+interference%22+OR+%22quantum+measurement%22++OR+%22Bell+inequality%22++OR+%22quantum+non-locality%22++OR+%22variational+quantum%22+OR+%22quantum+fault+tolerance%22+OR++%22topological+quantum%22+OR+%22Shor%27s+algorithm%22+OR+%22quantum+supremacy%22+OR+%22quantum+coherence%22+&amp;journal=nphys%2C+nature%2C+nphoton&amp;order=date_desc</link>
+<description>Nature Quantum Physics Articles</description>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01962-8</guid>
-<pubDate>Thu, 30 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
 <title>Extensible universal photonic quantum computing with nonlinearity</title>
 <author>Shang YuJinzhao SunRaj B. Patel</author>
 <link>https://www.nature.com/articles/s41566-026-01962-8</link>
@@ -14,7 +14,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01960-w</guid>
-<pubDate>Thu, 30 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
 <title>Breaking the power wall in programmable photonics</title>
 <author>Hanke FengCheng Wang</author>
 <link>https://www.nature.com/articles/s41566-026-01960-w</link>
@@ -22,15 +22,14 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03321-4</guid>
-<pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 <title>Long-lived phonons from resonators with reduced surface interactions</title>
-<author>N/A</author>
 <link>https://www.nature.com/articles/s41567-026-03321-4</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03321-4/MediaObjects/41567_2026_3321_Fig1_HTML.png"><p></p><p>Using Brillouin-based phonon spectroscopy, surface interactions have been identified as the dominant source of phonon decoherence in crystalline media. When these interactions are reduced through chemical mechanical polishing, high-frequency bulk acoustic wave oscillators can be realized with record Q-factors and coherence times, suitable for use as long-lived solid-state quantum memories.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03384-3</guid>
-<pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 <title>Rotation through sound</title>
 <author>Franklin J. Vivanco</author>
 <link>https://www.nature.com/articles/s41567-026-03384-3</link>
@@ -38,7 +37,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02420-9</guid>
-<pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 <title>Daily briefing: ‘Raygun’ AI can shrink or supersize proteins</title>
 <author>Jacob Smith</author>
 <link>https://www.nature.com/articles/d41586-026-02420-9</link>
@@ -46,7 +45,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02124-0</guid>
-<pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
 <title>How silicon-chip technology is being re-engineered for quantum computing</title>
 <author>Natalia Ares</author>
 <link>https://www.nature.com/articles/d41586-026-02124-0</link>
@@ -54,7 +53,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10766-3</guid>
-<pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
 <title>Weight-four parity checks in a spin-shuttling architecture</title>
 <author>Brennan UndsethNicola MeggiatoLieven M. K. Vandersypen</author>
 <link>https://www.nature.com/articles/s41586-026-10766-3</link>
@@ -62,7 +61,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02357-z</guid>
-<pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
 <title>Underdog ‘spin qubits’ leap forward in race to a useful quantum computer</title>
 <author>Dan Garisto</author>
 <link>https://www.nature.com/articles/d41586-026-02357-z</link>
@@ -70,7 +69,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02310-0</guid>
-<pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
 <title>Quantum meets capitalism: how to pair long-term bets on technology with commercial speed</title>
 <author>Charles Tahan</author>
 <link>https://www.nature.com/articles/d41586-026-02310-0</link>
@@ -78,15 +77,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10754-7</guid>
-<pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
 <title>A digitally controlled silicon quantum processing unit</title>
 <author>Michael AbrahamEdwin AcunaAndrew Ziegler</author>
 <link>https://www.nature.com/articles/s41586-026-10754-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10754-7/MediaObjects/41586_2026_10754_Fig1_HTML.png"><p></p><p>A silicon quantum processing unit executes high-fidelity multiqubit circuits, with all time-varying control signals generated by a digitally programmed cryogenic complementary metal–oxide–semiconductor controller and delivered to the low-noise, exchange-only qubit device through a high-density superconducting ribbon cable.</p><p></p><p>Michael AbrahamEdwin AcunaAndrew Ziegler</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10754-7/MediaObjects/41586_2026_10754_Fig1_HTML.png"><p></p><p>A silicon quantum processing unit executes high-fidelity multiqubit circuits, with all time-varying control signals generated by a digitally programmed cryogenic complementary metal–oxide–semiconductor controller and delivered to the low-noise, exchange-only qubit device through a high-density superconducting ribbon cable.</p><p></p><p>Michael AbrahamEdwin AcunaAndrew Ziegler</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10845-5</guid>
-<pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
 <title>The piezochiral effect</title>
 <author>Z. ZengM. FörstP. G. Radaelli</author>
 <link>https://www.nature.com/articles/s41586-026-10845-5</link>
@@ -94,7 +93,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10834-8</guid>
-<pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
 <title>Enzymatic glycosylation and amidation reshapes polyene bioactivity</title>
 <author>Saadia N. MirzaAlberto CarellaJason Micklefield</author>
 <link>https://www.nature.com/articles/s41586-026-10834-8</link>
@@ -102,7 +101,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02311-z</guid>
-<pubDate>Mon, 27 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
 <title>All living things emit a faint glow. Could this light be useful?</title>
 <author>Jo Marchant</author>
 <link>https://www.nature.com/articles/d41586-026-02311-z</link>
@@ -110,7 +109,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03381-6</guid>
-<pubDate>Sun, 26 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
 <title>Topological phase transitions and mixed-state order in a Hubbard quantum simulator</title>
 <author>Lin SuRahul SahayMarkus Greiner</author>
 <link>https://www.nature.com/articles/s41567-026-03381-6</link>
@@ -118,7 +117,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02307-9</guid>
-<pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 <title>Daily briefing: Orcas smash sunfish to smithereens</title>
 <author>Jacob Smith</author>
 <link>https://www.nature.com/articles/d41586-026-02307-9</link>
@@ -126,15 +125,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01973-5</guid>
-<pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 <title>Manipulating spin dynamics via exciton–exciton interactions for bright spin light-emitting diodes</title>
 <author>Qi LiuYanlong WangShaocong Hou</author>
 <link>https://www.nature.com/articles/s41566-026-01973-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01973-5/MediaObjects/41566_2026_1973_Fig1_HTML.png"><p></p><p>Modulating exciton–exciton interactions in hybrid chiral metal halide heterostructures suppresses spin relaxation, enabling spin light-emitting diodes that directly emit circularly polarized light with a dissymmetry factor of 0.2 and a half-lifetime of 5,000 h at an initial luminance of 100 cd m−2.</p><p></p><p>Qi LiuYanlong WangShaocong Hou</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01973-5/MediaObjects/41566_2026_1973_Fig1_HTML.png"><p></p><p>Modulating exciton–exciton interactions in hybrid chiral metal halide heterostructures suppresses spin relaxation, enabling spin light-emitting diodes that directly emit circularly polarized light with a dissymmetry factor of 0.2 and a half-lifetime of 5,000 h at an initial luminance of 100 cd m−2.</p><p></p><p>Qi LiuYanlong WangShaocong Hou</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02219-8</guid>
-<pubDate>Tue, 21 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 <title>How do quantum computers work?</title>
 <author>Dan FoxDavide Castelvecchi</author>
 <link>https://www.nature.com/articles/d41586-026-02219-8</link>
@@ -142,15 +141,14 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03361-w</guid>
-<pubDate>Tue, 21 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 <title>Capturing the first moments after high-energy molecular impact</title>
-<author>N/A</author>
 <link>https://www.nature.com/articles/s41567-026-03361-w</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03361-w/MediaObjects/41567_2026_3361_Fig1_HTML.png"><p></p><p>When high-energy particles, such as photons, electrons or ions, collide with a molecule, the collision kicks off processes that occur within the first femtoseconds after impact. Quantum mechanical motion of electrons bound to the molecule, which ultimately breaks chemical bonds, has now been captured using an attosecond X-ray free-electron laser.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10811-1</guid>
-<pubDate>Tue, 21 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 <title>Non-Gaussian statistics of the order parameter across a phase transition</title>
 <author>Maxime AllemandGéraud DupuyDavid Clément</author>
 <link>https://www.nature.com/articles/s41586-026-10811-1</link>
@@ -158,7 +156,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10802-2</guid>
-<pubDate>Tue, 21 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 <title>Semiconducting and magnetic lanthanide MXenes from intercalated halides</title>
 <author>Qian FangLiming WangQing Huang</author>
 <link>https://www.nature.com/articles/s41586-026-10802-2</link>
@@ -166,7 +164,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01959-3</guid>
-<pubDate>Sun, 19 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
 <title>Beyond quantum linear optics with adaptive boson sampling</title>
 <author>Giovanni RodariTommaso FrancalanciFabio Sciarrino</author>
 <link>https://www.nature.com/articles/s41566-026-01959-3</link>
@@ -174,7 +172,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10709-y</guid>
-<pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
 <title>Universal gates from braiding and fusing anyons on quantum hardware</title>
 <author>Chiu Fan Bowen LoAnasuya LyonsMohsin Iqbal</author>
 <link>https://www.nature.com/articles/s41586-026-10709-y</link>
@@ -182,7 +180,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03369-2</guid>
-<pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
 <title>All-mechanical coherence protection and fast control of a spin qubit</title>
 <author>Eliza CornellZhujing XuMarko Lončar</author>
 <link>https://www.nature.com/articles/s41567-026-03369-2</link>
@@ -190,7 +188,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10782-3</guid>
-<pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
 <title>Quantum statistical plasmonic metacrystals</title>
 <author>Chenglong YouRiley B. DawkinsOmar S. Magaña-Loaiza</author>
 <link>https://www.nature.com/articles/s41586-026-10782-3</link>
@@ -198,7 +196,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02038-x</guid>
-<pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
 <title>Optical filter sorts light by its ‘quantum statistics’</title>
 <author>Sebastian Golat</author>
 <link>https://www.nature.com/articles/d41586-026-02038-x</link>
@@ -206,7 +204,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10746-7</guid>
-<pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
 <title>Catalyst-free, microdroplet-mediated waste plastic conversion to diacids</title>
 <author>Ruiliang GaoLiwei ZhangYong Wang</author>
 <link>https://www.nature.com/articles/s41586-026-10746-7</link>
@@ -214,7 +212,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10801-3</guid>
-<pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
 <title>Ammonia pressure controls colloidal metal nitride synthesis in molten salts</title>
 <author>Ruiming LinVikash KhokharDmitri V. Talapin</author>
 <link>https://www.nature.com/articles/s41586-026-10801-3</link>
@@ -222,7 +220,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03315-2</guid>
-<pubDate>Sun, 12 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 <title>Error correction of a logical qubit encoded in a single atomic ion</title>
 <author>Kyle DeBryNadine MeisterJohn Chiaverini</author>
 <link>https://www.nature.com/articles/s41567-026-03315-2</link>
@@ -230,7 +228,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03373-6</guid>
-<pubDate>Sun, 12 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
 <title>Emergence of phase coherence in a magnon Bose–Einstein condensate</title>
 <author>Malte KosterMatthias R. SchweizerGeorg von Freymann</author>
 <link>https://www.nature.com/articles/s41567-026-03373-6</link>
@@ -238,7 +236,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03370-9</guid>
-<pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>Principles of optics in Fock space for the scalable manipulation of large quantum states</title>
 <author>Yifang XuYilong ZhouLuyan Sun</author>
 <link>https://www.nature.com/articles/s41567-026-03370-9</link>
@@ -246,7 +244,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01961-9</guid>
-<pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>Hybrid nanophotonic trap for cold atoms using surface forces and a blue-detuned evanescent field</title>
 <author>Riccardo PennettaAntoine GlicensteinArno Rauschenbeutel</author>
 <link>https://www.nature.com/articles/s41566-026-01961-9</link>
@@ -254,7 +252,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03314-3</guid>
-<pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>Millisecond coherence times in gigahertz-frequency mechanical oscillators</title>
 <author>Yizhi LuoHilel Hagai DiamandiPeter T. Rakich</author>
 <link>https://www.nature.com/articles/s41567-026-03314-3</link>
@@ -262,7 +260,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03362-9</guid>
-<pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>Bose–Einstein condensate of ultracold sodium–rubidium molecules with tunable dipolar interactions</title>
 <author>Zhaopeng ShiZerong HuangDajun Wang</author>
 <link>https://www.nature.com/articles/s41567-026-03362-9</link>
@@ -270,7 +268,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03316-1</guid>
-<pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>Emergence of Fermi’s golden rule in a quantum many-body system</title>
 <author>Jianyi ChenSongtao HuangNir Navon</author>
 <link>https://www.nature.com/articles/s41567-026-03316-1</link>
@@ -278,7 +276,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10759-2</guid>
-<pubDate>Tue, 07 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
 <title>Reinforcement learning control of quantum error correction</title>
 <author>Volodymyr SivakAlexis MorvanPaul V. Klimov</author>
 <link>https://www.nature.com/articles/s41586-026-10759-2</link>
@@ -286,7 +284,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10882-0</guid>
-<pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
 <title>Publisher Correction: A 98-qubit trapped-ion quantum computer with all-to-all connectivity</title>
 <author>Anthony RansfordM. S. AllmanJustin G. Bohnet</author>
 <link>https://www.nature.com/articles/s41586-026-10882-0</link>
@@ -294,7 +292,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03375-4</guid>
-<pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
 <title>Visualization of the Zhang–Rice singlet, electronic molecules and Cooper pair formation in a cuprate superconductor</title>
 <author>Shusen YeJianfa ZhaoYayu Wang</author>
 <link>https://www.nature.com/articles/s41567-026-03375-4</link>
@@ -302,7 +300,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03344-x</guid>
-<pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
 <title>Topological textures in polar materials</title>
 <author>Zijian HongYu-Tsun ShaoSujit Das</author>
 <link>https://www.nature.com/articles/s41567-026-03344-x</link>
@@ -310,7 +308,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03366-5</guid>
-<pubDate>Sun, 05 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
 <title>When atoms tunnel as one</title>
 <author>Simon Haine</author>
 <link>https://www.nature.com/articles/s41567-026-03366-5</link>
@@ -318,7 +316,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03337-w</guid>
-<pubDate>Sun, 05 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
 <title>Altermagnetic spintronics</title>
 <author>T. JungwirthJ. SinovaL. Šmejkal</author>
 <link>https://www.nature.com/articles/s41567-026-03337-w</link>
@@ -326,7 +324,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03357-6</guid>
-<pubDate>Thu, 02 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
 <title>Fast thermalization with quantum algorithms</title>
 <author>Anirban Chowdhury</author>
 <link>https://www.nature.com/articles/s41567-026-03357-6</link>
@@ -334,7 +332,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01952-w</guid>
-<pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
 <title>Organic cocrystals offer record photothermal conversion</title>
 <author>Rong-Ran LiangXin Zhao</author>
 <link>https://www.nature.com/articles/s41566-026-01952-w</link>
@@ -342,7 +340,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-01773-5</guid>
-<pubDate>Wed, 01 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
 <title>Can you actually do a nine-to-five PhD? Nature readers weigh in</title>
 <author>Laura Woodrow</author>
 <link>https://www.nature.com/articles/d41586-026-01773-5</link>
@@ -350,7 +348,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03364-7</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 <title>Tangled up in spin</title>
 <author>Meigan Aronson</author>
 <link>https://www.nature.com/articles/s41567-026-03364-7</link>
@@ -358,15 +356,14 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02001-w</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 <title>Nanodiamonds made from tiny graphene triangles</title>
-<author>N/A</author>
 <link>https://www.nature.com/articles/d41586-026-02001-w</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-02001-w/d41586-026-02001-w_52839306.jpg"><p></p><p>Nanodiamonds can host atom-sized light emitters for quantum sensing and imaging, but making nanodiamonds that are small, crystalline and uniform has been difficult. A single-step process for making nanodiamonds only 3–4 nanometres in size uses planar carbon ‘nanographene’ molecules with hydrogen atoms on the edges, and can be adapted to generate fluorescent nanodiamonds.</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10720-3</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 <title>Backreaction of stimulated Hawking radiation in an optical analogue</title>
 <author>Lorenzo M. ProcopioRaul Aguero-SantacruzUlf Leonhardt</author>
 <link>https://www.nature.com/articles/s41586-026-10720-3</link>
@@ -374,15 +371,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10714-1</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 <title>Tin perovskite transistors stabilized through volatile coordination</title>
 <author>Geonwoong ParkDong Hyeon LeeYong-Young Noh</author>
 <link>https://www.nature.com/articles/s41586-026-10714-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10714-1/MediaObjects/41586_2026_10714_Fig1_HTML.png"><p></p><p>A volatile-assisted coordination strategy regulates surface defect chemistry and self-doping, thus stabilizing the stoichiometry of tin perovskite semiconductors, resulting in transistors that can maintain stable operation for a month at temperatures of 100 °C.</p><p></p><p>Geonwoong ParkDong Hyeon LeeYong-Young Noh</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10714-1/MediaObjects/41586_2026_10714_Fig1_HTML.png"><p></p><p>A volatile-assisted coordination strategy regulates surface defect chemistry and self-doping, thus stabilizing the stoichiometry of tin perovskite semiconductors, resulting in transistors that can maintain stable operation for a month at temperatures of 100 °C.</p><p></p><p>Geonwoong ParkDong Hyeon LeeYong-Young Noh</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03353-w</guid>
-<pubDate>Sun, 28 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
 <title>Exchange-mediated spin–electric control of single molecules on surfaces</title>
 <author>Paul GreuleWantong HuangPhilip Willke</author>
 <link>https://www.nature.com/articles/s41567-026-03353-w</link>
@@ -390,7 +387,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10815-x</guid>
-<pubDate>Sun, 28 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
 <title>Family of magnetic field-boosted superconductors in rhombohedral graphene</title>
 <author>Junseok SeoArmel A. CottenLong Ju</author>
 <link>https://www.nature.com/articles/s41586-026-10815-x</link>
@@ -398,7 +395,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02023-4</guid>
-<pubDate>Sun, 28 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
 <title>Trump has big AI and quantum ambitions: this scientist’s job is to make them reality</title>
 <author>Elizabeth Gibney</author>
 <link>https://www.nature.com/articles/d41586-026-02023-4</link>
