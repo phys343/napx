@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Pan arXiv Articles</title>
-<link>https://arxiv.org</link>
-<description>rss/Pan arXiv Articles.xml</description>
+<link>https://arxiv.org/search/?searchtype=author&amp;query=Pan%2C+Jian-Wei</link>
+<description>Pan arXiv Articles</description>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.08418</guid>
-<pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>Efficient photo-ionizing elimination of detrimental electric fields for Rydberg atoms</title>
 <author>Zhou-Chen Deng, Hao-Nan Lin, Yu-Cheng Duan, Qi Zhang, Xiang-Can Cheng, Yang Liu, Zhao-Yang Yuan, Jie Li, Peng Liu, Zhan Wu, Chao-Yang Lu, Jun Rui, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2607.08418</link>
@@ -14,7 +14,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.01473</guid>
-<pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
 <title>Surface code logical operations on a superconducting quantum processor</title>
 <author>Weiping Lin, Shaojun Guo, Yuwei Ma, Zhengzhong Yi, Kai Zhang, Jiahao Bei, Jianbin Cai, Sirui Cao, Danning Chen, Guoben Chen, Jianguo Chen, Kefu Chen, Xiawei Chen, Zhe Chen, Zhiyuan Chen, Zihua Chen, Wenhao Chu, Hui Deng, Xun Ding, Zhuzhengqi Ding, Yajie Du, Bo Fan, Daojin Fan, Yuanhao Fu, Dongxin Gao , et al. (122 additional authors not shown)</author>
 <link>https://arxiv.org/abs/2607.01473</link>
@@ -22,7 +22,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2606.22594</guid>
-<pubDate>Sat, 20 Jun 2026 16:00:00 GMT</pubDate>
+<pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
 <title>Hierarchical Logical Processor on the Rotated Surface Code with Shuttle Buses</title>
 <author>Zi-Han Chen, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2606.22594</link>
@@ -30,7 +30,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2605.28038</guid>
-<pubDate>Tue, 26 May 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
 <title>Squeezed-slit Bohr-Einstein Interferometer</title>
 <author>Hao-Wen Cheng, Xu-Zhao-Qiu Zeng, Yu-Chen Zhang, Yu-Hao Deng, Zhan Wu, Rui Lin, Yu-Cheng Duan, Zi-Han Chen, Jun Rui, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2605.28038</link>
@@ -38,7 +38,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2605.24617</guid>
-<pubDate>Fri, 22 May 2026 16:00:00 GMT</pubDate>
+<pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
 <title>Transformer refined quantum sampling for strongly correlated electronic structure</title>
 <author>Xiongzhi Zeng, Ming Gong, Bowen Kan, Yi Fan, Huan Ma, Jianbin Cai, Yancheng Liu, Naibin Zhou, Tao Jiang, Shaojun Guo, Zhijie Fan, Zongkang Zhang, Yuan Li, Sirui Cao, Kai Yan, Xiaobo Zhu, Yi Luo, Honghui Shang, Zhenyu Li, Jian-Wei Pan, Jinlong Yang</author>
 <link>https://arxiv.org/abs/2605.24617</link>
@@ -46,7 +46,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2604.21388</guid>
-<pubDate>Wed, 22 Apr 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
 <title>Bayesian Phase Stabilization at the Shot-Noise Limit for Scalable Quantum Networks</title>
 <author>Guang-Cheng Liu, Chao-Hui Xue, Fa-Xi Chen, Ming-Yang Zheng, Yi Yang, Li-Bo Li, Bin Wang, Bo-Wen Yang, Hai-Feng Jiang, Yong Wan, Ye Wang, Jiu-Peng Chen, Qiang Zhang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2604.21388</link>
@@ -54,7 +54,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2604.18072</guid>
-<pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>Preparation of quasi-two-dimensional Bose mixture of ultracold $^{23}$Na and $^{87}$Rb atoms</title>
 <author>Ji-Kai Liao, Hao-Ran Zhang, Xiao-Rong Yu, Ya-Qun Qi, Yi-Cheng Guo, Bo Zhao, Jun Rui, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2604.18072</link>
@@ -62,7 +62,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2604.00431</guid>
-<pubDate>Mon, 30 Mar 2026 16:00:00 GMT</pubDate>
+<pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
 <title>1-Mbps Twin-Field Quantum Key Distribution over 200 km Using Independent Dissipative Kerr Solitons</title>
 <author>Hao Dong, Tian-Jiao Zhang, Yan-Wei Chen, Wei Sun, Cong Jiang, Sanli Huang, Shuyi Li, Di Ma, Xiang-Bin Wang, Yang Liu, Junqiu Liu, Qiang Zhang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2604.00431</link>
@@ -70,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2603.01745</guid>
-<pubDate>Sun, 01 Mar 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
 <title>High-Performance Quantum Frequency Conversion from Ultraviolet to Telecom Band</title>
 <author>Yi Yang, Bin Wang, Ji-Chao Lin, Yang Gao, Xin Li, Jiu-Peng Chen, Lei Hou, Ye Wang, Yong Wan, Xiu-Ping Xie, Ming-Yang Zheng, Qiang Zhang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2603.01745</link>
@@ -78,7 +78,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2603.01612</guid>
-<pubDate>Sun, 01 Mar 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
 <title>Sustaining high-fidelity quantum logic in neutral-atom circuits via mid-circuit operations</title>
 <author>Rui Lin, You Li, Le-Tian Zheng, Tai-Ran Hu, Si-Yuan Chen, Hong-Ming Wu, Yu-Chen Zhang, Hao-Wen Cheng, Yu-Hao Deng, Zhan Wu, Ming-Cheng Chen, Jun Rui, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2603.01612</link>
@@ -86,7 +86,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2602.09596</guid>
-<pubDate>Mon, 09 Feb 2026 16:00:00 GMT</pubDate>
+<pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
 <title>Device-independent quantum key distribution over 100 km with single atoms</title>
 <author>Bo-Wei Lu, Chao-Wei Yang, Run-Qi Wang, Bo-Feng Gao, Yi-Zheng Zhen, Zhen-Gang Wang, Jia-Kai Shi, Zhong-Qi Ren, Thomas A. Hahn, Ernest Y. -Z. Tan, Xiu-Ping Xie, Ming-Yang Zheng, Xiao Jiang, Jun Zhang, Feihu Xu, Qiang Zhang, Xiao-Hui Bao, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2602.09596</link>
@@ -94,7 +94,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2602.08472</guid>
-<pubDate>Sun, 08 Feb 2026 16:00:00 GMT</pubDate>
+<pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
 <title>A building block of quantum repeaters for scalable quantum networks</title>
 <author>Wen-Zhao Liu, Ya-Bin Zhou, Jiu-Peng Chen, Bin Wang, Ao Teng, Xiao-Wen Han, Guang-Cheng Liu, Zhi-Jiong Zhang, Yi Yang, Feng-Guang Liu, ChaoHui Xue, Bo-Wen Yang, Jin Yang, Chao Zeng, Du-Ruo Pan, Ming-Yang Zheng, Xing-Jian Zhang, Cao Shen, Yi-Zheng Zhen, You Xiao, Hao Li, Li-Xing You, XiongFeng Ma, Qi Zhao, Feihu Xu , et al. (4 additional authors not shown)</author>
 <link>https://arxiv.org/abs/2602.08472</link>
@@ -102,7 +102,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2601.17819</guid>
-<pubDate>Sat, 24 Jan 2026 16:00:00 GMT</pubDate>
+<pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
 <title>Experimental Phase-Matching Quantum Cryptographic Conferencing in Symmetric and Asymmetric Fiber Channels</title>
 <author>Mi Zou, Bin-Chen Li, Shuai Zhao, Yingqiu Mao, Dandan Qin, Xiao Jiang, Teng-Yun Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2601.17819</link>
@@ -110,7 +110,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2511.22898</guid>
-<pubDate>Thu, 27 Nov 2025 16:00:00 GMT</pubDate>
+<pubDate>Fri, 28 Nov 2025 00:00:00 GMT</pubDate>
 <title>Algorithmic Quantum Simulations of Quantum Thermodynamics</title>
 <author>Yangsen Ye, Jue Nan, Dong Chen, Torsten V. Zache, Qingling Zhu, Yiming Zhang, Yuan Li, Xiawei Chen, Chong Ying, Chen Zha, Sirui Cao, Shaowei Li, Shaojun Guo, Haoran Qian, Hao Rong, Yulin Wu, Kai Yan, Feifan Su, Hui Deng, Yu Xu, Jin Lin, Ming Gong, Fusheng Chen, Gang Wu, Yong-Heng Huo , et al. (5 additional authors not shown)</author>
 <link>https://arxiv.org/abs/2511.22898</link>
@@ -118,7 +118,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2511.10988</guid>
-<pubDate>Thu, 13 Nov 2025 16:00:00 GMT</pubDate>
+<pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
 <title>Memory-Assisted Nonlocal Interferometer Towards Long-Baseline Telescopes</title>
 <author>Bin Wang, Xi-Yu Luo, Bo-Feng Gao, Jian-Long Liu, Chao-Yang Wang, Zi Yan, Qiao-Mu Ke, Da Teng, Ming-Yang Zheng, Yuan Cao, Jun Li, Cheng-Zhi Peng, Qiang Zhang, Xiao-Hui Bao, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2511.10988</link>
@@ -126,7 +126,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2511.08951</guid>
-<pubDate>Mon, 10 Nov 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
 <title>Unconditional quantum teleportational advantage of single photons</title>
 <author>Li-Chao Peng, Dian Wu, Xue-Mei Gu, Jian Qin, Ke-Mi Xu, Han-Sen Zhong, Hui Wang, Yu-Ming He, Ming-Chen Chen, Li Li, Nai-Le Liu, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2511.08951</link>
@@ -134,7 +134,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2511.06772</guid>
-<pubDate>Sun, 09 Nov 2025 16:00:00 GMT</pubDate>
+<pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
 <title>Broad Feshbach resonance with a large background scattering length in a fermionic atom-molecule mixture</title>
 <author>Zhen Su, Tong-Hui Shou, Huan Yang, Jin Cao, Bo-Yuan Wang, Ting Xie, Jun Rui, Bo Zhao, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2511.06772</link>
@@ -142,7 +142,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2510.27534</guid>
-<pubDate>Thu, 30 Oct 2025 16:00:00 GMT</pubDate>
+<pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
 <title>Experimental Quantum Channel Purification</title>
 <author>Yue-Yang Fei, Zhenhuan Liu, Rui Zhang, Zhenyu Cai, Xu-Fei Yin, Yingqiu Mao, Li Li, Nai-Le Liu, Yu-Ao Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2510.27534</link>
@@ -150,7 +150,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2510.26290</guid>
-<pubDate>Wed, 29 Oct 2025 16:00:00 GMT</pubDate>
+<pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
 <title>Entanglement Superactivation in Multiphoton Distillation Networks</title>
 <author>Rui Zhang, Yue-Yang Fei, Zhenhuan Liu, Xingjian Zhang, Xu-Fei Yin, Yingqiu Mao, Li Li, Nai-Le Liu, Otfried Gühne, Xiongfeng Ma, Yu-Ao Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2510.26290</link>
@@ -158,7 +158,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.15100</guid>
-<pubDate>Wed, 17 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Thu, 18 Sep 2025 00:00:00 GMT</pubDate>
 <title>A zero-dead-time strontium lattice clock with a stability at $10^{-19}$ level</title>
 <author>Xiao-Yong Liu, Peng Liu, Jie Li, Yu-Chen Zhang, Yuan-Bo Wang, Zhi-Peng Jia, Xiang Zhang, Xian-Qing Zhu, De-Quan Kong, Wen-Lan Song, Guo-Zhen Niu, Yu-Meng Yang, Pei-Jun Feng, Xiang-Pei Liu, Xing-Yang Cui, Ping Xu, Xiao Jiang, Juan Yin, Sheng-Kai Liao, Cheng-Zhi Peng, Han-Ning Dai, Yu-Ao Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2509.15100</link>
@@ -166,7 +166,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.13991</guid>
-<pubDate>Tue, 16 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
 <title>Improved systematic evaluation of a strontium optical clock with uncertainty below $1\times 10^{-18}$</title>
 <author>Zhi-Peng Jia, Jie Li, De-Quan Kong, Xiang Zhang, Hai-Wei Yu, Xiao-Yong Liu, Yu-Chen Zhang, Yuan-Bo Wang, Xian-Qing Zhu, Jia-Hao Zhang, Ming-Yi Zhu, Pei-Jun Feng, Xing-Yang Cui, Ping Xu, Xiao Jiang, Xiang-Pei Liu, Peng Liu, Han-Ning Dai, Yu-Ao Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2509.13991</link>
@@ -174,7 +174,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.13105</guid>
-<pubDate>Mon, 15 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
 <title>Real-time vacuum-state quantum random number generator on a chip</title>
 <author>Guan-Ru Qiao, Bing Bai, Zi-Xuan Weng, Han-Shen Chen, Wei Zheng, Zhi-Yuan Zheng, You-Qi Nie, Jun Zhang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2509.13105</link>
@@ -182,7 +182,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.11609</guid>
-<pubDate>Sun, 14 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
 <title>Directly observing relativistic Bohmian mechanics</title>
 <author>Yun-Fei Wang, Hui Wang, Tong Zhang, Yi-Teng Ye, Xiao-Yu Wang, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2509.11609</link>
@@ -190,7 +190,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.10797</guid>
-<pubDate>Thu, 18 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
 <title>An Orbit-qubit Quantum Processor of Ultracold Atoms</title>
 <author>Ming-Gen He, Wei-Yong Zhang, Zhen-Sheng Yuan, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2509.10797</link>
@@ -198,7 +198,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.05774</guid>
-<pubDate>Fri, 05 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Sat, 06 Sep 2025 00:00:00 GMT</pubDate>
 <title>Measuring the Chern-Simons invariant in quantum gases</title>
 <author>Chang-Rui Yi, Jinlong Yu, Huan Yuan, Xin Chen, Jia-Yu Guo, Jinyi Zhang, Shuai Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2509.05774</link>
@@ -206,7 +206,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2509.03869</guid>
-<pubDate>Wed, 03 Sep 2025 16:00:00 GMT</pubDate>
+<pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
 <title>Electrically pumped ultra-efficient quantum frequency conversion on thin film lithium niobate chip</title>
 <author>Xina Wang, Xu-Feng Jiao, Bo Cao, Yang Liu, Xiu-Ping Xie, Ming-Yang Zheng, Qiang Zhang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2509.03869</link>
@@ -214,7 +214,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2508.21479</guid>
-<pubDate>Thu, 28 Aug 2025 16:00:00 GMT</pubDate>
+<pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate>
 <title>Realization of an untrusted intermediate relay architecture using a quantum dot single-photon source</title>
 <author>Mi Zou, Yu-Ming He, Yizhi Huang, Jun-Yi Zhao, Bin-Chen Li, Yong-Peng Guo, Xing Ding, Mo-Chi Xu, Run-Ze Liu, Geng-Yan Zou, Zhen Ning, Xiang You, Hui Wang, Wen-Xin Pan, Hao-Tao Zhu, Ming-Yang Zheng, Xiu-Ping Xie, Dandan Qin, Xiao Jiang, Yong-Heng Huo, Qiang Zhang, Chao-Yang Lu, Xiongfeng Ma, Teng-Yun Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2508.21479</link>
@@ -222,7 +222,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2508.15136</guid>
-<pubDate>Tue, 28 Apr 2026 16:00:00 GMT</pubDate>
+<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
 <title>Wide-spectrum security of quantum key distribution</title>
 <author>Hao Tan, Mikhail Petrov, Weiyang Zhang, Liying Han, Sheng-Kai Liao, Vadim Makarov, Feihu Xu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2508.15136</link>
@@ -230,7 +230,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2508.14566</guid>
-<pubDate>Tue, 19 Aug 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
 <title>Electrically pumped ultrabright entangled photons on chip</title>
 <author>Xu-Feng Jiao, Ming-Yang Zheng, Yi-Hang Chen, Bo Cao, Xina Wang, Yang Liu, Cheng-Ao Yang, Xiu-Ping Xie, Chao-Yang Lu, Zhi-Chuan Niu, Qiang Zhang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2508.14566</link>
@@ -238,7 +238,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2508.09092</guid>
-<pubDate>Sat, 23 Aug 2025 16:00:00 GMT</pubDate>
+<pubDate>Sun, 24 Aug 2025 00:00:00 GMT</pubDate>
 <title>Robust quantum computational advantage with programmable 3050-photon Gaussian boson sampling</title>
 <author>Hua-Liang Liu, Hao Su, Si-Qiu Gong, Yi-Chao Gu, Hao-Yang Tang, Meng-Hao Jia, Qian Wei, Yukun Song, Dongzhou Wang, Mingyang Zheng, Faxi Chen, Libo Li, Siyu Ren, Xuezhi Zhu, Meihong Wang, Yaojian Chen, Yanfei Liu, Longsheng Song, Pengyu Yang, Junshi Chen, Hong An, Lei Zhang, Lin Gan, Guangwen Yang, Jia-Min Xu , et al. (12 additional authors not shown)</author>
 <link>https://arxiv.org/abs/2508.09092</link>
@@ -246,7 +246,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2507.18349</guid>
-<pubDate>Wed, 23 Jul 2025 16:00:00 GMT</pubDate>
+<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 <title>Observation of Kibble-Zurek Behavior across Topological Transitions of a Chern Band in Ultracold Atoms</title>
 <author>Huan Yuan, Chang-Rui Yi, Jia-Yu Guo, Xiang-Can Cheng, Rui-Heng Jiao, Jinyi Zhang, Shuai Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2507.18349</link>
@@ -254,7 +254,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2507.18172</guid>
-<pubDate>Wed, 23 Jul 2025 16:00:00 GMT</pubDate>
+<pubDate>Thu, 24 Jul 2025 00:00:00 GMT</pubDate>
 <title>Silicon single-photon detector achieving over 84% photon detection efficiency with flexible operation modes</title>
 <author>Dong An, Chao Yu, Ming-Yang Zheng, Anran Guo, Junsong Wang, Ruizhi Li, Huaping Ma, Xiu-Ping Xie, Xiao-Hui Bao, Qiang Zhang, Jun Zhang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2507.18172</link>
@@ -262,7 +262,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2507.14868</guid>
-<pubDate>Sat, 19 Jul 2025 16:00:00 GMT</pubDate>
+<pubDate>Sun, 20 Jul 2025 00:00:00 GMT</pubDate>
 <title>Interference and short-range correlation in fermionic Hubbard gases</title>
 <author>Yan-Song Zhu, Hou-Ji Shao, Yu-Xuan Wang, De-Zhi Zhu, Hao-Nan Sun, Si-Yuan Chen, Chi Zhang, Xing-Can Yao, Yu-Ao Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2507.14868</link>
@@ -270,7 +270,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2507.14192</guid>
-<pubDate>Sun, 13 Jul 2025 16:00:00 GMT</pubDate>
+<pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
 <title>E-21 Level Instability Frequency Dissemination over 2067 km noisy Telecommunication Infrastructure</title>
 <author>Fa-Xi Chen, Li-Bo Li, Jiu-Peng Chen, Kan Zhao, Jian-Yu Guan, Yang Xu, Lei Hou, Fei Zhou, Cheng-Zhi Peng, Qiang Zhang, Hai-Feng Jiang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2507.14192</link>
@@ -278,7 +278,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2506.19707</guid>
-<pubDate>Mon, 23 Jun 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 24 Jun 2025 00:00:00 GMT</pubDate>
 <title>Enhanced Image Recognition Using Gaussian Boson Sampling</title>
 <author>Si-Qiu Gong, Ming-Cheng Chen, Hua-Liang Liu, Hao Su, Yi-Chao Gu, Hao-Yang Tang, Meng-Hao Jia, Yu-Hao Deng, Qian Wei, Hui Wang, Han-Sen Zhong, Xiao Jiang, Li Li, Nai-Le Liu, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2506.19707</link>
@@ -286,7 +286,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2506.08502</guid>
-<pubDate>Mon, 09 Jun 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
 <title>Topological Invariants in Nonlinear Thouless Pumping of Solitons</title>
 <author>Fei-Fei Wu, Xian-Da Zuo, Qing-Qing Zhu, Tao Yuan, Yi-Yi Mao, Chao Zeng, Yi Jiang, Yu-Ao Chen, Jian-Wei Pan, Wei Zheng, Han-Ning Dai</author>
 <link>https://arxiv.org/abs/2506.08502</link>
@@ -294,7 +294,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2505.24764</guid>
-<pubDate>Wed, 07 Jan 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
 <title>Entanglement Detection with Variational Quantum Interference: Theory and Experiment</title>
 <author>Rui Zhang, Zhenhuan Liu, Chendi Yang, Yue-Yang Fei, Xu-Fei Yin, Yingqiu Mao, Li Li, Nai-Le Liu, Yu-Ao Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2505.24764</link>
@@ -302,7 +302,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2505.22390</guid>
-<pubDate>Tue, 27 May 2025 16:00:00 GMT</pubDate>
+<pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
 <title>Calibrating quantum gates up to 52 qubits in a superconducting processor</title>
 <author>Daojin Fan, Guoding Liu, Shaowei Li, Ming Gong, Dachao Wu, Yiming Zhang, Chen Zha, Fusheng Chen, Sirui Cao, Yangsen Ye, Qingling Zhu, Chong Ying, Shaojun Guo, Haoran Qian, Yulin Wu, Hui Deng, Gang Wu, Cheng-Zhi Peng, Xiongfeng Ma, Xiaobo Zhu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2505.22390</link>
@@ -310,7 +310,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2505.03131</guid>
-<pubDate>Sun, 04 May 2025 16:00:00 GMT</pubDate>
+<pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
 <title>Enhanced timing of a 113 km O-TWTFT link with digital maximum likelihood estimation process</title>
 <author>Yu-Chen Fang, Jian-Yu Guan, Qi Shen, Jin-Jian Han, Lei Hou, Meng-Zhe Lian, Yong Wang, Wei-Yue Liu, Ji-Gang Ren, Cheng-Zhi Peng, Qiang Zhang, Hai-Feng Jiang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2505.03131</link>
@@ -318,7 +318,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2505.01978</guid>
-<pubDate>Fri, 02 May 2025 16:00:00 GMT</pubDate>
+<pubDate>Sat, 03 May 2025 00:00:00 GMT</pubDate>
 <title>Generation of 95-qubit genuine entanglement and verification of symmetry-protected topological phases</title>
 <author>Tao Jiang, Jianbin Cai, Junxiang Huang, Naibin Zhou, Yukun Zhang, Jiahao Bei, Guoqing Cai, Sirui Cao, Fusheng Chen, Jiang Chen, Kefu Chen, Xiawei Chen, Xiqing Chen, Zhe Chen, Zhiyuan Chen, Zihua Chen, Wenhao Chu, Hui Deng, Zhibin Deng, Pei Ding, Xun Ding, Zhuzhengqi Ding, Shuai Dong, Bo Fan, Daojin Fan , et al. (130 additional authors not shown)</author>
 <link>https://arxiv.org/abs/2505.01978</link>
@@ -326,7 +326,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2504.19242</guid>
-<pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
+<pubDate>Sun, 27 Apr 2025 00:00:00 GMT</pubDate>
 <title>Experimental Multi-Dimensional Side-Channel-Secure Quantum Key Distribution</title>
 <author>Hao Dong, Cong Jiang, Di Ma, Chi Zhang, Jia Huang, Hao Li, Li-Xing You, Yang Liu, Xiang-Bin Wang, Qiang Zhang, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2504.19242</link>
@@ -334,7 +334,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2504.05660</guid>
-<pubDate>Mon, 07 Apr 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
 <title>Entangling quantum memories over 420 km in fiber</title>
 <author>Xi-Yu Luo, Chao-Yang Wang, Ming-Yang Zheng, Bin Wang, Jian-Long Liu, Bo-Feng Gao, Jun Li, Zi Yan, Qiao-Mu Ke, Da Teng, Rui-Chun Wang, Jun Wu, Jia Huang, Hao Li, Li-Xing You, Xiu-Ping Xie, Feihu Xu, Qiang Zhang, Xiao-Hui Bao, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2504.05660</link>
@@ -342,7 +342,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2504.05021</guid>
-<pubDate>Sun, 06 Apr 2025 16:00:00 GMT</pubDate>
+<pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
 <title>Entangling two Rydberg Superatoms via Heralded Storage</title>
 <author>Zi-Ye An, Bo-Wei Lu, Jun Li, Chao-Wei Yang, Li Li, Xiao-Hui Bao, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2504.05021</link>
@@ -350,7 +350,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2503.18657</guid>
-<pubDate>Sun, 23 Mar 2025 16:00:00 GMT</pubDate>
+<pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
 <title>Efficient Magic State Cultivation on $\mathbb{RP}^2$</title>
 <author>Zi-Han Chen, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2503.18657</link>
@@ -358,7 +358,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2503.17744</guid>
-<pubDate>Fri, 21 Mar 2025 16:00:00 GMT</pubDate>
+<pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
 <title>Free-Space Twin-Field Quantum Key Distribution</title>
 <author>Yu-Huai Li, Ting Zeng, Min-Yan Wang, Cong Jiang, Jin Lin, Hao-Bin Fu, Xin-Yang Zheng, Jiu-Peng Chen, Zeng-Sen Lin, Cheng-Lin Li, Jian-Yu Guan, Yang Li, Qi Shen, Hao Li, Lixing You, Zhen Wang, Fei Zhou, Juan Yin, Sheng-Kai Liao, Ji-Gang Ren, Xiang-Bin Wang, Yuan Cao, Qiang Zhang, Cheng-Zhi Peng, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2503.17744</link>
@@ -366,7 +366,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2503.01649</guid>
-<pubDate>Thu, 23 Apr 2026 16:00:00 GMT</pubDate>
+<pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
 <title>Locating Rydberg Decay Error in SWAP-Leakage Reduction Circuit Protocol</title>
 <author>Cheng-Cheng Yu, Yu-Hao Deng, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2503.01649</link>
@@ -374,7 +374,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2502.08104</guid>
-<pubDate>Mon, 10 Feb 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 <title>Homogeneous fermionic Hubbard gases in a flat-top optical lattice</title>
 <author>Yu-Xuan Wang, Hou-Ji Shao, Yan-Song Zhu, De-Zhi Zhu, Hao-Nan Sun, Si-Yuan Chen, Xing-Can Yao, Yu-Ao Chen, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2502.08104</link>
@@ -382,7 +382,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2502.08099</guid>
-<pubDate>Mon, 10 Feb 2025 16:00:00 GMT</pubDate>
+<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 <title>Feshbach spectroscopy of ultracold mixtures of $^{6}{\rm Li}$ and $^{164}{\rm Dy}$ atoms</title>
 <author>Ke Xie, Xi Li, Yu-Yang Zhou, Ji-Hong Luo, Shuai Wang, Yu-Zhao Nie, Hong-Chi Shen, Yu-Ao Chen, Xing-Can Yao, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2502.08099</link>
@@ -390,7 +390,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2412.18882</guid>
-<pubDate>Tue, 24 Dec 2024 16:00:00 GMT</pubDate>
+<pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
 <title>Boosted fusion gates above the percolation threshold for scalable graph-state generation</title>
 <author>Yong-Peng Guo, Geng-Yan Zou, Xing Ding, Qi-Hang Zhang, Mo-Chi Xu, Run-Ze Liu, Jun-Yi Zhao, Zhen-Xuan Ge, Li-Chao Peng, Ke-Mi Xu, Yi-Yang Lou, Zhen Ning, Lin-Jun Wang, Hui Wang, Yong-Heng Huo, Yu-Ming He, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2412.18882</link>
@@ -398,7 +398,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2412.14647</guid>
-<pubDate>Wed, 18 Dec 2024 16:00:00 GMT</pubDate>
+<pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
 <title>AI-Enabled Rapid Assembly of Thousands of Defect-Free Neutral Atom Arrays with Constant-time-overhead</title>
 <author>Rui Lin, Han-Sen Zhong, You Li, Zhang-Rui Zhao, Le-Tian Zheng, Tai-Ran Hu, Hong-Ming Wu, Zhan Wu, Wei-Jie Ma, Yan Gao, Yi-Kang Zhu, Zhao-Feng Su, Wan-Li Ouyang, Yu-Chen Zhang, Jun Rui, Ming-Cheng Chen, Chao-Yang Lu, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2412.14647</link>
