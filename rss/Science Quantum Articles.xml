@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Science Quantum Articles</title>
-<link>https://www.science.org</link>
-<description>rss/Science Quantum Articles.xml</description>
+<link>https://www.science.org/action/doSearch?AllField=quantum&amp;SeriesKey=science&amp;startPage=0&amp;sortBy=Earliest</link>
+<description>Science Quantum Articles</description>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adq7402</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 <title>Toward an exact quantum many-body treatment of Kondo correlation in magnetic impurities</title>
-<author>Tianyu Zhu</author>
+<author>Tianyu Zhu, Linqing Peng, Huanchen Zhai, Zhi-Hao Cui, Runze Chi, Garnet Kin-Lic Chan</author>
 <link>https://www.science.org/doi/10.1126/science.adq7402</link>
-<content:encoded><![CDATA[<p>The Kondo effect is a prototypical quantum phenomenon arising from the interaction between localized electrons in a magnetic impurity and itinerant electrons in a metallic host. Although this phenomenon has served as the testing ground for quantum many-...</p><p></p><p>Tianyu Zhu</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>The Kondo effect is a prototypical quantum phenomenon arising from the interaction between localized electrons in a magnetic impurity and itinerant electrons in a metallic host. Although this phenomenon has served as the testing ground for quantum many-...</p><p></p><p>Tianyu Zhu, Linqing Peng, Huanchen Zhai, Zhi-Hao Cui, Runze Chi, Garnet Kin-Lic Chan</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec6298</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 <title>Catalytic Appel fluorination of alcohols with potassium fluoride</title>
-<author>Anirban Mondal</author>
+<author>Anirban Mondal, Job J. C. Struijs, Caleb J. N. Doyle, Zijun Chen, Zian Wang, Worawit Tangamornchaipattana, Christophe Allais, Paul F. Richardson, Jared Piper, Robert S. Paton, Simon Aldridge, [...], Véronique Gouverneur, +1 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aec6298</link>
-<content:encoded><![CDATA[<p>Appel halogenation reactions are widely used to convert alcohols to alkyl halides but are not suitable to prepare alkyl fluorides because fluoride is sequestered as a difluorophosphorane. In this work, we introduce bench-stable neopentoxyphosphonium ...</p><p></p><p>Anirban Mondal</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Appel halogenation reactions are widely used to convert alcohols to alkyl halides but are not suitable to prepare alkyl fluorides because fluoride is sequestered as a difluorophosphorane. In this work, we introduce bench-stable neopentoxyphosphonium ...</p><p></p><p>Anirban Mondal, Job J. C. Struijs, Caleb J. N. Doyle, Zijun Chen, Zian Wang, Worawit Tangamornchaipattana, Christophe Allais, Paul F. Richardson, Jared Piper, Robert S. Paton, Simon Aldridge, [...], Véronique Gouverneur, +1 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aed8175</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 <title>n-Type polymer layers enable efficient, scalable, and thermally stable perovskite solar modules</title>
-<author>Danpeng Gao</author>
+<author>Danpeng Gao, Jie Gong, Lei Yang, Ning Wang, Bohong Chang, Liangchen Qian, Francesco Vanin, Chunlei Zhang, Zexin Yu, Shuai Li, Jianqiu Gong, [...], Zonglong Zhu, +1 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aed8175</link>
-<content:encoded><![CDATA[<p>Fullerene-based electron transport layers (ETLs) used in inverted (p-i-n) perovskite solar cells face issues regarding cost, scalability, and instability, whereas highly stable inorganic oxides feature unfavorable energy alignment and enhance hysteresis, ...</p><p></p><p>Danpeng Gao</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Fullerene-based electron transport layers (ETLs) used in inverted (p-i-n) perovskite solar cells face issues regarding cost, scalability, and instability, whereas highly stable inorganic oxides feature unfavorable energy alignment and enhance hysteresis, ...</p><p></p><p>Danpeng Gao, Jie Gong, Lei Yang, Ning Wang, Bohong Chang, Liangchen Qian, Francesco Vanin, Chunlei Zhang, Zexin Yu, Shuai Li, Jianqiu Gong, [...], Zonglong Zhu, +1 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeg1730</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
 <title>Plasma surface engineering for efficient and stable perovskite solar cells and modules</title>
-<author>Rundong Fan</author>
+<author>Rundong Fan, Yue Ma, Shuoyang Xu, Liang Cheng, Zhongyang Zhang, Yan Li, Huijun Liu, Zhaoboxun Bao, Guilin Liu, Yuetong Wu, Xinmeng Zhuang, Kailin Li, Yanrun Chen, Jackson Tze Fung Ng, BoShiun Huang, Wentao Zhou, Yu Zhang, Ying Han, Ruiyang Yin, Shaocheng Liu, Tianhao Xia, Mengqi Xiao, Xiaowei Zhan, Xiaoxu Zhao, Qi Chen, [...], Huanping Zhou, +15 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aeg1730</link>
-<content:encoded><![CDATA[<p>The instability of perovskite solar cells (PSCs) stems largely from the formation and evolution of interfacial defects associated with the soft, multicomponent perovskite lattice. We report a scalable, plasma-based passivation strategy that forms ...</p><p></p><p>Rundong Fan</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>The instability of perovskite solar cells (PSCs) stems largely from the formation and evolution of interfacial defects associated with the soft, multicomponent perovskite lattice. We report a scalable, plasma-based passivation strategy that forms ...</p><p></p><p>Rundong Fan, Yue Ma, Shuoyang Xu, Liang Cheng, Zhongyang Zhang, Yan Li, Huijun Liu, Zhaoboxun Bao, Guilin Liu, Yuetong Wu, Xinmeng Zhuang, Kailin Li, Yanrun Chen, Jackson Tze Fung Ng, BoShiun Huang, Wentao Zhou, Yu Zhang, Ying Han, Ruiyang Yin, Shaocheng Liu, Tianhao Xia, Mengqi Xiao, Xiaowei Zhan, Xiaoxu Zhao, Qi Chen, [...], Huanping Zhou, +15 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aed9202</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 <title>Step geometry–guided growth of rhombohedral graphene</title>
-<author>Mengze Zhao</author>
+<author>Mengze Zhao, Zhibin Zhang, Xin Sui, Quanlin Guo, Cheng Qian, Zaizhe Zhang, Hanbo Xiao, Jingyi Zhu, Zuo Feng, Yilong You, Tianze Dong, Xin-Zheng Li, Sheng Wang, Li Wang, Enge Wang, Feng Ding, Zhongkai Liu, Xiaobo Lu, [...], Kaihui Liu, +8 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aed9202</link>
-<content:encoded><![CDATA[<p>Rhombohedral (ABC)–stacked graphene has emerged as a platform for exploring correlated and topological physics. However, its large-scale, pure-phase synthesis has been hindered by intrinsic thermodynamic metastability and kinetic instability. In this ...</p><p></p><p>Mengze Zhao</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Rhombohedral (ABC)–stacked graphene has emerged as a platform for exploring correlated and topological physics. However, its large-scale, pure-phase synthesis has been hindered by intrinsic thermodynamic metastability and kinetic instability. In this ...</p><p></p><p>Mengze Zhao, Zhibin Zhang, Xin Sui, Quanlin Guo, Cheng Qian, Zaizhe Zhang, Hanbo Xiao, Jingyi Zhu, Zuo Feng, Yilong You, Tianze Dong, Xin-Zheng Li, Sheng Wang, Li Wang, Enge Wang, Feng Ding, Zhongkai Liu, Xiaobo Lu, [...], Kaihui Liu, +8 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej5890</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 <title>A tiny cone of reactivity</title>
 <author>Jonas Björk</author>
 <link>https://www.science.org/doi/10.1126/science.aej5890</link>
@@ -54,15 +54,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek7590</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 <title>In Science Journals</title>
-<author>Bianca Lopez</author>
+<author>Bianca Lopez, Yury Suleymanov, Keith T. Smith, Phil Szuromi, Michael A. Funk, Leslie K. Ferrarelli, Claire Olingy, Sacha Vignieri, [...], Molly Ogle, +0 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aek7590</link>
-<content:encoded><![CDATA[<p>Bianca Lopez</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Bianca Lopez, Yury Suleymanov, Keith T. Smith, Phil Szuromi, Michael A. Funk, Leslie K. Ferrarelli, Claire Olingy, Sacha Vignieri, [...], Molly Ogle, +0 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek7592</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 <title>A geologist learns AI</title>
 <author>Isaac Pope</author>
 <link>https://www.science.org/doi/10.1126/science.aek7592</link>
@@ -70,63 +70,63 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx3027</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 <title>Surface-dominant transport in Weyl semimetal NbAs nanowires for next-generation interconnects</title>
-<author>Yeryun Cheon</author>
+<author>Yeryun Cheon, Mehrdad T. Kiani, Yi-Hsin Tu, Sushant Kumar, Nghiep Khoan Duong, Jiyoung Kim, Lingcheng Kong, Quynh P. Sam, Han Wang, Satya K. Kushwaha, Nicholas Ng, Seng Huat Lee, Sam Kielar, Chen Li, Amelia Schaeffer, Jack D. Coyle, Dimitrios Koumoulis, Saif Siddique, Zhiqiang Mao, Gangtae Jin, Zhiting Tian, Ravishankar Sundararaman, Hsin Lin, Gengchiau Liang, Ching-Tzu Chen, [...], Judy J. Cha, +15 authors</author>
 <link>https://www.science.org/doi/10.1126/science.adx3027</link>
-<content:encoded><![CDATA[<p>Ongoing demands for smaller and more energy-efficient electronic devices necessitate alternative interconnect materials with lower electrical resistivity at reduced dimensions. We report the synthesis of Weyl semimetal niobium arsenide (NbAs) nanowires ...</p><p></p><p>Yeryun Cheon</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Ongoing demands for smaller and more energy-efficient electronic devices necessitate alternative interconnect materials with lower electrical resistivity at reduced dimensions. We report the synthesis of Weyl semimetal niobium arsenide (NbAs) nanowires ...</p><p></p><p>Yeryun Cheon, Mehrdad T. Kiani, Yi-Hsin Tu, Sushant Kumar, Nghiep Khoan Duong, Jiyoung Kim, Lingcheng Kong, Quynh P. Sam, Han Wang, Satya K. Kushwaha, Nicholas Ng, Seng Huat Lee, Sam Kielar, Chen Li, Amelia Schaeffer, Jack D. Coyle, Dimitrios Koumoulis, Saif Siddique, Zhiqiang Mao, Gangtae Jin, Zhiting Tian, Ravishankar Sundararaman, Hsin Lin, Gengchiau Liang, Ching-Tzu Chen, [...], Judy J. Cha, +15 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aea9413</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 <title>Production and spectroscopy of cold radioactive molecules</title>
-<author>Chandler J. Conn</author>
+<author>Chandler J. Conn, Phelan Yu, Madison I. Howard, Yuxi Yang, Chaoqun Zhang, Arian Jadbabaie, Aikaterini Gorou, Alyssa N. Gaiser, Timothy C. Steimle, Lan Cheng, [...], Nicholas R. Hutzler, +0 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aea9413</link>
-<content:encoded><![CDATA[<p>Molecules with heavy, radioactive nuclei promise extreme sensitivity to fundamental nuclear and particle physics. However, these nuclei are available in limited quantities, which challenges their use in precision measurements. Here we demonstrate the gas-...</p><p></p><p>Chandler J. Conn</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Molecules with heavy, radioactive nuclei promise extreme sensitivity to fundamental nuclear and particle physics. However, these nuclei are available in limited quantities, which challenges their use in precision measurements. Here we demonstrate the gas-...</p><p></p><p>Chandler J. Conn, Phelan Yu, Madison I. Howard, Yuxi Yang, Chaoqun Zhang, Arian Jadbabaie, Aikaterini Gorou, Alyssa N. Gaiser, Timothy C. Steimle, Lan Cheng, [...], Nicholas R. Hutzler, +0 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb0822</guid>
-<pubDate>Sun, 02 Aug 2026 18:01:04 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:59:22 GMT</pubDate>
 <title>De novo design of orthogonal far-red, orange, and green fluorophore-binding proteins for multiplexed imaging</title>
-<author>Long Tran</author>
+<author>Long Tran, Steffen Klein, David Juergens, Shajesh Sharma, Justin Decarreau, Gyu Rie Lee, Yujia Wang, Wei Chen, Asim K. Bera, Alex Kang, Jon Woods, Emily Joyce, Dionne K Vafeados, Nicole Roullier, Xinting Li, Bingxu Liu, Yang Bo, Edin Muratspahić, Tim A. Brown, Jonathan B. Grimm, Ronak Patel, Luke D. Lavis, Julia Mahamid, Linna An, [...], David Baker, +14 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aeb0822</link>
-<content:encoded><![CDATA[<p>Fluorescent proteins and small-molecule dyes offer complementary advantages for biological imaging: proteins are amenable to genetic tagging, whereas dyes provide superior brightness and photostability. To combine these strengths, we used de novo protein ...</p><p></p><p>Long Tran</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Fluorescent proteins and small-molecule dyes offer complementary advantages for biological imaging: proteins are amenable to genetic tagging, whereas dyes provide superior brightness and photostability. To combine these strengths, we used de novo protein ...</p><p></p><p>Long Tran, Steffen Klein, David Juergens, Shajesh Sharma, Justin Decarreau, Gyu Rie Lee, Yujia Wang, Wei Chen, Asim K. Bera, Alex Kang, Jon Woods, Emily Joyce, Dionne K Vafeados, Nicole Roullier, Xinting Li, Bingxu Liu, Yang Bo, Edin Muratspahić, Tim A. Brown, Jonathan B. Grimm, Ronak Patel, Luke D. Lavis, Julia Mahamid, Linna An, [...], David Baker, +14 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aef1969</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 <title>Spatiotemporally homogeneous crystallization for ambient scalable perovskite photovoltaics</title>
-<author>Binlou Gao</author>
+<author>Binlou Gao, Yang Zhong, Xiao Luo, Jiacheng He, Junxi Guo, Xueying Wang, Yikun Liu, Licheng Tan, [...], Yiwang Chen, +0 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aef1969</link>
-<content:encoded><![CDATA[<p>Commercializing perovskite solar cells (PSCs) will likely require the scalable deposition of homogeneous perovskite films under ambient conditions. However, the spatially heterogeneous degradation of metastable perovskites during prolonged coating leads ...</p><p></p><p>Binlou Gao</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Commercializing perovskite solar cells (PSCs) will likely require the scalable deposition of homogeneous perovskite films under ambient conditions. However, the spatially heterogeneous degradation of metastable perovskites during prolonged coating leads ...</p><p></p><p>Binlou Gao, Yang Zhong, Xiao Luo, Jiacheng He, Junxi Guo, Xueying Wang, Yikun Liu, Licheng Tan, [...], Yiwang Chen, +0 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeg6638</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 <title>Robust single-electron memory with quantum states manipulation</title>
-<author>Chunsen Liu</author>
+<author>Chunsen Liu, Yutong Xiang, Chong Wang, Peng Zhou</author>
 <link>https://www.science.org/doi/10.1126/science.aeg6638</link>
-<content:encoded><![CDATA[<p>The ultimate goal of information storage is single-electron memory. Quantum mechanics predicts that two distinguishable quantum states can be realized by confining a single electron within an ultrasmall space. However, scaling down such devices ...</p><p></p><p>Chunsen Liu</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>The ultimate goal of information storage is single-electron memory. Quantum mechanics predicts that two distinguishable quantum states can be realized by confining a single electron within an ultrasmall space. However, scaling down such devices ...</p><p></p><p>Chunsen Liu, Yutong Xiang, Chong Wang, Peng Zhou</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh1429</guid>
-<pubDate>Sun, 02 Aug 2026 18:01:04 GMT</pubDate>
+<pubDate>Mon, 03 Aug 2026 12:59:22 GMT</pubDate>
 <title>Preferred synthesis of armchair transition metal dichalcogenide nanotubes</title>
-<author>Abid</author>
+<author>Abid, Luneng Zhao, Ju Huang, Yongjia Zheng, Yuta Sato, Tianyu Wang, Dmitry Levshov, Lingfeng Wang, Qingyun Lin, Zhen Han, Chunxia Yang, Bill Herve Nduwarugira, Yicheng Ma, Yige Zheng, Hang Wang, Salman Ullah, Afzal Khan, Qi Zhang, Wenbin Li, Junfeng Gao, Bingfeng Ju, Feng Ding, Yan Li, Wouter Herrebout, Kazu Suenaga, Shigeo Maruyama, Huayong Yang, Rong Xiang, [...], Haiming Sun, +18 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aeh1429</link>
-<content:encoded><![CDATA[<p>Nanotubes represent an important class of crystalline materials but controlling their structures, particularly chiralities, remains a fundamental challenge. In this work, we report a strategy for synthesizing transition-metal dichalcogenide nanotubes ...</p><p></p><p>Abid</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Nanotubes represent an important class of crystalline materials but controlling their structures, particularly chiralities, remains a fundamental challenge. In this work, we report a strategy for synthesizing transition-metal dichalcogenide nanotubes ...</p><p></p><p>Abid, Luneng Zhao, Ju Huang, Yongjia Zheng, Yuta Sato, Tianyu Wang, Dmitry Levshov, Lingfeng Wang, Qingyun Lin, Zhen Han, Chunxia Yang, Bill Herve Nduwarugira, Yicheng Ma, Yige Zheng, Hang Wang, Salman Ullah, Afzal Khan, Qi Zhang, Wenbin Li, Junfeng Gao, Bingfeng Ju, Feng Ding, Yan Li, Wouter Herrebout, Kazu Suenaga, Shigeo Maruyama, Huayong Yang, Rong Xiang, [...], Haiming Sun, +18 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek5614</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 <title>In Science Journals</title>
-<author>Jesse Smith</author>
+<author>Jesse Smith, Jack Huang, Stella M. Hurtley, Yury Suleymanov, Mattia Maroso, Michael A. Funk, Wei Wong, Phil Szuromi, Bharat Jalan, Corinne Simonti, Angela Hessler, Sarah H. Ross, Priscilla N. Kelly, L. Bryan Ray, Jelena Stajic, Sacha Vignieri, Leoma Bere, [...], Daniela Neuhofer, +7 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aek5614</link>
-<content:encoded><![CDATA[<p>Jesse Smith</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Jesse Smith, Jack Huang, Stella M. Hurtley, Yury Suleymanov, Mattia Maroso, Michael A. Funk, Wei Wong, Phil Szuromi, Bharat Jalan, Corinne Simonti, Angela Hessler, Sarah H. Ross, Priscilla N. Kelly, L. Bryan Ray, Jelena Stajic, Sacha Vignieri, Leoma Bere, [...], Daniela Neuhofer, +7 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek5956</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
 <title>In a billion-dollar gamble, NSF bets on research with an economic payoff</title>
 <author>Jeffrey Mervis</author>
 <link>https://www.science.org/doi/10.1126/science.aek5956</link>
@@ -134,31 +134,31 @@
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adt1712</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>A phase microscope for quantum gases</title>
-<author>J. C. Brüggenjürgen</author>
+<author>J. C. Brüggenjürgen, M. S. Fischer, C. Weitenberg</author>
 <link>https://www.science.org/doi/10.1126/science.adt1712</link>
-<content:encoded><![CDATA[<p>Coherence properties are central to quantum systems and are at the heart of phenomena such as superconductivity. In this work, we studied coherence properties of an ultracold Bose gas in a two-dimensional optical lattice across the thermal phase ...</p><p></p><p>J. C. Brüggenjürgen</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Coherence properties are central to quantum systems and are at the heart of phenomena such as superconductivity. In this work, we studied coherence properties of an ultracold Bose gas in a two-dimensional optical lattice across the thermal phase ...</p><p></p><p>J. C. Brüggenjürgen, M. S. Fischer, C. Weitenberg</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei1285</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>Relativistic collapse of the classical triple bond in the CBi− molecular ion</title>
-<author>Deniz Kahraman</author>
+<author>Deniz Kahraman, Jie Hui, Xin-Yu Zhang, Neil A. Ellis, Hyun Wook Choi, Kirk A. Peterson, Lai-Sheng Wang</author>
 <link>https://www.science.org/doi/10.1126/science.aei1285</link>
-<content:encoded><![CDATA[<p>The conventional framework for chemical bonding between main-group elements involves separate σ and π orbitals to describe multiple bonds. However, relativistic effects mix these orbitals in molecules containing heavy elements through spin–orbit coupling,...</p><p></p><p>Deniz Kahraman</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>The conventional framework for chemical bonding between main-group elements involves separate σ and π orbitals to describe multiple bonds. However, relativistic effects mix these orbitals in molecules containing heavy elements through spin–orbit coupling,...</p><p></p><p>Deniz Kahraman, Jie Hui, Xin-Yu Zhang, Neil A. Ellis, Hyun Wook Choi, Kirk A. Peterson, Lai-Sheng Wang</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek3448</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>In Science Journals</title>
-<author>Ellen Wohl</author>
+<author>Ellen Wohl, Jelena Stajic, Jack Huang, Jake S. Yeston, Michael A. Funk, Di Jiang, Marc S. Lavine, Courtney Malo, Unnati Sonawala, Madeleine Seale, Corinne Simonti, Ekeoma Uzogara, Mattia Maroso, Priscilla N. Kelly, Sacha Vignieri, Angela Hessler, Phil Szuromi, John Foley, [...], John C. H. Chiang, +8 authors</author>
 <link>https://www.science.org/doi/10.1126/science.aek3448</link>
-<content:encoded><![CDATA[<p>Ellen Wohl</p><p></p><p>Science</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p>Ellen Wohl, Jelena Stajic, Jack Huang, Jake S. Yeston, Michael A. Funk, Di Jiang, Marc S. Lavine, Courtney Malo, Unnati Sonawala, Madeleine Seale, Corinne Simonti, Ekeoma Uzogara, Mattia Maroso, Priscilla N. Kelly, Sacha Vignieri, Angela Hessler, Phil Szuromi, John Foley, [...], John C. H. Chiang, +8 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adr9680</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 </pubDate>
+<pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
 <title>Observation of disorder-free localization using a (2+1)D lattice gauge theory on a quantum processor</title>
 <author>Google Quantum AI and Collaborators†</author>
 <link>https://www.science.org/doi/10.1126/science.adr9680</link>
