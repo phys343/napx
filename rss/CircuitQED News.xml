@@ -5,6 +5,14 @@
 <link>https://circuitqed.net/news/</link>
 <description>CircuitQED News</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2608.07306</guid>
+<pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
+<title>Flip-chip integrated superconducting qubits using electroplated bump bonds</title>
+<author>Yen-An Shih, Rebecca Gharibaan, Barka Khan, Dhananjay Joshi, Siddharth Singh, Martijn F.S. Zwanenburg, Eugene Y. Huang, Nataliia Zhurbina, Figen Yilmaz, Lukas Johannes Splitthoff, Srijit Goswami, and Christian Kraglund Andersen</author>
+<link>https://arxiv.org/abs/2608.07306</link>
+<content:encoded><![CDATA[<p>Flip-chip integration offers a promising route toward scalable superconducting quantum processors and hybrid semiconductor-superconductor quantum devices. We develop a three-dimensionaltransmon architecture using electroplated indium in which the qubit electric field is shared nearly equally between two bump-bonded substrates while maintaining low participation at the indium-bump interface. The resulting geometry is well suited for future hybrid qubits, enabling the integration of distinct material platforms while minimizing sensitivity to bump-interface loss. Using this platform, we evaluate electroplated indium interconnects for superconducting quantum circuits. Flip-chip transmons incorporating electroplated indium bumps exhibit qubit quality factors around 106. In addition, a systematic study of coplanar-waveguide resonators is used to identify losses associated with the electroplating process. In particular, we find that surface losses associated with the gold-layer, used to enable good electric contact with the indium, is likely the primary contributor to the qubit decay rate. These results demonstrate the compatibility of electroplated indium technology with high-coherence superconducting circuits and establish a promising platform for three-dimensional hybrid quantum integration.</p><p></p><p>Yen-An Shih, Rebecca Gharibaan, Barka Khan, Dhananjay Joshi, Siddharth Singh, Martijn F.S. Zwanenburg, Eugene Y. Huang, Nataliia Zhurbina, Figen Yilmaz, Lukas Johannes Splitthoff, Srijit Goswami, and Christian Kraglund Andersen</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.03325</guid>
 <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
 <title>Protected measurements for protected superconducting qubits</title>
@@ -75,14 +83,6 @@
 <author>Ashkan Abedi, Roberto Menta, Julien Despres, Marco Polini, Francesco Caravelli, and Vittorio Giovannetti</author>
 <link>https://arxiv.org/abs/2607.28479</link>
 <content:encoded><![CDATA[<p>We show that global optimal control can drastically suppress the impact of decoherence in globally driven superconducting quantum computing architectures, taking as a prototype a recentlyproposed quasi-two-dimensional ladder geometry. Using a tensor-network-based approach, we quantify how amplitude-damping and dephasing channels degrade the flow of quantum information along the ladder and the fidelity of one- and two-qubit gate operations. We then demonstrate that shaping the global drive compresses the gate sequences by an order of magnitude in time, restoring high gate fidelities. We stress that this mitigation is far from trivial: in a globally driven processor, dissipation acts on every physical qubit—including those outside the logical register that sustain the surrounding ordered phases—so its impact cannot be suppressed by protecting an isolated subsystem, and is instead overcome purely through the temporal shaping of the global drive.</p><p></p><p>Ashkan Abedi, Roberto Menta, Julien Despres, Marco Polini, Francesco Caravelli, and Vittorio Giovannetti</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2607.27094</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-<title>Native CCZ Gate with Fluxonium Qubits and a Microwave-Driven Coupler</title>
-<author>Grigoriy S. Mazhorin, Tatyana A. Chudakova, Alena S. Kazmina, Nikolai G. Berezkin, Arina V. Zotova, Artyom M. Polyanskiy, Nikolay N. Abramov, Mikhail A. Tarkhov, Alexander M. Mumlyakov, Igor V. Trofimov, Elizaveta A. Krivko, Nikita Yu. Rudenko, Maxim V. Chichkov, Vladimir I. Chichkov, and Ilya A. Simakov</author>
-<link>https://arxiv.org/abs/2607.27094</link>
-<content:encoded><![CDATA[<p>Native multi-qubit gates could reduce the overhead associated with decompositions into single- and two-qubit operations, but whether they can simultaneously provide high fidelity, simplecontrol and robustness against parasitic interactions in scalable architectures remains unclear. Here we experimentally realize a 65-ns native controlled-controlled-phase operation, locally equivalent to the Toffoli gate, with a fidelity of 99.39(5)% in a three-qubit processor unit based on fluxonium qubits coupled via a microwave-driven transmon coupler. The implemented operation would require CZ fidelities of approximately 99.94% if realized through a conventional decomposition. The gate is implemented with a single control pulse, that relies on a simple calibration procedure yielding coherence-limited performance. This processor unit naturally extends to scalable two-dimensional layouts with low parasitic interactions. Altogether, these results establish native multi-qubit gates as a viable hardware-efficient primitive for scalable superconducting quantum processors.</p><p></p><p>Grigoriy S. Mazhorin, Tatyana A. Chudakova, Alena S. Kazmina, Nikolai G. Berezkin, Arina V. Zotova, Artyom M. Polyanskiy, Nikolay N. Abramov, Mikhail A. Tarkhov, Alexander M. Mumlyakov, Igor V. Trofimov, Elizaveta A. Krivko, Nikita Yu. Rudenko, Maxim V. Chichkov, Vladimir I. Chichkov, and Ilya A. Simakov</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
