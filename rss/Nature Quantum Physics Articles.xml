@@ -5,6 +5,38 @@
 <link>https://www.nature.com/search?q=%22quantum+simulation%22+OR+%22quantum+simulator%22+OR+%22quantum+simulating%22+OR+%22quantum+computation%22+OR+%22quantum+computer%22+OR+%22quantum+computing%22+OR+%22quantum+information%22+OR+%22quantum+metrology%22+OR+%22quantum+error+correction%22+OR+%22quantum+entanglement%22+OR+%22quantum+algorithm%22+OR+%22quantum+circuit%22+OR+%22quantum+gate%22+OR+%22quantum+bit%22+OR+%22superconducting+qubit%22+OR+%22trapped+ion%22+OR+%22neutral+atom+quantum+computing%22+OR+%22photonic+quantum+computing%22+OR+%22quantum+cryptography%22+OR+%22quantum+key+distribution%22+OR+%22quantum+communication%22+OR+%22quantum+teleportation%22+OR+%22quantum+repeater%22+OR+%22quantum+sensing%22+OR+%22quantum+advantage%22+OR+%22quantum+machine+learning%22+OR+%22quantum-enhanced%22+OR+%22quantum+memory%22+OR+%22quantum+network%22++OR+%22quantum+superposition%22+OR+%22quantum+interference%22+OR+%22quantum+measurement%22++OR+%22Bell+inequality%22++OR+%22quantum+non-locality%22++OR+%22variational+quantum%22+OR+%22quantum+fault+tolerance%22+OR++%22topological+quantum%22+OR+%22Shor%27s+algorithm%22+OR+%22quantum+supremacy%22+OR+%22quantum+coherence%22+&amp;journal=nphys%2C+nature%2C+nphoton&amp;order=date_desc</link>
 <description>Nature Quantum Physics Articles</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03389-y</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+<title>Simple and efficient end-to-end quantum thermal and ground state preparation</title>
+<author>Zhiyan DingYongtao ZhanLin Lin</author>
+<link>https://www.nature.com/articles/s41567-026-03389-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03389-y/MediaObjects/41567_2026_3389_Fig1_HTML.png"><p></p><p>Preparation of thermal and ground states is needed for a number of quantum algorithms but is generally computationally difficult. Now state preparation algorithms with efficiency guarantees have been developed for an important class of model.</p><p></p><p>Zhiyan DingYongtao ZhanLin Lin</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10788-x</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+<title>Reply to: Dataset artefacts can partially drive the measured decline in disruption</title>
+<author>Michael ParkErin LeaheyRussell J. Funk</author>
+<link>https://www.nature.com/articles/s41586-026-10788-x</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10788-x/MediaObjects/41586_2026_10788_Fig1_HTML.png"><p></p><p>Michael ParkErin LeaheyRussell J. Funk</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02498-1</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+<title>A particle made of force: physicists say they’ve found mysterious ‘glueball’</title>
+<author>Mohana Basu</author>
+<link>https://www.nature.com/articles/d41586-026-02498-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-02498-1/d41586-026-02498-1_53111268.jpg"><p></p><p>Scientists have predicted the existence of a particle made of gluons for a long time, but detecting it has taken decades.</p><p></p><p>Mohana Basu</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10857-1</guid>
+<pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+<title>Superconducting 2D cuprate with a single CuO2 plane</title>
+<author>Hengsheng LuoDongjoon SongYuanbo Zhang</author>
+<link>https://www.nature.com/articles/s41586-026-10857-1</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10857-1/MediaObjects/41586_2026_10857_Fig1_HTML.png"><p></p><p>A high-quality, pristine monolayer cuprate superconductor with a single CuO2 plane is fabricated and used to identify two quantum critical phenomena emerging between the Mott insulating phase and the superconducting phase.</p><p></p><p>Hengsheng LuoDongjoon SongYuanbo Zhang</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03404-2</guid>
 <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
 <title>Diamonds are a metrologist’s best friends</title>
@@ -322,20 +354,20 @@
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03370-9/MediaObjects/41567_2026_3370_Fig1_HTML.png"><p></p><p>Bosonic quantum states can be understood as superpositions of eigenstates with fixed numbers of bosons. Now experiments show that mapping this representation to classical wave propagation offers an intuitive way to manipulate large quantum states.</p><p></p><p>Yifang XuYilong ZhouLuyan Sun</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03314-3</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
-<title>Millisecond coherence times in gigahertz-frequency mechanical oscillators</title>
-<author>Yizhi LuoHilel Hagai DiamandiPeter T. Rakich</author>
-<link>https://www.nature.com/articles/s41567-026-03314-3</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03314-3/MediaObjects/41567_2026_3314_Fig1_HTML.png"><p></p><p>Phonon decoherence in quantum high-overtone bulk acoustic-wave resonators is dominated by imperfections under the material surface. Removing the damaged subsurface layer substantially increases the performance of these devices.</p><p></p><p>Yizhi LuoHilel Hagai DiamandiPeter T. Rakich</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01961-9</guid>
 <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
 <title>Hybrid nanophotonic trap for cold atoms using surface forces and a blue-detuned evanescent field</title>
 <author>Riccardo PennettaAntoine GlicensteinArno Rauschenbeutel</author>
 <link>https://www.nature.com/articles/s41566-026-01961-9</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01961-9/MediaObjects/41566_2026_1961_Fig1_HTML.png"><p></p><p>A hybrid nanophotonic trap for cold caesium atoms uses surface forces for attraction and blue-detuned light for repulsion to achieve efficient loading and enhanced storage and coherence times.</p><p></p><p>Riccardo PennettaAntoine GlicensteinArno Rauschenbeutel</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03314-3</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+<title>Millisecond coherence times in gigahertz-frequency mechanical oscillators</title>
+<author>Yizhi LuoHilel Hagai DiamandiPeter T. Rakich</author>
+<link>https://www.nature.com/articles/s41567-026-03314-3</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03314-3/MediaObjects/41567_2026_3314_Fig1_HTML.png"><p></p><p>Phonon decoherence in quantum high-overtone bulk acoustic-wave resonators is dominated by imperfections under the material surface. Removing the damaged subsurface layer substantially increases the performance of these devices.</p><p></p><p>Yizhi LuoHilel Hagai DiamandiPeter T. Rakich</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03362-9</guid>
@@ -368,38 +400,6 @@
 <author>Anthony RansfordM. S. AllmanJustin G. Bohnet</author>
 <link>https://www.nature.com/articles/s41586-026-10882-0</link>
 <content:encoded><![CDATA[<p>Anthony RansfordM. S. AllmanJustin G. Bohnet</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03375-4</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-<title>Visualization of the Zhang–Rice singlet, electronic molecules and Cooper pair formation in a cuprate superconductor</title>
-<author>Shusen YeJianfa ZhaoYayu Wang</author>
-<link>https://www.nature.com/articles/s41567-026-03375-4</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03375-4/MediaObjects/41567_2026_3375_Fig1_HTML.png"><p></p><p>How individual doped holes turn into superconducting Cooper pairs as doping increases in unconventional superconductors is still not well understood. Now, this process is observed in a paradigmatic cuprate compound.</p><p></p><p>Shusen YeJianfa ZhaoYayu Wang</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03344-x</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-<title>Topological textures in polar materials</title>
-<author>Zijian HongYu-Tsun ShaoSujit Das</author>
-<link>https://www.nature.com/articles/s41567-026-03344-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03344-x/MediaObjects/41567_2026_3344_Fig1_HTML.png"><p></p><p>Ferroelectric materials can host robust and diverse polarization textures. This Review examines their formation mechanisms, responses to external stimuli and potential applications in next-generation electronic devices.</p><p></p><p>Zijian HongYu-Tsun ShaoSujit Das</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03366-5</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-<title>When atoms tunnel as one</title>
-<author>Simon Haine</author>
-<link>https://www.nature.com/articles/s41567-026-03366-5</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03366-5/MediaObjects/41567_2026_3366_Fig1_HTML.png"><p></p><p>By making atoms tunnel together as a bound cluster, researchers have generated massive Schrödinger cat states, opening new routes toward tests of gravity in the quantum regime.</p><p></p><p>Simon Haine</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03337-w</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
-<title>Altermagnetic spintronics</title>
-<author>T. JungwirthJ. SinovaL. Šmejkal</author>
-<link>https://www.nature.com/articles/s41567-026-03337-w</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03337-w/MediaObjects/41567_2026_3337_Fig1_HTML.png"><p></p><p>Altermagnetism, a recently identified unconventional magnetic order, might enable fast and efficient spin-based devices. This Review explores its interplay with ferroelectric and superconducting systems and its promise for scalable spintronics.</p><p></p><p>T. JungwirthJ. SinovaL. Šmejkal</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
