@@ -5,6 +5,14 @@
 <link>https://arxiv.org/search/?searchtype=author&amp;query=Pan%2C+Jian-Wei</link>
 <description>Pan arXiv Articles</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2608.19602</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 GMT</pubDate>
+<title>High fidelity control of superconducting qubits with optical transmitted signal</title>
+<author>Yu-Huai Li, Daojin Fan, Na Li, Fusheng Chen, Shaowei Li, Dong-Dong Li, Yu Xu, Jin Lin, Ming Gong, He-Liang Huang, Hui Deng, Yulin Wu, Haoran Qian, Shaojun Guo, Futian Liang, Xiaobo Zhu, Cheng-Zhi Peng, Jian-Wei Pan</author>
+<link>https://arxiv.org/abs/2608.19602</link>
+<content:encoded><![CDATA[<p>Superconducting circuits exhibit remarkable potential for constructing large-scale quantum simulation and computation systems, featuring numerous qubits, extended coherence time, and precise control. Nevertheless, the growing number of signal cables poses a challenge in dilution refrigerators due to space and heat load constraints. To overcome this issue, we experimentally implemented an optically-assisted transmission line as an alternative to coaxial cables. By modulating microwave signals on laser intensities at room temperature and regenerating the signals at a cryogenic plate within the dilution refrigerator, we demonstrated full control of superconducting qubits using photocurrent. We demonstrate and benchmark both single-qubit and two-qubit gates on frequency tunable transmon qubits, achieving fidelities of 99.915% $\pm$ 0.005% and 99.676% $\pm$ 0.041%, respectively, which have reached the requirement of the surface code.</p><p></p><p>Yu-Huai Li, Daojin Fan, Na Li, Fusheng Chen, Shaowei Li, Dong-Dong Li, Yu Xu, Jin Lin, Ming Gong, He-Liang Huang, Hui Deng, Yulin Wu, Haoran Qian, Shaojun Guo, Futian Liang, Xiaobo Zhu, Cheng-Zhi Peng, Jian-Wei Pan</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.17189</guid>
 <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
 <title>Fast Nondestructive Readout for High-Clock-Rate Atom Array Quantum Processor</title>
@@ -395,14 +403,6 @@
 <author>Ke Xie, Xi Li, Yu-Yang Zhou, Ji-Hong Luo, Shuai Wang, Yu-Zhao Nie, Hong-Chi Shen, Yu-Ao Chen, Xing-Can Yao, Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2502.08099</link>
 <content:encoded><![CDATA[<p>We report on the observation of Feshbach resonances in ultracold $^6\mathrm{Li}$-$^{164}\mathrm{Dy}$ mixtures, where $^6\mathrm{Li}$ atoms are respectively prepared in their three lowest spin states, and $^{164}\mathrm{Dy}$ atoms are prepared in their lowest energy state. We observe 21 interspecies scattering resonances over a magnetic field range from 0 to \SI{702}{\gauss} using atom loss spectroscopy, three of which exhibit relatively broad widths. These broad resonances provide precise control over the interspecies interaction strength, enabling the study of strongly interacting effects in $^6\mathrm{Li}$-$^{164}\mathrm{Dy}$ mixtures. Additionally, we observe a well-isolated interspecies resonance at 700.1 G, offering a unique platform to explore novel impurity physics, where heavy dipolar $^{164}\mathrm{Dy}$ atoms are immersed in a strongly interacting Fermi superfluid of $^6\mathrm{Li}$ atoms.</p><p></p><p>Ke Xie, Xi Li, Yu-Yang Zhou, Ji-Hong Luo, Shuai Wang, Yu-Zhao Nie, Hong-Chi Shen, Yu-Ao Chen, Xing-Can Yao, Jian-Wei Pan</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2412.18882</guid>
-<pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
-<title>Boosted fusion gates above the percolation threshold for scalable graph-state generation</title>
-<author>Yong-Peng Guo, Geng-Yan Zou, Xing Ding, Qi-Hang Zhang, Mo-Chi Xu, Run-Ze Liu, Jun-Yi Zhao, Zhen-Xuan Ge, Li-Chao Peng, Ke-Mi Xu, Yi-Yang Lou, Zhen Ning, Lin-Jun Wang, Hui Wang, Yong-Heng Huo, Yu-Ming He, Chao-Yang Lu, Jian-Wei Pan</author>
-<link>https://arxiv.org/abs/2412.18882</link>
-<content:encoded><![CDATA[<p>Fusing small resource states into a larger, fully connected graph-state is essential for scalable photonic quantum computing. Theoretical analysis reveals that this can only be achieved when the success probability of the fusion gate surpasses a specific percolation threshold of 58.98% by using three-photon GHZ states as resource states. However, such an implementation of a fusion gate has never been experimentally realized before. Here, we successfully demonstrate a boosted fusion gate with a theoretical success probability of 75%, using deterministically generated auxiliary states. The success probability is experimentally measured to be 71.0(7)%. We further demonstrate the effectiveness of the boosted fusion gate by fusing two Bell states with a fidelity of 67(2)%. Our work paves a crucial path toward scalable linear optical quantum computing.</p><p></p><p>Yong-Peng Guo, Geng-Yan Zou, Xing Ding, Qi-Hang Zhang, Mo-Chi Xu, Run-Ze Liu, Jun-Yi Zhao, Zhen-Xuan Ge, Li-Chao Peng, Ke-Mi Xu, Yi-Yang Lou, Zhen Ning, Lin-Jun Wang, Hui Wang, Yong-Heng Huo, Yu-Ming He, Chao-Yang Lu, Jian-Wei Pan</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
