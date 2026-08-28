@@ -5,6 +5,22 @@
 <link>https://journals.aps.org/search/results?clauses=%5B%7B%22field%22%3A%22physh%22%2C%22value%22%3A%22%7B%5C%22facetid%5C%22%3Anull%2C%5C%22conceptid%5C%22%3A%5C%22200ea9a8-54ca-4f8f-a7e1-f186bb326056%5C%22%2C%5C%22label%5C%22%3A%5C%22Quantum%20simulation%5C%22%2C%5C%22facetlabel%5C%22%3A%5C%22%5C%22%7D%22%2C%22operator%22%3A%22AND%22%7D%5D&amp;sort=recent&amp;per_page=20&amp;journal=prl&amp;journal=prxquantum&amp;journal=prx&amp;journal=rmp</link>
 <description>APS Quantum Simulation Articles</description>
 <item>
+<guid isPermaLink="true">https://journals.aps.org/prx/abstract/10.1103/cbrd-ssnm</guid>
+<pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+<title>Quantum Thermal State Preparation for Near-Term Quantum Processors</title>
+<author>Jerome Lloyd and Dmitry A. Abanin</author>
+<link>https://journals.aps.org/prx/abstract/10.1103/cbrd-ssnm</link>
+<content:encoded><![CDATA[<p>Preparation of quantum thermal states of many-body systems is a key computational challenge for quantum processors, with applications in physics, chemistry, and classical optimization. We provide a simple and efficient algorithm for thermal state preparation, combining engineered bath resetting and modulated system-bath coupling to derive a quantum channel approximately satisfying quantum detailed balance relations. We show that the fixed point of the channel approximates the Gibbs state as , where is the system-bath coupling and . We provide extensive numerics, for the example of the 2D quantum Ising model, confirming that the protocol successfully prepares the thermal state throughout the finite-temperature phase diagram, including near the quantum phase transition. Simulations for free-fermion systems provide further evidence for the accuracy of the protocol for large system sizes in the weak-coupling limit. Our algorithm provides a path to efficient quantum simulation of quantum-correlated states at finite temperature with current and near-term quantum processors.</p><p></p><p>Jerome Lloyd and Dmitry A. Abanin</p><p></p><p>Physical Review X</p><p></p><p>Phys. Rev. X 16, 031053 (2026)</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/8zg2-cxc1</guid>
+<pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+<title>Sign Problem Landscape of Dimer, Loop, and Ground-State Sectors of a U(1) Quantum Link Model</title>
+<author>Pallabi Dey, Debasish Banerjee, and Emilie Huffman</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/8zg2-cxc1</link>
+<content:encoded><![CDATA[<p>The fermion sign problem poses a formidable challenge to the use of Monte Carlo methods for lattice gauge theories with dynamical fermionic matter fields. A meron-cluster algorithm recently formulated for gauge fields represented as spin- quantum links coupled to a single flavor of staggered fermions samples only two of the exponentially many Gauss law (GL) sectors at low temperatures, allowing the simulation of those two GL sectors at zero temperature in polynomial time. In this Letter, we analytically identify GL sectors which can be simulated without encountering the fermion sign problem in arbitrary spatial dimensions. Using large-scale exact diagonalization and cluster Monte Carlo methods, we explore the nature of phases in the GL sectors dominating at zero temperature. The ground state lives in a superselection sector free of the sign problem and maps to the quantum dimer model with mobile monomers. The usual zero-charge GL sector suffers from the fermion sign problem and maps to the fully packed loop model with mobile monomers. The role of the magnetic energy in causing transitions between GL sectors is outlined. We expect our results to be valid for truncated Kogut-Susskind gauge theories, beyond quantum link models.</p><p></p><p>Pallabi Dey, Debasish Banerjee, and Emilie Huffman</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 090404 (2026)</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://journals.aps.org/prxquantum/abstract/10.1103/1tf6-bc55</guid>
 <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
 <title>Imaginary Time Evolution and Ground State Preparation Using Unitary Multi-Copy Protocols</title>
@@ -147,22 +163,6 @@
 <author>Julian Boesl, Yu-Jie Liu, Frank Pollmann, and Michael Knap</author>
 <link>https://journals.aps.org/prl/abstract/10.1103/d3fz-5755</link>
 <content:encoded><![CDATA[<p>We construct parametrized isometric tensor network states—referred to as “skeletons”—that allow us to explore phases of Abelian topological order and can be efficiently implemented on quantum processors. We obtain stable finite correlation length deformations of string-net fixed points, which are constructed both by conserving virtual symmetries of the tensor and by imposing local isometry constraints. They connect distinct topological phases via a shared critical point, thereby providing analytically tractable examples of phase transitions beyond anyon condensation. By mapping such classes of 2D tensor networks to 1D stochastic automata with local update rules, we show that expectation values of generalized Pauli strings of arbitrary weight can be efficiently computed using classical methods. Therefore these skeletons not only serve as an organizing principle for Abelian topological order but also provide a nontrivial test bed for quantum processors.</p><p></p><p>Julian Boesl, Yu-Jie Liu, Frank Pollmann, and Michael Knap</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 020405 (2026)</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/qprk-k7wn</guid>
-<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-<title>High-Temperature Fermionic Gibbs States Are Mixtures of Gaussian States</title>
-<author>Akshar Ramkumar, Yiyi Cai, Yu Tong, and Jiaqing Jiang</author>
-<link>https://journals.aps.org/prl/abstract/10.1103/qprk-k7wn</link>
-<content:encoded><![CDATA[<p>Efficient simulation of a quantum system generally relies on structural properties of the quantum state. Motivated by the recent results by Bakshi et al. on the sudden death of entanglement in high-temperature Gibbs states of quantum spin systems, we study the high-temperature Gibbs states of bounded-degree local fermionic Hamiltonians, which include the special case of geometrically local fermionic systems. We prove that, at a sufficiently high temperature that is independent of the system size, the Gibbs state is a probabilistic mixture of fermionic Gaussian states. This forms the basis of an efficient classical algorithm to prepare the Gibbs state by sampling from a distribution of fermionic Gaussian states.</p><p></p><p>Akshar Ramkumar, Yiyi Cai, Yu Tong, and Jiaqing Jiang</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 020601 (2026)</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://journals.aps.org/prx/abstract/10.1103/w1bm-wjl4</guid>
-<pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
-<title>Observation of Synchronization between Two Quantum van der Pol Oscillators in Trapped Ions</title>
-<author>Jiarui Liu, Qiming Wu, Joel E. Moore, Hartmut Haeffner, and Christopher W. Wächtler</author>
-<link>https://journals.aps.org/prx/abstract/10.1103/w1bm-wjl4</link>
-<content:encoded><![CDATA[<p>Synchronization is a hallmark of collective behavior that emerges when nonlinear systems interact, spanning scales from mechanical oscillators to planetary orbits. As a universal phenomenon, it underpins the study of complex systems and has far-reaching technological implications. While classical synchronization has a long and rich history, it has not been observed experimentally between multiple quantum limit-cycle oscillators despite a decade of theoretical investigations. We realize synchronization between two quantum van der Pol oscillators by engineering dissipation in a mixed-isotope trapped-ion quantum simulator. The synchronized state is encoded in a fixed relative phase between the oscillators that is inaccessible to individual measurements and revealed only through joint readout of both oscillators, in stark contrast to the system in the (deterministic) classical limit where synchronization can be observed via individual phase measurements. We further show that the relative phase can be precisely controlled and that the chain of two oscillators can synchronize to an external field, suggesting applications in sensing. Our results provide a promising pathway for studying more complex synchronized quantum dynamics beyond two oscillators, where a theoretical treatment becomes increasingly challenging, and it remains to be understood whether genuinely quantum features persist in such cases.</p><p></p><p>Jiarui Liu, Qiming Wu, Joel E. Moore, Hartmut Haeffner, and Christopher W. Wächtler</p><p></p><p>Physical Review X</p><p></p><p>Phys. Rev. X 16, 021062 (2026)</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
