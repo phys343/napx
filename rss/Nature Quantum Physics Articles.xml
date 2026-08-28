@@ -5,6 +5,14 @@
 <link>https://www.nature.com/search?q=%22quantum+simulation%22+OR+%22quantum+simulator%22+OR+%22quantum+simulating%22+OR+%22quantum+computation%22+OR+%22quantum+computer%22+OR+%22quantum+computing%22+OR+%22quantum+information%22+OR+%22quantum+metrology%22+OR+%22quantum+error+correction%22+OR+%22quantum+entanglement%22+OR+%22quantum+algorithm%22+OR+%22quantum+circuit%22+OR+%22quantum+gate%22+OR+%22quantum+bit%22+OR+%22superconducting+qubit%22+OR+%22trapped+ion%22+OR+%22neutral+atom+quantum+computing%22+OR+%22photonic+quantum+computing%22+OR+%22quantum+cryptography%22+OR+%22quantum+key+distribution%22+OR+%22quantum+communication%22+OR+%22quantum+teleportation%22+OR+%22quantum+repeater%22+OR+%22quantum+sensing%22+OR+%22quantum+advantage%22+OR+%22quantum+machine+learning%22+OR+%22quantum-enhanced%22+OR+%22quantum+memory%22+OR+%22quantum+network%22++OR+%22quantum+superposition%22+OR+%22quantum+interference%22+OR+%22quantum+measurement%22++OR+%22Bell+inequality%22++OR+%22quantum+non-locality%22++OR+%22variational+quantum%22+OR+%22quantum+fault+tolerance%22+OR++%22topological+quantum%22+OR+%22Shor%27s+algorithm%22+OR+%22quantum+supremacy%22+OR+%22quantum+coherence%22+&amp;journal=nphys%2C+nature%2C+nphoton&amp;order=date_desc</link>
 <description>Nature Quantum Physics Articles</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-01999-9</guid>
+<pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+<title>Ultra-wideband electrically tuned mid-infrared on-chip parametric oscillator</title>
+<author>Alexander Y. HwangHubert S. StokowskiAmir H. Safavi-Naeini</author>
+<link>https://www.nature.com/articles/s41566-026-01999-9</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-01999-9/MediaObjects/41566_2026_1999_Fig1_HTML.png"><p></p><p>A thin-film lithium niobate integrated optical parametric oscillator converts a fixed near-infrared pump into 22 THz of electrically tunable mid-infrared light, achieving both broad wavelength coverage and mode-hop-free fine-tuning.</p><p></p><p>Alexander Y. HwangHubert S. StokowskiAmir H. Safavi-Naeini</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02513-5</guid>
 <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
 <title>The 46 companies scrambling to commercialize fusion for energy</title>
@@ -391,14 +399,6 @@
 <author>Chenglong YouRiley B. DawkinsOmar S. Magaña-Loaiza</author>
 <link>https://www.nature.com/articles/s41586-026-10782-3</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10782-3/MediaObjects/41586_2026_10782_Fig1_HTML.png"><p></p><p>A new class of materials, quantum statistical plasmonic metacrystals, is described, which can selectively transmit different types of light based only on their quantum coherence, showing bands of allowed and forbidden photon statistics.</p><p></p><p>Chenglong YouRiley B. DawkinsOmar S. Magaña-Loaiza</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02038-x</guid>
-<pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
-<title>Optical filter sorts light by its ‘quantum statistics’</title>
-<author>Sebastian Golat</author>
-<link>https://www.nature.com/articles/d41586-026-02038-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-02038-x/d41586-026-02038-x_52963530.jpg"><p></p><p>A nanostructured gold surface can filter light depending on the tendency of its photons to arrive at a detector in pairs.</p><p></p><p>Sebastian Golat</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
