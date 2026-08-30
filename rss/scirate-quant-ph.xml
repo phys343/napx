@@ -6,31 +6,31 @@
 <description>arXiv quant-ph Hot Papers</description>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26272</guid>
-<pubDate>Sat, 29 Aug 2026 17:01:10 GMT</pubDate>
-<title>[97★] Fault-tolerant quantum computation cannot be achieved with constant spacetime overhead</title>
+<pubDate>Sun, 30 Aug 2026 17:00:56 GMT</pubDate>
+<title>[107★] Fault-tolerant quantum computation cannot be achieved with constant spacetime overhead</title>
 <author>Kishor Bharti, Tobias Haug, Andrew Tanggara</author>
 <link>https://arxiv.org/abs/2608.26272</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 97 ★</p><p><b>Authors:</b> Kishor Bharti, Tobias Haug, Andrew Tanggara</p><p><b>arXiv ID:</b> 2608.26272 (<a href="https://arxiv.org/abs/2608.26272">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.26272">scirate</a>)</p><p><b>Abstract:</b></p><p>The threshold theorem states that quantum computations can be made reliable below a physical error threshold, at the cost of additional physical qubits and circuit depth. Recent work has reduced these space and time overheads to polylogarithmic or nearly logarithmic scalings, but whether the cumulative spacetime overhead can be constant has remained unclear. Here, we show that even for the simplest task of preserving quantum information in a quantum memory, under an optimistic noise model and allowing general adaptive protocols, there is an unavoidable logarithmic contribution to the cumulative spacetime overhead. This additional cost can nevertheless be shared among many logical qubits, so sufficiently wide computations, including standard implementations of Shor&#x27;s algorithm, may still achieve constant relative overhead. We further give a positive-rate CSS code construction that attains the memory bound, identify sufficient conditions under which the same scaling extends from quantum memory to fault-tolerant circuit implementations, and derive circuit-size bounds for subsystem spacetime codes. Our work establishes fundamental limits on the resources required for quantum fault tolerance.</p></p><p></p><p>Kishor Bharti, Tobias Haug, Andrew Tanggara</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 107 ★</p><p><b>Authors:</b> Kishor Bharti, Tobias Haug, Andrew Tanggara</p><p><b>arXiv ID:</b> 2608.26272 (<a href="https://arxiv.org/abs/2608.26272">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.26272">scirate</a>)</p><p><b>Abstract:</b></p><p>The threshold theorem states that quantum computations can be made reliable below a physical error threshold, at the cost of additional physical qubits and circuit depth. Recent work has reduced these space and time overheads to polylogarithmic or nearly logarithmic scalings, but whether the cumulative spacetime overhead can be constant has remained unclear. Here, we show that even for the simplest task of preserving quantum information in a quantum memory, under an optimistic noise model and allowing general adaptive protocols, there is an unavoidable logarithmic contribution to the cumulative spacetime overhead. This additional cost can nevertheless be shared among many logical qubits, so sufficiently wide computations, including standard implementations of Shor&#x27;s algorithm, may still achieve constant relative overhead. We further give a positive-rate CSS code construction that attains the memory bound, identify sufficient conditions under which the same scaling extends from quantum memory to fault-tolerant circuit implementations, and derive circuit-size bounds for subsystem spacetime codes. Our work establishes fundamental limits on the resources required for quantum fault tolerance.</p></p><p></p><p>Kishor Bharti, Tobias Haug, Andrew Tanggara</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27298</guid>
-<pubDate>Sat, 29 Aug 2026 17:00:10 GMT</pubDate>
-<title>[67★] Optimal cloning of mixed states</title>
+<pubDate>Sun, 30 Aug 2026 16:59:56 GMT</pubDate>
+<title>[69★] Optimal cloning of mixed states</title>
 <author>Marco Fanizza, ..., Thilo Scharnhorst, Jack Spilecki</author>
 <link>https://arxiv.org/abs/2608.27298</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 67 ★</p><p><b>Authors:</b> Marco Fanizza, ..., Thilo Scharnhorst, Jack Spilecki</p><p><b>arXiv ID:</b> 2608.27298 (<a href="https://arxiv.org/abs/2608.27298">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.27298">scirate</a>)</p><p><b>Abstract:</b></p><p>We consider the problem of approximate cloning of quantum states: given nnn copies of an unknown state ρ∈Cd×d\rho \in \mathbb{C}^{d \times d}, prepare an (n+k)(n+k)-copy state with high fidelity to ρ⊗(n+k)\rho^{\otimes (n+k)}. Werner&#x27;s pure state cloner is the optimal channel for the pure state case, and shows that n=Θ(kd/ε)n = \Theta(kd/\varepsilon) copies are necessary and sufficient to clone kk additional copies of an unknown pure state to fidelity 1−ε1-\varepsilon. The random purification channel gives a straightforward extension of Werner&#x27;s cloner to mixed state inputs: given nn copies of a mixed state, randomly purify your input, apply Werner&#x27;s channel in the larger Hilbert space, and then trace out the auxiliary registers. This gives a mixed state cloner using n=O(krd/ε)n = O(krd/\varepsilon) copies to clone rank-rr states. Can one do any better? We show that the answer is no: one must use n=Ω(krd/ε)n = \Omega(krd/\varepsilon) copies. We prove our lower bound by studying the special case of projector cloning, in which the input state ρ\rho is promised to be of the form P/rP/r, where PP is a rank-rr orthogonal projector. As a further application of our techniques, we consider the closely related problem of approximate transposition of quantum states, where one seeks to convert ρ⊗n\rho^{\otimes n} to a kk-copy state with high fidelity to (ρT)⊗k(\rho^T)^{\otimes k}. Here, we again show n=Θ(krd/ε)n = \Theta(krd/\varepsilon) copies are necessary and sufficient for this task.</p></p><p></p><p>Marco Fanizza, ..., Thilo Scharnhorst, Jack Spilecki</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 69 ★</p><p><b>Authors:</b> Marco Fanizza, ..., Thilo Scharnhorst, Jack Spilecki</p><p><b>arXiv ID:</b> 2608.27298 (<a href="https://arxiv.org/abs/2608.27298">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.27298">scirate</a>)</p><p><b>Abstract:</b></p><p>We consider the problem of approximate cloning of quantum states: given nn copies of an unknown state ρ∈Cd×d\rho \in \mathbb{C}^{d \times d}, prepare an (n+k)(n+k)-copy state with high fidelity to ρ⊗(n+k)\rho^{\otimes (n+k)}. Werner&#x27;s pure state cloner is the optimal channel for the pure state case, and shows that n=Θ(kd/ε)n = \Theta(kd/\varepsilon) copies are necessary and sufficient to clone kk additional copies of an unknown pure state to fidelity 1−ε1-\varepsilon. The random purification channel gives a straightforward extension of Werner&#x27;s cloner to mixed state inputs: given nn copies of a mixed state, randomly purify your input, apply Werner&#x27;s channel in the larger Hilbert space, and then trace out the auxiliary registers. This gives a mixed state cloner using n=O(krd/ε)n = O(krd/\varepsilon) copies to clone rank-rr states. Can one do any better? We show that the answer is no: one must use n=Ω(krd/ε)n = \Omega(krd/\varepsilon) copies. We prove our lower bound by studying the special case of projector cloning, in which the input state ρ\rho is promised to be of the form P/rP/r, where PP is a rank-rr orthogonal projector. As a further application of our techniques, we consider the closely related problem of approximate transposition of quantum states, where one seeks to convert ρ⊗n\rho^{\otimes n} to a kk-copy state with high fidelity to (ρT)⊗k(\rho^T)^{\otimes k}. Here, we again show n=Θ(krd/ε)n = \Theta(krd/\varepsilon) copies are necessary and sufficient for this task.</p></p><p></p><p>Marco Fanizza, ..., Thilo Scharnhorst, Jack Spilecki</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27350</guid>
-<pubDate>Sat, 29 Aug 2026 16:59:10 GMT</pubDate>
-<title>[26★] Quantum Chaos and Quantum Optimal Transport</title>
+<pubDate>Sun, 30 Aug 2026 16:58:56 GMT</pubDate>
+<title>[27★] Quantum Chaos and Quantum Optimal Transport</title>
 <author>Jordan Cotler, Felipe Hernández</author>
 <link>https://arxiv.org/abs/2608.27350</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 26 ★</p><p><b>Authors:</b> Jordan Cotler, Felipe Hernández</p><p><b>arXiv ID:</b> 2608.27350 (<a href="https://arxiv.org/abs/2608.27350">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.27350">scirate</a>)</p><p><b>Abstract:</b></p><p>Chaos in classical systems can be characterized by Lyapunov exponents that measure the exponential divergence of nearby trajectories, but directly extending this framework to quantum mechanics has been a persistent challenge. The wavelike nature of quantum states and the non-commutative geometry of quantum phase space obstruct a straightforward generalization of classical chaos theory. Here we develop a rigorous approach to quantum chaos by leveraging quantum optimal transport theory, which provides the missing geometric foundation for measuring distances between extended quantum distributions. We define quantum Lyapunov exponents that naturally avoid divergences encountered when naïvely generalizing classical exponents, and show that in the semiclassical limit they recover the classical global expansion rate, and hence the usual maximal Lyapunov exponent when they coincide. Our framework provides a tight connection between the divergence of classical trajectories and semiclassical phase space evolution, and additionally clarifies the role of out-of-time-order correlators as diagnostics of quantum chaos. These results establish quantum optimal transport as a unifying mathematical foundation for quantum chaos theory, providing new tools to characterize dynamical behavior across the full range of quantum dynamics from simple few-body models to complex many-body systems.</p></p><p></p><p>Jordan Cotler, Felipe Hernández</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 27 ★</p><p><b>Authors:</b> Jordan Cotler, Felipe Hernández</p><p><b>arXiv ID:</b> 2608.27350 (<a href="https://arxiv.org/abs/2608.27350">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.27350">scirate</a>)</p><p><b>Abstract:</b></p><p>Chaos in classical systems can be characterized by Lyapunov exponents that measure the exponential divergence of nearby trajectories, but directly extending this framework to quantum mechanics has been a persistent challenge. The wavelike nature of quantum states and the non-commutative geometry of quantum phase space obstruct a straightforward generalization of classical chaos theory. Here we develop a rigorous approach to quantum chaos by leveraging quantum optimal transport theory, which provides the missing geometric foundation for measuring distances between extended quantum distributions. We define quantum Lyapunov exponents that naturally avoid divergences encountered when naïvely generalizing classical exponents, and show that in the semiclassical limit they recover the classical global expansion rate, and hence the usual maximal Lyapunov exponent when they coincide. Our framework provides a tight connection between the divergence of classical trajectories and semiclassical phase space evolution, and additionally clarifies the role of out-of-time-order correlators as diagnostics of quantum chaos. These results establish quantum optimal transport as a unifying mathematical foundation for quantum chaos theory, providing new tools to characterize dynamical behavior across the full range of quantum dynamics from simple few-body models to complex many-body systems.</p></p><p></p><p>Jordan Cotler, Felipe Hernández</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27202</guid>
-<pubDate>Sat, 29 Aug 2026 16:58:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:57:56 GMT</pubDate>
 <title>[26★] Strong Converse Exponent of Quantum State Merging</title>
 <author>Mario Berta, ..., Roberto Rubboli, Marco Tomamichel</author>
 <link>https://arxiv.org/abs/2608.27202</link>
@@ -38,31 +38,31 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27363</guid>
-<pubDate>Sat, 29 Aug 2026 16:57:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:56:56 GMT</pubDate>
 <title>[21★] On supporting affine functionals for Entanglement of Formation</title>
 <author>A.S.Holevo, M.E.Shirokov</author>
 <link>https://arxiv.org/abs/2608.27363</link>
 <content:encoded><![CDATA[<p><p><b>Scites:</b> 21 ★</p><p><b>Authors:</b> A.S.Holevo, M.E.Shirokov</p><p><b>arXiv ID:</b> 2608.27363 (<a href="https://arxiv.org/abs/2608.27363">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.27363">scirate</a>)</p><p><b>Abstract:</b></p><p>In several articles, the authors assume that the convex roof structure of the EoF and finite-dimensionality of subsystems AA and BB guarantee the existence of the (global) supporting affine functional for the EoF at any state of the system ABAB. This means that for any state ρ\rho of ABAB there is a Hermitian operator Λρ\Lambda_\rho on HAB=HA⊗HB\mathcal{H}_{AB}=\mathcal{H}_A\otimes\mathcal{H}_B such that EF(ρ)=TrΛρρE_F(\rho)=\mathrm{Tr}\Lambda_\rho\rho and EF(σ)≥TrΛρσE_F(\sigma)\geq\mathrm{Tr}\Lambda_\rho\sigma for any state σ\sigma of ABAB. We present an explicit example showing that, when ρ\rho is degenerate, this is not true even in the simplest case when AA and BB are qubit systems. The construction is based on the fact that the existence of a supporting affine functional for the EoF at a state ρ\rho is equivalent to the Lipschitz lower semicontinuity of the EoF at this state ρ\rho. We use Wootters&#x27; formula and the help of Claude Fable 5 to find a state ρ\rho of the system ABAB for which the latter property does not hold. We also describe conditions for the existence the local and global supporting affine functionals for the EoF at a given state of both finite and infinite-dimensional bipartite quantum systems. These conditions allow us to find Lipschitz lower semicontinuity bounds for the EoF at a given finite rank state ρ\rho (i.e. inequalities of the form EF(ρ)−EF(σ)≤Cρ‖ρ−σ‖1\,E_F(\rho)-E_F(\sigma)\leq C_\rho\|\rho-\sigma\|_1) with and without restrictions on the support of the state σ\sigma.</p></p><p></p><p>A.S.Holevo, M.E.Shirokov</p><p></p>]]></content:encoded>
 </item>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2608.27171</guid>
+<pubDate>Sun, 30 Aug 2026 16:55:56 GMT</pubDate>
+<title>[18★] Conditional contraction coefficients and their applications to quantum networks</title>
+<author>Christoph Hirche, ..., Theshani Nuradha, Mark M. Wilde</author>
+<link>https://arxiv.org/abs/2608.27171</link>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 18 ★</p><p><b>Authors:</b> Christoph Hirche, ..., Theshani Nuradha, Mark M. Wilde</p><p><b>arXiv ID:</b> 2608.27171 (<a href="https://arxiv.org/abs/2608.27171">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.27171">scirate</a>)</p><p><b>Abstract:</b></p><p>Contraction coefficients quantify the loss of distinguishability induced by a channel and provide a strong form of the data-processing inequality. While standard contraction coefficients ignore auxiliary quantum systems, existing extensions based on complete contraction coefficients require the compared states to have identical reference marginals. In this work, we introduce conditional contraction coefficients, a novel family that incorporates arbitrary quantum reference systems by subtracting the distinguishability already present in the reference system. We develop a general framework for contraction coefficients with such quantum side information, including the corresponding strong-data-processing-inequality (SDPI) constants, expansion coefficients, and relative contraction coefficients. For the trace distance, we show that the optimization can be restricted to orthogonal input states. For the quantum relative entropy, we prove that its conditional contraction coefficient is exactly equal to the contraction coefficient of the conditional mutual information, extending the classical correspondence between relative-entropy contraction and mutual-information contraction to the setting with quantum side information. More generally, we identify structural properties of divergences required for these results and discuss extensions beyond the relative entropy. These results establish a unified framework for analyzing information contraction in quantum network settings, where quantum side information and distributed correlations are intrinsic features of the information-processing task. Applications include an extension of the Polyanskiy-Wu bounds on mutual information contraction, new perspectives on mixing times, and fundamental limits on quantum memories.</p></p><p></p><p>Christoph Hirche, ..., Theshani Nuradha, Mark M. Wilde</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27217</guid>
-<pubDate>Sat, 29 Aug 2026 16:56:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:54:56 GMT</pubDate>
 <title>[17★] Tight Bounds for Purity and Product Testing from Partial Transposition</title>
 <author>Oren Akresh, Jacob Beckey</author>
 <link>https://arxiv.org/abs/2608.27217</link>
 <content:encoded><![CDATA[<p><p><b>Scites:</b> 17 ★</p><p><b>Authors:</b> Oren Akresh, Jacob Beckey</p><p><b>arXiv ID:</b> 2608.27217 (<a href="https://arxiv.org/abs/2608.27217">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.27217">scirate</a>)</p><p><b>Abstract:</b></p><p>Coherent measurements across multiple copies of an unknown quantum state can substantially reduce the number of samples required to learn its properties, but remain experimentally challenging. Current experiments typically prepare and measure one copy at a time, potentially adapting later measurements to earlier outcomes. A central challenge is adaptivity, which makes the space of possible measurement strategies difficult to characterize. The positive-partial-transpose (PPT) relaxation bypasses this complexity by considering a larger, mathematically tractable class of measurements, at the risk of weakening the resulting bounds. Here we show, surprisingly, that the relaxation loses nothing at the level of asymptotic sample complexity for two fundamental tasks: purity testing and product testing. In both cases, lower bounds against the full class of PPT measurements are matched by nonadaptive single-copy protocols. Moreover, our proof requires only basic symmetric subspace identities, providing a simple route to sharp lower bounds for adaptive single-copy measurements.</p></p><p></p><p>Oren Akresh, Jacob Beckey</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://arxiv.org/abs/2608.27171</guid>
-<pubDate>Sat, 29 Aug 2026 16:55:10 GMT</pubDate>
-<title>[17★] Conditional contraction coefficients and their applications to quantum networks</title>
-<author>Christoph Hirche, ..., Theshani Nuradha, Mark M. Wilde</author>
-<link>https://arxiv.org/abs/2608.27171</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 17 ★</p><p><b>Authors:</b> Christoph Hirche, ..., Theshani Nuradha, Mark M. Wilde</p><p><b>arXiv ID:</b> 2608.27171 (<a href="https://arxiv.org/abs/2608.27171">arxiv.org</a> | <a href="https://scirate.com/arxiv/2608.27171">scirate</a>)</p><p><b>Abstract:</b></p><p>Contraction coefficients quantify the loss of distinguishability induced by a channel and provide a strong form of the data-processing inequality. While standard contraction coefficients ignore auxiliary quantum systems, existing extensions based on complete contraction coefficients require the compared states to have identical reference marginals. In this work, we introduce conditional contraction coefficients, a novel family that incorporates arbitrary quantum reference systems by subtracting the distinguishability already present in the reference system. We develop a general framework for contraction coefficients with such quantum side information, including the corresponding strong-data-processing-inequality (SDPI) constants, expansion coefficients, and relative contraction coefficients. For the trace distance, we show that the optimization can be restricted to orthogonal input states. For the quantum relative entropy, we prove that its conditional contraction coefficient is exactly equal to the contraction coefficient of the conditional mutual information, extending the classical correspondence between relative-entropy contraction and mutual-information contraction to the setting with quantum side information. More generally, we identify structural properties of divergences required for these results and discuss extensions beyond the relative entropy. These results establish a unified framework for analyzing information contraction in quantum network settings, where quantum side information and distributed correlations are intrinsic features of the information-processing task. Applications include an extension of the Polyanskiy-Wu bounds on mutual information contraction, new perspectives on mixing times, and fundamental limits on quantum memories.</p></p><p></p><p>Christoph Hirche, ..., Theshani Nuradha, Mark M. Wilde</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26266</guid>
-<pubDate>Sat, 29 Aug 2026 16:54:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:53:56 GMT</pubDate>
 <title>[13★] Lieb-Schultz-Mattis Constraints for Quantum Channels: A Spacetime-Duality View</title>
 <author>Sarang Gopalakrishnan, ..., Frank Pollmann, Yizhi You</author>
 <link>https://arxiv.org/abs/2608.26266</link>
@@ -70,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26456</guid>
-<pubDate>Sat, 29 Aug 2026 16:53:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:52:56 GMT</pubDate>
 <title>[10★] Quantum cellular automata and invertible phases of matter</title>
 <author>Corey Jones, Nikita Sopenko, Ryan Thorngren</author>
 <link>https://arxiv.org/abs/2608.26456</link>
@@ -78,7 +78,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27357</guid>
-<pubDate>Sat, 29 Aug 2026 16:52:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:51:56 GMT</pubDate>
 <title>[6★] Randomness can be certified in energy-constrained semi-device-independent scenarios</title>
 <author>Shashank Kumar Ranu, ..., Alastair A. Abbott, Omar Fawzi</author>
 <link>https://arxiv.org/abs/2608.27357</link>
@@ -86,7 +86,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26995</guid>
-<pubDate>Sat, 29 Aug 2026 16:51:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:50:56 GMT</pubDate>
 <title>[6★] Quantum-Inspired Computational Fluid Dynamics for Transient Turbulent Compressible Flows</title>
 <author>Shang Xian Matthew Lee, ..., Matthew L. Sims-Goh, Richard D. Sandberg</author>
 <link>https://arxiv.org/abs/2608.26995</link>
@@ -94,7 +94,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26269</guid>
-<pubDate>Sat, 29 Aug 2026 16:50:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:49:56 GMT</pubDate>
 <title>[4★] How quantum is quantum geometry?</title>
 <author>Ady Stern, Felix von Oppen</author>
 <link>https://arxiv.org/abs/2608.26269</link>
@@ -102,7 +102,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26240</guid>
-<pubDate>Sat, 29 Aug 2026 16:49:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:48:56 GMT</pubDate>
 <title>[4★] Least Variable Quantum Counting Processes</title>
 <author>Bita Olamaei, ..., Pharnam Bakhshinezhad, Giuseppe Vitagliano</author>
 <link>https://arxiv.org/abs/2608.26240</link>
@@ -110,7 +110,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27211</guid>
-<pubDate>Sat, 29 Aug 2026 16:48:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:47:56 GMT</pubDate>
 <title>[3★] The Find Rows and Columns and Decode algorithm for quantum expander codes</title>
 <author>Dimiter Ostrev</author>
 <link>https://arxiv.org/abs/2608.27211</link>
@@ -118,7 +118,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26635</guid>
-<pubDate>Sat, 29 Aug 2026 16:47:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:46:56 GMT</pubDate>
 <title>[3★] Quantum estimation theory with quantum noise control</title>
 <author>Osamu Hirota, Masaki Sohma</author>
 <link>https://arxiv.org/abs/2608.26635</link>
@@ -126,7 +126,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27446</guid>
-<pubDate>Sat, 29 Aug 2026 16:46:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:45:56 GMT</pubDate>
 <title>[2★] Exact Stiffness and Dynamical Responses from Fock-Space Fragmentation</title>
 <author>Jonah Herzog-Arbeitman, Eslam Khalaf, Zhaoyu Han</author>
 <link>https://arxiv.org/abs/2608.27446</link>
@@ -134,7 +134,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26886</guid>
-<pubDate>Sat, 29 Aug 2026 16:45:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:44:56 GMT</pubDate>
 <title>[2★] Quantum Interconnects Part I: Strategic Quantum Network Formation</title>
 <author>Gustavo Castro do Amaral</author>
 <link>https://arxiv.org/abs/2608.26886</link>
@@ -142,7 +142,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26630</guid>
-<pubDate>Sat, 29 Aug 2026 16:44:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:43:56 GMT</pubDate>
 <title>[2★] Quantum-enhanced single and multiparameter metrology in qutrit ensembles by generalized twisting dynamics</title>
 <author>Deep Datta, ..., Vaibhav Madhok, Athreya Shankar</author>
 <link>https://arxiv.org/abs/2608.26630</link>
@@ -150,7 +150,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27335</guid>
-<pubDate>Sat, 29 Aug 2026 16:43:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:42:56 GMT</pubDate>
 <title>[1★] Ultra-Low-Loss Silicon Nitride on Sapphire for Broad-Transparency Nonlinear and Quantum Photonics</title>
 <author>Abdur-Raheem Al-Hallak, ..., Zetian Mi, Zheshen Zhang</author>
 <link>https://arxiv.org/abs/2608.27335</link>
@@ -158,7 +158,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27136</guid>
-<pubDate>Sat, 29 Aug 2026 16:42:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:41:56 GMT</pubDate>
 <title>[1★] Optimal Gaussian networks for private distributed quantum sensing</title>
 <author>Hanbom Yoo, ..., Hyunwoo Yoo, Seongjin Hong</author>
 <link>https://arxiv.org/abs/2608.27136</link>
@@ -166,7 +166,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27132</guid>
-<pubDate>Sat, 29 Aug 2026 16:41:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:40:56 GMT</pubDate>
 <title>[1★] Programmable Cavity Squeezing for Distributed Sensing in a Tweezer Array</title>
 <author>Youssef Trifa, Marco Fattori, Luca Pezzè</author>
 <link>https://arxiv.org/abs/2608.27132</link>
@@ -174,7 +174,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27045</guid>
-<pubDate>Sat, 29 Aug 2026 16:40:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:39:56 GMT</pubDate>
 <title>[1★] A Superconducting Phase Transition Single-Electron Transistor</title>
 <author>Gorka Aizpurua-Iraola, ..., Alberto Gomez-Saiz, M. Fernando Gonzalez-Zalba</author>
 <link>https://arxiv.org/abs/2608.27045</link>
@@ -182,7 +182,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26897</guid>
-<pubDate>Sat, 29 Aug 2026 16:39:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:38:56 GMT</pubDate>
 <title>[1★] Geometric optimality of entanglement-induced fast qubit reset</title>
 <author>Davide Rinaldi, ..., Giacomo Guarnieri, Steve Campbell</author>
 <link>https://arxiv.org/abs/2608.26897</link>
@@ -190,7 +190,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26840</guid>
-<pubDate>Sat, 29 Aug 2026 16:38:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:37:56 GMT</pubDate>
 <title>[1★] Quantum Rare-Event Estimation for Ising Graphical Models with Belief-Propagation State Preparation</title>
 <author>Mario Hernández Vera, ..., Susanne Schneider, Marco De Pascale</author>
 <link>https://arxiv.org/abs/2608.26840</link>
@@ -198,7 +198,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26781</guid>
-<pubDate>Sat, 29 Aug 2026 16:37:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:36:56 GMT</pubDate>
 <title>[1★] Uncertainty limits for post-selected metrology</title>
 <author>Ming Ji, Holger F. Hofmann</author>
 <link>https://arxiv.org/abs/2608.26781</link>
@@ -206,7 +206,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26646</guid>
-<pubDate>Sat, 29 Aug 2026 16:36:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:35:56 GMT</pubDate>
 <title>[1★] A thermometric quantum Brownian model for low-temperature electronics</title>
 <author>Harry T. H. Fung, Thomas M. Stace</author>
 <link>https://arxiv.org/abs/2608.26646</link>
@@ -214,7 +214,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26600</guid>
-<pubDate>Sat, 29 Aug 2026 16:35:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:34:56 GMT</pubDate>
 <title>[1★] Auditing Structured Randomness for Quantum Error Correction under a Bounded Cloud Fault Model</title>
 <author>Ziqing Guo, ..., Randy Kuang, Ziwen Pan</author>
 <link>https://arxiv.org/abs/2608.26600</link>
@@ -222,7 +222,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26446</guid>
-<pubDate>Sat, 29 Aug 2026 16:34:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:33:56 GMT</pubDate>
 <title>[1★] Detuning-robust Rydberg entangling gates from echoed pulses</title>
 <author>Zhubing Jia, ..., Christopher Monroe, Jacob P. Covey</author>
 <link>https://arxiv.org/abs/2608.26446</link>
@@ -230,7 +230,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26350</guid>
-<pubDate>Sat, 29 Aug 2026 16:33:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:32:56 GMT</pubDate>
 <title>[1★] Enhancing the phase sensitivity of a Mach-Zehnder interferometer beyond the Heisenberg limit through dynamic squeezing</title>
 <author>Lakshya Bhardwaj, ..., Mohan Sarovar, Christian Arenz</author>
 <link>https://arxiv.org/abs/2608.26350</link>
@@ -238,7 +238,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26268</guid>
-<pubDate>Sat, 29 Aug 2026 16:32:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:31:56 GMT</pubDate>
 <title>[1★] Bosonic Encodings for Hermite-Galerkin Discretizations of High-Dimensional PDEs and Bayesian Inverse Problems</title>
 <author>Alice Barthe</author>
 <link>https://arxiv.org/abs/2608.26268</link>
@@ -246,7 +246,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26241</guid>
-<pubDate>Sat, 29 Aug 2026 16:31:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:30:56 GMT</pubDate>
 <title>[1★] Fast GHZ encoding with 1−o(1)1-o(1) fidelity</title>
 <author>Laura Shou, ..., Twesh Upadhyaya, Alexey V. Gorshkov</author>
 <link>https://arxiv.org/abs/2608.26241</link>
@@ -254,7 +254,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27457</guid>
-<pubDate>Sat, 29 Aug 2026 16:30:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:29:56 GMT</pubDate>
 <title>[0★] Spectral Fingerprints of Gauge Theories on a Quantum Computer</title>
 <author>Graham Van Goffrier, ..., Bipasha Chakraborty, Emilie Huffman</author>
 <link>https://arxiv.org/abs/2608.27457</link>
@@ -262,7 +262,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27440</guid>
-<pubDate>Sat, 29 Aug 2026 16:29:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:28:56 GMT</pubDate>
 <title>[0★] Dynamics of local quantum information in random unitary circuits</title>
 <author>Ratul Thakur, Sthitadhi Roy</author>
 <link>https://arxiv.org/abs/2608.27440</link>
@@ -270,7 +270,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27430</guid>
-<pubDate>Sat, 29 Aug 2026 16:28:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:27:56 GMT</pubDate>
 <title>[0★] Factorized Boolean representations for efficient quantum synthesis</title>
 <author>Mehul Shah, Robert Fiszer, Marek Perkowski</author>
 <link>https://arxiv.org/abs/2608.27430</link>
@@ -278,7 +278,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27426</guid>
-<pubDate>Sat, 29 Aug 2026 16:27:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:26:56 GMT</pubDate>
 <title>[0★] Detuning- and Stark-robust Rydberg gates</title>
 <author>Elie Bataille, Gyohei Nomura, Manuel Endres</author>
 <link>https://arxiv.org/abs/2608.27426</link>
@@ -286,7 +286,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27399</guid>
-<pubDate>Sat, 29 Aug 2026 16:26:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:25:56 GMT</pubDate>
 <title>[0★] Krylov Break Times from an Inhomogeneous Lieb--Robinson Light Cone</title>
 <author>Shunji Matsuura, ..., Joseph Salfi, Satoshi Iso</author>
 <link>https://arxiv.org/abs/2608.27399</link>
@@ -294,7 +294,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27387</guid>
-<pubDate>Sat, 29 Aug 2026 16:25:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:24:56 GMT</pubDate>
 <title>[0★] Stochastic transport of a Goldstone mode in a self-organized atomic crystal</title>
 <author>Zhanhai Yu, ..., Xiaotian Zhang, Hao Zhang</author>
 <link>https://arxiv.org/abs/2608.27387</link>
@@ -302,7 +302,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27337</guid>
-<pubDate>Sat, 29 Aug 2026 16:24:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:23:56 GMT</pubDate>
 <title>[0★] Dynamics-based nonclassicality witness under dissipative dynamics</title>
 <author>Nguyen Vu Khoi Huynh, ..., Martine Schut, Valerio Scarani</author>
 <link>https://arxiv.org/abs/2608.27337</link>
@@ -310,7 +310,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27333</guid>
-<pubDate>Sat, 29 Aug 2026 16:23:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:22:56 GMT</pubDate>
 <title>[0★] Evaluating Quantum Kernel Methods for Track-Based Classification in High-Energy Physics</title>
 <author>Emmanuel Billias, Nikos Chrisochoides</author>
 <link>https://arxiv.org/abs/2608.27333</link>
@@ -318,7 +318,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27330</guid>
-<pubDate>Sat, 29 Aug 2026 16:22:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:21:56 GMT</pubDate>
 <title>[0★] The Geometry of Dissipative Complexity: A Levi-Type Decomposition Theorem for Markovian Quantum Dynamics via Lie Wedges and Invariant Cones</title>
 <author>Yibin Wang, Dhara Thakkar</author>
 <link>https://arxiv.org/abs/2608.27330</link>
@@ -326,7 +326,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27322</guid>
-<pubDate>Sat, 29 Aug 2026 16:21:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:20:56 GMT</pubDate>
 <title>[0★] The heavy Fermi polaron I: the Lithium-Cesium experiment</title>
 <author>Michael Rautenberg, ..., Lauriane Chomaz, Matthias Weidemüller</author>
 <link>https://arxiv.org/abs/2608.27322</link>
@@ -334,7 +334,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27281</guid>
-<pubDate>Sat, 29 Aug 2026 16:20:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:19:56 GMT</pubDate>
 <title>[0★] Efficient formation and identification of single emitters in 4H-SiC following maskless heavy ion implantation</title>
 <author>S. Eserin, ..., F. Kaiser, B. N. Murdin</author>
 <link>https://arxiv.org/abs/2608.27281</link>
@@ -342,7 +342,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27267</guid>
-<pubDate>Sat, 29 Aug 2026 16:19:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:18:56 GMT</pubDate>
 <title>[0★] Efficient Quantum Simulations of Yang-Mills theory with Maximal-tree Gauge</title>
 <author>Tianyin Li, ..., Xiaoyang Wang, Hongxi Xing</author>
 <link>https://arxiv.org/abs/2608.27267</link>
@@ -350,7 +350,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27237</guid>
-<pubDate>Sat, 29 Aug 2026 16:18:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:17:56 GMT</pubDate>
 <title>[0★] Long-time Dynamics of Many-body Open Quantum Systems using Quantum Generating Functions</title>
 <author>Katha Ganguly, Dario Poletti, Bijay Kumar Agarwalla</author>
 <link>https://arxiv.org/abs/2608.27237</link>
@@ -358,7 +358,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27216</guid>
-<pubDate>Sat, 29 Aug 2026 16:17:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:16:56 GMT</pubDate>
 <title>[0★] QH-GEM: Quantum-Hydrodynamic Generative Modeling</title>
 <author>Harbir Antil, Alex Kaltenbach, Sarswati Shah</author>
 <link>https://arxiv.org/abs/2608.27216</link>
@@ -366,7 +366,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27163</guid>
-<pubDate>Sat, 29 Aug 2026 16:16:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:15:56 GMT</pubDate>
 <title>[0★] Dynamics and spectra of open quantum systems coupled to anharmonic environments</title>
 <author>Kian Damezin, ..., Erik M. Gauger, Adam Burgess</author>
 <link>https://arxiv.org/abs/2608.27163</link>
@@ -374,7 +374,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27112</guid>
-<pubDate>Sat, 29 Aug 2026 16:15:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:14:56 GMT</pubDate>
 <title>[0★] Kramers pseudospin and the quantum number proposed for the many-electron Dirac?Coulomb Hamiltonian</title>
 <author>Shadan Ghassemi Tabrizi</author>
 <link>https://arxiv.org/abs/2608.27112</link>
@@ -382,7 +382,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27099</guid>
-<pubDate>Sat, 29 Aug 2026 16:14:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:13:56 GMT</pubDate>
 <title>[0★] Towards Reproducible Evaluation of Distributed Quantum Circuit Partitioning Algorithms</title>
 <author>Javier Vela-Tambo, Davud Azizov, Tian Guo</author>
 <link>https://arxiv.org/abs/2608.27099</link>
@@ -390,7 +390,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27057</guid>
-<pubDate>Sat, 29 Aug 2026 16:13:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:12:56 GMT</pubDate>
 <title>[0★] Fast On-Chip Thermometry with TiN Kinetic Inductance Resonators in 22 nm Process Technology</title>
 <author>Johann Drayne, ..., M. Fernando Gonzalez-Zalba, Thomas Swift</author>
 <link>https://arxiv.org/abs/2608.27057</link>
@@ -398,7 +398,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.27030</guid>
-<pubDate>Sat, 29 Aug 2026 16:12:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:11:56 GMT</pubDate>
 <title>[0★] Crossing the Rotational Sound Barrier in a Quantum Solvent</title>
 <author>Baptiste Coquinot, ..., Mikhail Lemeshko, Ragheed Alhyder</author>
 <link>https://arxiv.org/abs/2608.27030</link>
@@ -406,7 +406,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26972</guid>
-<pubDate>Sat, 29 Aug 2026 16:11:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:10:56 GMT</pubDate>
 <title>[0★] Quantum-enhanced ghost imaging recognition via joint optimization of speckle patterns and quantum network parameters</title>
 <author>Yirui Mao, ..., Le Wang, Shengmei Zhao</author>
 <link>https://arxiv.org/abs/2608.26972</link>
@@ -414,7 +414,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26942</guid>
-<pubDate>Sat, 29 Aug 2026 16:10:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:09:56 GMT</pubDate>
 <title>[0★] Isotropic Nanoscale Quantum Sensor at Room-Temperature</title>
 <author>Daniel T. Möller, ..., Matteo Slaviero, Nabeel Aslam</author>
 <link>https://arxiv.org/abs/2608.26942</link>
@@ -422,7 +422,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26938</guid>
-<pubDate>Sat, 29 Aug 2026 16:09:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:08:56 GMT</pubDate>
 <title>[0★] Cavity-assisted homodyne detection with a single photodiode</title>
 <author>Jonas Junker</author>
 <link>https://arxiv.org/abs/2608.26938</link>
@@ -430,7 +430,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26914</guid>
-<pubDate>Sat, 29 Aug 2026 16:08:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:07:56 GMT</pubDate>
 <title>[0★] Corrections induced by the GUP to the Lamb shift of an accelerated atom interacting with a quantum scalar field</title>
 <author>Zhi Wang, Yi Yang, Zhengwen Long</author>
 <link>https://arxiv.org/abs/2608.26914</link>
@@ -438,7 +438,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26894</guid>
-<pubDate>Sat, 29 Aug 2026 16:07:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:06:56 GMT</pubDate>
 <title>[0★] Correcting Connectivity in Arc-Based QUBO Models for Fixed-Fleet Vehicle Routing</title>
 <author>Omer Gurevich, ..., Tal Mor, Aryeh Lev Zabokritskiy</author>
 <link>https://arxiv.org/abs/2608.26894</link>
@@ -446,7 +446,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26865</guid>
-<pubDate>Sat, 29 Aug 2026 16:06:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:05:56 GMT</pubDate>
 <title>[0★] Coupled-channel scattering from artificial confinement</title>
 <author>Tafat Weiss Attia, Itay Horin, Betzalel Bazak</author>
 <link>https://arxiv.org/abs/2608.26865</link>
@@ -454,7 +454,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26862</guid>
-<pubDate>Sat, 29 Aug 2026 16:05:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:04:56 GMT</pubDate>
 <title>[0★] Bound-state-mediated remote charging of a quantum battery</title>
 <author>Jian-Jian Cheng, ..., Lin Zhang, Ming-Liang Hu</author>
 <link>https://arxiv.org/abs/2608.26862</link>
@@ -462,7 +462,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26845</guid>
-<pubDate>Sat, 29 Aug 2026 16:04:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:03:56 GMT</pubDate>
 <title>[0★] Energy Ordering from Nonlinear Quantum Dissipation</title>
 <author>Alireza Ataei, Olle Eriksson, Vahid Azimi-Mousolou</author>
 <link>https://arxiv.org/abs/2608.26845</link>
@@ -470,7 +470,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26825</guid>
-<pubDate>Sat, 29 Aug 2026 16:03:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:02:56 GMT</pubDate>
 <title>[0★] Quantum Chaos and Spread of States in Krylov Subspace: A Topical Review</title>
 <author>Hyun-Sik Jeong, Juan F. Pedraza</author>
 <link>https://arxiv.org/abs/2608.26825</link>
@@ -478,7 +478,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26778</guid>
-<pubDate>Sat, 29 Aug 2026 16:02:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:01:56 GMT</pubDate>
 <title>[0★] Observing relativistic trajectories of single photons</title>
 <author>Sayantan Das, ..., Timothy C. Ralph, Jacquiline Romero</author>
 <link>https://arxiv.org/abs/2608.26778</link>
@@ -486,7 +486,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26702</guid>
-<pubDate>Sat, 29 Aug 2026 16:01:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 16:00:56 GMT</pubDate>
 <title>[0★] Topologically protected perfect crossed Andreev reflection in flux-engineered quantum wire junctions</title>
 <author>Abhiram Soori</author>
 <link>https://arxiv.org/abs/2608.26702</link>
@@ -494,7 +494,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26690</guid>
-<pubDate>Sat, 29 Aug 2026 16:00:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:59:56 GMT</pubDate>
 <title>[0★] Adiabatic Otto-like quantum thermodynamical cycle in the non-quasi-static regime</title>
 <author>Salvador J. Robles-Pérez, Salvador Castillo-Rivera</author>
 <link>https://arxiv.org/abs/2608.26690</link>
@@ -502,7 +502,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26554</guid>
-<pubDate>Sat, 29 Aug 2026 15:59:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:58:56 GMT</pubDate>
 <title>[0★] Comparison of Two-Atom Cross Spectra in de Sitter Spacetime, Uniformly Accelerated Minkowski Vacuum, and a Thermal Bath</title>
 <author>Zhiming Huang</author>
 <link>https://arxiv.org/abs/2608.26554</link>
@@ -510,7 +510,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26499</guid>
-<pubDate>Sat, 29 Aug 2026 15:58:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:57:56 GMT</pubDate>
 <title>[0★] Real-Space Analysis of Two-Photon Polarization States in Type-II SPDC for High-Purity Polarization Entanglement</title>
 <author>Koji Taninaka, Takashi Kakue, Ken Morita</author>
 <link>https://arxiv.org/abs/2608.26499</link>
@@ -518,7 +518,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26482</guid>
-<pubDate>Sat, 29 Aug 2026 15:57:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:56:56 GMT</pubDate>
 <title>[0★] Strong Coupling of the Mo Mo Stretching Mode to a Locally Confined Stokes Raman Field in Mo2 Molecular Resonators</title>
 <author>Miao Meng, ..., Guang Yuan Zhu, Chun Y. Liu</author>
 <link>https://arxiv.org/abs/2608.26482</link>
@@ -526,7 +526,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26474</guid>
-<pubDate>Sat, 29 Aug 2026 15:56:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:55:56 GMT</pubDate>
 <title>[0★] Demystifying Relativistic Quantum Collapse</title>
 <author>R. Muciño, ..., D. Sudarsky, M. Wiedemann</author>
 <link>https://arxiv.org/abs/2608.26474</link>
@@ -534,7 +534,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26427</guid>
-<pubDate>Sat, 29 Aug 2026 15:55:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:54:56 GMT</pubDate>
 <title>[0★] Emergent non-Markovianity in time-delayed waveguide QED</title>
 <author>Debsuvra Mukhopadhyay, Stuart J. Masson</author>
 <link>https://arxiv.org/abs/2608.26427</link>
@@ -542,7 +542,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26420</guid>
-<pubDate>Sat, 29 Aug 2026 15:54:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:53:56 GMT</pubDate>
 <title>[0★] The Role of Geometric Analysis in Interferometer Design and Optimization for Gravitational Quantum Entanglement</title>
 <author>Alireza Maleki</author>
 <link>https://arxiv.org/abs/2608.26420</link>
@@ -550,7 +550,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26407</guid>
-<pubDate>Sat, 29 Aug 2026 15:53:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:52:56 GMT</pubDate>
 <title>[0★] Recovery-Free CHSH Nonlocality with Particle Loss</title>
 <author>Giovanni Scala, Cosmo Lupo</author>
 <link>https://arxiv.org/abs/2608.26407</link>
@@ -558,7 +558,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26378</guid>
-<pubDate>Sat, 29 Aug 2026 15:52:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:51:56 GMT</pubDate>
 <title>[0★] Large Deviations for the Bose--Einstein Condensate of the Ideal Gas in the Canonical Ensemble</title>
 <author>Andreas Deuchert, Xuanyu Li</author>
 <link>https://arxiv.org/abs/2608.26378</link>
@@ -566,7 +566,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26377</guid>
-<pubDate>Sat, 29 Aug 2026 15:51:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:50:56 GMT</pubDate>
 <title>[0★] The Capacity of Entanglement and Holographic Entropies at Finite Resources</title>
 <author>Ning Bao, Jacob March</author>
 <link>https://arxiv.org/abs/2608.26377</link>
@@ -574,7 +574,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26361</guid>
-<pubDate>Sat, 29 Aug 2026 15:50:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:49:56 GMT</pubDate>
 <title>[0★] Misunderstanding Convivial Solipsism: the Necessity of a Perspectival Logic</title>
 <author>Herve Zwirn</author>
 <link>https://arxiv.org/abs/2608.26361</link>
@@ -582,7 +582,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26318</guid>
-<pubDate>Sat, 29 Aug 2026 15:49:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:48:56 GMT</pubDate>
 <title>[0★] Exploiting overcompleteness of Platonic-solid POVMs for shadow estimation</title>
 <author>Dario Melegari, ..., Hetta Vappula, Daniel Cavalcanti</author>
 <link>https://arxiv.org/abs/2608.26318</link>
@@ -590,7 +590,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2608.26277</guid>
-<pubDate>Sat, 29 Aug 2026 15:48:10 GMT</pubDate>
+<pubDate>Sun, 30 Aug 2026 15:47:56 GMT</pubDate>
 <title>[0★] Quantizing the guiding center: do quantization and coarse graining commute?</title>
 <author>Rodrigo Andrade e Silva, Ted Jacobson</author>
 <link>https://arxiv.org/abs/2608.26277</link>
