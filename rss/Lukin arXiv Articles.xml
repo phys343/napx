@@ -5,6 +5,14 @@
 <link>https://arxiv.org/search/?searchtype=author&amp;query=Lukin%2C+M+D</link>
 <description>Lukin arXiv Articles</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.03039</guid>
+<pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
+<title>Nanoscale magnetometry via collective many-body dynamics in diamond</title>
+<author>Haoyang Gao, Piotr Put, Nathaniel T. Leitao, Nazlı U. Köylüoğlu, Andrew Maccabe, Mathew Mammen, Siddharth Dandavate, Lillian B. Hughes Wyatt, Leigh S. Martin, Ania C. Bleszynski Jayich, Hongkun Park, Mikhail D. Lukin</author>
+<link>https://arxiv.org/abs/2609.03039</link>
+<content:encoded><![CDATA[<p>Many-body dynamics constitutes a promising approach for creating correlations between quantum particles which can be used for applications in sensing and metrology. However, utilizing this potential for substantial gains in practical settings is a challenging task with only a very few applications realized to date. Here, we demonstrate an approach to nanoscale magnetic sensing enabled by strongly interacting electronic spins in a room temperature solid. By coherently controlling collective many-body dynamics of a dipolar ensemble of $\sim 10^4$ nitrogen-vacancy (NV) centres in diamond with pulsed magnetic field gradients, we demonstrate practical metrological gain up to $7.9(2)\,\mathrm{dB}$ for magnetic signal detection and $8.8(3)\,\mathrm{dB}$ for magnetic noise sensing, fully accounting for experimental overheads. Finally, we combine these methods to demonstrate a momentum-space-resolved sensing modality that enables detection of spatially correlated magnetic noise at continuously tunable length scales down to 50 nanometers. These observations open the door toward practical applications of interaction-enhanced quantum sensors for nanoscale biological imaging and material characterization.</p><p></p><p>Haoyang Gao, Piotr Put, Nathaniel T. Leitao, Nazlı U. Köylüoğlu, Andrew Maccabe, Mathew Mammen, Siddharth Dandavate, Lillian B. Hughes Wyatt, Leigh S. Martin, Ania C. Bleszynski Jayich, Hongkun Park, Mikhail D. Lukin</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2607.21554</guid>
 <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
 <title>Strategic Plan for Neutral Atom Quantum Computation</title>
@@ -395,14 +403,6 @@
 <author>Nazlı Uğur Köylüoğlu, Nishad Maskara, Johannes Feldmeier, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2408.02741</link>
 <content:encoded><![CDATA[<p>Neutral atom arrays driven into Rydberg states constitute a promising approach for realizing programmable quantum systems. Enabled by strong interactions associated with Rydberg blockade, they allow for simulation of complex spin models and quantum dynamics. We introduce a new Floquet engineering technique for systems in the blockade regime that provides control over novel forms of interactions and entanglement dynamics in such systems. Our approach is based on time-dependent control of Rydberg laser detuning and leverages perturbations around periodic many-body trajectories as resources for operator spreading. These time-evolved operators are utilized as a basis for engineering interactions in the effective Hamiltonian describing the stroboscopic evolution. As an example, we show how our method can be used to engineer strong spin exchange, consistent with the blockade, in a one-dimensional chain, enabling the exploration of gapless Luttinger liquid phases. In addition, we demonstrate that combining gapless excitations with Rydberg blockade can lead to dynamic generation of large-scale multi-partite entanglement. Experimental feasibility and possible generalizations are discussed.</p><p></p><p>Nazlı Uğur Köylüoğlu, Nishad Maskara, Johannes Feldmeier, Mikhail D. Lukin</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2408.02733</guid>
-<pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-<title>Quantum simulation of dynamical gauge theories in periodically driven Rydberg atom arrays</title>
-<author>Johannes Feldmeier, Nishad Maskara, Nazlı Uğur Köylüoğlu, Mikhail D. Lukin</author>
-<link>https://arxiv.org/abs/2408.02733</link>
-<content:encoded><![CDATA[<p>Simulating quantum dynamics of lattice gauge theories (LGTs) is an exciting frontier in quantum science. Programmable quantum simulators based on neutral atom arrays are a promising approach to achieve this goal, since strong Rydberg blockade interactions can be used to naturally create low energy subspaces that can encode local gauge constraints. However, realizing regimes of LGTs where both matter and gauge fields exhibit significant dynamics requires the presence of tunable multi-body interactions such as those associated with ring exchange, which are challenging to realize directly. Here, we develop a method for generating such interactions based on time-periodic driving. Our approach utilizes controlled deviations from time-reversed trajectories, which are accessible in constrained PXP-type models via the application of frequency modulated global pulses. We show that such driving gives rise to a family of effective Hamiltonians with multi-body interactions whose strength is non-perturbative in their respective operator weight. We apply this approach to a two-dimensional U(1) LGT on the Kagome lattice, where we engineer strong six-body magnetic plaquette terms that are tunable relative to the kinetic energy of matter excitations, demonstrating access to previously unexplored dynamical regimes. Potential generalizations and prospects for experimental implementations are discussed.</p><p></p><p>Johannes Feldmeier, Nishad Maskara, Nazlı Uğur Köylüoğlu, Mikhail D. Lukin</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
