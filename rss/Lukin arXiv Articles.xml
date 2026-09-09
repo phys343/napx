@@ -5,6 +5,14 @@
 <link>https://arxiv.org/search/?searchtype=author&amp;query=Lukin%2C+M+D</link>
 <description>Lukin arXiv Articles</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.08134</guid>
+<pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
+<title>Observation of multipartite spin entanglement in a cuprate chain</title>
+<author>S. F. R. TenHuisen, Z. Shen, V. Bhartiya, V. Menon, P. Sharma, H. Padma, Z. Guan, W. He, M. K. Lajer, J. Li, D. Banerjee, J. Pelliciari, I. A. Zaliznyak, G. D. Gu, M. D. Lukin, S. Johnston, M. P. M. Dean, V. Bisogni, Y. Wang, M. Mitrano</author>
+<link>https://arxiv.org/abs/2609.08134</link>
+<content:encoded><![CDATA[<p>Quantum materials are believed to host highly entangled states of matter, but probing and quantifying such entanglement has long remained experimentally elusive. Here, we use resonant inelastic X-ray scattering (RIXS) as a probe of multipartite spin entanglement. By projecting the RIXS cross section onto the appropriate spin excitation channel, we show that the Quantum Fisher Information can be extracted directly from the measured spin fluctuation spectrum. We detect at least 7-partite spin entanglement in the model one-dimensional cuprate Sr$_2$CuO$_3$, revealing one of the largest entanglement depths yet reported in a solid. The observed entanglement depth agrees with Hubbard-model expectations and persists to elevated temperatures. Our results establish RIXS as an experimental probe of many-body spin entanglement and provide a platform for extensions to charge and orbital sectors and nonequilibrium settings.</p><p></p><p>S. F. R. TenHuisen, Z. Shen, V. Bhartiya, V. Menon, P. Sharma, H. Padma, Z. Guan, W. He, M. K. Lajer, J. Li, D. Banerjee, J. Pelliciari, I. A. Zaliznyak, G. D. Gu, M. D. Lukin, S. Johnston, M. P. M. Dean, V. Bisogni, Y. Wang, M. Mitrano</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2609.03039</guid>
 <pubDate>Wed, 02 Sep 2026 00:00:00 GMT</pubDate>
 <title>Nanoscale magnetometry via collective many-body dynamics in diamond</title>
@@ -395,14 +403,6 @@
 <author>Mincheol Park, Nishad Maskara, Marcin Kalinowski, Mikhail D. Lukin</author>
 <link>https://arxiv.org/abs/2408.09524</link>
 <content:encoded><![CDATA[<p>Reliable quantum computation requires systematic identification and correction of errors that occur and accumulate in quantum hardware. To diagnose and correct such errors, standard quantum error-correcting protocols utilize $\textit{global}$ error information across the system obtained by mid-circuit readout of ancillary qubits. We investigate circuit-level error-correcting protocols that are measurement-free and based on $\textit{local}$ error information. Such a local error correction (LEC) circuit consists of faulty multi-qubit gates to perform both syndrome extraction and ancilla-controlled error removal. We develop and implement a reinforcement learning framework that takes a fixed set of faulty gates as inputs and outputs an optimized LEC circuit. To evaluate this approach, we quantitatively characterize an extension of logical qubit lifetime by a noisy LEC circuit. For the 2D classical Ising model and 4D toric code, our optimized LEC circuit performs better at extending a memory lifetime compared to a conventional LEC circuit based on Toom's rule in a sub-threshold gate error regime. We further show that such circuits can be used to reduce the rate of mid-circuit readouts to preserve a 2D toric code memory. Finally, we discuss the application of the LEC protocol on dissipative preparation of quantum states with topological phases.</p><p></p><p>Mincheol Park, Nishad Maskara, Marcin Kalinowski, Mikhail D. Lukin</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2408.02741</guid>
-<pubDate>Mon, 05 Aug 2024 00:00:00 GMT</pubDate>
-<title>Floquet engineering of interactions and entanglement in periodically driven Rydberg chains</title>
-<author>Nazlı Uğur Köylüoğlu, Nishad Maskara, Johannes Feldmeier, Mikhail D. Lukin</author>
-<link>https://arxiv.org/abs/2408.02741</link>
-<content:encoded><![CDATA[<p>Neutral atom arrays driven into Rydberg states constitute a promising approach for realizing programmable quantum systems. Enabled by strong interactions associated with Rydberg blockade, they allow for simulation of complex spin models and quantum dynamics. We introduce a new Floquet engineering technique for systems in the blockade regime that provides control over novel forms of interactions and entanglement dynamics in such systems. Our approach is based on time-dependent control of Rydberg laser detuning and leverages perturbations around periodic many-body trajectories as resources for operator spreading. These time-evolved operators are utilized as a basis for engineering interactions in the effective Hamiltonian describing the stroboscopic evolution. As an example, we show how our method can be used to engineer strong spin exchange, consistent with the blockade, in a one-dimensional chain, enabling the exploration of gapless Luttinger liquid phases. In addition, we demonstrate that combining gapless excitations with Rydberg blockade can lead to dynamic generation of large-scale multi-partite entanglement. Experimental feasibility and possible generalizations are discussed.</p><p></p><p>Nazlı Uğur Köylüoğlu, Nishad Maskara, Johannes Feldmeier, Mikhail D. Lukin</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
