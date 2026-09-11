@@ -5,6 +5,14 @@
 <link>https://arxiv.org/search/?searchtype=author&amp;query=Lukin%2C+M+D</link>
 <description>Lukin arXiv Articles</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.11668</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+<title>Nonlinear dynamics and mechanical frequency combs with a Meissner-levitated micromagnet</title>
+<author>Yiqi Wang, Trisha Madhavan, Vanessa Wachter, J. DaLi Schaefer, Addison NewRingeisen, Zhiyuan Wei, Frankie Fung, Benjamin A. Stickler, Mikhail D. Lukin</author>
+<link>https://arxiv.org/abs/2609.11668</link>
+<content:encoded><![CDATA[<p>Nonlinearities in multimode mechanical systems can give rise to rich dynamical phenomena with great potential for sensing applications and for future quantum experiments. We demonstrate that the coupled center-of-mass and rotational motion of a Meissner-levitated micromagnet offer a promising platform for nonlinear dynamics, combining low dissipation, magnetic tunability, strong intrinsic Duffing nonlinearities, and nonlinear intermodal couplings. We use this tunability to demonstrate the generation of a mechanical frequency comb in the micromagnet dynamics, realized by parametric excitation of two translational modes followed by cascaded nonlinear frequency mixing, which produces a phononic comb with tunable spacing. At large amplitudes, nonlinear coupling to a low-frequency librational mode of the magnet leads to parametric excitation and phase locking of that mode, generating a dense spectral fine structure at subharmonics of the drive. These results establish levitated micromagnets as a platform for nonlinear multimode mechanics, with potential applications in precision sensing and quantum-limited metrology.</p><p></p><p>Yiqi Wang, Trisha Madhavan, Vanessa Wachter, J. DaLi Schaefer, Addison NewRingeisen, Zhiyuan Wei, Frankie Fung, Benjamin A. Stickler, Mikhail D. Lukin</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2609.08134</guid>
 <pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate>
 <title>Observation of multipartite spin entanglement in a cuprate chain</title>
@@ -395,14 +403,6 @@
 <author>Robert Ott, Torsten V. Zache, Nishad Maskara, Mikhail D. Lukin, Peter Zoller, Hannes Pichler</author>
 <link>https://arxiv.org/abs/2408.12645</link>
 <content:encoded><![CDATA[<p>Topologically ordered quantum matter exhibits intriguing long-range patterns of entanglement, which reveal themselves in subsystem entropies. However, measuring such entropies, which can be used to certify topological order, on large partitions is challenging and becomes practically unfeasible for large systems. We propose a protocol based on local adiabatic deformations of the Hamiltonian which extracts the universal features of long-range topological entanglement from measurements on small subsystems of finite size, trading an exponential number of measurements against a polynomial-time evolution. Our protocol is general and readily applicable to various quantum simulation architectures. We apply our method to various string-net models representing both abelian and non-abelian topologically ordered phases, and illustrate its application to neutral atom tweezer arrays with numerical simulations.</p><p></p><p>Robert Ott, Torsten V. Zache, Nishad Maskara, Mikhail D. Lukin, Peter Zoller, Hannes Pichler</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2408.09524</guid>
-<pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
-<title>Enhancing Quantum Memory Lifetime with Measurement-Free Local Error Correction and Reinforcement Learning</title>
-<author>Mincheol Park, Nishad Maskara, Marcin Kalinowski, Mikhail D. Lukin</author>
-<link>https://arxiv.org/abs/2408.09524</link>
-<content:encoded><![CDATA[<p>Reliable quantum computation requires systematic identification and correction of errors that occur and accumulate in quantum hardware. To diagnose and correct such errors, standard quantum error-correcting protocols utilize $\textit{global}$ error information across the system obtained by mid-circuit readout of ancillary qubits. We investigate circuit-level error-correcting protocols that are measurement-free and based on $\textit{local}$ error information. Such a local error correction (LEC) circuit consists of faulty multi-qubit gates to perform both syndrome extraction and ancilla-controlled error removal. We develop and implement a reinforcement learning framework that takes a fixed set of faulty gates as inputs and outputs an optimized LEC circuit. To evaluate this approach, we quantitatively characterize an extension of logical qubit lifetime by a noisy LEC circuit. For the 2D classical Ising model and 4D toric code, our optimized LEC circuit performs better at extending a memory lifetime compared to a conventional LEC circuit based on Toom's rule in a sub-threshold gate error regime. We further show that such circuits can be used to reduce the rate of mid-circuit readouts to preserve a 2D toric code memory. Finally, we discuss the application of the LEC protocol on dissipative preparation of quantum states with topological phases.</p><p></p><p>Mincheol Park, Nishad Maskara, Marcin Kalinowski, Mikhail D. Lukin</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
