@@ -5,6 +5,14 @@
 <link>https://journals.aps.org/search/results?clauses=%5B%7B%22field%22%3A%22physh%22%2C%22value%22%3A%22%7B%5C%22facetid%5C%22%3Anull%2C%5C%22conceptid%5C%22%3A%5C%22200ea9a8-54ca-4f8f-a7e1-f186bb326056%5C%22%2C%5C%22label%5C%22%3A%5C%22Quantum%20simulation%5C%22%2C%5C%22facetlabel%5C%22%3A%5C%22%5C%22%7D%22%2C%22operator%22%3A%22AND%22%7D%5D&amp;sort=recent&amp;per_page=20&amp;journal=prl&amp;journal=prxquantum&amp;journal=prx&amp;journal=rmp</link>
 <description>APS Quantum Simulation Articles</description>
 <item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/v2ms-wmz1</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+<title>Framework for Robust Quantum Speedups in Practical Correlated Electronic Structure and Dynamics</title>
+<author>Jielun Chen and Garnet Kin-Lic Chan</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/v2ms-wmz1</link>
+<content:encoded><![CDATA[<p>Proposed quantum advantage in electronic structure has so far required significant fine-tuning to find problems where classical heuristics fail. We describe how to obtain robust quantum speedups for correlated electronic structure and dynamics precisely in the regime where widely used classical heuristics are most successful.</p><p></p><p>Jielun Chen and Garnet Kin-Lic Chan</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 130601 (2026)</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/rvhd-vsz8</guid>
 <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
 <title>Tomographic Characterization of Non-Hermitian Hamiltonians in Reciprocal Space</title>
@@ -155,14 +163,6 @@
 <author>Visal So, Mingjian Zhu, Midhuna Duraisamy Suganthi, Abhishek Menon, George Tomaras, Roman Zhuravel, Han Pu, and Guido Pagano</author>
 <link>https://journals.aps.org/prl/abstract/10.1103/mf8d-91ws</link>
 <content:encoded><![CDATA[<p>We propose and demonstrate an experimental scheme to engineer thermal baths with independently tunable temperatures and dissipation rates for the motional modes of a trapped-ion system. This approach enables robust thermal-state preparation and quantum simulations of open-system dynamics in bosonic and spin-boson models at well-controlled finite temperatures. We benchmark our protocol by experimentally realizing out-of-equilibrium dynamics of a charge-transfer model at different temperatures. We observe that, when the process occurs at a higher temperature, the transfer rate spectrum broadens, with reduced rates at small donor-acceptor energy gaps and enhanced rates at large gaps. We then employ our scheme to study local-temperature effects in a two-mode vibrationally assisted exciton transfer system, where we observe thermally activated interference pathways for excitation transfer.</p><p></p><p>Visal So, Mingjian Zhu, Midhuna Duraisamy Suganthi, Abhishek Menon, George Tomaras, Roman Zhuravel, Han Pu, and Guido Pagano</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 050604 (2026)</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://journals.aps.org/prxquantum/abstract/10.1103/phk5-slkl</guid>
-<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-<title>Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas</title>
-<author>Mohsen Bagherimehrab, Luis Mantilla Calderón, Dominic W. Berry, Philipp Schleich, Mohammad Ghazi Vakili, Abdulrahman Aldossary, Jorge A. Campos Gonzalez Angulo, Christoph Gorgulla, and Alán Aspuru-Guzik</author>
-<link>https://journals.aps.org/prxquantum/abstract/10.1103/phk5-slkl</link>
-<content:encoded><![CDATA[<p>Hamiltonian simulation using product formulas is arguably the most straightforward and practical approach for algorithmic simulation of a quantum system’s dynamics on a quantum computer. Here we present corrected product formulas (CPFs), a variation of product formulas achieved by injecting auxiliary terms called correctors into standard product formulas. We establish several correctors that improve the accuracy of standard product formulas by orders of magnitude when simulating Hamiltonians comprised of two exactly simulatable partitions, a common structure of lattice Hamiltonians. Importantly, injecting these correctors increases the overall simulation cost by only a small additive or multiplicative factor. We show that correctors are particularly advantageous for perturbed systems, where one partition has a relatively small norm compared to the other, as they allow the small norm to be utilized as an additional parameter for controlling the simulation error. We demonstrate the performance of CPFs by numerical simulations for several lattice Hamiltonians. Numerical results show that our theoretical error bounds for CPFs match or outperform the empirical error scaling of standard product formulas for these systems. We also demonstrate improvements offered by CPFs by implementing small-size systems on actual quantum hardware, as well as on noisy and noiseless quantum simulators. CPFs could be a valuable algorithmic tool for early fault-tolerant quantum computers with limited computing resources. As for standard product formulas, CPFs could also be used for simulations on a classical computer.</p><p></p><p>Mohsen Bagherimehrab, Luis Mantilla Calderón, Dominic W. Berry, Philipp Schleich, Mohammad Ghazi Vakili, Abdulrahman Aldossary, Jorge A. Campos Gonzalez Angulo, Christoph Gorgulla, and Alán Aspuru-Guzik</p><p></p><p>PRX Quantum</p><p></p><p>PRX Quantum 7, 033018 (2026)</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
