@@ -5,12 +5,36 @@
 <link>https://circuitqed.net/news/</link>
 <description>CircuitQED News</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.24759</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+<title>Superconducting qubit based on altermagnets</title>
+<author>Xue-Feng Pan, Xin-Lei Hei, Franco Nori, and Peng-Bo Li</author>
+<link>https://arxiv.org/abs/2609.24759</link>
+<content:encoded><![CDATA[<p>Altermagnets, characterized by vanishing net magnetization and momentum-dependent spin splitting, provide a promising platform for next-generation Josephson devices. Here, we exploitthe Josephson effect in superconductor-altermagnet-superconductor junctions and show how to engineer prescribed current-phase relations by device design. Based on these programmable Josephson potentials utilizing altermagnetism, we propose a new class of transmon-like superconducting qubits that combine large anharmonicity with enhanced robustness against decoherence via coherent two-Cooper-pair tunneling. We show that in the 2ϕ-junction regime, this kind of qubit provides intrinsic protection against charge noise due to parity protection. Magnetic flux can be used to precisely control the qubit and, under appropriate bias, this architecture further suppresses charge and flux noise. Our results establish altermagnets as a versatile platform for Josephson-potential engineering and open a new route toward high-performance superconducting qubits combining high coherence, large anharmonicity, and broad tunability.</p><p></p><p>Xue-Feng Pan, Xin-Lei Hei, Franco Nori, and Peng-Bo Li</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.23126</guid>
+<pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
+<title>Performance optimization of cascaded traveling wave Josephson parametric amplifiers</title>
+<author>Ilari Lilja, Ekaterina Mukhanova, Stanislav Khaldeev, Ilya Golokolenov, Visa Vesterinen, and Pertti Hakonen</author>
+<link>https://arxiv.org/abs/2609.23126</link>
+<content:encoded><![CDATA[<p>Traveling-wave parametric amplifiers (TWPAs) based on Josephson metamaterials provide broadband gain with near-quantum-limited added noise. Whereas long nonlinear metamaterial devicescan deliver high gain, short arrays suffer less from dissipation, pump depletion, and internal standing waves which can degrade noise performance. Here, we demonstrate a cascaded TWPA architecture that combines the advantages of both approaches by employing a short (736-element), low-dissipation Superconducting Nonlinear Asymmetric Inductive eLement (SNAIL)-based TWPA as the first amplification stage, followed by a conventional long (1632-element) TWPA that provides additional gain. The resulting amplifier cascade achieves nearly 30 dB of total gain over a tunable bandwidth of approximately 1 GHz while maintaining added noise close to the quantum limit. Our results establish a cascade of TWPAs as a practical approach for high-gain, broadband, quantum amplification with applications in quantum information processing, multi-mode entanglement, and quantum sensing applications at microwave frequencies.</p><p></p><p>Ilari Lilja, Ekaterina Mukhanova, Stanislav Khaldeev, Ilya Golokolenov, Visa Vesterinen, and Pertti Hakonen</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2609.22002</guid>
 <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
 <title>Microwave dielectric properties of LiNbO3 and AlN at millikelvin temperatures and single-photon power</title>
 <author>Alessandro Reineri, Francesco Crisa, Akshay Murthy, Maithlee Shinde, Daniel Bafia, Changqing Wang, Tanay Roy, Alexander Romanenko, John Zasadzinski, Anna Grassellino, and Silvia Zorzetti</author>
 <link>https://arxiv.org/abs/2609.22002</link>
 <content:encoded><![CDATA[<p>Efficient bidirectional microwave optical photon conversion is a key capability for scaling superconducting quantum processors into distributed networks. However, achieving the necessaryconversion efficiency requires filling a critical knowledge gap in understanding the loss mechanisms of electro optic materials. Here, we characterize the microwave properties of single crystal bulk LiNbO3 and AlN over a broad range of powers, down to single photon levels, and spanning from millikelvin temperatures to above 1K. We demonstrate that both materials exhibit two level systems (TLS) behavior, while piezoelectric related losses are excluded. We show that TLS induced dissipation is predominantly localized on the surface rather than being an intrinsic bulk property, a result further corroborated by room temperature 3D XPS and time of flight SIMS analyses. These findings provide useful insights to engineer hybrid architectures that integrate bulk electro optic crystals within superconducting cavities, proving that microwave quality factors compatible with high efficiency microwave optical transduction are within reach.</p><p></p><p>Alessandro Reineri, Francesco Crisa, Akshay Murthy, Maithlee Shinde, Daniel Bafia, Changqing Wang, Tanay Roy, Alexander Romanenko, John Zasadzinski, Anna Grassellino, and Silvia Zorzetti</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.22442</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+<title>Extracting Electromagnetic Bare Mode Couplings in Large Superconducting Quantum Processors</title>
+<author>Reza Molavi, Ebrahim Forati, Yaxing Zhang, Andrey R. Klots, Juan Atalaya, Brandon W. Langley, Dogan A. Timucin, Moein Nazari, Ghazi Khan, Zlatko K. Minev, Alexander N. Korotkov, and Michel H. Devoret</author>
+<link>https://arxiv.org/abs/2609.22442</link>
+<content:encoded><![CDATA[<p>High-fidelity control of superconducting quantum processors requires accurate characterization of electromagnetic coupling strengths among the device’s constituent elements. Accuratelyextracting these couplings across large-scale architectures, presently featuring hundreds of qubits, poses a challenging multi-scale modeling problem. This requires resolving scales from the nanometer-scale geometry of Josephson junctions and their leads to the centimeter-scale size of the enclosing metallic packages. We present four numerical coupling extraction methods based on the avoided level crossing, the energy participation ratio, the induced electromotive force, and the impedance matrix. These methods are tailored to work with commercially available 3D electromagnetic solvers. We benchmark these techniques on a 10×10 array of transmon qubits, extracting their couplings to standing package modes. Our results show that these methods yield consistent coupling strengths with a maximum relative difference of less than 5%.</p><p></p><p>Reza Molavi, Ebrahim Forati, Yaxing Zhang, Andrey R. Klots, Juan Atalaya, Brandon W. Langley, Dogan A. Timucin, Moein Nazari, Ghazi Khan, Zlatko K. Minev, Alexander N. Korotkov, and Michel H. Devoret</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2609.20766</guid>
@@ -59,30 +83,6 @@
 <author>Jiwon Kang, Jiuk Lee, Eliya Blumenthal, Shay Hacohen-Gourgy, and Eunseong Kim</author>
 <link>https://arxiv.org/abs/2609.16628</link>
 <content:encoded><![CDATA[<p>Two-dimensional massive Dirac systems feature a gapped Dirac-cone dispersion central to a broad range of phenomena in condensed-matter and topological physics. While quantum simulationshave demonstrated one-dimensional Dirac dynamics and two-dimensional massless Weyl dynamics, programmable simulation of massive two-dimensional Dirac dynamics remains experimentally unexplored. Here, we realize a programmable two-dimensional free Dirac Hamiltonian in circuit QED, with independently tunable spin-momentum couplings and mass, using a single Rabi-driven qubit coupled to two modes of a multimode cavity. Using this Hamiltonian, we observe rotational Zitterbewegung of a two-dimensional massive Dirac particle and its dependence on the effective mass. Time-dependent master-equation simulations incorporating measured decoherence, corrections beyond the rotating-wave approximation (RWA), and anharmonicity of the transmon reproduce the observed dynamics. Our results establish multimode circuit QED as a compact, programmable platform for higher-dimensional relativistic quantum dynamics and provide a foundation for exploring dynamical and topological phenomena in gapped Dirac systems.</p><p></p><p>Jiwon Kang, Jiuk Lee, Eliya Blumenthal, Shay Hacohen-Gourgy, and Eunseong Kim</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2609.16630</guid>
-<pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-<title>Two-qubit gates for the soft 0-π qubit</title>
-<author>Zhenxing Liu, Eli Weissler, and Joshua Combes</author>
-<link>https://arxiv.org/abs/2609.16630</link>
-<content:encoded><![CDATA[<p>The 0-{pi} qubit promises longer lifetimes than the transmon, making it a strong candidate for a next-generation, lower-error qubit. Gyenis et al. experimentally demonstrated an unprotectedsingle-qubit gate in the soft 0-{\pi} regime [1], but no corresponding two-qubit gate has yet been proposed. We propose an unprotected CZ gate for capacitively coupled soft 0-{\pi} qubits. The gate uses a direct transition between a computational state and a higher non-computational state. Assuming negligible device disorder and a phenomenological noise model, the simulated CZ gate achieves a fidelity of approximately 99.9% at a gate time of approximately 160 ns.</p><p></p><p>Zhenxing Liu, Eli Weissler, and Joshua Combes</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2609.17165</guid>
-<pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-<title>Phase-stable voltage bias for Josephson photonics devices</title>
-<author>Amir Hosein Esmaeili, Naveen Nehra, Alexandre Paquette, Mona Arabmohammadi, Baptiste Monge, Alexandre Rogalle, Francois Cyrenne-Bergeron, Yannick Lapointe, Nicolas Lavoie, Nicolas Bourlet, and Max Hofheinz</author>
-<link>https://arxiv.org/abs/2609.17165</link>
-<content:encoded><![CDATA[<p>Parametric interactions are foundational to superconducting quantum technologies, yet conventional microwave-driven pumping introduces parasitic Kerr nonlinearities and higher-orderharmonics that limit device performance. Josephson Photonics (JP) avoids these parasitics by utilizing dc-biased junctions but has remained constrained by high phase noise and the absence of a stable phase reference. Here, we overcome this limitation by integrating a Josephson voltage standard (JVS) to establish a noise-tolerant phase reference, and demonstrate that this reference is coherently transferred to an inelastic Cooper-pair tunneling amplifier (ICTA) via the superconducting order this http URL resulting low-phase-noise architecture yields a 14-dB enhancement in averaged gain and better quantum-limited noise performance. Critically, the phase reference enables the first observation of phase-sensitive gain and sqeezing in a dc-biased amplifier. By reconciling clean, Kerr-free nonlinearities with phase-coherent drive, our architecture establishes a robust platform for high-purity parametric processes in superconducting circuits.</p><p></p><p>Amir Hosein Esmaeili, Naveen Nehra, Alexandre Paquette, Mona Arabmohammadi, Baptiste Monge, Alexandre Rogalle, Francois Cyrenne-Bergeron, Yannick Lapointe, Nicolas Lavoie, Nicolas Bourlet, and Max Hofheinz</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2609.15604</guid>
-<pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
-<title>Parametric two-qubit gates via Landau-Zener interference</title>
-<author>Simon Geisert, Albert Hertel, Sören Ihssen, Zhongyi Jiang, Paul Kugler, Nicolas Zapata, Nicolas Gosling, Ameya Nambisan, Yuan Gao, Asier Galicia, Jéferson R. Guimarães, Yorgo Haddad, Marc Neis, Harsh Bhardwaj, Dmitriy A. Volkov, Juan Cereijo, Marcello Guardascione, Yebin Liu, Markus Jerger, Pavel Bushev, Frank Wilhelm-Mauch, Wolfgang Wernsdorfer, Shai Machnes, Mohammad Ansari, Rami Barends, and Ioan M. Pop</author>
-<link>https://arxiv.org/abs/2609.15604</link>
-<content:encoded><![CDATA[<p>We propose and demonstrate gates between two superconducting qubits based on quantum interference of consecutive Landau-Zener (LZ) transitions. This gate mechanism bridges between basebandand parametric two-qubit control, enabling in situ tuning of the control frequency across a continuous interval up to hundreds of MHz. Another advantage compared to dispersive couplers is that the speed of the LZ gate is on the order of the full coupling strength. We experimentally demonstrate the gate on two platforms, a modular chiplet architecture of coupled generalized flux qubits, and on a monolithic transmon architecture. The combination of tunability and gate speed establishes the LZ gate as a unique tool for multiplexing control pulses and interconnecting superconducting chiplet architectures.</p><p></p><p>Simon Geisert, Albert Hertel, Sören Ihssen, Zhongyi Jiang, Paul Kugler, Nicolas Zapata, Nicolas Gosling, Ameya Nambisan, Yuan Gao, Asier Galicia, Jéferson R. Guimarães, Yorgo Haddad, Marc Neis, Harsh Bhardwaj, Dmitriy A. Volkov, Juan Cereijo, Marcello Guardascione, Yebin Liu, Markus Jerger, Pavel Bushev, Frank Wilhelm-Mauch, Wolfgang Wernsdorfer, Shai Machnes, Mohammad Ansari, Rami Barends, and Ioan M. Pop</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
