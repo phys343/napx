@@ -5,6 +5,45 @@
 <link>https://www.nature.com/search?q=%22quantum+simulation%22+OR+%22quantum+simulator%22+OR+%22quantum+simulating%22+OR+%22quantum+computation%22+OR+%22quantum+computer%22+OR+%22quantum+computing%22+OR+%22quantum+information%22+OR+%22quantum+metrology%22+OR+%22quantum+error+correction%22+OR+%22quantum+entanglement%22+OR+%22quantum+algorithm%22+OR+%22quantum+circuit%22+OR+%22quantum+gate%22+OR+%22quantum+bit%22+OR+%22superconducting+qubit%22+OR+%22trapped+ion%22+OR+%22neutral+atom+quantum+computing%22+OR+%22photonic+quantum+computing%22+OR+%22quantum+cryptography%22+OR+%22quantum+key+distribution%22+OR+%22quantum+communication%22+OR+%22quantum+teleportation%22+OR+%22quantum+repeater%22+OR+%22quantum+sensing%22+OR+%22quantum+advantage%22+OR+%22quantum+machine+learning%22+OR+%22quantum-enhanced%22+OR+%22quantum+memory%22+OR+%22quantum+network%22++OR+%22quantum+superposition%22+OR+%22quantum+interference%22+OR+%22quantum+measurement%22++OR+%22Bell+inequality%22++OR+%22quantum+non-locality%22++OR+%22variational+quantum%22+OR+%22quantum+fault+tolerance%22+OR++%22topological+quantum%22+OR+%22Shor%27s+algorithm%22+OR+%22quantum+supremacy%22+OR+%22quantum+coherence%22+&amp;journal=nphys%2C+nature%2C+nphoton&amp;order=date_desc</link>
 <description>Nature Quantum Physics Articles</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03400-6</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+<title>Aharonov–Bohm interference in a {\pmb{\mathbb{Z}}}_{\bf{2}} lattice gauge theory on a hybrid qubit–oscillator quantum computer</title>
+<author>S. SanerO. BăzăvanA. Bermúdez</author>
+<link>https://www.nature.com/articles/s41567-026-03400-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03400-6/MediaObjects/41567_2026_3400_Fig1_HTML.png"><p></p><p>Lattice gauge theories are difficult to study using classical computational methods. A dynamic quantum simulation of a lattice gauge theory on a two-site loop has now been demonstrated using a hybrid qubit–oscillator trapped-ion quantum computer.</p><p></p><p>S. SanerO. BăzăvanA. Bermúdez</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03402-4</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+<title>Quantum field theory dynamics on a spin–phonon quantum computer</title>
+<author>Anton T. ThanSaurabh V. KadamNorbert M. Linke</author>
+<link>https://www.nature.com/articles/s41567-026-03402-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03402-4/MediaObjects/41567_2026_3402_Fig1_HTML.png"><p></p><p>Many physical systems involve bosons, which are resource-intensive to simulate with a qubit-based quantum computer. Now a hybrid approach that combines qubits and bosons has been used to simulate a quantum field theory of fermions and bosons.</p><p></p><p>Anton T. ThanSaurabh V. KadamNorbert M. Linke</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03448-4</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+<title>Universal scaling laws for correlated decay of many-body quantum systems</title>
+<author>Wai-Keong MokAvishi PoddarAna Asenjo-Garcia</author>
+<link>https://www.nature.com/articles/s41567-026-03448-4</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03448-4/MediaObjects/41567_2026_3448_Fig1_HTML.png"><p></p><p>Decoherence and decay of quantum systems arise from interactions with their environment that can be highly complex. Despite this complexity, bounds on the decay rate are found that are asymptotically tight in several important cases.</p><p></p><p>Wai-Keong MokAvishi PoddarAna Asenjo-Garcia</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03401-5</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+<title>Quantum field theory dynamics in trapped ions</title>
+<author>Pan-Yu Hou</author>
+<link>https://www.nature.com/articles/s41567-026-03401-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03401-5/MediaObjects/41567_2026_3401_Fig1_HTML.png"><p></p><p>Computing the real-time dynamics of quantum field theories is intractable for classical devices. Now, the dynamics of two quantum field theories have been observed using hybrid trapped-ion quantum simulators.</p><p></p><p>Pan-Yu Hou</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03445-7</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+<title>A universal speed limit for collective decay in quantum systems</title>
+<link>https://www.nature.com/articles/s41567-026-03445-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03445-7/MediaObjects/41567_2026_3445_Fig1_HTML.png"><p></p><p>Quantum systems composed of many particles can decay much faster than the sum of their individual decay rates. Now, a universal speed limit of many-body decay has been revealed, providing bounds on applications that rely on collective emission and a potential constraint on the scalability of quantum technologies.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41566-026-02022-x</guid>
 <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 <title>Observation of multiphoton entanglement in resonance fluorescence</title>
@@ -51,6 +90,14 @@
 <author>K. J. ArnoldM. D. K. LeeM. D. Barrett</author>
 <link>https://www.nature.com/articles/s41586-026-11072-8</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-11072-8/MediaObjects/41586_2026_11072_Fig1_HTML.png"><p></p><p>Two independent 176Lu+ single-ion optical clocks achieve fractional frequency uncertainties near 10−19 and agree at 5.7 × 10−19, advancing precision timekeeping.</p><p></p><p>K. J. ArnoldM. D. K. LeeM. D. Barrett</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-03025-y</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+<title>Daily briefing: Read the text inside a charred, rolled-up scroll</title>
+<author>Flora Graham</author>
+<link>https://www.nature.com/articles/d41586-026-03025-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-03025-y/d41586-026-03025-y_17300602.png"><p></p><p>Lead detection reveals the ink on burnt sheets of papyrus. Plus, the first radio signals from an exoplanet and how to stay smart in the age of AI.</p><p></p><p>Flora Graham</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02942-2</guid>
@@ -353,54 +400,6 @@
 <author>Atsushi UedaVic Vander LindenFrank Verstraete</author>
 <link>https://www.nature.com/articles/s41567-026-03390-5</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03390-5/MediaObjects/41567_2026_3390_Fig1_HTML.png"><p></p><p>Dualities between different models are an important tool in theoretical many-body physics. Here a constructive recipe is given for topological interfaces between dual models that are transparent to wavepackets but alter their properties.</p><p></p><p>Atsushi UedaVic Vander LindenFrank Verstraete</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02458-9</guid>
-<pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-<title>Levitating sensor for magnetic fields could detect ultrafaint brain activity</title>
-<author>Dhruv Shenai</author>
-<link>https://www.nature.com/articles/d41586-026-02458-9</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-02458-9/d41586-026-02458-9_53067950.jpg"><p></p><p>The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter.</p><p></p><p>Dhruv Shenai</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10875-z</guid>
-<pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-<title>Pseudogap in a Fermi–Hubbard quantum simulator</title>
-<author>Lev Haldar KendrickAnant KaleMarkus Greiner</author>
-<link>https://www.nature.com/articles/s41586-026-10875-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10875-z/MediaObjects/41586_2026_10875_Fig1_HTML.png"><p></p><p>A cold-atom quantum simulator reveals the pseudogap metallic state in the Hubbard model, mapping its phase diagram and advancing understanding of doped Mott insulators and high-temperature superconductivity.</p><p></p><p>Lev Haldar KendrickAnant KaleMarkus Greiner</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10822-y</guid>
-<pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-<title>An entangling gate for dual-rail erasure qubits</title>
-<author>Nitish MehtaJames D. TeohRobert J. Schoelkopf</author>
-<link>https://www.nature.com/articles/s41586-026-10822-y</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10822-y/MediaObjects/41586_2026_10822_Fig1_HTML.png"><p></p><p>A fast, low-error entangling gate for dual-rail cavity erasure qubits preserves a strong error hierarchy, advancing scalable quantum error correction with substantially improved fault-tolerant performance.</p><p></p><p>Nitish MehtaJames D. TeohRobert J. Schoelkopf</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02252-7</guid>
-<pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-<title>The recovered notes of Professor Alborough</title>
-<author>Gemma Church</author>
-<link>https://www.nature.com/articles/d41586-026-02252-7</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-02252-7/d41586-026-02252-7_53007968.jpg"><p></p><p>Time for a break.</p><p></p><p>Gemma Church</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10865-1</guid>
-<pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-<title>Encapsulation epitaxy of air-stable 2D superconductors for quantum circuits</title>
-<author>Xudong ZhengSameia ZamanJing Kong</author>
-<link>https://www.nature.com/articles/s41586-026-10865-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10865-1/MediaObjects/41586_2026_10865_Fig1_HTML.png"><p></p><p>An ‘encapsulation epitaxy’ mechanism is used to grow air-stable, two-dimensional superconducting films at the interface of a 2D–3D hybrid substrate, holding promise for use in fabrication of superconducting quantum circuitry.</p><p></p><p>Xudong ZhengSameia ZamanJing Kong</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10867-z</guid>
-<pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-<title>Upcycling of polyvinyl chloride into polyalphaolefin lubricants</title>
-<author>Eric Munyaneza NuwayoConnor ThompsonGuoliang Liu</author>
-<link>https://www.nature.com/articles/s41586-026-10867-z</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10867-z/MediaObjects/41586_2026_10867_Fig1_HTML.png"><p></p><p>A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon circularity.</p><p></p><p>Eric Munyaneza NuwayoConnor ThompsonGuoliang Liu</p><p></p><p>Nature</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
