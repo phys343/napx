@@ -5,6 +5,38 @@
 <link>https://www.nature.com/search?q=%22quantum+simulation%22+OR+%22quantum+simulator%22+OR+%22quantum+simulating%22+OR+%22quantum+computation%22+OR+%22quantum+computer%22+OR+%22quantum+computing%22+OR+%22quantum+information%22+OR+%22quantum+metrology%22+OR+%22quantum+error+correction%22+OR+%22quantum+entanglement%22+OR+%22quantum+algorithm%22+OR+%22quantum+circuit%22+OR+%22quantum+gate%22+OR+%22quantum+bit%22+OR+%22superconducting+qubit%22+OR+%22trapped+ion%22+OR+%22neutral+atom+quantum+computing%22+OR+%22photonic+quantum+computing%22+OR+%22quantum+cryptography%22+OR+%22quantum+key+distribution%22+OR+%22quantum+communication%22+OR+%22quantum+teleportation%22+OR+%22quantum+repeater%22+OR+%22quantum+sensing%22+OR+%22quantum+advantage%22+OR+%22quantum+machine+learning%22+OR+%22quantum-enhanced%22+OR+%22quantum+memory%22+OR+%22quantum+network%22++OR+%22quantum+superposition%22+OR+%22quantum+interference%22+OR+%22quantum+measurement%22++OR+%22Bell+inequality%22++OR+%22quantum+non-locality%22++OR+%22variational+quantum%22+OR+%22quantum+fault+tolerance%22+OR++%22topological+quantum%22+OR+%22Shor%27s+algorithm%22+OR+%22quantum+supremacy%22+OR+%22quantum+coherence%22+&amp;journal=nphys%2C+nature%2C+nphoton&amp;order=date_desc</link>
 <description>Nature Quantum Physics Articles</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03471-5</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+<title>Deterministic and programmable fusion for the scalable generation of photonic graph states</title>
+<author>Yan LiYunfan YangLuming Duan</author>
+<link>https://www.nature.com/articles/s41567-026-03471-5</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03471-5/MediaObjects/41567_2026_3471_Fig1_HTML.png"><p></p><p>Graph states entangle many photons in a special structure that is useful for several quantum protocols. Making graph states is often probabilistic and inefficient, but now a deterministic approach using superconducting qubits has been demonstrated.</p><p></p><p>Yan LiYunfan YangLuming Duan</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-02018-7</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+<title>Strong coupling of photon to an electron on helium</title>
+<author>David Pile</author>
+<link>https://www.nature.com/articles/s41566-026-02018-7</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-02018-7/MediaObjects/41566_2026_2018_Figa_HTML.png"><p></p><p>David Pile</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-11086-2</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+<title>Self-aligned optical microcomb emerging between octave-separated lasers</title>
+<author>Grégory MoillePradyoth ShandilyaKartik Srinivasan</author>
+<link>https://www.nature.com/articles/s41586-026-11086-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-11086-2/MediaObjects/41586_2026_11086_Fig1_HTML.png"><p></p><p>An architectural inversion shifts integrated optical frequency comb generation from outward broadening around a central pump to filling the spectrum between two octave-separated pumps through a self-aligned parametrically driven cavity soliton, enabling robust self-referencing for future deployable on-chip frequency and time metrology.</p><p></p><p>Grégory MoillePradyoth ShandilyaKartik Srinivasan</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41566-026-02005-y</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+<title>Hybrid nanophotonic trap boosts atomic storage and coherence times</title>
+<author>Xiao-Dong He</author>
+<link>https://www.nature.com/articles/s41566-026-02005-y</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41566-026-02005-y/MediaObjects/41566_2026_2005_Fig1_HTML.png"><p></p><p>A hybrid nanophotonic trap that replaces the attractive red-detuned laser field with atom–surface interactions — Casimir–Polder interactions and electrostatic attraction — achieves record-long storage and coherence times for cold atoms coupled to a nanofibre surface.</p><p></p><p>Xiao-Dong He</p><p></p><p>Nature Photonics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03459-1</guid>
 <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
 <title>Topology from disorder</title>
@@ -23,7 +55,7 @@
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03400-6</guid>
 <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
-<title>Aharonov–Bohm interference in a ZZ2{\pmb{\mathbb{Z}}}_{\bf{2}} lattice gauge theory on a hybrid qubit–oscillator quantum computer</title>
+<title>Aharonov–Bohm interference in a \({\pmb{\mathbb{Z}}}_{\bf{2}}\) lattice gauge theory on a hybrid qubit–oscillator quantum computer</title>
 <author>S. SanerO. BăzăvanA. Bermúdez</author>
 <link>https://www.nature.com/articles/s41567-026-03400-6</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03400-6/MediaObjects/41567_2026_3400_Fig1_HTML.png"><p></p><p>Lattice gauge theories are difficult to study using classical computational methods. A dynamic quantum simulation of a lattice gauge theory on a two-site loop has now been demonstrated using a hybrid qubit–oscillator trapped-ion quantum computer.</p><p></p><p>S. SanerO. BăzăvanA. Bermúdez</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
@@ -171,20 +203,20 @@
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03473-3/MediaObjects/41567_2026_3473_Figa_HTML.png"><p></p><p>The sensitivity of moiré materials to crystal quality and twist angle can make experimental results difficult to replicate. Reproducibility should therefore be built into material growth, device fabrication and experimental design from the outset.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03462-6</guid>
-<pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
-<title>Monolayer superconductors enter the circuit</title>
-<author>Lishu Wu</author>
-<link>https://www.nature.com/articles/s41567-026-03462-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03462-6/MediaObjects/41567_2026_3462_Figa_HTML.png"><p></p><p>Lishu Wu</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10993-8</guid>
 <pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
 <title>TM184C is a GPCR-like regulator of intercellular exchange and autophagy</title>
 <author>Kyutae D. LeeSamuel TaylorDaniel G. Isom</author>
 <link>https://www.nature.com/articles/s41586-026-10993-8</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10993-8/MediaObjects/41586_2026_10993_Fig1_HTML.png"><p></p><p>TM184C—an ancient G-protein-coupled receptor-like superdark protein involved in regulation of autophagy, intercellular connectivity and material exchange—underscores the promise of exploring the understudied human proteome and beyond.</p><p></p><p>Kyutae D. LeeSamuel TaylorDaniel G. Isom</p><p></p><p>Nature</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03462-6</guid>
+<pubDate>Wed, 09 Sep 2026 00:00:00 GMT</pubDate>
+<title>Monolayer superconductors enter the circuit</title>
+<author>Lishu Wu</author>
+<link>https://www.nature.com/articles/s41567-026-03462-6</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03462-6/MediaObjects/41567_2026_3462_Figa_HTML.png"><p></p><p>Lishu Wu</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03418-w</guid>
@@ -368,38 +400,6 @@
 <author>Zhiyan DingYongtao ZhanLin Lin</author>
 <link>https://www.nature.com/articles/s41567-026-03389-y</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03389-y/MediaObjects/41567_2026_3389_Fig1_HTML.png"><p></p><p>Preparation of thermal and ground states is needed for a number of quantum algorithms but is generally computationally difficult. Now state preparation algorithms with efficiency guarantees have been developed for an important class of model.</p><p></p><p>Zhiyan DingYongtao ZhanLin Lin</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10788-x</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-<title>Reply to: Dataset artefacts can partially drive the measured decline in disruption</title>
-<author>Michael ParkErin LeaheyRussell J. Funk</author>
-<link>https://www.nature.com/articles/s41586-026-10788-x</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10788-x/MediaObjects/41586_2026_10788_Fig1_HTML.png"><p></p><p>Michael ParkErin LeaheyRussell J. Funk</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/d41586-026-02498-1</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-<title>A particle made of force: physicists say they’ve found mysterious ‘glueball’</title>
-<author>Mohana Basu</author>
-<link>https://www.nature.com/articles/d41586-026-02498-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-02498-1/d41586-026-02498-1_53111268.jpg"><p></p><p>Scientists have been predicting the existence of a particle made of gluons for a long time, but detecting it has taken decades.</p><p></p><p>Mohana Basu</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41586-026-10857-1</guid>
-<pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-<title>Superconducting 2D cuprate with a single CuO2 plane</title>
-<author>Hengsheng LuoDongjoon SongYuanbo Zhang</author>
-<link>https://www.nature.com/articles/s41586-026-10857-1</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41586-026-10857-1/MediaObjects/41586_2026_10857_Fig1_HTML.png"><p></p><p>A high-quality, pristine monolayer cuprate superconductor with a single CuO2 plane is fabricated and used to identify two quantum critical phenomena emerging between the Mott insulating phase and the superconducting phase.</p><p></p><p>Hengsheng LuoDongjoon SongYuanbo Zhang</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03404-2</guid>
-<pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-<title>Diamonds are a metrologist’s best friends</title>
-<author>Anita Mary Chandran</author>
-<link>https://www.nature.com/articles/s41567-026-03404-2</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03404-2/MediaObjects/41567_2026_3404_Figa_HTML.png"><p></p><p>Owing to its exceptional characteristics, diamond finds many applications in metrology. Anita Chandran introduces us to the glittering world of natural and synthetic diamonds.</p><p></p><p>Anita Mary Chandran</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
