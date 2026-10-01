@@ -5,6 +5,14 @@
 <link>https://circuitqed.net/news/</link>
 <description>CircuitQED News</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2609.38354</guid>
+<pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+<title>Time-Integrated Leakage as a Dynamical Benchmark for Multi-Mode Superconducting-Qubit Reset</title>
+<author>Sushant Sharma, and Aswath Babu H</author>
+<link>https://arxiv.org/abs/2609.38354</link>
+<content:encoded><![CDATA[<p>Reset performance in superconducting qubits is often summarized by the population that remains at the end of the pulse. This is an important number, but it does not describe what happensduring the reset itself. A protocol may reach a small final residual while keeping the qubit in a leakage state for a comparatively long part of the trajectory. In this work, we therefore use time-integrated leakage, together with the usual endpoint population, to study a multi-mode dissipative reset model under flux-frequency control. We examine finite thermal occupation, parameter sweeps, frequency disorder, an auxiliary-chain ablation, and a literature-based rate benchmark. At the representative ablation point, adding the auxiliary chain reduces Lf from 8.56 to 0.78 ns and shifts the sustained Pf less-than- 10-2 crossing from 39.5 to 9.8 ns. Interestingly, the configuration without the chain still reaches the smaller long-time residual. The two metrics can therefore favor different reset configurations. For the same 300 ns analysis window, an effective rate model built from the f-ket and e-ket decay rates reported by Zhou et al. gives Lf is 108.0 ns, while the complete simulated configuration gives 0.783 ns. We use this only as a kinetic reference and not as a reproduction of the experiment. In the wider set of simulations, thermal occupation is the main source of degradation, while the frequency disorder considered here has a much weaker effect. The results suggest that time-integrated leakage is a useful quantity to report alongside endpoint residuals, especially when reset is part of repeated quantum-error-correction cycles.</p><p></p><p>Sushant Sharma, and Aswath Babu H</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2609.37296</guid>
 <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
 <title>Parametric DRAG for leakage-suppressed exchange gates in superconducting qubits</title>
@@ -75,14 +83,6 @@
 <author>Xue-Feng Pan, Xin-Lei Hei, Franco Nori, and Peng-Bo Li</author>
 <link>https://arxiv.org/abs/2609.24759</link>
 <content:encoded><![CDATA[<p>Altermagnets, characterized by vanishing net magnetization and momentum-dependent spin splitting, provide a promising platform for next-generation Josephson devices. Here, we exploitthe Josephson effect in superconductor-altermagnet-superconductor junctions and show how to engineer prescribed current-phase relations by device design. Based on these programmable Josephson potentials utilizing altermagnetism, we propose a new class of transmon-like superconducting qubits that combine large anharmonicity with enhanced robustness against decoherence via coherent two-Cooper-pair tunneling. We show that in the 2ϕ-junction regime, this kind of qubit provides intrinsic protection against charge noise due to parity protection. Magnetic flux can be used to precisely control the qubit and, under appropriate bias, this architecture further suppresses charge and flux noise. Our results establish altermagnets as a versatile platform for Josephson-potential engineering and open a new route toward high-performance superconducting qubits combining high coherence, large anharmonicity, and broad tunability.</p><p></p><p>Xue-Feng Pan, Xin-Lei Hei, Franco Nori, and Peng-Bo Li</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2609.23126</guid>
-<pubDate>Sat, 19 Sep 2026 00:00:00 GMT</pubDate>
-<title>Performance optimization of cascaded traveling wave Josephson parametric amplifiers</title>
-<author>Ilari Lilja, Ekaterina Mukhanova, Stanislav Khaldeev, Ilya Golokolenov, Visa Vesterinen, and Pertti Hakonen</author>
-<link>https://arxiv.org/abs/2609.23126</link>
-<content:encoded><![CDATA[<p>Traveling-wave parametric amplifiers (TWPAs) based on Josephson metamaterials provide broadband gain with near-quantum-limited added noise. Whereas long nonlinear metamaterial devicescan deliver high gain, short arrays suffer less from dissipation, pump depletion, and internal standing waves which can degrade noise performance. Here, we demonstrate a cascaded TWPA architecture that combines the advantages of both approaches by employing a short (736-element), low-dissipation Superconducting Nonlinear Asymmetric Inductive eLement (SNAIL)-based TWPA as the first amplification stage, followed by a conventional long (1632-element) TWPA that provides additional gain. The resulting amplifier cascade achieves nearly 30 dB of total gain over a tunable bandwidth of approximately 1 GHz while maintaining added noise close to the quantum limit. Our results establish a cascade of TWPAs as a practical approach for high-gain, broadband, quantum amplification with applications in quantum information processing, multi-mode entanglement, and quantum sensing applications at microwave frequencies.</p><p></p><p>Ilari Lilja, Ekaterina Mukhanova, Stanislav Khaldeev, Ilya Golokolenov, Visa Vesterinen, and Pertti Hakonen</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
