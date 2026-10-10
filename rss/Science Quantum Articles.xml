@@ -5,6 +5,62 @@
 <link>https://www.science.org/action/doSearch?AllField=quantum&amp;SeriesKey=science&amp;startPage=0&amp;sortBy=Earliest</link>
 <description>Science Quantum Articles</description>
 <item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeb4554</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+<title>Volatile eutectics to tailor crystallization for perovskite optoelectronics</title>
+<author>Jason J. Yoo, Connor J. Dolan, Seongsik Nam, Jinho Lee, Kyu Min Kang, Bong Joo Kang, Rushik Desai, Niranjana Mohan Kumar, Arkita Chakrabarti, Daesoo Kim, Jang Hee Cho, Donghyuk Chung, Jack R. Palmer, Kelly X. Vences, Zhewen J. D. Deng, Yanqi Luo, Barry Lai, Tao Zhou, Zhonghou Cai, Martin V. Holt, Andrew M. Kiss, In Sun Cho, Dong Hyun Kim, Jun Hong Noh, Mariana I. Bertoni, Arun Mannodi-Kanakkithodi, Dane W. deQuilettes, David P. Fenning, [...], Seong Sik Shin, +18 authors</author>
+<link>https://www.science.org/doi/10.1126/science.aeb4554</link>
+<content:encoded><![CDATA[<p>Improvements to the radiative efficiency of halide perovskite thin films are necessary to approach fundamental solar cell performance limits. We tailored perovskite crystallization by leveraging the eutectic interaction between zinc bromide and ...</p><p></p><p>Jason J. Yoo, Connor J. Dolan, Seongsik Nam, Jinho Lee, Kyu Min Kang, Bong Joo Kang, Rushik Desai, Niranjana Mohan Kumar, Arkita Chakrabarti, Daesoo Kim, Jang Hee Cho, Donghyuk Chung, Jack R. Palmer, Kelly X. Vences, Zhewen J. D. Deng, Yanqi Luo, Barry Lai, Tao Zhou, Zhonghou Cai, Martin V. Holt, Andrew M. Kiss, In Sun Cho, Dong Hyun Kim, Jun Hong Noh, Mariana I. Bertoni, Arun Mannodi-Kanakkithodi, Dane W. deQuilettes, David P. Fenning, [...], Seong Sik Shin, +18 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aeh3915</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+<title>Wafer-scale low-symmetry graphene moiré superlattice for integrated quantum rectifiers</title>
+<author>Wenhao Tan, Jiuming Liu, Zhenhao Gong, Yunyu Hong, Hao Sheng, Haiyang Zhang, Zirui Wang, Shipeng Lu, Hao Wu, Shujie Tang, Pai Li, Haitao Jiang, Zhongying Xue, Miao Zhang, Paul K. Chu, Lin He, Pan He, Yongfeng Mei, Haizhou Lu, Xufeng Kou, Ziao Tian, [...], Zengfeng Di, +11 authors</author>
+<link>https://www.science.org/doi/10.1126/science.aeh3915</link>
+<content:encoded><![CDATA[<p>Low-symmetry materials unlock rich Berry curvature physics and anomalous transport phenomena that are forbidden in high-symmetry quantum systems through rigorous crystalline symmetry constraints. Current approaches rely on external fields or complex ...</p><p></p><p>Wenhao Tan, Jiuming Liu, Zhenhao Gong, Yunyu Hong, Hao Sheng, Haiyang Zhang, Zirui Wang, Shipeng Lu, Hao Wu, Shujie Tang, Pai Li, Haitao Jiang, Zhongying Xue, Miao Zhang, Paul K. Chu, Lin He, Pan He, Yongfeng Mei, Haizhou Lu, Xufeng Kou, Ziao Tian, [...], Zengfeng Di, +11 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aei1312</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+<title>High-fidelity entangling gates and nonlocal circuits with neutral atoms</title>
+<author>Simon J. Evered, Muqing Xu, Sophie H. Li, Alexandra A. Geim, J. Pablo Bonilla Ataides, Marcin Kalinowski, Dolev Bluvstein, Nishad Maskara, Christian Kokail, Markus Greiner, Vladan Vuletić, [...], Mikhail D. Lukin, +1 authors</author>
+<link>https://www.science.org/doi/10.1126/science.aei1312</link>
+<content:encoded><![CDATA[<p>The generation and manipulation of entanglement with low error are essential in quantum information systems. In practice, two-qubit entangling gates constitute a dominant error source, limiting circuit depths and performance in fault-tolerant ...</p><p></p><p>Simon J. Evered, Muqing Xu, Sophie H. Li, Alexandra A. Geim, J. Pablo Bonilla Ataides, Marcin Kalinowski, Dolev Bluvstein, Nishad Maskara, Christian Kokail, Markus Greiner, Vladan Vuletić, [...], Mikhail D. Lukin, +1 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aej2213</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+<title>Advancing mathematics research with AI-driven formal proof search</title>
+<author>George Tsoukalas, Anton Kovsharov, Sergey Shirobokov, Anja Surina, Moritz Firsching, Gergely Bérczi, Francisco J. R. Ruiz, Arun Suggala, Adam Zsolt Wagner, Eric Wieser, Lei Yu, Aja Huang, Miklós Z. Horváth, Andrew Ferraiuolo, Henryk Michalewski, Codrut Grosu, Edward Lockhart, Thomas Hubert, Matej Balog, Pushmeet Kohli, [...], Swarat Chaudhuri, +10 authors</author>
+<link>https://www.science.org/doi/10.1126/science.aej2213</link>
+<content:encoded><![CDATA[<p>Large language models (LLMs) increasingly excel at mathematics tasks, but their unreliability limits their utility in mathematics research. A mitigation is to use LLMs to generate formal proofs in languages such as Lean, in which the compiler verifies ...</p><p></p><p>George Tsoukalas, Anton Kovsharov, Sergey Shirobokov, Anja Surina, Moritz Firsching, Gergely Bérczi, Francisco J. R. Ruiz, Arun Suggala, Adam Zsolt Wagner, Eric Wieser, Lei Yu, Aja Huang, Miklós Z. Horváth, Andrew Ferraiuolo, Henryk Michalewski, Codrut Grosu, Edward Lockhart, Thomas Hubert, Matej Balog, Pushmeet Kohli, [...], Swarat Chaudhuri, +10 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ael6628</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+<title>AI for research mathematics has arrived</title>
+<author>Jeremy Avigad, Matthew Ballard</author>
+<link>https://www.science.org/doi/10.1126/science.ael6628</link>
+<content:encoded><![CDATA[<p>Jeremy Avigad, Matthew Ballard</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem9876</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+<title>In Science Journals</title>
+<author>Jesse Smith, Phil Szuromi, Corinne Simonti, Edward Holmes, Jelena Stajic, Seth Thomas Scanlon, Ian S. Osborne, Stella M. Hurtley, Angela Hessler, Michael A. Funk, Unnati Sonawala, Cheri Sirois, Yury Suleymanov, [...], John Foley, +3 authors</author>
+<link>https://www.science.org/doi/10.1126/science.aem9876</link>
+<content:encoded><![CDATA[<p>Jesse Smith, Phil Szuromi, Corinne Simonti, Edward Holmes, Jelena Stajic, Seth Thomas Scanlon, Ian S. Osborne, Stella M. Hurtley, Angela Hessler, Michael A. Funk, Unnati Sonawala, Cheri Sirois, Yury Suleymanov, [...], John Foley, +3 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem9877</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+<title>In Other Journals</title>
+<author>Priscilla N. Kelly, Cheri Sirois, Joana Osório, Marc S. Lavine, Bianca Lopez, Ian S. Osborne, Jack Huang</author>
+<link>https://www.science.org/doi/10.1126/science.aem9877</link>
+<content:encoded><![CDATA[<p>Priscilla N. Kelly, Cheri Sirois, Joana Osório, Marc S. Lavine, Bianca Lopez, Ian S. Osborne, Jack Huang</p><p></p><p>Science</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adv0235</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
 <title>Synergistic polar states by selective atomic gradients</title>
@@ -107,62 +163,6 @@
 <author>Corinne Simonti, Yevgeniya Nusinovich, Priscilla N. Kelly, Bianca Lopez, Jelena Stajic, Michael A. Funk, Sumin Jin</author>
 <link>https://www.science.org/doi/10.1126/science.aem4011</link>
 <content:encoded><![CDATA[<p>Corinne Simonti, Yevgeniya Nusinovich, Priscilla N. Kelly, Bianca Lopez, Jelena Stajic, Michael A. Funk, Sumin Jin</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adp3564</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-<title>Open framework–based Brønsted acid–Lewis base interfaces boost proton transfer in the fuel cells</title>
-<author>Qianli Ma马千里), Jiarui Yang杨嘉睿), Jie Li李婕), Zihan Zhao赵子涵), Feiyu Yue岳飞宇), Jianwei Yang杨建伟), Shuang Zhao赵爽), Wenhan Sheng盛文涵), Tang Wang王堂), Shangnan Zhao周尚楠), Junwen Zhou周俊文), Wenli Xu许文莉), Yanli Lu陆艳丽), Ke Wu吴珂), Xianghao Han韩向豪), Xilin Jia贾茜霖), Wenxiu Yang杨文秀), Qianyou Wang王乾有), Yujing Li李煜璟), Zipeng Zhao赵紫鹏), Yu Han韩宇), Shucheng Sun孙树成), Teng Zhang张腾), Xiao Feng冯霄), [...], Bo Wang王博), +14 authors</author>
-<link>https://www.science.org/doi/10.1126/science.adp3564</link>
-<content:encoded><![CDATA[<p>Limited proton conductivity within the catalyst layer induces severe ohmic polarizations and constrains power output at high hydrogen-to-electricity efficiencies in proton exchange membrane fuel cells. We demonstrate that proton transfer can be boosted ...</p><p></p><p>Qianli Ma马千里), Jiarui Yang杨嘉睿), Jie Li李婕), Zihan Zhao赵子涵), Feiyu Yue岳飞宇), Jianwei Yang杨建伟), Shuang Zhao赵爽), Wenhan Sheng盛文涵), Tang Wang王堂), Shangnan Zhao周尚楠), Junwen Zhou周俊文), Wenli Xu许文莉), Yanli Lu陆艳丽), Ke Wu吴珂), Xianghao Han韩向豪), Xilin Jia贾茜霖), Wenxiu Yang杨文秀), Qianyou Wang王乾有), Yujing Li李煜璟), Zipeng Zhao赵紫鹏), Yu Han韩宇), Shucheng Sun孙树成), Teng Zhang张腾), Xiao Feng冯霄), [...], Bo Wang王博), +14 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.ady4670</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-<title>Discovery of an intrinsic non-Hermitian phase transition in a bulk condensed-matter system</title>
-<author>Jingwen Li, Michael Turaev, Masakazu Matsubara, Kristin Kliemt, Cornelius Krellner, Shovon Pal, Manfred Fiebig, Johann Kroha</author>
-<link>https://www.science.org/doi/10.1126/science.ady4670</link>
-<content:encoded><![CDATA[<p>Across regular phase transitions, systems remain in thermal equilibrium. However, when a system is driven far from equilibrium, non-Hermitian phase transitions may arise where the dynamical behavior—rather than steady properties—undergoes a qualitative ...</p><p></p><p>Jingwen Li, Michael Turaev, Masakazu Matsubara, Kristin Kliemt, Cornelius Krellner, Shovon Pal, Manfred Fiebig, Johann Kroha</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aek6943</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-<title>Catching a glimpse of complex relaxation</title>
-<author>Yogesh Joglekar</author>
-<link>https://www.science.org/doi/10.1126/science.aek6943</link>
-<content:encoded><![CDATA[<p>Yogesh Joglekar</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aem0783</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-<title>China’s ultimate orchestration—integrating the science</title>
-<author>Dan Wang</author>
-<link>https://www.science.org/doi/10.1126/science.aem0783</link>
-<content:encoded><![CDATA[<p>Dan Wang</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.adx7334</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-<title>Measurement of the Λ electric dipole moment with an entangled baryon-antibaryon system</title>
-<author>BESIII Collaboration†</author>
-<link>https://www.science.org/doi/10.1126/science.adx7334</link>
-<content:encoded><![CDATA[<p>The dominance of matter over antimatter in the Universe has consistently driven the pursuit of new physics beyond the Standard Model that violates charge-parity symmetry. Strange baryons (hyperons) remain a largely unexplored territory in which ...</p><p></p><p>BESIII Collaboration†</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aec3917</guid>
-<pubDate>Thu, 08 Oct 2026 17:03:15 GMT</pubDate>
-<title>High-capacity associative memory in a quantum-optical spin glass</title>
-<author>Brendan P. Marsh, David Atri Schuller, Yunpeng Ji, Henry S. Hunt, Surya Ganguli, Sarang Gopalakrishnan, Jonathan Keeling, Benjamin L. Lev</author>
-<link>https://www.science.org/doi/10.1126/science.aec3917</link>
-<content:encoded><![CDATA[<p>The Hopfield neural network stores memories using all-to-all-coupled spins and recalls those memories through equilibrium dynamics. Storing too many hampers recall because frustration causes an exponential number of spurious patterns to arise as the ...</p><p></p><p>Brendan P. Marsh, David Atri Schuller, Yunpeng Ji, Henry S. Hunt, Surya Ganguli, Sarang Gopalakrishnan, Jonathan Keeling, Benjamin L. Lev</p><p></p><p>Science</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.science.org/doi/10.1126/science.aed8723</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate>
-<title>Monomer-biased manufacture of industrial-scale colloidal photonic films</title>
-<author>Huateng Li, Junying Yang, Guowei Zhao, Hanwen Huang, Lulu Chen, Ruoqi Lan, Feng Tian, Weihua Li, Jade A. McCune, Oren A. Scherman, [...], Changchun Wang, +0 authors</author>
-<link>https://www.science.org/doi/10.1126/science.aed8723</link>
-<content:encoded><![CDATA[<p>Complex functions in nature arise from the ordered assembly of simple building blocks. Transformation of colloidal aggregates into industrial-scale photonic crystals under rapid ambient conditions remains challenging owing to high energy barriers and ...</p><p></p><p>Huateng Li, Junying Yang, Guowei Zhao, Hanwen Huang, Lulu Chen, Ruoqi Lan, Feng Tian, Weihua Li, Jade A. McCune, Oren A. Scherman, [...], Changchun Wang, +0 authors</p><p></p><p>Science</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
