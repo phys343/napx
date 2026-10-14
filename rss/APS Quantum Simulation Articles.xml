@@ -5,6 +5,14 @@
 <link>https://journals.aps.org/search/results?clauses=%5B%7B%22field%22%3A%22physh%22%2C%22value%22%3A%22%7B%5C%22facetid%5C%22%3Anull%2C%5C%22conceptid%5C%22%3A%5C%22200ea9a8-54ca-4f8f-a7e1-f186bb326056%5C%22%2C%5C%22label%5C%22%3A%5C%22Quantum%20simulation%5C%22%2C%5C%22facetlabel%5C%22%3A%5C%22%5C%22%7D%22%2C%22operator%22%3A%22AND%22%7D%5D&amp;sort=recent&amp;per_page=20&amp;journal=prl&amp;journal=prxquantum&amp;journal=prx&amp;journal=rmp</link>
 <description>APS Quantum Simulation Articles</description>
 <item>
+<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/zh7p-f7tc</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+<title>Distributed Quantum Simulation</title>
+<author>Tianfeng Feng, Jue Xu, Wenjun Yu, Zekun Ye, Penghui Yao, and Qi Zhao</author>
+<link>https://journals.aps.org/prl/abstract/10.1103/zh7p-f7tc</link>
+<content:encoded><![CDATA[<p>Quantum simulation is a promising pathway toward practical quantum advantage by simulating large-scale quantum systems. In this Letter, we propose communication-efficient distributed quantum simulation protocols by exploring three quantum simulation algorithms, including the product formula, the truncated Taylor series, and quantum signal processing over a quantum network. Crucially, our protocols significantly reduce the local hardware requirements of individual quantum processing units while ensuring the overall gate complexity does not exceed that of standard monolithic architectures. Our protocols are further shown to be optimal by deriving a lower bound on the quantum communication complexity for distributed quantum simulations with respect to evolution time and the number of distributed quantum processing units. Additionally, our distributed techniques go beyond quantum simulation and are applied to distributed versions of Grover’s algorithm and quantum phase estimation. Our work not only paves the way for achieving a practical quantum advantage by scalable quantum simulation but also enlightens the design of more general distributed architectures across various physical systems for quantum computation.</p><p></p><p>Tianfeng Feng, Jue Xu, Wenjun Yu, Zekun Ye, Penghui Yao, and Qi Zhao</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 160601 (2026)</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/ph91-6pg2</guid>
 <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
 <title>Quantum Simulation of Motzkin Spin Chains with Rydberg Atoms</title>
@@ -155,14 +163,6 @@
 <author>Jerome Lloyd and Dmitry A. Abanin</author>
 <link>https://journals.aps.org/prx/abstract/10.1103/cbrd-ssnm</link>
 <content:encoded><![CDATA[<p>Preparation of quantum thermal states of many-body systems is a key computational challenge for quantum processors, with applications in physics, chemistry, and classical optimization. We provide a simple and efficient algorithm for thermal state preparation, combining engineered bath resetting and modulated system-bath coupling to derive a quantum channel approximately satisfying quantum detailed balance relations. We show that the fixed point of the channel approximates the Gibbs state as , where is the system-bath coupling and . We provide extensive numerics, for the example of the 2D quantum Ising model, confirming that the protocol successfully prepares the thermal state throughout the finite-temperature phase diagram, including near the quantum phase transition. Simulations for free-fermion systems provide further evidence for the accuracy of the protocol for large system sizes in the weak-coupling limit. Our algorithm provides a path to efficient quantum simulation of quantum-correlated states at finite temperature with current and near-term quantum processors.</p><p></p><p>Jerome Lloyd and Dmitry A. Abanin</p><p></p><p>Physical Review X</p><p></p><p>Phys. Rev. X 16, 031053 (2026)</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/8zg2-cxc1</guid>
-<pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
-<title>Sign Problem Landscape of Dimer, Loop, and Ground-State Sectors of a U(1) Quantum Link Model</title>
-<author>Pallabi Dey, Debasish Banerjee, and Emilie Huffman</author>
-<link>https://journals.aps.org/prl/abstract/10.1103/8zg2-cxc1</link>
-<content:encoded><![CDATA[<p>The fermion sign problem poses a formidable challenge to the use of Monte Carlo methods for lattice gauge theories with dynamical fermionic matter fields. A meron-cluster algorithm recently formulated for gauge fields represented as spin- quantum links coupled to a single flavor of staggered fermions samples only two of the exponentially many Gauss law (GL) sectors at low temperatures, allowing the simulation of those two GL sectors at zero temperature in polynomial time. In this Letter, we analytically identify GL sectors which can be simulated without encountering the fermion sign problem in arbitrary spatial dimensions. Using large-scale exact diagonalization and cluster Monte Carlo methods, we explore the nature of phases in the GL sectors dominating at zero temperature. The ground state lives in a superselection sector free of the sign problem and maps to the quantum dimer model with mobile monomers. The usual zero-charge GL sector suffers from the fermion sign problem and maps to the fully packed loop model with mobile monomers. The role of the magnetic energy in causing transitions between GL sectors is outlined. We expect our results to be valid for truncated Kogut-Susskind gauge theories, beyond quantum link models.</p><p></p><p>Pallabi Dey, Debasish Banerjee, and Emilie Huffman</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 090404 (2026)</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
