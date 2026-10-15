@@ -5,8 +5,24 @@
 <link>https://circuitqed.net/news/</link>
 <description>CircuitQED News</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.19599</guid>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
+<title>Cryogenic Multiplexing Control Chip for Superconducting Quantum Processor</title>
+<author>Rutian Huang, Xiao Geng, Xinyu Wu, Genting Dai, Liangliang Yang, Jianshe Liu, and Wei Chen</author>
+<link>https://arxiv.org/abs/2610.19599</link>
+<content:encoded><![CDATA[<p>This paper proposes a scheme and design of cryogenic multiplexing control chip (MCC) which enables one microwave cable to control many superconducting qubits. Designed based on adjustableinductor, MCC is a non-reciprocal device which generates microwave signals between 4 and 8 GHz and constructs XY control circuit to operate qubits. The effects of filters, isolators, power splitters, qubits and load impedance on MCC are analyzed in the frequency-domain simulation. And in time-domain simulation, the response time, Gaussian pulses, single-sideband, amplitude and frequency compensation of MCC are examined. The MCC can be integrated with the superconducting qubits on the same package at 20 mK temperature stage, and output specific microwave pulses used to drive the superconducting qubits without crosstalks. The MCC can greatly reduce the number of microwave control lines and is beneficial to the development of large-scale superconducting quantum processor.</p><p></p><p>Rutian Huang, Xiao Geng, Xinyu Wu, Genting Dai, Liangliang Yang, Jianshe Liu, and Wei Chen</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.19180</guid>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
+<title>Cavity-assisted dynamic nuclear polarisation</title>
+<author>Tristan Lorriaux, Yutian Wen, Patrice Bertet, Benjamin Huard, and Audrey Bienfait</author>
+<link>https://arxiv.org/abs/2610.19180</link>
+<content:encoded><![CDATA[<p>Dynamic nuclear polarisation transfers polarisation from electron to nuclear spins by relying on a dissipative channel. Here we introduce a cavity-based DNP mechanism which uses theradiative relaxation of the electronic spin through the Purcell effect to bring about the nuclear spin polarisation. We implement this protocol on an ensemble of bismuth donor spins (I=9/2, S=1/2) in isotopically purified silicon coupled to a superconducting resonator. A single cycle, combining adiabatic microwave and radio-frequency pulses with Purcell relaxation, increases a target ground state’s population by a factor of 1.79±0.04; a cumulative enhancement of 4.6±0.2 is reached with additional cycles, to be compared with the theoretical limit of ninefold set by the degeneracy of the ground manifold. We explain this difference by the competition between Purcell and intrinsic relaxation on the one hand and a collective effect that slows down the electronic spin radiative decay as the nuclear spin population grows on the other hand. Our results place radiative DNP as an available mechanism at millikelvin temperatures where phonon-mediated relaxation is frozen.</p><p></p><p>Tristan Lorriaux, Yutian Wen, Patrice Bertet, Benjamin Huard, and Audrey Bienfait</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.13417</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
 <title>Modelling Josephson Junctions with Boundary Conditions: Towards High-Fidelity Models for Superconducting Qubits</title>
 <author>Luis Bueno Blanco, and Juan Manuel Pérez-Pardo</author>
 <link>https://arxiv.org/abs/2610.13417</link>
@@ -14,7 +30,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.12556</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
 <title>TLS loss in superconducting resonators on epitaxial hBN thin films</title>
 <author>J. Christiansen-Salameh, D.J. Temples, R. Linehan, S. Sussman, Aloyse Maille, F. Abouzahr, L. Alexis, K. Anyang, D. Bowring, G. Bratrud, E. Celi, A.H. Colón Cesaní, R. Khatiwada, D. Molenaar, O. Peek, A. Rodriguez, O. Seidel, D. Schlom, D. Sotir, S. Uemura, Y. Wu, E. Figueroa-Feliciano, D. Baxter, and Z. Tian</author>
 <link>https://arxiv.org/abs/2610.12556</link>
@@ -22,7 +38,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.11477</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
 <title>Quantitative Rules for Parallel Calibration and Drift-Resilient Maintenance of Large-Scale Superconducting Quantum Processors</title>
 <author>Zhihao Wu, Kechengqi Zhu, Shichuan Xue, Xinfang Zhang, Zhaohua Yang, Zhida Zhang, Shun Hu, Cong Li, Dingdong Liu, Kangding Zhao, Peng Luo, Lingling Lao, Xiang Fu, Mingtang Deng, Junjie Wu, and Kai Lu</author>
 <link>https://arxiv.org/abs/2610.11477</link>
@@ -30,7 +46,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.12227</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
 <title>A quasiparticle-protected superconducting qubit</title>
 <author>Trond Hjerpekjøn Haug, Johan Kolvik, Joey Frey, Paul Burger, Fabian Resare, Witlef Wieczorek, Simone Gasparinetti, Per Delsing, and Raphaël Van Laer</author>
 <link>https://arxiv.org/abs/2610.12227</link>
@@ -38,7 +54,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.11081</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
 <title>Quantum Simulation of a Hyperbolically Driven Quantum System with Superconducting Circuits</title>
 <author>Han-xin Che, Yangyang Yu, Tao Zhang, Wen Zheng, Hai-Feng Yu, Xinsheng Tan, and Yang Yu</author>
 <link>https://arxiv.org/abs/2610.11081</link>
@@ -46,7 +62,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.11125</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
 <title>Sub-MHz SWAP spectroscopy of two-level systems in superconducting qubits</title>
 <author>Joaquin Minguzzi, John Clai Owens, Oskar Painter, Matthew H. Matheny, and Loren J. Swenson</author>
 <link>https://arxiv.org/abs/2610.11125</link>
@@ -54,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.09666</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
 <title>Geodesic-based optimal control for leakage suppression in superconducting qubits</title>
 <author>Adonai Hilário da Silva, Tanmoy Pandit, and Francesco Cosco</author>
 <link>https://arxiv.org/abs/2610.09666</link>
@@ -62,27 +78,11 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.09776</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Thu, 15 Oct 2026 17:00:51 GMT</pubDate>
 <title>Stimulated emission for a three-level artificial atom in waveguide quantum electrodynamics</title>
 <author>O. A. Chuikin, Ya. S. Greenberg, V. V. Taravkova, and O. V. Kibis</author>
 <link>https://arxiv.org/abs/2610.09776</link>
 <content:encoded><![CDATA[<p>This work is devoted to a theoretical study of the interaction of a quantum three-level ladder system with a continuous electromagnetic field in a one-dimensional open waveguide. Weconsider a situation closely resembling stimulated emission – the scattering of a single-photon exponential pulse by an excited three-level emitter. Using the real-space formalism, we obtain an analytical expression for the wavefunction of our system. We show that, for the low anharmonicity of a three-level system inherent to a transmon (the most common type of artificial atom), the influence of the third level can have a significant effect on the system’s behavior. Namely, the presence of the third level largely suppresses the stimulated emission effect if the relative anharmonicity is lower than |αr|<4%. However, for a three-level system, it is possible to obtain correlation effects such as photon bunching in the reflected field, which can also be 'switched off' by tuning the incident photon parameters.[/expand]</p><p></p><p>O. A. Chuikin, Ya. S. Greenberg, V. V. Taravkova, and O. V. Kibis</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.10432</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
-<title>Dynamically protected erasure qubit via low-frequency charge driving</title>
-<author>Ahmed Hajr, Ke Wang, Bingcheng Qing, Akel Hashim, Bibek Bhandari, Dominic Briseño-Colunga, Justin Dressel, Andrew N. Jordan, and Irfan Siddiqi</author>
-<link>https://arxiv.org/abs/2610.10432</link>
-<content:encoded><![CDATA[<p>Dynamical protection via strong driving can enable resilient quantum processing on imperfect physical hardware. However, the practical utility of such schemes is frequently limitedby parasitic processes such as drive-induced dephasing and leakage. Here, we demonstrate that sub-GHz charge driving of superconducting Kerr oscillators (KOs) in the transmon regime circumvents this trade-off, simultaneously activating fast parametric interactions and protecting the encoded qubit from low-frequency noise. The key is the frequency dependence of the charge sensitivity: using the AC Stark shift as a probe, we find that the KO frequency sensitivity to a charge drive grows quadratically with both drive frequency and amplitude, making the oscillator weakly sensitive to 1/f charge noise yet strongly coupled to drives near 1~GHz. Exploiting this, we first demonstrate cooling and reset of the KO in 82~ns, to a residual population below 0.7%—lower than its 2.5% steady-state thermal population. Next, using two KOs, we demonstrate logical control and dynamical protection of a dual-rail qubit with nearly fourfold erasure bias. Finally, using a single end-of-circuit erasure check, we achieve an error per Clifford of 5.6×10−4, which falls to 1.5×10−4 after post-selection, with 25~ns gates.</p><p></p><p>Ahmed Hajr, Ke Wang, Bingcheng Qing, Akel Hashim, Bibek Bhandari, Dominic Briseño-Colunga, Justin Dressel, Andrew N. Jordan, and Irfan Siddiqi</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.10715</guid>
-<pubDate>Wed, 14 Oct 2026 17:00:22 GMT</pubDate>
-<title>Nonlinear Feedback in Josephson Circuit Optimization: Application to a Kerr-Reversal JTWPA</title>
-<author>Emanuele Palumbo, Alessandro Alocco, Andrea Celotto, Luca Fasolo, Bernardo Galvano, Patrizia Livreri, and Emanuele Enrico</author>
-<link>https://arxiv.org/abs/2610.10715</link>
-<content:encoded><![CDATA[<p>Optimizing Josephson-based nonlinear microwave devices is computationally demanding because the straightforward approach requires exploring broad circuit parameter spaces through expensivenonlinear simulations. Josephson Circuits Optimizer addresses this problem by using harmonic balance simulations in two stages: fast linear simulations to select promising circuit configurations according to properties such as impedance and phase matching, followed by nonlinear simulations to optimize their operating conditions. However, pump-induced effects such as impedance renormalization and Kerr-induced modifications of phase matching are not captured during the initial linear stage. We therefore introduce a nonlinear feedback extension that transfers information from the pumped response back to the linear optimization. The approach is investigated using a Josephson traveling-wave parametric amplifier with a reversed-Kerr architecture, whose model is validated against experimental gain measurements. We then evaluate the difference between the linear and pumped response values of a metric based on the input reflection coefficient, while excluding configurations with insufficient third-harmonic suppression. This discrepancy is considered a candidate feedback observable, as it exhibits features similar to the gain landscape, supporting its use in subsequent optimization cycles.</p><p></p><p>Emanuele Palumbo, Alessandro Alocco, Andrea Celotto, Luca Fasolo, Bernardo Galvano, Patrizia Livreri, and Emanuele Enrico</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
