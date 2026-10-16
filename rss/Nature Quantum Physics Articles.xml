@@ -5,6 +5,22 @@
 <link>https://www.nature.com/search?q=%22quantum+simulation%22+OR+%22quantum+simulator%22+OR+%22quantum+simulating%22+OR+%22quantum+computation%22+OR+%22quantum+computer%22+OR+%22quantum+computing%22+OR+%22quantum+information%22+OR+%22quantum+metrology%22+OR+%22quantum+error+correction%22+OR+%22quantum+entanglement%22+OR+%22quantum+algorithm%22+OR+%22quantum+circuit%22+OR+%22quantum+gate%22+OR+%22quantum+bit%22+OR+%22superconducting+qubit%22+OR+%22trapped+ion%22+OR+%22neutral+atom+quantum+computing%22+OR+%22photonic+quantum+computing%22+OR+%22quantum+cryptography%22+OR+%22quantum+key+distribution%22+OR+%22quantum+communication%22+OR+%22quantum+teleportation%22+OR+%22quantum+repeater%22+OR+%22quantum+sensing%22+OR+%22quantum+advantage%22+OR+%22quantum+machine+learning%22+OR+%22quantum-enhanced%22+OR+%22quantum+memory%22+OR+%22quantum+network%22++OR+%22quantum+superposition%22+OR+%22quantum+interference%22+OR+%22quantum+measurement%22++OR+%22Bell+inequality%22++OR+%22quantum+non-locality%22++OR+%22variational+quantum%22+OR+%22quantum+fault+tolerance%22+OR++%22topological+quantum%22+OR+%22Shor%27s+algorithm%22+OR+%22quantum+supremacy%22+OR+%22quantum+coherence%22+&amp;journal=nphys%2C+nature%2C+nphoton&amp;order=date_desc</link>
 <description>Nature Quantum Physics Articles</description>
 <item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03466-2</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+<title>Simultaneous high-fidelity single-qubit gates in a spin qubit array</title>
+<author>Yi-Hsien WuLeon C. CamenzindSeigo Tarucha</author>
+<link>https://www.nature.com/articles/s41567-026-03466-2</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03466-2/MediaObjects/41567_2026_3466_Fig1_HTML.png"><p></p><p>Quantum computers require simultaneous control of multiple qubits, which is challenging to achieve in nanoscale semiconductor devices. Now high-fidelity parallel operations have been demonstrated for five silicon spin qubits.</p><p></p><p>Yi-Hsien WuLeon C. CamenzindSeigo Tarucha</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03492-0</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+<title>Monolayer van der Waals kagome lattice for high-temperature flat-band physics</title>
+<author>Hyungkun BongChoongjae WonMingu Kang</author>
+<link>https://www.nature.com/articles/s41567-026-03492-0</link>
+<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03492-0/MediaObjects/41567_2026_3492_Fig1_HTML.png"><p></p><p>The experimental realization of intrinsic 2D kagome materials with controllable flat bands has remained challenging. Now a van der Waals kagome material family is shown to host an isolated, gate-tunable flat band down to the monolayer limit.</p><p></p><p>Hyungkun BongChoongjae WonMingu Kang</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://www.nature.com/articles/s41586-026-11117-y</guid>
 <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
 <title>Parity-dependent coupling of molecular spin chains to a superconductor</title>
@@ -385,21 +401,6 @@
 <author>Luisa CorradoPaul Kattuman</author>
 <link>https://www.nature.com/articles/d41586-026-02572-8</link>
 <content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/magazine-assets/d41586-026-02572-8/d41586-026-02572-8_53111362.jpg"><p></p><p>Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line.</p><p></p><p>Luisa CorradoPaul Kattuman</p><p></p><p>Nature</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03365-6</guid>
-<pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-<title>Sound protection for electron spins</title>
-<author>Ryuichi Ohta</author>
-<link>https://www.nature.com/articles/s41567-026-03365-6</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03365-6/MediaObjects/41567_2026_3365_Fig1_HTML.png"><p></p><p>Solid state electron spins have important practical advantages for quantum technologies, but fluctuations in their host material cause decoherence. Now, it has been shown that sound waves can extend the coherence of diamond silicon vacancy spins.</p><p></p><p>Ryuichi Ohta</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://www.nature.com/articles/s41567-026-03428-8</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
-<title>Antidots measure anyonic charge in graphene</title>
-<link>https://www.nature.com/articles/s41567-026-03428-8</link>
-<content:encoded><![CDATA[<img src="https://media.springernature.com/w290h158/springer-static/image/art%3A10.1038%2Fs41567-026-03428-8/MediaObjects/41567_2026_3428_Fig1_HTML.png"><p></p><p>Anyons are fractionally charged quasiparticles of the quantum Hall effect, and could one day power topological quantum computers. Trapping and measuring anyons remains difficult, but quasiparticle charges have now been measured using a gate-defined antidot in bilayer graphene. For hole-conjugate states, the parity of downstream integer edge modes sets the observed charge.</p><p></p><p>Nature Physics</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
