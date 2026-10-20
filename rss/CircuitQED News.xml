@@ -5,8 +5,24 @@
 <link>https://circuitqed.net/news/</link>
 <description>CircuitQED News</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.26223</guid>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
+<title>Sidewall Metrology Protocol for Superconducting Qubit Devices</title>
+<author>Jørgen Garnæs, Henrik S. Guttesen, Astrid T. Rømer, Oscar Danielsson, Emily P. Duggan, Zhenhai Sun, Asen Lyubenov Georgiev, Li Wei Chang, Morten Kjaergaard, Mark Bieler, Lukas Grünhaupt, and Sabbir A. Khan</author>
+<link>https://arxiv.org/abs/2610.26223</link>
+<content:encoded><![CDATA[<p>Sidewall morphology is a potentially important factor influencing superconducting qubit performance, yet its quantitative characterization remains challenging due to the absence ofstandardized measurement protocols. In this work, we develop a scanning probe microscopy-based measurement framework for the quantitative characterization of superconducting qubit sidewalls. The framework introduces a refined root mean square lateral sidewall roughness descriptor and a new curvature-equivalent radius for quantifying vertical sidewall morphology. The descriptors and measurement procedures are applied to different components of qubit devices, forming the basis of a proposed sidewall characterization protocol. This provides a foundation for quantitative comparisons of fabrication processes across laboratories, enabling future investigations of correlations between sidewall geometry and qubit performance.</p><p></p><p>Jørgen Garnæs, Henrik S. Guttesen, Astrid T. Rømer, Oscar Danielsson, Emily P. Duggan, Zhenhai Sun, Asen Lyubenov Georgiev, Li Wei Chang, Morten Kjaergaard, Mark Bieler, Lukas Grünhaupt, and Sabbir A. Khan</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.24167</guid>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
+<title>Probing wetting and solidification dynamics of neon thin films with a high-Tc superconducting circuit</title>
+<author>Brennan Dizdar, Yueheng Shi, David I. Schuster, and Christopher S. Lang</author>
+<link>https://arxiv.org/abs/2610.24167</link>
+<content:encoded><![CDATA[<p>Integrating condensed noble gases with superconducting circuits offers new opportunities for operating hybrid quantum devices. In particular, electrons on solid neon have recently emergedas exceptionally coherent charge qubits, however the growth of the underlying neon films on patterned devices remains poorly controlled. We monitor neon films near the triple point using a multimode resonator fabricated from high-Tc YBCO, which remains superconducting at temperatures where the liquid phase exists and whose geometry sets a thickness-sensing window near 1 μm. In the liquid state we observe rich film dynamics: uniform wetting that saturates near 20 nm, drainage of thicker films, and spontaneous thickness oscillations, reflecting the extreme sensitivity of thick films in this regime. A galvanic connection to our sensing volume enables in-situ electrostatic tuning of the liquid film thickness. Statistics of freezing the neon across various liquid levels reveal variations of the solid film thickness by approximately an order of magnitude. We also observe a two-fold increase in the quality factor of the resonators at the level of 103 with added neon and rule out dielectric loss as the limiting factor. Our results demonstrate that hermetic packaging facilitates the investigation of both rich non-equilibrium fluid dynamics and the impact of condensed noble gas films on microwave loss in superconducting circuits, but may not be the best modality for growing solid neon films with precisely controlled thickness.</p><p></p><p>Brennan Dizdar, Yueheng Shi, David I. Schuster, and Christopher S. Lang</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.23810</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
 <title>Experimental Demonstration of a Balanced Travelling Wave Parametric Amplifier</title>
 <author>Nikita Klimovich, Peter K. Day, Henry G. Leduc, and Boon-Kok Tan</author>
 <link>https://arxiv.org/abs/2610.23810</link>
@@ -14,7 +30,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.22145</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
 <title>Gyrators for superconducting circuit design</title>
 <author>Ciro Salcedo, Sasha Cocquyt, Andrew Osborne, and Andrew A. Houck</author>
 <link>https://arxiv.org/abs/2610.22145</link>
@@ -22,7 +38,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.21936</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
 <title>ZZ-Free bSWAP Gates under Strong Driving in Far-Detuned Fixed-Frequency Transmons</title>
 <author>Akinori Machino, Kazuhisa Ogawa, Yuto Ikegai, Takafumi Miyanaga, Koichiro Ban, Nilton F. G. Filho, Hidehisa Shiomi, Toshi Sumida, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, and Makoto Negoro</author>
 <link>https://arxiv.org/abs/2610.21936</link>
@@ -30,7 +46,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.21853</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
 <title>Superconducting circuits host two-level systems with lifetimes exceeding one second</title>
 <author>Mathieu Féchant, Phillip Lenhard, Nicolas Gosling, Ritika Dhundhwal, Denis Bénâtre, Wolfgang Wernsdorfer, Thomas Reisinger, and Ioan M. Pop</author>
 <link>https://arxiv.org/abs/2610.21853</link>
@@ -38,7 +54,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.21435</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
 <title>Accurate gap control of 3D-integrated superconducting quantum circuits using asymmetric indium architecture and multi-angle flip-chip bonding</title>
 <author>L. Richard, N. Bruckmoser, J. Feigl, D. Bunch, A. Bhattacharjee, L. Koch, I. Tsitsilin, V.P. Bader, H. Hu, L. Södergren, and S. Filipp</author>
 <link>https://arxiv.org/abs/2610.21435</link>
@@ -46,7 +62,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.20670</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
 <title>Mechanical trisqueezing in circuit quantum acoustodynamics with SNAIL devices</title>
 <author>Yi-Zhou Bu, Matteo Fadel, Kai Xu, and Heng Fan</author>
 <link>https://arxiv.org/abs/2610.20670</link>
@@ -54,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.20810</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
 <title>Syndrome-Resolved Decoding of Qubit Readout Errors</title>
 <author>Han Zheng, Vladimir Pešić, Nikolay Gusarov, Andrea Lizzit, Taketo Imaizumi, Chulwoo Ahn, Marco Nicolas Mueller, Raymond Mencia, Edoardo Charbon, and Vladimir E. Manucharyan</author>
 <link>https://arxiv.org/abs/2610.20810</link>
@@ -62,27 +78,11 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.19599</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
+<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
 <title>Cryogenic Multiplexing Control Chip for Superconducting Quantum Processor</title>
 <author>Rutian Huang, Xiao Geng, Xinyu Wu, Genting Dai, Liangliang Yang, Jianshe Liu, and Wei Chen</author>
 <link>https://arxiv.org/abs/2610.19599</link>
 <content:encoded><![CDATA[<p>This paper proposes a scheme and design of cryogenic multiplexing control chip (MCC) which enables one microwave cable to control many superconducting qubits. Designed based on adjustableinductor, MCC is a non-reciprocal device which generates microwave signals between 4 and 8 GHz and constructs XY control circuit to operate qubits. The effects of filters, isolators, power splitters, qubits and load impedance on MCC are analyzed in the frequency-domain simulation. And in time-domain simulation, the response time, Gaussian pulses, single-sideband, amplitude and frequency compensation of MCC are examined. The MCC can be integrated with the superconducting qubits on the same package at 20 mK temperature stage, and output specific microwave pulses used to drive the superconducting qubits without crosstalks. The MCC can greatly reduce the number of microwave control lines and is beneficial to the development of large-scale superconducting quantum processor.</p><p></p><p>Rutian Huang, Xiao Geng, Xinyu Wu, Genting Dai, Liangliang Yang, Jianshe Liu, and Wei Chen</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.20654</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
-<title>The noise cost of reservoir locality in broadband quantum amplifier chains</title>
-<author>Chengxi Li, Hao Zhu, Tie-Fu Zhang, Lin Zhuang, Wanzi Sun, and Wuming Liu</author>
-<link>https://arxiv.org/abs/2610.20654</link>
-<content:encoded><![CDATA[<p>Directional quantum amplifiers enable weak-signal readout while protecting the source, but reservoir noise limits sensitivity. Finite-band suppression must reconcile frequency-dependentresponses with fixed local couplings and finite rates. We construct adjacent-site loss channels attaining the known single-frequency minimum under local compatibility conditions, as an uncapped benchmark. For specified uniform and dimerized chains, we compare fixed reservoirs at matched drift, ports, high-gain band and complete gain/loss rate caps. At the representative cap R=8 and halfwidth Ω=0.05, nearest-neighbor arithmetic band average noise exceeds the unrestricted optimum by more than 1.01265 quanta in the uniform chain for every finite N≥64. Boundary-response bounds give necessary rates and targets requiring range two. At N=64, finite-auxiliary calculations retain a noise advantage under matched total coupling budgets; response bounds quantify noise-resolution tolerances. These theoretical results guide reservoir design and noise calibration for a proposed cryogenic microwave array with a 100 kHz design band.</p><p></p><p>Chengxi Li, Hao Zhu, Tie-Fu Zhang, Lin Zhuang, Wanzi Sun, and Wuming Liu</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.19180</guid>
-<pubDate>Mon, 19 Oct 2026 17:00:22 GMT</pubDate>
-<title>Cavity-assisted dynamic nuclear polarisation</title>
-<author>Tristan Lorriaux, Yutian Wen, Patrice Bertet, Benjamin Huard, and Audrey Bienfait</author>
-<link>https://arxiv.org/abs/2610.19180</link>
-<content:encoded><![CDATA[<p>Dynamic nuclear polarisation transfers polarisation from electron to nuclear spins by relying on a dissipative channel. Here we introduce a cavity-based DNP mechanism which uses theradiative relaxation of the electronic spin through the Purcell effect to bring about the nuclear spin polarisation. We implement this protocol on an ensemble of bismuth donor spins (I=9/2, S=1/2) in isotopically purified silicon coupled to a superconducting resonator. A single cycle, combining adiabatic microwave and radio-frequency pulses with Purcell relaxation, increases a target ground state’s population by a factor of 1.79±0.04; a cumulative enhancement of 4.6±0.2 is reached with additional cycles, to be compared with the theoretical limit of ninefold set by the degeneracy of the ground manifold. We explain this difference by the competition between Purcell and intrinsic relaxation on the one hand and a collective effect that slows down the electronic spin radiative decay as the nuclear spin population grows on the other hand. Our results place radiative DNP as an available mechanism at millikelvin temperatures where phonon-mediated relaxation is frozen.</p><p></p><p>Tristan Lorriaux, Yutian Wen, Patrice Bertet, Benjamin Huard, and Audrey Bienfait</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
