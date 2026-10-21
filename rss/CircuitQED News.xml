@@ -5,16 +5,64 @@
 <link>https://circuitqed.net/news/</link>
 <description>CircuitQED News</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.27471</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<title>Engineering \(XY\) and \(ZZ\) interactions between two remote superconducting qubits via a multimode waveguide</title>
+<author>Da-Wei Wang, and Yu-xi Liu</author>
+<link>https://arxiv.org/abs/2610.27471</link>
+<content:encoded><![CDATA[<p>Waveguides provide a flexible platform for long-range interactions between superconducting qubits. Here, we study how to engineer the effective (XY) and (ZZ) interactions betweentwo qubits via qubit frequency assignments and multimode interference determined by the mode configuration and standing-wave parities of a finite multimode waveguide. For a single-mode waveguide, we find that \(XY\) and \(ZZ\) interactions cannot be simultaneously suppressed to zero and the residual qubit-qubit coupling always exists. For example, the \(XY\) interaction may be suppressed to a negligible level when two qubits and the waveguide mode satisfy the two-photon resonant condition, but the \(ZZ\) interaction cannot be switched off. For multimode configurations within the central dispersive window, the engineered interaction types are very different for odd and even numbers of modes. Even-mode configurations can readily produce strong \(XY\) interactions, whereas odd-mode configurations can strongly suppress the \(XY\) interaction while retaining a finite \(ZZ\) interaction. Full-Hamiltonian simulations of minimal two- and three-mode configurations confirm \(XY\)-dominated SWAP dynamics and \(ZZ\)-dominated CZ-type dynamics, respectively. These results establish a frequency assignment criterion of qubits and waveguide modes for selectively engineering long-range qubit-qubit interaction types induced by the waveguide with finite multimode.</p><p></p><p>Da-Wei Wang, and Yu-xi Liu</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.27743</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<title>Multimode Parametric Amplifier for K-Band Quantum Measurements</title>
+<author>Chulwoo Ahn, and Vladimir Manucharyan</author>
+<link>https://arxiv.org/abs/2610.27743</link>
+<content:encoded><![CDATA[<p>We demonstrate K-band nondegenerate three-wave-mixing amplification in a multimode resonator comprising an array of 500 SNAILs. Pairing K-band signal modes with lower-frequency internalidler modes enables 20 dB of gain continuously from 19.6 to 25.6 GHz with pump frequencies below 32.2 GHz. At 20 dB gain, the 3-dB bandwidth ranges from 2.6 to 11.7 MHz, and the input-referred 1-dB compression power reaches -100.9 dBm. In the 20-22 GHz band, the average added noise is 0.73 quanta. A two-mode nondegenerate parametric amplification model describes the measured gain response and gain-bandwidth behavior, while a multimode Kerr model captures the overall compression scale. Our amplifier provides a practical solution for implementing a state-of-the-art readout of superconducting qubits in the K-band.</p><p></p><p>Chulwoo Ahn, and Vladimir Manucharyan</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.27834</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<title>Controlled-Z Gates via Floquet Coupling to Two Auxiliary States in Transmon Circuits</title>
+<author>Yutao Chen, Jia-Chi Zhang, Tian-Ming Li, Yu Liu, Kai Xu, and Heng Fan</author>
+<link>https://arxiv.org/abs/2610.27834</link>
+<content:encoded><![CDATA[<p>High-fidelity entangling gates are essential for quantum information processing. In transmon circuits, higher excited states provide additional pathways for engineering interactionswithin the computational subspace. Here we demonstrate controlled-Z (CZ) gates that exploit two noncomputational states, $\ket{02}$ and $\ket{20}$, through selective Floquet coupling. The nontrivial parametric modulation can activate both auxiliary transitions from $\ket{11}$ while suppressing the leading exchange between $\ket{01}$ and $\ket{10}$. Based on this approach, we develop two gate protocols: a nonadiabatic round trip through a bright auxiliary superposition and adiabatic evolution along a zero-energy dark state, both achieving average gate fidelities above 99.99% in numerical simulations. Control of the modulation phase further extends the bright-state protocol to conventional and unconventional geometric CZ gates. Effective-model simulations show that unconventional control improves tolerance to residual ZZ coupling and static qubit-frequency offsets relative to conventional control over the parameter ranges examined. Simulations including neighboring spectator qubits show that the original nonadiabatic bright-state and adiabatic dark-state CZ protocols retain high gate fidelities. This framework offers new routes toward the experimental realization of CZ gates and their geometric implementations.</p><p></p><p>Yutao Chen, Jia-Chi Zhang, Tian-Ming Li, Yu Liu, Kai Xu, and Heng Fan</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.28057</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<title>Optimal Quantum-Circuit Synthesis and Implementation of General Unitaries with Parallelized Bitstring-Conditioned Rotations</title>
+<author>Heikki Suominen, Suman Kundu, Heidi Kivijärvi, Sasu Tuohino, Mikko Tuokkola, Eemeli Forsbom, Madhavi Chand, Vasilii Vadimov, R. Vijay, and Mikko Möttönen</author>
+<link>https://arxiv.org/abs/2610.28057</link>
+<content:encoded><![CDATA[<p>We theoretically introduce a quantum-circuit synthesis protocol to realize any n-qubit transformation U∈U(2n), up to a diagonal. The resulting circuit is directly native to and optimalin gate count and depth for systems where bitstring-conditioned rotations with tunable angle and axis, C(n−1)R(θ,ϕ), form the set of native operations. Subsequently, we suggest how this protocol can be implemented in a few-mode superconducting circuit, and experimentally demonstrate the method for the smallest nontrivial case, i.e., for two qubits. We report an average gate fidelity of 97.6 % for Haar-random two-qubit unitaries up to phase shifts in the computational basis. Importantly, these results suggest that multimode devices, such as those in the multimon or multiunimon families may become competitive with qubit-array networks for general-unitary implementations for qubit counts as low as three.</p><p></p><p>Heikki Suominen, Suman Kundu, Heidi Kivijärvi, Sasu Tuohino, Mikko Tuokkola, Eemeli Forsbom, Madhavi Chand, Vasilii Vadimov, R. Vijay, and Mikko Möttönen</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.26223</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
 <title>Sidewall Metrology Protocol for Superconducting Qubit Devices</title>
 <author>Jørgen Garnæs, Henrik S. Guttesen, Astrid T. Rømer, Oscar Danielsson, Emily P. Duggan, Zhenhai Sun, Asen Lyubenov Georgiev, Li Wei Chang, Morten Kjaergaard, Mark Bieler, Lukas Grünhaupt, and Sabbir A. Khan</author>
 <link>https://arxiv.org/abs/2610.26223</link>
 <content:encoded><![CDATA[<p>Sidewall morphology is a potentially important factor influencing superconducting qubit performance, yet its quantitative characterization remains challenging due to the absence ofstandardized measurement protocols. In this work, we develop a scanning probe microscopy-based measurement framework for the quantitative characterization of superconducting qubit sidewalls. The framework introduces a refined root mean square lateral sidewall roughness descriptor and a new curvature-equivalent radius for quantifying vertical sidewall morphology. The descriptors and measurement procedures are applied to different components of qubit devices, forming the basis of a proposed sidewall characterization protocol. This provides a foundation for quantitative comparisons of fabrication processes across laboratories, enabling future investigations of correlations between sidewall geometry and qubit performance.</p><p></p><p>Jørgen Garnæs, Henrik S. Guttesen, Astrid T. Rømer, Oscar Danielsson, Emily P. Duggan, Zhenhai Sun, Asen Lyubenov Georgiev, Li Wei Chang, Morten Kjaergaard, Mark Bieler, Lukas Grünhaupt, and Sabbir A. Khan</p><p></p>]]></content:encoded>
 </item>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.27070</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<title>Cavity models of non-Abelian gauge theories</title>
+<author>Lucia Valor, Jacquelin Luneau, Klaus Liegener, Stefan Filipp, and Peter Rabl</author>
+<link>https://arxiv.org/abs/2610.27070</link>
+<content:encoded><![CDATA[<p>In quantum optics and related fields, cavity quantum electrodynamics provides a powerful framework for modeling the low-energy properties of bound charges coupled to electromagneticfields, using a minimal set of atomic levels and isolated photonic modes. Here, we develop a similar framework for non-Abelian gauge theories, focusing on the pure-gauge dynamics of SU(2) fields as the conceptually simplest example. Starting from the corresponding Yang-Mills Lagrangian, we derive an SU(2) cavity Hamiltonian in the Coulomb gauge, represented in terms of only three localized bosonic modes. Unlike its non-interacting electromagnetic counterpart, this model exhibits a nontrivial excitation spectrum featuring bound composite gauge particles (‚glueballs‘) as the lowest-energy configurations. We extend this framework to one-dimensional arrays of coupled SU(2) cavities and discuss the driven excitation of a glueball condensate and the clustering of multi-glueball states as two elementary interaction-induced processes in these models. These examples offer a glimpse into the multitude of novel many-body phenomena that arise within this cavity SU(2) framework and we show how this physics at the interface between particle physics and quantum optics can be experimentally explored using state-of-the-art superconducting quantum circuits.</p><p></p><p>Lucia Valor, Jacquelin Luneau, Klaus Liegener, Stefan Filipp, and Peter Rabl</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.27137</guid>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<title>Active isolation of transmon readout with a tunable inductive bridge</title>
+<author>Chunyang Ding, Chuyao Tong, Paul Varosy, Nikitha Jain, Ziyi Zhao, Eric I. Rosenthal, Konrad W. Lehnert, and David I. Schuster</author>
+<link>https://arxiv.org/abs/2610.27137</link>
+<content:encoded><![CDATA[<p>Scalable superconducting quantum computation requires fast, high-fidelity readout. Currently, this is assisted through cryogenic amplification of the readout signal. In traditionaldispersive readout schemes, the amplifiers that are used to provide high signal-to-noise ratio also generate thermal noise that can decohere the qubits, demanding additional ferrite-based isolators to suppress this noise. Here, we integrate a chip-scale microwave switch, the tunable inductive bridge, into the readout chain of a fixed-frequency transmon. Flux-pulsing the switch, such that it transmits only during the readout, did not make a discernable difference to qubit coherence, residual excited-state population, or readout fidelity metrics. By injecting broadband noise that mimics amplifier thermal photons, we show that the switch suppresses the resulting qubit dephasing by more than 30~dB, consistent with its independently measured on-off ratio, establishing it as a potential chip-based integrated replacement for readout-chain isolators.</p><p></p><p>Chunyang Ding, Chuyao Tong, Paul Varosy, Nikitha Jain, Ziyi Zhao, Eric I. Rosenthal, Konrad W. Lehnert, and David I. Schuster</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.24167</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
 <title>Probing wetting and solidification dynamics of neon thin films with a high-Tc superconducting circuit</title>
 <author>Brennan Dizdar, Yueheng Shi, David I. Schuster, and Christopher S. Lang</author>
 <link>https://arxiv.org/abs/2610.24167</link>
@@ -22,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.23810</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
 <title>Experimental Demonstration of a Balanced Travelling Wave Parametric Amplifier</title>
 <author>Nikita Klimovich, Peter K. Day, Henry G. Leduc, and Boon-Kok Tan</author>
 <link>https://arxiv.org/abs/2610.23810</link>
@@ -30,59 +78,11 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.22145</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
+<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
 <title>Gyrators for superconducting circuit design</title>
 <author>Ciro Salcedo, Sasha Cocquyt, Andrew Osborne, and Andrew A. Houck</author>
 <link>https://arxiv.org/abs/2610.22145</link>
 <content:encoded><![CDATA[<p>Assuming only the solubility of Kirchhoff’s laws, the conservation of energy, and the form of the constitutive relations, we present a flux-charge symmetric Hamiltonian formalismthat always admits a symplectic reduction for nonsingular, well-posed circuits involving gyrators, inductors, and capacitors (LCG circuits) with arbitrary non-linearity. The formalism introduces a notion of circuit duality on non-linear non-reciprocal circuits and a family of point transformations that inserts, removes, and moves reciprocal elements across gyrators while preserving the Hamiltonian spectrum. With these transformations, we extend Tellegen’s classic result that gyrators make reciprocal elements behave as their dual to non-linear reciprocal elements such as the Josephson junction and quantum phase slip. Furthermore, we present conditions under which non-reciprocal circuits can be transformed to dynamically equivalent reciprocal circuits.</p><p></p><p>Ciro Salcedo, Sasha Cocquyt, Andrew Osborne, and Andrew A. Houck</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.21936</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
-<title>ZZ-Free bSWAP Gates under Strong Driving in Far-Detuned Fixed-Frequency Transmons</title>
-<author>Akinori Machino, Kazuhisa Ogawa, Yuto Ikegai, Takafumi Miyanaga, Koichiro Ban, Nilton F. G. Filho, Hidehisa Shiomi, Toshi Sumida, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, and Makoto Negoro</author>
-<link>https://arxiv.org/abs/2610.21936</link>
-<content:encoded><![CDATA[<p>Far-detuned frequency allocations in fixed-frequency superconducting processors mitigate spectral crowding but constrain cross-resonance interactions at practical drive amplitudes.Here, we demonstrate that a single strong drive induces a large XX−YY interaction in the far-detuned regime, while a weak second tone tunes the accompanying ZZ phase. The interaction realizes a 150-ns bSWAP‾‾‾‾‾‾‾‾√ gate, which can directly prepare a maximally entangled state from the ground state. For the implementations on the same qubit pair at matched drive strengths, cross resonance gives a shorter CNOT operation, while bSWAP‾‾‾‾‾‾‾‾√ gives a 33% shorter SWAP operation with a higher IRB fidelity. The multilevel theory further predicts a regime where stronger driving can yield a speed advantage for CNOT as well, a possibility absent in the two-level model. As an application of the XX−YY interaction, we also demonstrate two-spin squeezing beyond the standard quantum limit through two-axis countertwisting. The interaction realized here complements cross resonance and offers a route to efficient gate synthesis and quantum simulation of interacting spin systems.</p><p></p><p>Akinori Machino, Kazuhisa Ogawa, Yuto Ikegai, Takafumi Miyanaga, Koichiro Ban, Nilton F. G. Filho, Hidehisa Shiomi, Toshi Sumida, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, and Makoto Negoro</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.21853</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
-<title>Superconducting circuits host two-level systems with lifetimes exceeding one second</title>
-<author>Mathieu Féchant, Phillip Lenhard, Nicolas Gosling, Ritika Dhundhwal, Denis Bénâtre, Wolfgang Wernsdorfer, Thomas Reisinger, and Ioan M. Pop</author>
-<link>https://arxiv.org/abs/2610.21853</link>
-<content:encoded><![CDATA[<p>Understanding the microscopic environment of superconducting qubits is a central challenge for quantum technologies. Parasitic two-level systems (TLSs) of various microscopic originsare ubiquitous and limit qubit performance through decoherence, frequency drifts, and leakage. Recently, long-lived TLSs with lifetimes exceeding those of state-of-the-art qubits have been shown to induce correlated qubit dynamics, with direct implications for quantum error correction. Here, we perform wide-band quantum-jump correlation spectroscopy on flux-tunable transmon qubits and identify microscopic degrees of freedom that outlive the qubit by orders of magnitude. Pump-probe measurements at varying detunings from these objects reveal intrinsic lifetimes exceeding one second. Their weak coupling to the qubit, in the kilohertz range, is consistent with positional defects described by the standard tunneling model, without excluding other microscopic origins such as magnetic spin impurities or trapped quasiparticles. More broadly, these results establish superconducting qubits as a sensitive probe of exceptionally long-lived microscopic degrees of freedom and open a route toward their controlled access and functionalization.</p><p></p><p>Mathieu Féchant, Phillip Lenhard, Nicolas Gosling, Ritika Dhundhwal, Denis Bénâtre, Wolfgang Wernsdorfer, Thomas Reisinger, and Ioan M. Pop</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.21435</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
-<title>Accurate gap control of 3D-integrated superconducting quantum circuits using asymmetric indium architecture and multi-angle flip-chip bonding</title>
-<author>L. Richard, N. Bruckmoser, J. Feigl, D. Bunch, A. Bhattacharjee, L. Koch, I. Tsitsilin, V.P. Bader, H. Hu, L. Södergren, and S. Filipp</author>
-<link>https://arxiv.org/abs/2610.21435</link>
-<content:encoded><![CDATA[<p>Flip-chip 3D integration is a key enabling technology for overcoming the routing and layout constraints of planar superconducting quantum processors, but it requires accurate and uniformcontrol of the inter-chip spacing while preserving qubit coherence. In conventional processes, thick indium bumps are deposited symmetrically on both chips, while dedicated spacers are introduced to limit the residual tilt. Here, we present a flip-chip bonding process based on an asymmetric indium architecture, combining 20μm thick indium bumps on the control chip with 200nm thin indium pads on the qubit chip. Using electrical and microwave measurements, we demonstrate low resistance and low loss indium interconnects, and show that transmon qubits integrated with this process reach relaxation and coherence times of T1=(159±14)μs and T2,echo=(294±42)μs, respectively, comparable to planar devices. Combined with a multi angle compression procedure that suppresses systematic tilt, this approach reduces the average post bonding tilt to (20±12)μrad. These results establish an asymmetric indium architecture combined with multi angle compression as a robust, coherence preserving route toward 3D integrated superconducting quantum processors.</p><p></p><p>L. Richard, N. Bruckmoser, J. Feigl, D. Bunch, A. Bhattacharjee, L. Koch, I. Tsitsilin, V.P. Bader, H. Hu, L. Södergren, and S. Filipp</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.20670</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
-<title>Mechanical trisqueezing in circuit quantum acoustodynamics with SNAIL devices</title>
-<author>Yi-Zhou Bu, Matteo Fadel, Kai Xu, and Heng Fan</author>
-<link>https://arxiv.org/abs/2610.20670</link>
-<content:encoded><![CDATA[<p>Continuous-variable quantum information processing with mechanical oscillators requires a uni- versal gate set, including a genuine non-Gaussian evolution. While circuit quantum acoustodynamics(cQAD) experiments have realized bilinear and quartic (four-wave mixing) operations by coupling mechanical modes to transmon qubits, the intrinsic Kerr nonlinearity of these devices precludes access to odd-order effective Hamiltonians such as trisqueezing. Here we propose a cQAD architec- ture in which a mechanical mode, hosted in a high-overtone bulk acoustic-wave resonator (HBAR), is coupled to a superconducting nonlinear asymmetric inductive element (SNAIL). By combining the cubic nonlinearity of the SNAIL with parametric flux driving, we engineer a three-wave mixing interaction that generates trisqueezed mechanical states, producing the characteristic triangular, star-shaped Wigner function with negative regions indicative of non-Gaussianity. We derive the effective trisqueezing Hamiltonian from the full circuit model, identify the drive frequencies and flux modulation required to isolate the desired interaction from competing terms, and quantify the achievable coupling strengths for parameters compatible with current fabrication capabilities. Our results establish a hardware-efficient route to non-Gaussian resource generation in mechanical quantum systems, extending the toolbox of cQAD toward universal continuous-variable quantum computation and enhanced quantum-limited sensing.</p><p></p><p>Yi-Zhou Bu, Matteo Fadel, Kai Xu, and Heng Fan</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.20810</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
-<title>Syndrome-Resolved Decoding of Qubit Readout Errors</title>
-<author>Han Zheng, Vladimir Pešić, Nikolay Gusarov, Andrea Lizzit, Taketo Imaizumi, Chulwoo Ahn, Marco Nicolas Mueller, Raymond Mencia, Edoardo Charbon, and Vladimir E. Manucharyan</author>
-<link>https://arxiv.org/abs/2610.20810</link>
-<content:encoded><![CDATA[<p>Readout errors in superconducting qubits include incorrect state assignment, bit flips within the computational subspace, and leakage to non-computational states. These errors requiredifferent mitigation strategies, yet conventional measurement fidelity and repeatability metrics do not resolve their individual contributions. Previous repeated-readout studies have shown that temporal correlations reveal additional information about readout errors. Here we introduce the Readout Error Decoder (RED), which converts repeated thresholded binary records into a channel-resolved error budget. Controlled error injections validate the channel-specific response of the decoder. We demonstrate RED on both fluxonium and transmon qubits and across distinct leakage-lifetime regimes. RED identifies the error channels limiting readout performance without requiring dedicated discrimination of non-computational states, providing a basis for targeted readout optimization across different qubit modalities.</p><p></p><p>Han Zheng, Vladimir Pešić, Nikolay Gusarov, Andrea Lizzit, Taketo Imaizumi, Chulwoo Ahn, Marco Nicolas Mueller, Raymond Mencia, Edoardo Charbon, and Vladimir E. Manucharyan</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.19599</guid>
-<pubDate>Tue, 20 Oct 2026 17:00:26 GMT</pubDate>
-<title>Cryogenic Multiplexing Control Chip for Superconducting Quantum Processor</title>
-<author>Rutian Huang, Xiao Geng, Xinyu Wu, Genting Dai, Liangliang Yang, Jianshe Liu, and Wei Chen</author>
-<link>https://arxiv.org/abs/2610.19599</link>
-<content:encoded><![CDATA[<p>This paper proposes a scheme and design of cryogenic multiplexing control chip (MCC) which enables one microwave cable to control many superconducting qubits. Designed based on adjustableinductor, MCC is a non-reciprocal device which generates microwave signals between 4 and 8 GHz and constructs XY control circuit to operate qubits. The effects of filters, isolators, power splitters, qubits and load impedance on MCC are analyzed in the frequency-domain simulation. And in time-domain simulation, the response time, Gaussian pulses, single-sideband, amplitude and frequency compensation of MCC are examined. The MCC can be integrated with the superconducting qubits on the same package at 20 mK temperature stage, and output specific microwave pulses used to drive the superconducting qubits without crosstalks. The MCC can greatly reduce the number of microwave control lines and is beneficial to the development of large-scale superconducting quantum processor.</p><p></p><p>Rutian Huang, Xiao Geng, Xinyu Wu, Genting Dai, Liangliang Yang, Jianshe Liu, and Wei Chen</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
