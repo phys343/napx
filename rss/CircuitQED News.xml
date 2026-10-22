@@ -5,8 +5,40 @@
 <link>https://circuitqed.net/news/</link>
 <description>CircuitQED News</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.29901</guid>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
+<title>Superconducting parametric amplifiers based on arrays of unequal Josephson junction elements</title>
+<author>Boris Chesca, Tom Dixon, Narendra Acharya, Renuka D. Pothuraju, Jacob W. Dunstan, Connor D. Shelly, and Oscar W. Kennedy</author>
+<link>https://arxiv.org/abs/2610.29901</link>
+<content:encoded><![CDATA[<p>Impedance matching is a crucial feature of an amplifier used to increase its instantaneous bandwidth and is typically achieved using static LC resonators. Here we show an approach toimpedance matching in parametric amplifiers using arrays of unequal Josephson-junction-based elements (rf/dc SQUIDs, SNAILs, etc). The elements act either as small-footprint flux-tunable inductors forming an impedance-matching circuit, or ‚active‘ amplifier elements which result in amplifier gain. We develop an analytical theory describing these systems, predicting a quasi-non-periodic amplifier frequency and gain modulation with applied flux and the broadening of gain bandwidths. We demonstrate this in devices using arrays of flux-focused SNAILs where flux biasing varies across the array. We find instantaneous bandwidths of 200 MHz with >17 dB of gain centred at ∼5.4 GHz in a device without a static impedance matcher. This broadening of amplifier bandwidth is stable with >100 MHz bandwidth at 17 dB gain across >1.2 GHz tunable bandwidth. Our analytical model captures flux dependence and qualitatively reproduces gain-bandwidths giving confidence in our understanding of these systems and allowing operational figures of merit to be optimised in future devices.</p><p></p><p>Boris Chesca, Tom Dixon, Narendra Acharya, Renuka D. Pothuraju, Jacob W. Dunstan, Connor D. Shelly, and Oscar W. Kennedy</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.29986</guid>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
+<title>Meter-scale quantum interconnects between large quantum processors</title>
+<author>Neereja M. Sundaresan, Nicholas Cotaj, Yadav Prasad Kandel, Eric Lewandowski, Christian Robert Longton, Yves Martin, Jae-woong Nah, Kathryn Pooley, Martin Sandberg, Michael Scanlon, Chi Xiong, Emanuil Sashev Yanev, David Abraham, Abhinandan Antony, Vincent Arena, Nicholas Bornman, Khanh Dang, Oliver Dial, Christopher Guarino, Gabriel Haspil, Jared Hertzberg, Kentaro Heya, Swetha Kamlapurkar, Michael Karschner, George Keefe, Eric Liniger, Laura Luo, Thomas G. McConkey, David Olson, Jason Orcutt, Dmitry Ovchinnikov, Timothy Phung, Sankeerth Rajalingam, Michael Selvanayagam, William Shanks, Dongbing Shao, Abigail Shearrow, Adam Stabile, Jiri Stehlik, Joseph Suttle, Jeng-Bang Yau, and Eric Zhang</author>
+<link>https://arxiv.org/abs/2610.29986</link>
+<content:encoded><![CDATA[<p>Modular quantum architecture requires long-distance quantum interconnects to stitch together individual processor modules. Such interconnects, long-distance couplers or L-couplers,must support coherent quantum operation over meter-scale distances and scale to multiple connections between any two modules. Here we demonstrate four L-couplers operating between two 120-qubit IBM Nighthawk R1 superconducting qubit processors. Each L-coupler joins two Nighthawk lattice qubits through two frequency-tunable L-qubits, two RF-SQUID based „i2m“ couplers, and 80 cm of superconducting aluminum coax. Each cable installs perpendicular to the processor surface, to enable denser connections, and is joined to the chip by an indium-to-indium room temperature pressure bond made after both modules were mounted. L-coupler modes near 5 GHz, with internal quality factors of 0.86 to 1.09e6, carry relay-based state transfer at a mean network benchmarking fidelity of 99.00%, with a best link of 99.29 +/- 0.07%. We then realize distant CZ gates between lattice qubits in separate modules at a mean fidelity of 94.75%, with a best link of 96.42 +/- 0.28%, and use them to generate entangled states across the two processors, including a demonstration of simultaneous Bell pair generation using two adjacent L-couplers. These four high-fidelity L-couplers establish a practical path to scalable quantum interconnects for modular quantum computing.</p><p></p><p>Neereja M. Sundaresan, Nicholas Cotaj, Yadav Prasad Kandel, Eric Lewandowski, Christian Robert Longton, Yves Martin, Jae-woong Nah, Kathryn Pooley, Martin Sandberg, Michael Scanlon, Chi Xiong, Emanuil Sashev Yanev, David Abraham, Abhinandan Antony, Vincent Arena, Nicholas Bornman, Khanh Dang, Oliver Dial, Christopher Guarino, Gabriel Haspil, Jared Hertzberg, Kentaro Heya, Swetha Kamlapurkar, Michael Karschner, George Keefe, Eric Liniger, Laura Luo, Thomas G. McConkey, David Olson, Jason Orcutt, Dmitry Ovchinnikov, Timothy Phung, Sankeerth Rajalingam, Michael Selvanayagam, William Shanks, Dongbing Shao, Abigail Shearrow, Adam Stabile, Jiri Stehlik, Joseph Suttle, Jeng-Bang Yau, and Eric Zhang</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.30056</guid>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
+<title>High-fidelity and robust controlled-Z gates for superconducting transmon qubits. I. Intrinsic errors and decoherence</title>
+<author>Chia-Hsien Huang, and Hsi-Sheng Goan</author>
+<link>https://arxiv.org/abs/2610.30056</link>
+<content:encoded><![CDATA[<p>Fault-tolerant quantum computing requires quantum gates that combine short duration, high fidelity, and robustness to noise. As quantum processors scale, robustness becomes increasinglyimportant because exhaustive characterization and frequent recalibration of individual gates become impractical. We present a comprehensive optimal-control framework for controlled-Z (CZ) gates between directly coupled, frequency-tunable transmons that systematically accounts for intrinsic Hamiltonian errors and realistic decoherence mechanisms, including energy relaxation and dephasing. Using smooth, single-shot flux pulses, we obtain 12-ns CZ gates—close to the theoretical speed limit of 11.6 ns—with intrinsic errors suppressed to the 2×10−5 level. We construct dephasing noise models, calibrated against published experimental measurements, that capture fast dephasing from room-temperature control electronics and slow dephasing from 1/f flux noise. Using these models, we identify dephasing sweet spots that suppress sensitivity to dephasing noise. We further exploit transmon asymmetry as a design parameter to access distinct noise-resilient operating regimes. These results establish an experimentally applicable framework for balancing gate speed, fidelity, and noise robustness while reducing characterization and recalibration overhead.</p><p></p><p>Chia-Hsien Huang, and Hsi-Sheng Goan</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.28749</guid>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
+<title>Bias-Preserving Entanglement of Kerr-Cat Qubits with an ATS Coupler</title>
+<author>Kerem Yurtseven, Shantanu R. Jha, Apoorva Limaye, Risav Pokhrel, and Muhammad Waqar Amin</author>
+<link>https://arxiv.org/abs/2610.28749</link>
+<content:encoded><![CDATA[<p>Kerr-cat qubits offer a hardware-efficient route to fault-tolerant quantum computing by suppressing bit-flip errors exponentially, while phase-flip errors increase only linearly withthe mean photon number. To maintain this protection, entangling operations must be bias-preserving, ensuring that phase-flip errors occurring during the gate do not propagate into bit-flip errors. In this paper, we propose an asymmetrically threaded SQUID (ATS) parametric coupler to implement high-fidelity, bias-preserving entangling gates between Kerr-cat qubits. By engineering a photon-number asymmetry between the control and target modes, we enable fast gate operations that suppress non-adiabatic leakage without complex pulse shaping. Through numerical simulations of the full circuit Hamiltonian, we demonstrate a bias-preserving CX gate achieving 99.69% fidelity in the absence of photon loss for a gate duration of 50 ns. Under a single-photon loss rate of 100 kHz, our protocol yields a noise bias of 9922, exceeding the noise bias of a naive non-bias-preserving CX implementation by approximately a factor of 570. These results support the ATS coupler as a valuable building block for concatenated cat-qubit architectures.</p><p></p><p>Kerem Yurtseven, Shantanu R. Jha, Apoorva Limaye, Risav Pokhrel, and Muhammad Waqar Amin</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.27471</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
 <title>Engineering \(XY\) and \(ZZ\) interactions between two remote superconducting qubits via a multimode waveguide</title>
 <author>Da-Wei Wang, and Yu-xi Liu</author>
 <link>https://arxiv.org/abs/2610.27471</link>
@@ -14,7 +46,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.27743</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
 <title>Multimode Parametric Amplifier for K-Band Quantum Measurements</title>
 <author>Chulwoo Ahn, and Vladimir Manucharyan</author>
 <link>https://arxiv.org/abs/2610.27743</link>
@@ -22,7 +54,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.27834</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
 <title>Controlled-Z Gates via Floquet Coupling to Two Auxiliary States in Transmon Circuits</title>
 <author>Yutao Chen, Jia-Chi Zhang, Tian-Ming Li, Yu Liu, Kai Xu, and Heng Fan</author>
 <link>https://arxiv.org/abs/2610.27834</link>
@@ -30,7 +62,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.28057</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
 <title>Optimal Quantum-Circuit Synthesis and Implementation of General Unitaries with Parallelized Bitstring-Conditioned Rotations</title>
 <author>Heikki Suominen, Suman Kundu, Heidi Kivijärvi, Sasu Tuohino, Mikko Tuokkola, Eemeli Forsbom, Madhavi Chand, Vasilii Vadimov, R. Vijay, and Mikko Möttönen</author>
 <link>https://arxiv.org/abs/2610.28057</link>
@@ -38,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.26223</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
 <title>Sidewall Metrology Protocol for Superconducting Qubit Devices</title>
 <author>Jørgen Garnæs, Henrik S. Guttesen, Astrid T. Rømer, Oscar Danielsson, Emily P. Duggan, Zhenhai Sun, Asen Lyubenov Georgiev, Li Wei Chang, Morten Kjaergaard, Mark Bieler, Lukas Grünhaupt, and Sabbir A. Khan</author>
 <link>https://arxiv.org/abs/2610.26223</link>
@@ -46,43 +78,11 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.27070</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
+<pubDate>Thu, 22 Oct 2026 17:00:22 GMT</pubDate>
 <title>Cavity models of non-Abelian gauge theories</title>
 <author>Lucia Valor, Jacquelin Luneau, Klaus Liegener, Stefan Filipp, and Peter Rabl</author>
 <link>https://arxiv.org/abs/2610.27070</link>
 <content:encoded><![CDATA[<p>In quantum optics and related fields, cavity quantum electrodynamics provides a powerful framework for modeling the low-energy properties of bound charges coupled to electromagneticfields, using a minimal set of atomic levels and isolated photonic modes. Here, we develop a similar framework for non-Abelian gauge theories, focusing on the pure-gauge dynamics of SU(2) fields as the conceptually simplest example. Starting from the corresponding Yang-Mills Lagrangian, we derive an SU(2) cavity Hamiltonian in the Coulomb gauge, represented in terms of only three localized bosonic modes. Unlike its non-interacting electromagnetic counterpart, this model exhibits a nontrivial excitation spectrum featuring bound composite gauge particles (‚glueballs‘) as the lowest-energy configurations. We extend this framework to one-dimensional arrays of coupled SU(2) cavities and discuss the driven excitation of a glueball condensate and the clustering of multi-glueball states as two elementary interaction-induced processes in these models. These examples offer a glimpse into the multitude of novel many-body phenomena that arise within this cavity SU(2) framework and we show how this physics at the interface between particle physics and quantum optics can be experimentally explored using state-of-the-art superconducting quantum circuits.</p><p></p><p>Lucia Valor, Jacquelin Luneau, Klaus Liegener, Stefan Filipp, and Peter Rabl</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.27137</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
-<title>Active isolation of transmon readout with a tunable inductive bridge</title>
-<author>Chunyang Ding, Chuyao Tong, Paul Varosy, Nikitha Jain, Ziyi Zhao, Eric I. Rosenthal, Konrad W. Lehnert, and David I. Schuster</author>
-<link>https://arxiv.org/abs/2610.27137</link>
-<content:encoded><![CDATA[<p>Scalable superconducting quantum computation requires fast, high-fidelity readout. Currently, this is assisted through cryogenic amplification of the readout signal. In traditionaldispersive readout schemes, the amplifiers that are used to provide high signal-to-noise ratio also generate thermal noise that can decohere the qubits, demanding additional ferrite-based isolators to suppress this noise. Here, we integrate a chip-scale microwave switch, the tunable inductive bridge, into the readout chain of a fixed-frequency transmon. Flux-pulsing the switch, such that it transmits only during the readout, did not make a discernable difference to qubit coherence, residual excited-state population, or readout fidelity metrics. By injecting broadband noise that mimics amplifier thermal photons, we show that the switch suppresses the resulting qubit dephasing by more than 30~dB, consistent with its independently measured on-off ratio, establishing it as a potential chip-based integrated replacement for readout-chain isolators.</p><p></p><p>Chunyang Ding, Chuyao Tong, Paul Varosy, Nikitha Jain, Ziyi Zhao, Eric I. Rosenthal, Konrad W. Lehnert, and David I. Schuster</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.24167</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
-<title>Probing wetting and solidification dynamics of neon thin films with a high-Tc superconducting circuit</title>
-<author>Brennan Dizdar, Yueheng Shi, David I. Schuster, and Christopher S. Lang</author>
-<link>https://arxiv.org/abs/2610.24167</link>
-<content:encoded><![CDATA[<p>Integrating condensed noble gases with superconducting circuits offers new opportunities for operating hybrid quantum devices. In particular, electrons on solid neon have recently emergedas exceptionally coherent charge qubits, however the growth of the underlying neon films on patterned devices remains poorly controlled. We monitor neon films near the triple point using a multimode resonator fabricated from high-Tc YBCO, which remains superconducting at temperatures where the liquid phase exists and whose geometry sets a thickness-sensing window near 1 μm. In the liquid state we observe rich film dynamics: uniform wetting that saturates near 20 nm, drainage of thicker films, and spontaneous thickness oscillations, reflecting the extreme sensitivity of thick films in this regime. A galvanic connection to our sensing volume enables in-situ electrostatic tuning of the liquid film thickness. Statistics of freezing the neon across various liquid levels reveal variations of the solid film thickness by approximately an order of magnitude. We also observe a two-fold increase in the quality factor of the resonators at the level of 103 with added neon and rule out dielectric loss as the limiting factor. Our results demonstrate that hermetic packaging facilitates the investigation of both rich non-equilibrium fluid dynamics and the impact of condensed noble gas films on microwave loss in superconducting circuits, but may not be the best modality for growing solid neon films with precisely controlled thickness.</p><p></p><p>Brennan Dizdar, Yueheng Shi, David I. Schuster, and Christopher S. Lang</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.23810</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
-<title>Experimental Demonstration of a Balanced Travelling Wave Parametric Amplifier</title>
-<author>Nikita Klimovich, Peter K. Day, Henry G. Leduc, and Boon-Kok Tan</author>
-<link>https://arxiv.org/abs/2610.23810</link>
-<content:encoded><![CDATA[<p>Superconducting travelling-wave parametric amplifiers (TWPAs) provide broadband gain, low added noise, and high dynamic range, making them attractive for applications requiring wideinstantaneous bandwidth. This is crucial for amplifying multiplexed narrow band signals spread over a wide frequency range, such as qubit resonator arrays, or amplifying inherently wide band signals, such as in spectrometers or radiometers. In many cases, however, the useful bandwidth of a TWPA is limited by the production of the idler tone at an image frequency. For three-wave-mixing (3WM) TWPAs, for example, an input signal at fs is indistinguishable from one at fp−fs, which can produce spectral ambiguity when the input spectrum is broadband or not known in advance. We experimentally demonstrate a balanced architecture that doubles the instantaneous image-rejected bandwidth available to a 3WM TWPA by spatially separating the amplified signal from the output pump and generated idler, which resolves the sideband degeneracy. The architecture consists of two amplifiers connected between a pair of 180∘ hybrid couplers, with the signal and pump injected and output through the sum and difference ports, respectively. Using two kinetic-inductance TWPAs, we demonstrate approximately 20 dB of signal gain across nearly an octave of bandwidth, together with pump rejection below –20 dB and an average image rejection of approximately –15 dB over the operating band. These results establish balanced TWPAs as a practical approach to broadband parametric amplification, enabling improved contamination free bandwidth and eliminating the need for complex filtering.</p><p></p><p>Nikita Klimovich, Peter K. Day, Henry G. Leduc, and Boon-Kok Tan</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.22145</guid>
-<pubDate>Wed, 21 Oct 2026 17:00:46 GMT</pubDate>
-<title>Gyrators for superconducting circuit design</title>
-<author>Ciro Salcedo, Sasha Cocquyt, Andrew Osborne, and Andrew A. Houck</author>
-<link>https://arxiv.org/abs/2610.22145</link>
-<content:encoded><![CDATA[<p>Assuming only the solubility of Kirchhoff’s laws, the conservation of energy, and the form of the constitutive relations, we present a flux-charge symmetric Hamiltonian formalismthat always admits a symplectic reduction for nonsingular, well-posed circuits involving gyrators, inductors, and capacitors (LCG circuits) with arbitrary non-linearity. The formalism introduces a notion of circuit duality on non-linear non-reciprocal circuits and a family of point transformations that inserts, removes, and moves reciprocal elements across gyrators while preserving the Hamiltonian spectrum. With these transformations, we extend Tellegen’s classic result that gyrators make reciprocal elements behave as their dual to non-linear reciprocal elements such as the Josephson junction and quantum phase slip. Furthermore, we present conditions under which non-reciprocal circuits can be transformed to dynamically equivalent reciprocal circuits.</p><p></p><p>Ciro Salcedo, Sasha Cocquyt, Andrew Osborne, and Andrew A. Houck</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
