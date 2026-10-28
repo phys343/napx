@@ -5,8 +5,32 @@
 <link>https://circuitqed.net/news/</link>
 <description>CircuitQED News</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.35227</guid>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<title>A Control Line Multiplexing Framework for Scalable Quantum Computing</title>
+<author>Dayu Li, Naibin Zhou, Zhiyuan Chen, Zihua Chen, Yu Xu, Yuan Li, Daojin Fan, Wenhao Chu, Xiawei Chen, Hui Deng, Jiacheng Gui, Linyin Hong, Bo Fan, Weiping Lin, Haonan Zou, Haoxin Lou, Xintao Zhao, Sirui Cao, Ying Chong, Qingling Zhu, Chen Wang, Yisen Hu, Kaili Zhang, Feifan Su, Haibin Zhang, Jianghan Yin, Yajie Du, Yinan Jiang, Haoping Luo, Weifeng Yang, Jiafei Wang, Jin Lin, Futian Liang, Hao Rong, Kai Yan, Ming Gong, Jinjin Li, Maliang Liu, Cheng-Zhi Peng, Shaowei Li, Xiaobo Zhu, and Jian-Wei Pan</author>
+<link>https://arxiv.org/abs/2610.35227</link>
+<content:encoded><![CDATA[<p>Universal fault-tolerant superconducting quantum computers are expected to require millions of physical qubits; yet extending the prevailing dedicated-control-line paradigm to thisscale would exceed the wiring density and cooling-power budget of dilution refrigerators. Microwave frequency-division multiplexing (FDM) revolutionized classical communications by enabling many independent channels to share common transmission infrastructure. Translating this principle to superconducting quantum control, however, requires an all-microwave architecture and experimental validation of frequency-multiplexed gate control. Recent work in quantum error correction has demonstrated microwave-based readout, single-qubit gates and leakage suppression, whereas two-qubit gates remain predominantly driven by unipolar pulses and thus constitute the missing element of an all-microwave architecture. Here, we propose a periodically extensible hybrid multiplexing framework in which all gate operations are frequency-division multiplexed using polychromatic microwave pulses and band-pass filters, thereby reducing the required control-line count by one to two orders of magnitude. In a 1:4 demonstration, we achieve average errors of (6.4±0.2)×10−3 for parallel FDM CZ gates and (10.6±0.2)×10−4 for parallel FDM XY(π/2) gates, without statistically significant multiplexing-induced degradation. Together with on-chip DC sources, this FDM-based gate-control scheme completes the last missing module in a scalable multiplexed-control architecture toward universal fault-tolerant quantum computing.</p><p></p><p>Dayu Li, Naibin Zhou, Zhiyuan Chen, Zihua Chen, Yu Xu, Yuan Li, Daojin Fan, Wenhao Chu, Xiawei Chen, Hui Deng, Jiacheng Gui, Linyin Hong, Bo Fan, Weiping Lin, Haonan Zou, Haoxin Lou, Xintao Zhao, Sirui Cao, Ying Chong, Qingling Zhu, Chen Wang, Yisen Hu, Kaili Zhang, Feifan Su, Haibin Zhang, Jianghan Yin, Yajie Du, Yinan Jiang, Haoping Luo, Weifeng Yang, Jiafei Wang, Jin Lin, Futian Liang, Hao Rong, Kai Yan, Ming Gong, Jinjin Li, Maliang Liu, Cheng-Zhi Peng, Shaowei Li, Xiaobo Zhu, and Jian-Wei Pan</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.35768</guid>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<title>Growth Phase Map of α and \b{eta} Tantalum as a Function of Growth Temperature and Oxygen Partial Pressure</title>
+<author>Marius O. Eji, Tyler J. Kirkpatrick, Ty J. Cawein, and Joseph P. Corbett</author>
+<link>https://arxiv.org/abs/2610.35768</link>
+<content:encoded><![CDATA[<p>Tantalum thin films are used in low-loss superconducting quantum circuits, yet the growth conditions governing selection of α-Ta(110), α-Ta(111), and metastable β-Ta on c-plane sapphireremain uncertain. We deposited 100 nm Ta films by dc magnetron sputtering on Al2O3(0001) at 300-900 ∘C while varying the O2 partial pressure from a 5.5×10−11 Torr ultrahigh-vacuum baseline to 2.23×10−4 Torr. Absorption-corrected X-ray diffraction texture coefficients were used to construct a ternary phase-orientation growth map in terms of temperature and the oxygen-to-Ta impingement flux ratio (2ΦO2/ΦTa≤4.8×10−6 to 19). Without added oxygen, α-Ta(110) dominated at every temperature. At an O2 pressure of only 2.5×10−9 Torr (2ΦO2/ΦTa=2.2×10−4), α-Ta(111) accounted for 98-99% of the normalized texture weight from 300 to 700 ∘C, decreasing to 65% at 900 ∘C. Substantial β-Ta formed only at the highest oxygen dose, dominating at 300 ∘C and disappearing at 900 ∘C. The apparent β(001)/α(110) selection energy of 1.07±0.16 eV is comparable to the activation energy for oxygen diffusion in Ta, consistent with oxygen transport influencing phase selection. Oxygen also produced orientation-dependent changes in crystallite size and microstrain. These findings establish oxygen-controlled processing windows for phase- and orientation-selective growth of Ta films for superconducting devices.</p><p></p><p>Marius O. Eji, Tyler J. Kirkpatrick, Ty J. Cawein, and Joseph P. Corbett</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.34485</guid>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<title>Real-Time Correlation of Relaxation, Dephasing, and Two-level System Dynamics in Transmon Qubits</title>
+<author>Ambrose Yang, Alexander M. Young, Paal H. Prestegaard, Atharv Joshi, Matthew S. Ai, Q. Rumman Rahman, Faranak Bahrami, Matthew P. Bland, Jui-Lin Niu, Ourania-Maria Glezakou-Elbert, Ray D. Chang, Jocelyn Liu, Zhengyi Lu, Robert J. Cava, Nathalie P. de Leon, and Andrew A. Houck</author>
+<link>https://arxiv.org/abs/2610.34485</link>
+<content:encoded><![CDATA[<p>Materials improvements in transmon qubits have yielded remarkable advances in qubit lifetimes (T1)and coherence times (T2). However, state-of-the-art superconducting qubits experiencetemporal fluctuations in their performance, which limit gate fidelities and quantum processor performance. We observe correlated increases in qubit relaxation and dephasing rates that last for minutes to hours, which we call T1 and T2 excursions. Using interleaved lifetime and coherence time measurements, noise spectroscopy, and two-level-system (TLS) spectroscopy, we find that these excursions are caused by single or few strongly-coupled TLS defects that spectrally diffuse into resonance with the qubit frequency. Our measurement protocol provides a powerful tool for understanding the noise sources that cause temporal fluctuations in superconducting qubit performance.</p><p></p><p>Ambrose Yang, Alexander M. Young, Paal H. Prestegaard, Atharv Joshi, Matthew S. Ai, Q. Rumman Rahman, Faranak Bahrami, Matthew P. Bland, Jui-Lin Niu, Ourania-Maria Glezakou-Elbert, Ray D. Chang, Jocelyn Liu, Zhengyi Lu, Robert J. Cava, Nathalie P. de Leon, and Andrew A. Houck</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.32622</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
 <title>Trace-distance characterization of recurrent pairwise synchronization in cavity-coupled superconducting qubits</title>
 <author>Tiantian Huan</author>
 <link>https://arxiv.org/abs/2610.32622</link>
@@ -14,7 +38,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.31885</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
 <title>Optimal Control of a Fluxonium Circuit with the Q-PRONTO Numerical Method</title>
 <author>John Barta, Brian D. Isakov, Pablo Aramburu Sanchez, Jieqiu Shao, Tamás Kalmár, Trevyn F.Q. Larson, Marco M. Nicotra, and András Gyenis</author>
 <link>https://arxiv.org/abs/2610.31885</link>
@@ -22,7 +46,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.30681</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
 <title>High-fidelity and robust controlled-Z gates for superconducting transmon qubits. II. System-parameter uncertainties and overall errors</title>
 <author>Chia-Hsien Huang, and Hsi-Sheng Goan</author>
 <link>https://arxiv.org/abs/2610.30681</link>
@@ -30,7 +54,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.29901</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
 <title>Superconducting parametric amplifiers based on arrays of unequal Josephson junction elements</title>
 <author>Boris Chesca, Tom Dixon, Narendra Acharya, Renuka D. Pothuraju, Jacob W. Dunstan, Connor D. Shelly, and Oscar W. Kennedy</author>
 <link>https://arxiv.org/abs/2610.29901</link>
@@ -38,7 +62,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.29986</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
 <title>Meter-scale quantum interconnects between large quantum processors</title>
 <author>Neereja M. Sundaresan, Nicholas Cotaj, Yadav Prasad Kandel, Eric Lewandowski, Christian Robert Longton, Yves Martin, Jae-woong Nah, Kathryn Pooley, Martin Sandberg, Michael Scanlon, Chi Xiong, Emanuil Sashev Yanev, David Abraham, Abhinandan Antony, Vincent Arena, Nicholas Bornman, Khanh Dang, Oliver Dial, Christopher Guarino, Gabriel Haspil, Jared Hertzberg, Kentaro Heya, Swetha Kamlapurkar, Michael Karschner, George Keefe, Eric Liniger, Laura Luo, Thomas G. McConkey, David Olson, Jason Orcutt, Dmitry Ovchinnikov, Timothy Phung, Sankeerth Rajalingam, Michael Selvanayagam, William Shanks, Dongbing Shao, Abigail Shearrow, Adam Stabile, Jiri Stehlik, Joseph Suttle, Jeng-Bang Yau, and Eric Zhang</author>
 <link>https://arxiv.org/abs/2610.29986</link>
@@ -46,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.30056</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
 <title>High-fidelity and robust controlled-Z gates for superconducting transmon qubits. I. Intrinsic errors and decoherence</title>
 <author>Chia-Hsien Huang, and Hsi-Sheng Goan</author>
 <link>https://arxiv.org/abs/2610.30056</link>
@@ -54,35 +78,11 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.28749</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
+<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
 <title>Bias-Preserving Entanglement of Kerr-Cat Qubits with an ATS Coupler</title>
 <author>Kerem Yurtseven, Shantanu R. Jha, Apoorva Limaye, Risav Pokhrel, and Muhammad Waqar Amin</author>
 <link>https://arxiv.org/abs/2610.28749</link>
 <content:encoded><![CDATA[<p>Kerr-cat qubits offer a hardware-efficient route to fault-tolerant quantum computing by suppressing bit-flip errors exponentially, while phase-flip errors increase only linearly withthe mean photon number. To maintain this protection, entangling operations must be bias-preserving, ensuring that phase-flip errors occurring during the gate do not propagate into bit-flip errors. In this paper, we propose an asymmetrically threaded SQUID (ATS) parametric coupler to implement high-fidelity, bias-preserving entangling gates between Kerr-cat qubits. By engineering a photon-number asymmetry between the control and target modes, we enable fast gate operations that suppress non-adiabatic leakage without complex pulse shaping. Through numerical simulations of the full circuit Hamiltonian, we demonstrate a bias-preserving CX gate achieving 99.69% fidelity in the absence of photon loss for a gate duration of 50 ns. Under a single-photon loss rate of 100 kHz, our protocol yields a noise bias of 9922, exceeding the noise bias of a naive non-bias-preserving CX implementation by approximately a factor of 570. These results support the ATS coupler as a valuable building block for concatenated cat-qubit architectures.</p><p></p><p>Kerem Yurtseven, Shantanu R. Jha, Apoorva Limaye, Risav Pokhrel, and Muhammad Waqar Amin</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.27471</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
-<title>Engineering \(XY\) and \(ZZ\) interactions between two remote superconducting qubits via a multimode waveguide</title>
-<author>Da-Wei Wang, and Yu-xi Liu</author>
-<link>https://arxiv.org/abs/2610.27471</link>
-<content:encoded><![CDATA[<p>Waveguides provide a flexible platform for long-range interactions between superconducting qubits. Here, we study how to engineer the effective (XY) and (ZZ) interactions betweentwo qubits via qubit frequency assignments and multimode interference determined by the mode configuration and standing-wave parities of a finite multimode waveguide. For a single-mode waveguide, we find that \(XY\) and \(ZZ\) interactions cannot be simultaneously suppressed to zero and the residual qubit-qubit coupling always exists. For example, the \(XY\) interaction may be suppressed to a negligible level when two qubits and the waveguide mode satisfy the two-photon resonant condition, but the \(ZZ\) interaction cannot be switched off. For multimode configurations within the central dispersive window, the engineered interaction types are very different for odd and even numbers of modes. Even-mode configurations can readily produce strong \(XY\) interactions, whereas odd-mode configurations can strongly suppress the \(XY\) interaction while retaining a finite \(ZZ\) interaction. Full-Hamiltonian simulations of minimal two- and three-mode configurations confirm \(XY\)-dominated SWAP dynamics and \(ZZ\)-dominated CZ-type dynamics, respectively. These results establish a frequency assignment criterion of qubits and waveguide modes for selectively engineering long-range qubit-qubit interaction types induced by the waveguide with finite multimode.</p><p></p><p>Da-Wei Wang, and Yu-xi Liu</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.27743</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
-<title>Multimode Parametric Amplifier for K-Band Quantum Measurements</title>
-<author>Chulwoo Ahn, and Vladimir Manucharyan</author>
-<link>https://arxiv.org/abs/2610.27743</link>
-<content:encoded><![CDATA[<p>We demonstrate K-band nondegenerate three-wave-mixing amplification in a multimode resonator comprising an array of 500 SNAILs. Pairing K-band signal modes with lower-frequency internalidler modes enables 20 dB of gain continuously from 19.6 to 25.6 GHz with pump frequencies below 32.2 GHz. At 20 dB gain, the 3-dB bandwidth ranges from 2.6 to 11.7 MHz, and the input-referred 1-dB compression power reaches -100.9 dBm. In the 20-22 GHz band, the average added noise is 0.73 quanta. A two-mode nondegenerate parametric amplification model describes the measured gain response and gain-bandwidth behavior, while a multimode Kerr model captures the overall compression scale. Our amplifier provides a practical solution for implementing a state-of-the-art readout of superconducting qubits in the K-band.</p><p></p><p>Chulwoo Ahn, and Vladimir Manucharyan</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.27834</guid>
-<pubDate>Mon, 26 Oct 2026 17:00:18 GMT</pubDate>
-<title>Controlled-Z Gates via Floquet Coupling to Two Auxiliary States in Transmon Circuits</title>
-<author>Yutao Chen, Jia-Chi Zhang, Tian-Ming Li, Yu Liu, Kai Xu, and Heng Fan</author>
-<link>https://arxiv.org/abs/2610.27834</link>
-<content:encoded><![CDATA[<p>High-fidelity entangling gates are essential for quantum information processing. In transmon circuits, higher excited states provide additional pathways for engineering interactionswithin the computational subspace. Here we demonstrate controlled-Z (CZ) gates that exploit two noncomputational states, $\ket{02}$ and $\ket{20}$, through selective Floquet coupling. The nontrivial parametric modulation can activate both auxiliary transitions from $\ket{11}$ while suppressing the leading exchange between $\ket{01}$ and $\ket{10}$. Based on this approach, we develop two gate protocols: a nonadiabatic round trip through a bright auxiliary superposition and adiabatic evolution along a zero-energy dark state, both achieving average gate fidelities above 99.99% in numerical simulations. Control of the modulation phase further extends the bright-state protocol to conventional and unconventional geometric CZ gates. Effective-model simulations show that unconventional control improves tolerance to residual ZZ coupling and static qubit-frequency offsets relative to conventional control over the parameter ranges examined. Simulations including neighboring spectator qubits show that the original nonadiabatic bright-state and adiabatic dark-state CZ protocols retain high gate fidelities. This framework offers new routes toward the experimental realization of CZ gates and their geometric implementations.</p><p></p><p>Yutao Chen, Jia-Chi Zhang, Tian-Ming Li, Yu Liu, Kai Xu, and Heng Fan</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
