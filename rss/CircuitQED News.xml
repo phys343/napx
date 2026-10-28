@@ -5,8 +5,24 @@
 <link>https://circuitqed.net/news/</link>
 <description>CircuitQED News</description>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.36754</guid>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
+<title>A Unified Protocol for Arbitrary Z Rotations of a Class of Bosonic cQED Qubits</title>
+<author>Vahid Shaghaghi</author>
+<link>https://arxiv.org/abs/2610.36754</link>
+<content:encoded><![CDATA[<p>Bosonic-qubit encodings provide diverse approaches to storing and processing quantum information, with logical operations often implemented through encoding-specific physical strategies.Here, we identify a class of bosonic Fock-based qubits in circuit QED for which distinct implementations of arbitrary Z rotations share a common structure. We formulate this structure as a six-step protocol that provides a unified procedure for implementing arbitrary Z rotations across this class of bosonic cQED qubits. The applicability of the protocol is determined by a specific condition on the encoding, providing a criterion for identifying bosonic Fock-based cQED qubits that admit the common implementation.</p><p></p><p>Vahid Shaghaghi</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.36365</guid>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
+<title>Suppressing microwave crosstalk in superconducting quantum processors by designing parasitic drive capacitances</title>
+<author>Anuj Aggarwal, Jorge Fernández-Pendás, Simon Pettersson Fors, Zakaria Mohamed, Halldór Jakobsson, Amr Osman, Janka Biznárová, Andreas Nylander, Anita Fadavi Roudsari, Marcus Rommel, Anton Frisk Kockum, and Giovanna Tancredi</author>
+<link>https://arxiv.org/abs/2610.36365</link>
+<content:encoded><![CDATA[<p>As superconducting quantum processors scale to large qubit counts, unwanted microwave drive crosstalk becomes an important source of coherent errors. Here, we investigate the role ofparasitic coupling paths in the suppression of drive crosstalk in a processor with two fixed-frequency transmon qubits and a tunable coupler. To account for the many different coupling paths, we develop a detailed circuit model to capture the dependence of crosstalk on the coupler frequency. We experimentally demonstrate suppression of crosstalk, finding that the suppression does not originate solely from cancellation of the effective qubit-qubit coupling, but also is a result of interference between other coupling paths. Building on these insights, we show that drive crosstalk can be suppressed with the right choice of parasitic capacitances, which otherwise often are treated as unwanted design imperfections. Our results provide practical guidance for low-crosstalk device design of superconducting quantum processors and point toward a broader strategy in which parasitic coupling paths are engineered rather than simply minimized.</p><p></p><p>Anuj Aggarwal, Jorge Fernández-Pendás, Simon Pettersson Fors, Zakaria Mohamed, Halldór Jakobsson, Amr Osman, Janka Biznárová, Andreas Nylander, Anita Fadavi Roudsari, Marcus Rommel, Anton Frisk Kockum, and Giovanna Tancredi</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.35227</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
 <title>A Control Line Multiplexing Framework for Scalable Quantum Computing</title>
 <author>Dayu Li, Naibin Zhou, Zhiyuan Chen, Zihua Chen, Yu Xu, Yuan Li, Daojin Fan, Wenhao Chu, Xiawei Chen, Hui Deng, Jiacheng Gui, Linyin Hong, Bo Fan, Weiping Lin, Haonan Zou, Haoxin Lou, Xintao Zhao, Sirui Cao, Ying Chong, Qingling Zhu, Chen Wang, Yisen Hu, Kaili Zhang, Feifan Su, Haibin Zhang, Jianghan Yin, Yajie Du, Yinan Jiang, Haoping Luo, Weifeng Yang, Jiafei Wang, Jin Lin, Futian Liang, Hao Rong, Kai Yan, Ming Gong, Jinjin Li, Maliang Liu, Cheng-Zhi Peng, Shaowei Li, Xiaobo Zhu, and Jian-Wei Pan</author>
 <link>https://arxiv.org/abs/2610.35227</link>
@@ -14,7 +30,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.35768</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
 <title>Growth Phase Map of α and \b{eta} Tantalum as a Function of Growth Temperature and Oxygen Partial Pressure</title>
 <author>Marius O. Eji, Tyler J. Kirkpatrick, Ty J. Cawein, and Joseph P. Corbett</author>
 <link>https://arxiv.org/abs/2610.35768</link>
@@ -22,7 +38,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.34485</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
 <title>Real-Time Correlation of Relaxation, Dephasing, and Two-level System Dynamics in Transmon Qubits</title>
 <author>Ambrose Yang, Alexander M. Young, Paal H. Prestegaard, Atharv Joshi, Matthew S. Ai, Q. Rumman Rahman, Faranak Bahrami, Matthew P. Bland, Jui-Lin Niu, Ourania-Maria Glezakou-Elbert, Ray D. Chang, Jocelyn Liu, Zhengyi Lu, Robert J. Cava, Nathalie P. de Leon, and Andrew A. Houck</author>
 <link>https://arxiv.org/abs/2610.34485</link>
@@ -30,7 +46,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.32622</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
 <title>Trace-distance characterization of recurrent pairwise synchronization in cavity-coupled superconducting qubits</title>
 <author>Tiantian Huan</author>
 <link>https://arxiv.org/abs/2610.32622</link>
@@ -38,7 +54,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.31885</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
 <title>Optimal Control of a Fluxonium Circuit with the Q-PRONTO Numerical Method</title>
 <author>John Barta, Brian D. Isakov, Pablo Aramburu Sanchez, Jieqiu Shao, Tamás Kalmár, Trevyn F.Q. Larson, Marco M. Nicotra, and András Gyenis</author>
 <link>https://arxiv.org/abs/2610.31885</link>
@@ -46,7 +62,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.30681</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
 <title>High-fidelity and robust controlled-Z gates for superconducting transmon qubits. II. System-parameter uncertainties and overall errors</title>
 <author>Chia-Hsien Huang, and Hsi-Sheng Goan</author>
 <link>https://arxiv.org/abs/2610.30681</link>
@@ -54,7 +70,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.29901</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
 <title>Superconducting parametric amplifiers based on arrays of unequal Josephson junction elements</title>
 <author>Boris Chesca, Tom Dixon, Narendra Acharya, Renuka D. Pothuraju, Jacob W. Dunstan, Connor D. Shelly, and Oscar W. Kennedy</author>
 <link>https://arxiv.org/abs/2610.29901</link>
@@ -62,27 +78,11 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.29986</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
+<pubDate>Wed, 28 Oct 2026 17:00:18 GMT</pubDate>
 <title>Meter-scale quantum interconnects between large quantum processors</title>
 <author>Neereja M. Sundaresan, Nicholas Cotaj, Yadav Prasad Kandel, Eric Lewandowski, Christian Robert Longton, Yves Martin, Jae-woong Nah, Kathryn Pooley, Martin Sandberg, Michael Scanlon, Chi Xiong, Emanuil Sashev Yanev, David Abraham, Abhinandan Antony, Vincent Arena, Nicholas Bornman, Khanh Dang, Oliver Dial, Christopher Guarino, Gabriel Haspil, Jared Hertzberg, Kentaro Heya, Swetha Kamlapurkar, Michael Karschner, George Keefe, Eric Liniger, Laura Luo, Thomas G. McConkey, David Olson, Jason Orcutt, Dmitry Ovchinnikov, Timothy Phung, Sankeerth Rajalingam, Michael Selvanayagam, William Shanks, Dongbing Shao, Abigail Shearrow, Adam Stabile, Jiri Stehlik, Joseph Suttle, Jeng-Bang Yau, and Eric Zhang</author>
 <link>https://arxiv.org/abs/2610.29986</link>
 <content:encoded><![CDATA[<p>Modular quantum architecture requires long-distance quantum interconnects to stitch together individual processor modules. Such interconnects, long-distance couplers or L-couplers,must support coherent quantum operation over meter-scale distances and scale to multiple connections between any two modules. Here we demonstrate four L-couplers operating between two 120-qubit IBM Nighthawk R1 superconducting qubit processors. Each L-coupler joins two Nighthawk lattice qubits through two frequency-tunable L-qubits, two RF-SQUID based „i2m“ couplers, and 80 cm of superconducting aluminum coax. Each cable installs perpendicular to the processor surface, to enable denser connections, and is joined to the chip by an indium-to-indium room temperature pressure bond made after both modules were mounted. L-coupler modes near 5 GHz, with internal quality factors of 0.86 to 1.09e6, carry relay-based state transfer at a mean network benchmarking fidelity of 99.00%, with a best link of 99.29 +/- 0.07%. We then realize distant CZ gates between lattice qubits in separate modules at a mean fidelity of 94.75%, with a best link of 96.42 +/- 0.28%, and use them to generate entangled states across the two processors, including a demonstration of simultaneous Bell pair generation using two adjacent L-couplers. These four high-fidelity L-couplers establish a practical path to scalable quantum interconnects for modular quantum computing.</p><p></p><p>Neereja M. Sundaresan, Nicholas Cotaj, Yadav Prasad Kandel, Eric Lewandowski, Christian Robert Longton, Yves Martin, Jae-woong Nah, Kathryn Pooley, Martin Sandberg, Michael Scanlon, Chi Xiong, Emanuil Sashev Yanev, David Abraham, Abhinandan Antony, Vincent Arena, Nicholas Bornman, Khanh Dang, Oliver Dial, Christopher Guarino, Gabriel Haspil, Jared Hertzberg, Kentaro Heya, Swetha Kamlapurkar, Michael Karschner, George Keefe, Eric Liniger, Laura Luo, Thomas G. McConkey, David Olson, Jason Orcutt, Dmitry Ovchinnikov, Timothy Phung, Sankeerth Rajalingam, Michael Selvanayagam, William Shanks, Dongbing Shao, Abigail Shearrow, Adam Stabile, Jiri Stehlik, Joseph Suttle, Jeng-Bang Yau, and Eric Zhang</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.30056</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
-<title>High-fidelity and robust controlled-Z gates for superconducting transmon qubits. I. Intrinsic errors and decoherence</title>
-<author>Chia-Hsien Huang, and Hsi-Sheng Goan</author>
-<link>https://arxiv.org/abs/2610.30056</link>
-<content:encoded><![CDATA[<p>Fault-tolerant quantum computing requires quantum gates that combine short duration, high fidelity, and robustness to noise. As quantum processors scale, robustness becomes increasinglyimportant because exhaustive characterization and frequent recalibration of individual gates become impractical. We present a comprehensive optimal-control framework for controlled-Z (CZ) gates between directly coupled, frequency-tunable transmons that systematically accounts for intrinsic Hamiltonian errors and realistic decoherence mechanisms, including energy relaxation and dephasing. Using smooth, single-shot flux pulses, we obtain 12-ns CZ gates—close to the theoretical speed limit of 11.6 ns—with intrinsic errors suppressed to the 2×10−5 level. We construct dephasing noise models, calibrated against published experimental measurements, that capture fast dephasing from room-temperature control electronics and slow dephasing from 1/f flux noise. Using these models, we identify dephasing sweet spots that suppress sensitivity to dephasing noise. We further exploit transmon asymmetry as a design parameter to access distinct noise-resilient operating regimes. These results establish an experimentally applicable framework for balancing gate speed, fidelity, and noise robustness while reducing characterization and recalibration overhead.</p><p></p><p>Chia-Hsien Huang, and Hsi-Sheng Goan</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.28749</guid>
-<pubDate>Tue, 27 Oct 2026 17:00:20 GMT</pubDate>
-<title>Bias-Preserving Entanglement of Kerr-Cat Qubits with an ATS Coupler</title>
-<author>Kerem Yurtseven, Shantanu R. Jha, Apoorva Limaye, Risav Pokhrel, and Muhammad Waqar Amin</author>
-<link>https://arxiv.org/abs/2610.28749</link>
-<content:encoded><![CDATA[<p>Kerr-cat qubits offer a hardware-efficient route to fault-tolerant quantum computing by suppressing bit-flip errors exponentially, while phase-flip errors increase only linearly withthe mean photon number. To maintain this protection, entangling operations must be bias-preserving, ensuring that phase-flip errors occurring during the gate do not propagate into bit-flip errors. In this paper, we propose an asymmetrically threaded SQUID (ATS) parametric coupler to implement high-fidelity, bias-preserving entangling gates between Kerr-cat qubits. By engineering a photon-number asymmetry between the control and target modes, we enable fast gate operations that suppress non-adiabatic leakage without complex pulse shaping. Through numerical simulations of the full circuit Hamiltonian, we demonstrate a bias-preserving CX gate achieving 99.69% fidelity in the absence of photon loss for a gate duration of 50 ns. Under a single-photon loss rate of 100 kHz, our protocol yields a noise bias of 9922, exceeding the noise bias of a naive non-bias-preserving CX implementation by approximately a factor of 570. These results support the ATS coupler as a valuable building block for concatenated cat-qubit architectures.</p><p></p><p>Kerem Yurtseven, Shantanu R. Jha, Apoorva Limaye, Risav Pokhrel, and Muhammad Waqar Amin</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
