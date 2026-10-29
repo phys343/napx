@@ -6,63 +6,79 @@
 <description>arXiv quant-ph Hot Papers</description>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37635</guid>
-<pubDate>Wed, 28 Oct 2026 17:01:00 GMT</pubDate>
-<title>[26★] Classical Verification of Quantum Computation Beyond the Polynomial Hierarchy</title>
+<pubDate>Thu, 29 Oct 2026 17:02:05 GMT</pubDate>
+<title>[42★] Classical Verification of Quantum Computation Beyond the Polynomial Hierarchy</title>
 <author>Atul Mantri</author>
 <link>https://arxiv.org/abs/2610.37635</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 26 ★</p><p><b>Authors:</b> Atul Mantri</p><p><b>arXiv ID:</b> 2610.37635 (<a href="https://arxiv.org/abs/2610.37635">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.37635">scirate</a>)</p><p><b>Abstract:</b></p><p>It is not known whether a classical polynomial-time verifier can verify arbitrary polynomial-time quantum computations with an efficient quantum honest prover without computational assumptions. We show that, relative to a classical oracle, such verification is possible for a language beyond the polynomial hierarchy that is decided exactly in quantum polynomial time. The protocol is public-coin, with perfect completeness and soundness error at most 1/4. To our knowledge, no language with such a proof system was previously proved to lie outside AM relative to an oracle. For every unbounded polynomial-time computable function, the oracle can be chosen so that the message count and the oracle query counts of the quantum algorithm, verifier, and honest prover are bounded by this function of the input length. The message count is optimal up to a constant factor, since for a suitable oracle every interactive proof system for the language uses at least a constant fraction of the messages of our protocol on infinitely many lengths, with a constant depending on its verifier. The language is a variant of recursive Fourier sampling in which code tables encode secrets that address data tables. The tables are evaluated recursively, and the oracle stores only the leaves. The quantum algorithm recovers every secret exactly, and the verifier checks the prover&#x27;s secrets recursively against random code entries. The recursion restricts the input in a correlated way, as the same secret fixes the code bits and chooses the free coordinate, so Håstad&#x27;s switching lemma does not apply. We prove a switching theorem for these restrictions, which may be of independent interest. For instances of sufficient height, no constant-depth circuit of size 2poly(n)2poly(n)2^{\mathrm{poly}(n)} changes its output with probability above 2−Ω(n)2−Ω(n)2^{-\Omega(n)} when the answer of a random instance is flipped by changing a single leaf.</p></p><p></p><p>Atul Mantri</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 42 ★</p><p><b>Authors:</b> Atul Mantri</p><p><b>arXiv ID:</b> 2610.37635 (<a href="https://arxiv.org/abs/2610.37635">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.37635">scirate</a>)</p><p><b>Abstract:</b></p><p>It is not known whether a classical polynomial-time verifier can verify arbitrary polynomial-time quantum computations with an efficient quantum honest prover without computational assumptions. We show that, relative to a classical oracle, such verification is possible for a language beyond the polynomial hierarchy that is decided exactly in quantum polynomial time. The protocol is public-coin, with perfect completeness and soundness error at most 1/4. To our knowledge, no language with such a proof system was previously proved to lie outside AM relative to an oracle. For every unbounded polynomial-time computable function, the oracle can be chosen so that the message count and the oracle query counts of the quantum algorithm, verifier, and honest prover are bounded by this function of the input length. The message count is optimal up to a constant factor, since for a suitable oracle every interactive proof system for the language uses at least a constant fraction of the messages of our protocol on infinitely many lengths, with a constant depending on its verifier. The language is a variant of recursive Fourier sampling in which code tables encode secrets that address data tables. The tables are evaluated recursively, and the oracle stores only the leaves. The quantum algorithm recovers every secret exactly, and the verifier checks the prover&#x27;s secrets recursively against random code entries. The recursion restricts the input in a correlated way, as the same secret fixes the code bits and chooses the free coordinate, so Håstad&#x27;s switching lemma does not apply. We prove a switching theorem for these restrictions, which may be of independent interest. For instances of sufficient height, no constant-depth circuit of size 2poly(n)2^{\mathrm{poly}(n)} changes its output with probability above 2−Ω(n)2^{-\Omega(n)} when the answer of a random instance is flipped by changing a single leaf.</p></p><p></p><p>Atul Mantri</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37589</guid>
-<pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
-<title>[21★] Dynamical quantum simulations as laboratories for quantum information</title>
+<pubDate>Thu, 29 Oct 2026 17:01:05 GMT</pubDate>
+<title>[26★] Dynamical quantum simulations as laboratories for quantum information</title>
 <author>Su Yeon Chang, ..., Mark M. Wilde, M. Cerezo</author>
 <link>https://arxiv.org/abs/2610.37589</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 21 ★</p><p><b>Authors:</b> Su Yeon Chang, ..., Mark M. Wilde, M. Cerezo</p><p><b>arXiv ID:</b> 2610.37589 (<a href="https://arxiv.org/abs/2610.37589">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.37589">scirate</a>)</p><p><b>Abstract:</b></p><p>Dynamical quantum simulations are commonly designed to access a particular response function or correlation function. Yet the underlying protocol prepares a family of many-body states that contains information well beyond the observable for which the simulation was originally designed. In this work, we explore the idea of using these states as laboratories for quantum information. As a case study, we consider the local-pulse protocols used to compute Green functions in finite XX and XXX spin chains, and we interpret opposite source rotations as encoding a classical bit into the many-body system. This allows us to follow how the resulting record propagates, how it is encoded across local subsystems, and how readily it can be accessed with different measurements. We also find a clear separation between representation and readout. While fermionic covariance data exactly reconstruct the signed response in the XX chain, simple spin measurements recover a larger fraction of the locally available information in the XXX chain. This reversed ordering persists when we move from finite-pulse discrimination to local source-angle estimation. Going beyond the source record, the same reduced states also allow us to reinterpret results in terms of Bell state recovery and quantum communication rates, as well as providing direct access to the evolving bipartite and genuine multipartite entanglement of the system. Our results show that dynamical quantum simulations developed for response calculations can naturally be used to ask a much broader set of quantum-information questions about the many-body states they already prepare.</p></p><p></p><p>Su Yeon Chang, ..., Mark M. Wilde, M. Cerezo</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 26 ★</p><p><b>Authors:</b> Su Yeon Chang, ..., Mark M. Wilde, M. Cerezo</p><p><b>arXiv ID:</b> 2610.37589 (<a href="https://arxiv.org/abs/2610.37589">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.37589">scirate</a>)</p><p><b>Abstract:</b></p><p>Dynamical quantum simulations are commonly designed to access a particular response function or correlation function. Yet the underlying protocol prepares a family of many-body states that contains information well beyond the observable for which the simulation was originally designed. In this work, we explore the idea of using these states as laboratories for quantum information. As a case study, we consider the local-pulse protocols used to compute Green functions in finite XX and XXX spin chains, and we interpret opposite source rotations as encoding a classical bit into the many-body system. This allows us to follow how the resulting record propagates, how it is encoded across local subsystems, and how readily it can be accessed with different measurements. We also find a clear separation between representation and readout. While fermionic covariance data exactly reconstruct the signed response in the XX chain, simple spin measurements recover a larger fraction of the locally available information in the XXX chain. This reversed ordering persists when we move from finite-pulse discrimination to local source-angle estimation. Going beyond the source record, the same reduced states also allow us to reinterpret results in terms of Bell state recovery and quantum communication rates, as well as providing direct access to the evolving bipartite and genuine multipartite entanglement of the system. Our results show that dynamical quantum simulations developed for response calculations can naturally be used to ask a much broader set of quantum-information questions about the many-body states they already prepare.</p></p><p></p><p>Su Yeon Chang, ..., Mark M. Wilde, M. Cerezo</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37296</guid>
-<pubDate>Wed, 28 Oct 2026 16:59:00 GMT</pubDate>
-<title>[15★] Prepare-and-measure quantum key distribution from a bound on information leakage</title>
+<pubDate>Thu, 29 Oct 2026 17:00:05 GMT</pubDate>
+<title>[20★] Prepare-and-measure quantum key distribution from a bound on information leakage</title>
 <author>Abhishek Mishra, ..., Armin Tavakoli, Stefano Pironio</author>
 <link>https://arxiv.org/abs/2610.37296</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 15 ★</p><p><b>Authors:</b> Abhishek Mishra, ..., Armin Tavakoli, Stefano Pironio</p><p><b>arXiv ID:</b> 2610.37296 (<a href="https://arxiv.org/abs/2610.37296">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.37296">scirate</a>)</p><p><b>Abstract:</b></p><p>Every quantum key distribution (QKD) protocol must limit the information available outside the users&#x27; laboratories. In device-independent QKD this is essentially the only assumption made on the devices. In a prepare-and-measure setting it cannot be imposed strictly, since the sender&#x27;s device must emit a signal that depends on her private input. The natural replacement, and a minimal one, is a leakage bound: a bound on how much information about the input leaves the sender&#x27;s laboratory, through the intended signal or through any side channel. We ask how far this unavoidable requirement can replace a detailed model of the source. We show that this single bound, quantified by the probability of guessing the input from everything the source emits, suffices to prove security against collective attacks. In our analysis, nothing is assumed about the precise form of the emitted states, their dimension, energy or purity, nor about the receiver&#x27;s measurement device, beyond the standard requirement that it does not leak Bob&#x27;s data. The standard B92 and BB84 protocols do not certify any key under this minimal leakage bound assumption. But closely related protocols can and, in the ideal limit, achieve one secret bit per key round. For noisy implementations, we compute key rates using semidefinite programming relaxations. Our best protocols tolerate visibilities down to 0.84, corresponding to an 8% quantum bit error rate, compared with the 11% threshold of standard device-dependent BB84.</p></p><p></p><p>Abhishek Mishra, ..., Armin Tavakoli, Stefano Pironio</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.36965</guid>
-<pubDate>Wed, 28 Oct 2026 16:58:00 GMT</pubDate>
-<title>[8★] From QCCD Trapped-Ion Hardware to Quantum Compilers: Capabilities, Architectures, and Compilation</title>
-<author>Ludwig Schmid, ..., Robert Wille, Ferdinand Schmidt-Kaler</author>
-<link>https://arxiv.org/abs/2610.36965</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 8 ★</p><p><b>Authors:</b> Ludwig Schmid, ..., Robert Wille, Ferdinand Schmidt-Kaler</p><p><b>arXiv ID:</b> 2610.36965 (<a href="https://arxiv.org/abs/2610.36965">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36965">scirate</a>)</p><p><b>Abstract:</b></p><p>Shuttling-based trapped-ion quantum computers (QCCD) rank among the most mature hardware platforms. Existing and envisaged devices exhibit architectural differences in terms of register layout and connectivity. Platform-specific compilers are required to translate quantum circuits into resource-optimized hardware-level command chains. Hardware platforms and compiler software stacks are mostly developed independently of one another by different research communities. This work aims to bridge these communities by abstracting QCCD architectures and native operations, enabling computer scientists to address compilation problems using generic methods without requiring a deep background in the physical operating principles of the platform. The resulting design space is organized into a small set of architectural archetypes, each posing its own compilation problem. We then select and apply compilation methods to one- and two-dimensional QCCD architectures, finding that the routing overhead scales approximately cubically with the number of qubits for the one-dimensional architecture and approximately quadratically for the two-dimensional one. Extending this to compilation with a quantum error-correction layer reveals additional differences and similarities between the physical and logical levels. We conclude that co-design is a requirement rather than an option, and this work provides the vocabulary, archetypes, and compilation abstraction it needs.</p></p><p></p><p>Ludwig Schmid, ..., Robert Wille, Ferdinand Schmidt-Kaler</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 20 ★</p><p><b>Authors:</b> Abhishek Mishra, ..., Armin Tavakoli, Stefano Pironio</p><p><b>arXiv ID:</b> 2610.37296 (<a href="https://arxiv.org/abs/2610.37296">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.37296">scirate</a>)</p><p><b>Abstract:</b></p><p>Every quantum key distribution (QKD) protocol must limit the information available outside the users&#x27; laboratories. In device-independent QKD this is essentially the only assumption made on the devices. In a prepare-and-measure setting it cannot be imposed strictly, since the sender&#x27;s device must emit a signal that depends on her private input. The natural replacement, and a minimal one, is a leakage bound: a bound on how much information about the input leaves the sender&#x27;s laboratory, through the intended signal or through any side channel. We ask how far this unavoidable requirement can replace a detailed model of the source. We show that this single bound, quantified by the probability of guessing the input from everything the source emits, suffices to prove security against collective attacks. In our analysis, nothing is assumed about the precise form of the emitted states, their dimension, energy or purity, nor about the receiver&#x27;s measurement device, beyond the standard requirement that it does not leak Bob&#x27;s data. The standard B92 and BB84 protocols do not certify any key under this minimal leakage bound assumption. But closely related protocols can and, in the ideal limit, achieve one secret bit per key round. For noisy implementations, we compute key rates using semidefinite programming relaxations. Our best protocols tolerate visibilities down to 0.84, corresponding to an 8% quantum bit error rate, compared with the 11% threshold of standard device-dependent BB84.</p></p><p></p><p>Abhishek Mishra, ..., Armin Tavakoli, Stefano Pironio</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36076</guid>
-<pubDate>Wed, 28 Oct 2026 16:57:00 GMT</pubDate>
-<title>[7★] An algebraic characterisation of nnn-qubit pure-state invariants</title>
+<pubDate>Thu, 29 Oct 2026 16:59:05 GMT</pubDate>
+<title>[13★] An algebraic characterisation of nn-qubit pure-state invariants</title>
 <author>Markus Frembs</author>
 <link>https://arxiv.org/abs/2610.36076</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 7 ★</p><p><b>Authors:</b> Markus Frembs</p><p><b>arXiv ID:</b> 2610.36076 (<a href="https://arxiv.org/abs/2610.36076">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36076">scirate</a>)</p><p><b>Abstract:</b></p><p>We study the set of nnn-qubit pure quantum states. Specifically, we consider their incarnation as density matrices in Bloch representation. Building on prior work, we define a family of quadratic functions in Pauli expectation values, and fully characterise all instances that result in state-independent purity constraints. The resulting family of pure-state invariants is surprisingly rich in structure, with strong ties to the geometry of symplectic polar spaces. After charting the general landscape, we define a sub-family of pure-state invariants that satisfies the dynamical constraint of being stable under state update. We prove that it corresponds with (different embeddings of) symplectic Lie algebras sp(2n−1)⊂su(2n)\mathfrak{sp}(2^{n-1})\subset\mathfrak{su}(2^n), which admit a generating set of Pauli operators. We carefully distinguish the symplectic case from its orthogonal counterpart, using the Arf invariant of quadratic refinements of the symplectic form on the projective Pauli group, which we further identify with quaternionic structures on C2n\mathbb{C}^{2^n} that are both generated by and restricted to Pauli operators. As a consequence of this analysis, we reveal previously largely overlooked structure in the nn-qubit Pauli group. We highlight this in a number of examples. We characterise all state-independent uncertainty relations in variance for Pauli observables, as well as all Pauli channels for which the output fidelity and output purity are state-independent. We further show that the orbits of the projective stabiliser groups of pure-state invariants, which for n≥2n\geq2 are proper subgroups of the Clifford group, form complex projective state 22-designs, while their unitary lifts form symplectic 22-designs.</p></p><p></p><p>Markus Frembs</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 13 ★</p><p><b>Authors:</b> Markus Frembs</p><p><b>arXiv ID:</b> 2610.36076 (<a href="https://arxiv.org/abs/2610.36076">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36076">scirate</a>)</p><p><b>Abstract:</b></p><p>We study the set of nn-qubit pure quantum states. Specifically, we consider their incarnation as density matrices in Bloch representation. Building on prior work, we define a family of quadratic functions in Pauli expectation values, and fully characterise all instances that result in state-independent purity constraints. The resulting family of pure-state invariants is surprisingly rich in structure, with strong ties to the geometry of symplectic polar spaces. After charting the general landscape, we define a sub-family of pure-state invariants that satisfies the dynamical constraint of being stable under state update. We prove that it corresponds with (different embeddings of) symplectic Lie algebras sp(2n−1)⊂su(2n)\mathfrak{sp}(2^{n-1})\subset\mathfrak{su}(2^n), which admit a generating set of Pauli operators. We carefully distinguish the symplectic case from its orthogonal counterpart, using the Arf invariant of quadratic refinements of the symplectic form on the projective Pauli group, which we further identify with quaternionic structures on C2n\mathbb{C}^{2^n} that are both generated by and restricted to Pauli operators. As a consequence of this analysis, we reveal previously largely overlooked structure in the nn-qubit Pauli group. We highlight this in a number of examples. We characterise all state-independent uncertainty relations in variance for Pauli observables, as well as all Pauli channels for which the output fidelity and output purity are state-independent. We further show that the orbits of the projective stabiliser groups of pure-state invariants, which for n≥2n\geq2 are proper subgroups of the Clifford group, form complex projective state 22-designs, while their unitary lifts form symplectic 22-designs.</p></p><p></p><p>Markus Frembs</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.36965</guid>
+<pubDate>Thu, 29 Oct 2026 16:58:05 GMT</pubDate>
+<title>[11★] From QCCD Trapped-Ion Hardware to Quantum Compilers: Capabilities, Architectures, and Compilation</title>
+<author>Ludwig Schmid, ..., Robert Wille, Ferdinand Schmidt-Kaler</author>
+<link>https://arxiv.org/abs/2610.36965</link>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 11 ★</p><p><b>Authors:</b> Ludwig Schmid, ..., Robert Wille, Ferdinand Schmidt-Kaler</p><p><b>arXiv ID:</b> 2610.36965 (<a href="https://arxiv.org/abs/2610.36965">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36965">scirate</a>)</p><p><b>Abstract:</b></p><p>Shuttling-based trapped-ion quantum computers (QCCD) rank among the most mature hardware platforms. Existing and envisaged devices exhibit architectural differences in terms of register layout and connectivity. Platform-specific compilers are required to translate quantum circuits into resource-optimized hardware-level command chains. Hardware platforms and compiler software stacks are mostly developed independently of one another by different research communities. This work aims to bridge these communities by abstracting QCCD architectures and native operations, enabling computer scientists to address compilation problems using generic methods without requiring a deep background in the physical operating principles of the platform. The resulting design space is organized into a small set of architectural archetypes, each posing its own compilation problem. We then select and apply compilation methods to one- and two-dimensional QCCD architectures, finding that the routing overhead scales approximately cubically with the number of qubits for the one-dimensional architecture and approximately quadratically for the two-dimensional one. Extending this to compilation with a quantum error-correction layer reveals additional differences and similarities between the physical and logical levels. We conclude that co-design is a requirement rather than an option, and this work provides the vocabulary, archetypes, and compilation abstraction it needs.</p></p><p></p><p>Ludwig Schmid, ..., Robert Wille, Ferdinand Schmidt-Kaler</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.36528</guid>
+<pubDate>Thu, 29 Oct 2026 16:57:05 GMT</pubDate>
+<title>[7★] Measurement-induced entanglement phases in hyperbolic gauge-Higgs models</title>
+<author>Cole Kelson-Packer, Hiroki Sukeno, Akimasa Miyake</author>
+<link>https://arxiv.org/abs/2610.36528</link>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 7 ★</p><p><b>Authors:</b> Cole Kelson-Packer, Hiroki Sukeno, Akimasa Miyake</p><p><b>arXiv ID:</b> 2610.36528 (<a href="https://arxiv.org/abs/2610.36528">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36528">scirate</a>)</p><p><b>Abstract:</b></p><p>Gauge-Higgs theory in flat spacetime provides a prime theoretical model of multiple phases of matter with distinct entanglement structures. More recently, there has been interest in hyperbolic space and the influence its extensive boundaries have on these structures. Entanglement transitions between non-equilibrium phases, such as topological phases, can be realized by the competition of non-commutating measurements. Here we study the entanglement phases of gauge-Higgs models on hyperbolic lattices described by measurement-only dynamics. We chart 2D phase diagrams by employing topological entanglement entropy and introducing a generalized measurement-induced entanglement tailored for hyperbolic Higgs phases. Utilizing duality, we find a phase absent in Euclidean space, wherein the bulk lattice hosts separated clusters of symmetry-protected topological order. Transitions between this &quot;archipelago&quot; phase and neighboring topological and trivial phases feature a critical exponent δ\delta belonging to a mean-field universality class. Our essential tool is a 3D resource state inspired by measurement-based quantum computation that simulates the spacetime evolution of the 2D quantum state with a third direction of entanglement. This allows us to analyze spacetime &quot;sponges&quot; of entanglement, which map to classical percolation theory and allow us to infer values of critical points on our phase diagrams&#x27; boundaries.</p></p><p></p><p>Cole Kelson-Packer, Hiroki Sukeno, Akimasa Miyake</p><p></p>]]></content:encoded>
+</item>
+<item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.36047</guid>
+<pubDate>Thu, 29 Oct 2026 16:56:05 GMT</pubDate>
+<title>[5★] Symmetry-resolved fermionic correlations in iron-oxide ground spaces</title>
+<author>Federico Petrovich, ..., Jian-Xin Zhu, M. Cerezo</author>
+<link>https://arxiv.org/abs/2610.36047</link>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 5 ★</p><p><b>Authors:</b> Federico Petrovich, ..., Jian-Xin Zhu, M. Cerezo</p><p><b>arXiv ID:</b> 2610.36047 (<a href="https://arxiv.org/abs/2610.36047">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36047">scirate</a>)</p><p><b>Abstract:</b></p><p>Symmetries of quantum systems provide a natural way to organize the eigenspaces of many-body Hamiltonians. When degeneracies exist, however, they play a more subtle role as different sets of symmetry operators can resolve the same energy subspace into states with very different correlation properties. We study this interplay using a sequence of FeO and Fe2_2O2_2 models. For a Hubbard model of FeO, the ground space is 16-fold degenerate. Resolving it by local magnetizations gives a basis of Slater determinants, while total-spin quantum numbers select entangled and non-Gaussian states from the same ground manifold. Adding density-density Hund interactions breaks the independent spin rotations and reduces the ground space to a spin-reversal pair with maximal magnetization. These states are extremely close to Slater determinants in their natural occupations, yet have finite two-body cumulants and conserved-operator algebras whose orbit dimensions differ substantially from the Slater values. Fe2_2O2_2 provides a larger example in which spatial mode entanglement can be substantial while fermionic non-Gaussianity remains weak, with the conserved-operator structure again distinguishing the state from the corresponding Slater transformation class. Together, these examples show that symmetry resolution, mode entanglement, reduced-density-matrix correlations, and conserved-operator structure provide complementary information about interacting and degenerate electronic ground states.</p></p><p></p><p>Federico Petrovich, ..., Jian-Xin Zhu, M. Cerezo</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37438</guid>
-<pubDate>Wed, 28 Oct 2026 16:56:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:55:05 GMT</pubDate>
 <title>[4★] Homodyne Unravelling and Parameter Estimation in Squeezed Thermal Baths</title>
 <author>Eoin O'Connor, Francesco Albarelli, Marco G. Genoni</author>
 <link>https://arxiv.org/abs/2610.37438</link>
 <content:encoded><![CDATA[<p><p><b>Scites:</b> 4 ★</p><p><b>Authors:</b> Eoin O&#x27;Connor, Francesco Albarelli, Marco G. Genoni</p><p><b>arXiv ID:</b> 2610.37438 (<a href="https://arxiv.org/abs/2610.37438">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.37438">scirate</a>)</p><p><b>Abstract:</b></p><p>We derive an alternative formulation of the stochastic master equation describing the evolution of quantum systems continuously measured via homodyne detection in a squeezed-thermal environment. This formulation allows us to identify two distinct collapse operators, corresponding respectively to the monitored and unmonitored channels, and to express the quantum state evolution directly in terms of Kraus-like operators. As a consequence, it facilitates the application of advanced numerical methods that account for higher-order corrections and discrete-time monitoring, and it also enables the efficient numerical evaluation of Cramér-Rao bounds in parameter estimation problems. To demonstrate the latter, we evaluate the Fisher information of the continuous homodyne monitoring for qubit frequency estimation in the presence of a squeezed-thermal bath. Our results show that exponential scaling of the steady-state Fisher information rate with squeezing is retained even at non-zero temperature.</p></p><p></p><p>Eoin O'Connor, Francesco Albarelli, Marco G. Genoni</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.36047</guid>
-<pubDate>Wed, 28 Oct 2026 16:55:00 GMT</pubDate>
-<title>[4★] Symmetry-resolved fermionic correlations in iron-oxide ground spaces</title>
-<author>Federico Petrovich, ..., Jian-Xin Zhu, M. Cerezo</author>
-<link>https://arxiv.org/abs/2610.36047</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 4 ★</p><p><b>Authors:</b> Federico Petrovich, ..., Jian-Xin Zhu, M. Cerezo</p><p><b>arXiv ID:</b> 2610.36047 (<a href="https://arxiv.org/abs/2610.36047">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36047">scirate</a>)</p><p><b>Abstract:</b></p><p>Symmetries of quantum systems provide a natural way to organize the eigenspaces of many-body Hamiltonians. When degeneracies exist, however, they play a more subtle role as different sets of symmetry operators can resolve the same energy subspace into states with very different correlation properties. We study this interplay using a sequence of FeO and Fe2_2O2_2 models. For a Hubbard model of FeO, the ground space is 16-fold degenerate. Resolving it by local magnetizations gives a basis of Slater determinants, while total-spin quantum numbers select entangled and non-Gaussian states from the same ground manifold. Adding density-density Hund interactions breaks the independent spin rotations and reduces the ground space to a spin-reversal pair with maximal magnetization. These states are extremely close to Slater determinants in their natural occupations, yet have finite two-body cumulants and conserved-operator algebras whose orbit dimensions differ substantially from the Slater values. Fe2_2O2_2 provides a larger example in which spatial mode entanglement can be substantial while fermionic non-Gaussianity remains weak, with the conserved-operator structure again distinguishing the state from the corresponding Slater transformation class. Together, these examples show that symmetry resolution, mode entanglement, reduced-density-matrix correlations, and conserved-operator structure provide complementary information about interacting and degenerate electronic ground states.</p></p><p></p><p>Federico Petrovich, ..., Jian-Xin Zhu, M. Cerezo</p><p></p>]]></content:encoded>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.36268</guid>
+<pubDate>Thu, 29 Oct 2026 16:54:05 GMT</pubDate>
+<title>[4★] Towards Quantum Computation of Bulk FeO</title>
+<author>Daniel Staros, ..., M. Cerezo, Jian-Xin Zhu</author>
+<link>https://arxiv.org/abs/2610.36268</link>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 4 ★</p><p><b>Authors:</b> Daniel Staros, ..., M. Cerezo, Jian-Xin Zhu</p><p><b>arXiv ID:</b> 2610.36268 (<a href="https://arxiv.org/abs/2610.36268">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36268">scirate</a>)</p><p><b>Abstract:</b></p><p>Quantum computation offers a promising path towards efficient calculations of the electronic structure of correlated materials. The properties of iron-based materials, which are key for advancing geological and astrophysical understanding, are notoriously difficult to calculate with classical computers. However, despite the many recent advances in quantum computing on near intermediate scale quantum hardware, a full treatment of the electronic structure of high-ZZ atoms or molecules remains challenging. Here, we investigate the ground-state properties of molecular FeO and Fe2_2O2_2 model Hamiltonians using classical exact diagonalization, Variational Quantum Eigensolver (VQE), and Sample-based Quantum Diagonalization (SQD). The experimental quintet ground state of FeO is recovered classically and with quantum algorithms, while a nonet ground state is recovered for Fe2_2O2_2. Although raw VQE does not achieve chemical accuracy for the ground state of FeO or Fe2_2O2_2, SQD with two connectivity shells recovers the exact ground energy for both molecules utilizing remarkably few quantum computational resources. Overall, our results indicate that abinitioab \; initio-informed low-energy models of correlated materials, combined with SQD, offer a new alternative for scaling up calculations of ground-state properties of strongly correlated solids on existing quantum hardware.</p></p><p></p><p>Daniel Staros, ..., M. Cerezo, Jian-Xin Zhu</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37660</guid>
-<pubDate>Wed, 28 Oct 2026 16:54:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:53:05 GMT</pubDate>
 <title>[3★] Optimal quantum discrimination at Liouvillian exceptional points</title>
 <author>Aritra Ghosh, M. Bhattacharya</author>
 <link>https://arxiv.org/abs/2610.37660</link>
@@ -70,7 +86,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37116</guid>
-<pubDate>Wed, 28 Oct 2026 16:53:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:52:05 GMT</pubDate>
 <title>[3★] Generative quantum extreme learning machines</title>
 <author>Marcin Płodzień</author>
 <link>https://arxiv.org/abs/2610.37116</link>
@@ -78,7 +94,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37012</guid>
-<pubDate>Wed, 28 Oct 2026 16:52:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:51:05 GMT</pubDate>
 <title>[3★] The TEMPO network can be made independent of the system size</title>
 <author>Valentin Link</author>
 <link>https://arxiv.org/abs/2610.37012</link>
@@ -86,39 +102,23 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36963</guid>
-<pubDate>Wed, 28 Oct 2026 16:51:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:50:05 GMT</pubDate>
 <title>[3★] Correlation-sensitive magic-state distillation from spin-squeezed neutral atoms</title>
 <author>Ximo Wang, ..., Zhenqi Bai, Yichi Zhang</author>
 <link>https://arxiv.org/abs/2610.36963</link>
 <content:encoded><![CDATA[<p><p><b>Scites:</b> 3 ★</p><p><b>Authors:</b> Ximo Wang, ..., Zhenqi Bai, Yichi Zhang</p><p><b>arXiv ID:</b> 2610.36963 (<a href="https://arxiv.org/abs/2610.36963">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36963">scirate</a>)</p><p><b>Abstract:</b></p><p>We show that interblock correlations can reverse magic-state distillation even when every input exceeds the threshold for independent states. For the five-to-one Bravyi-Kitaev protocol with independent local Clifford twirls, we express the output in terms of measurable target-axis moments. Fourth-order correlations determine acceptance, while third- and fifth-order correlations determine the output polarization. This relation yields a direct sign test for distillation gain and opposite gains for inputs with identical single-qubit and two-qubit reduced states. We connect this mechanism to neutral-atom resource preparation through finite-range Ising dynamics. Block separation suppresses detrimental interblock coupling, and locally addressed Clifford phases release interaction-generated magic from a spin-squeezed precursor by changing the symmetry selected by code projection. A protocol that retains accepted source outputs achieves positive gain above a source-contrast threshold set by circuit errors and storage dephasing. The same moments specify a finite-sample experimental diagnostic. These results connect the correlation structure of a resource state to its preparation, acceptance, and distillation gain.</p></p><p></p><p>Ximo Wang, ..., Zhenqi Bai, Yichi Zhang</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.36528</guid>
-<pubDate>Wed, 28 Oct 2026 16:50:00 GMT</pubDate>
-<title>[3★] Measurement-induced entanglement phases in hyperbolic gauge-Higgs models</title>
-<author>Cole Kelson-Packer, Hiroki Sukeno, Akimasa Miyake</author>
-<link>https://arxiv.org/abs/2610.36528</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 3 ★</p><p><b>Authors:</b> Cole Kelson-Packer, Hiroki Sukeno, Akimasa Miyake</p><p><b>arXiv ID:</b> 2610.36528 (<a href="https://arxiv.org/abs/2610.36528">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36528">scirate</a>)</p><p><b>Abstract:</b></p><p>Gauge-Higgs theory in flat spacetime provides a prime theoretical model of multiple phases of matter with distinct entanglement structures. More recently, there has been interest in hyperbolic space and the influence its extensive boundaries have on these structures. Entanglement transitions between non-equilibrium phases, such as topological phases, can be realized by the competition of non-commutating measurements. Here we study the entanglement phases of gauge-Higgs models on hyperbolic lattices described by measurement-only dynamics. We chart 2D phase diagrams by employing topological entanglement entropy and introducing a generalized measurement-induced entanglement tailored for hyperbolic Higgs phases. Utilizing duality, we find a phase absent in Euclidean space, wherein the bulk lattice hosts separated clusters of symmetry-protected topological order. Transitions between this &quot;archipelago&quot; phase and neighboring topological and trivial phases feature a critical exponent δ\delta belonging to a mean-field universality class. Our essential tool is a 3D resource state inspired by measurement-based quantum computation that simulates the spacetime evolution of the 2D quantum state with a third direction of entanglement. This allows us to analyze spacetime &quot;sponges&quot; of entanglement, which map to classical percolation theory and allow us to infer values of critical points on our phase diagrams&#x27; boundaries.</p></p><p></p><p>Cole Kelson-Packer, Hiroki Sukeno, Akimasa Miyake</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36365</guid>
-<pubDate>Wed, 28 Oct 2026 16:49:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:49:05 GMT</pubDate>
 <title>[3★] Suppressing microwave crosstalk in superconducting quantum processors by designing parasitic drive capacitances</title>
 <author>Anuj Aggarwal, ..., Anton Frisk Kockum, Giovanna Tancredi</author>
 <link>https://arxiv.org/abs/2610.36365</link>
 <content:encoded><![CDATA[<p><p><b>Scites:</b> 3 ★</p><p><b>Authors:</b> Anuj Aggarwal, ..., Anton Frisk Kockum, Giovanna Tancredi</p><p><b>arXiv ID:</b> 2610.36365 (<a href="https://arxiv.org/abs/2610.36365">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36365">scirate</a>)</p><p><b>Abstract:</b></p><p>As superconducting quantum processors scale to large qubit counts, unwanted microwave drive crosstalk becomes an important source of coherent errors. Here, we investigate the role of parasitic coupling paths in the suppression of drive crosstalk in a processor with two fixed-frequency transmon qubits and a tunable coupler. To account for the many different coupling paths, we develop a detailed circuit model to capture the dependence of crosstalk on the coupler frequency. We experimentally demonstrate suppression of crosstalk, finding that the suppression does not originate solely from cancellation of the effective qubit-qubit coupling, but also is a result of interference between other coupling paths. Building on these insights, we show that drive crosstalk can be suppressed with the right choice of parasitic capacitances, which otherwise often are treated as unwanted design imperfections. Our results provide practical guidance for low-crosstalk device design of superconducting quantum processors and point toward a broader strategy in which parasitic coupling paths are engineered rather than simply minimized.</p></p><p></p><p>Anuj Aggarwal, ..., Anton Frisk Kockum, Giovanna Tancredi</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.36268</guid>
-<pubDate>Wed, 28 Oct 2026 16:48:00 GMT</pubDate>
-<title>[3★] Towards Quantum Computation of Bulk FeO</title>
-<author>Daniel Staros, ..., M. Cerezo, Jian-Xin Zhu</author>
-<link>https://arxiv.org/abs/2610.36268</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 3 ★</p><p><b>Authors:</b> Daniel Staros, ..., M. Cerezo, Jian-Xin Zhu</p><p><b>arXiv ID:</b> 2610.36268 (<a href="https://arxiv.org/abs/2610.36268">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36268">scirate</a>)</p><p><b>Abstract:</b></p><p>Quantum computation offers a promising path towards efficient calculations of the electronic structure of correlated materials. The properties of iron-based materials, which are key for advancing geological and astrophysical understanding, are notoriously difficult to calculate with classical computers. However, despite the many recent advances in quantum computing on near intermediate scale quantum hardware, a full treatment of the electronic structure of high-ZZ atoms or molecules remains challenging. Here, we investigate the ground-state properties of molecular FeO and Fe2_2O2_2 model Hamiltonians using classical exact diagonalization, Variational Quantum Eigensolver (VQE), and Sample-based Quantum Diagonalization (SQD). The experimental quintet ground state of FeO is recovered classically and with quantum algorithms, while a nonet ground state is recovered for Fe2_2O2_2. Although raw VQE does not achieve chemical accuracy for the ground state of FeO or Fe2_2O2_2, SQD with two connectivity shells recovers the exact ground energy for both molecules utilizing remarkably few quantum computational resources. Overall, our results indicate that abinitioab \; initio-informed low-energy models of correlated materials, combined with SQD, offer a new alternative for scaling up calculations of ground-state properties of strongly correlated solids on existing quantum hardware.</p></p><p></p><p>Daniel Staros, ..., M. Cerezo, Jian-Xin Zhu</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36070</guid>
-<pubDate>Wed, 28 Oct 2026 16:47:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:48:05 GMT</pubDate>
 <title>[3★] Equilibrium Learning of Quantum Circuits</title>
 <author>Frank Barrows, ..., Yiğit Subaşı, Tyler Volkoff</author>
 <link>https://arxiv.org/abs/2610.36070</link>
@@ -126,7 +126,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37491</guid>
-<pubDate>Wed, 28 Oct 2026 16:46:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:47:05 GMT</pubDate>
 <title>[2★] Adaptive Information Mining: Approaching the Quantum Limit of Super-Resolution Imaging</title>
 <author>Seungman Choi, ..., Andrew Schramka, Zubin Jacob</author>
 <link>https://arxiv.org/abs/2610.37491</link>
@@ -134,7 +134,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37247</guid>
-<pubDate>Wed, 28 Oct 2026 16:45:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:46:05 GMT</pubDate>
 <title>[2★] Quantum circuits of elastic wave equations via Schrödingerisation</title>
 <author>Shi Jin, Chundan Zhang</author>
 <link>https://arxiv.org/abs/2610.37247</link>
@@ -142,7 +142,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37122</guid>
-<pubDate>Wed, 28 Oct 2026 16:44:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:45:05 GMT</pubDate>
 <title>[2★] Matrix Samplers and Quantum-Proof Extractors: Their Correspondence and Almost-Optimal Constructions</title>
 <author>Kuan Cheng, Ruiyang Wu</author>
 <link>https://arxiv.org/abs/2610.37122</link>
@@ -150,15 +150,23 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36700</guid>
-<pubDate>Wed, 28 Oct 2026 16:43:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:44:05 GMT</pubDate>
 <title>[2★] Ancestor Lifting of Quasi-Cyclic Additive Codes and Certified Quantum Codes</title>
 <author>Liangdong Lu, ..., Ruipan Yang, Qiang Fu</author>
 <link>https://arxiv.org/abs/2610.36700</link>
 <content:encoded><![CDATA[<p><p><b>Scites:</b> 2 ★</p><p><b>Authors:</b> Liangdong Lu, ..., Ruipan Yang, Qiang Fu</p><p><b>arXiv ID:</b> 2610.36700 (<a href="https://arxiv.org/abs/2610.36700">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36700">scirate</a>)</p><p><b>Abstract:</b></p><p>Additive codes over \Ffour\Ffour that are self-orthogonal under the trace inner product correspond to binary quantum stabilizer codes. We study 1-generator (1,2)(1,2)-quasi-cyclic (QC) additive codes and their exact quantum distances. For composite lengths n=ℓmn=\ell m, an ancestor-lifting theorem transports dual words of the folded ancestor to the length-nn code. A two-layer decomposition for ℓ=2\ell=2 and a CRT splitting for odd ℓ\ell yield dimension laws and explain equality, escape, and mixed-branch behavior in the certified examples. A palindromic criterion ensures symplectic self-orthogonality, while reversal pairing and a symplectic Gram rank formula describe broader construction families. Exact distances are established by information-set decoding screening, Brouwer--Zimmermann computation on the additive dual, and independent witness verification. We certify twenty-one record-breaking binary quantum codes across twenty entries of Grassl&#x27;s code table, with twenty-eight certified members in total. Propagation improves thirty-four further entries, and explicit constructions are supplied for three table-tying GV entries marked Code Missing Construction. Six additional candidates are reported only with rigorous upper bounds and heuristic screening evidence. The results connect divisor-lattice structure in additive quasi-cyclic codes with reproducible certification of exact quantum distances.</p></p><p></p><p>Liangdong Lu, ..., Ruipan Yang, Qiang Fu</p><p></p>]]></content:encoded>
 </item>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.36680</guid>
+<pubDate>Thu, 29 Oct 2026 16:43:05 GMT</pubDate>
+<title>[2★] Quantum State Preparation for Complex-Valued Amplitudes</title>
+<author>Fred Sun</author>
+<link>https://arxiv.org/abs/2610.36680</link>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 2 ★</p><p><b>Authors:</b> Fred Sun</p><p><b>arXiv ID:</b> 2610.36680 (<a href="https://arxiv.org/abs/2610.36680">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36680">scirate</a>)</p><p><b>Abstract:</b></p><p>We present a state preparation procedure that takes binary registers containing the real and imaginary parts of a complex number z=x+iyz=x+iy and prepares an amplitude approximating z/αz/\alpha, where α\alpha is a normalization constant. The magnitude and argument are computed using the Coordinate Rotation Digital Computer (CORDIC) algorithm. We then encode the magnitude into an amplitude, and apply phase gates to introduce the argument. A reversible in-place multiplier allows the coordinate updates to use fixed precision while clearing their temporary workspace. The procedure uses O(n2)O(n^2) TT gates and O(n)O(n) additional qubits. Compared with separately encoding the real and imaginary parts and combining them through LCU, the construction can allow a smaller normalization and reduce amplitude-amplification costs. The computed polar representation also remains available for further arithmetic before amplitude-encoding.</p></p><p></p><p>Fred Sun</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36167</guid>
-<pubDate>Wed, 28 Oct 2026 16:42:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:42:05 GMT</pubDate>
 <title>[2★] Analog Quantum Experiments Meet Automatic Differentiation - from Programs to Atoms</title>
 <author>Yue Shi, Pengyu Liu, Yuxiang Peng</author>
 <link>https://arxiv.org/abs/2610.36167</link>
@@ -166,7 +174,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36113</guid>
-<pubDate>Wed, 28 Oct 2026 16:41:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:41:05 GMT</pubDate>
 <title>[2★] Scaling and Renormalization in Neural Networks: An Effective Renormalization-Group Description of Grokking</title>
 <author>Min Chen, ..., Wenhao Huang, Junyu Liu</author>
 <link>https://arxiv.org/abs/2610.36113</link>
@@ -174,7 +182,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36067</guid>
-<pubDate>Wed, 28 Oct 2026 16:40:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:40:05 GMT</pubDate>
 <title>[2★] Diagonal, Switching, and Locally Optimal Unraveling for efficient quantum trajectories in metastable open quantum systems</title>
 <author>Pietro Pacchioni, ..., Patrick Winkel, Fabrizio Minganti</author>
 <link>https://arxiv.org/abs/2610.36067</link>
@@ -182,7 +190,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37654</guid>
-<pubDate>Wed, 28 Oct 2026 16:39:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:39:05 GMT</pubDate>
 <title>[1★] Mediated Interactions between Fermi Polarons in the Strongly Interacting Regime</title>
 <author>Renato Pessoa, S. A. Vitiello, Luis A. Peña Ardila</author>
 <link>https://arxiv.org/abs/2610.37654</link>
@@ -190,7 +198,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37347</guid>
-<pubDate>Wed, 28 Oct 2026 16:38:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:38:05 GMT</pubDate>
 <title>[1★] Measurement incompatibility and noiseless quantum codes</title>
 <author>Yu-Xuan Zhang, Jing-Ling Chen</author>
 <link>https://arxiv.org/abs/2610.37347</link>
@@ -198,7 +206,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37094</guid>
-<pubDate>Wed, 28 Oct 2026 16:37:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:37:05 GMT</pubDate>
 <title>[1★] Certification Time for Weak-Force-Mediated Entanglement between Levitated Particles</title>
 <author>Yao-Tong Chen, ..., Oriol Romero-Isart, Andreu Riera-Campeny</author>
 <link>https://arxiv.org/abs/2610.37094</link>
@@ -206,7 +214,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37040</guid>
-<pubDate>Wed, 28 Oct 2026 16:36:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:36:05 GMT</pubDate>
 <title>[1★] Quantum Annealing for Gamma-ray Source Detection and Localization with AGILE Data</title>
 <author>Alessandro Rizzo, ..., Tiziana Trombetti, Fabio Roberto Vitello</author>
 <link>https://arxiv.org/abs/2610.37040</link>
@@ -214,7 +222,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36936</guid>
-<pubDate>Wed, 28 Oct 2026 16:35:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:35:05 GMT</pubDate>
 <title>[1★] Qubit-environment entanglement in pure dephasing dynamics for mixed initial states</title>
 <author>Małgorzata Strzałka, ..., Jan Sperling, Katarzyna Roszak</author>
 <link>https://arxiv.org/abs/2610.36936</link>
@@ -222,7 +230,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36754</guid>
-<pubDate>Wed, 28 Oct 2026 16:34:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:34:05 GMT</pubDate>
 <title>[1★] A Unified Protocol for Arbitrary Z Rotations of a Class of Bosonic cQED Qubits</title>
 <author>Vahid Shaghaghi</author>
 <link>https://arxiv.org/abs/2610.36754</link>
@@ -230,7 +238,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36661</guid>
-<pubDate>Wed, 28 Oct 2026 16:33:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:33:05 GMT</pubDate>
 <title>[1★] Kinetic Slush in Dissipative Rydberg Arrays</title>
 <author>Hufeng Wen, ..., Zhengyang Bai, Yu-Qiang Ma</author>
 <link>https://arxiv.org/abs/2610.36661</link>
@@ -238,7 +246,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36521</guid>
-<pubDate>Wed, 28 Oct 2026 16:32:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:32:05 GMT</pubDate>
 <title>[1★] Anomalous Structures of Fisher Zero Lines in Biorthogonal Dynamical Quantum Phase Transitions</title>
 <author>Wen-Hui Nie, Chong Li, Lin-Cheng Wang</author>
 <link>https://arxiv.org/abs/2610.36521</link>
@@ -246,7 +254,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36423</guid>
-<pubDate>Wed, 28 Oct 2026 16:31:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:31:05 GMT</pubDate>
 <title>[1★] Coherent Optical Control of a Single Donor Electron Spin</title>
 <author>Yuxi Jiang, ..., Alexander Pawlis, Edo Waks</author>
 <link>https://arxiv.org/abs/2610.36423</link>
@@ -254,7 +262,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36257</guid>
-<pubDate>Wed, 28 Oct 2026 16:30:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:30:05 GMT</pubDate>
 <title>[1★] Dynamical Tensor Train Approximation for Wigner--Fokker--Planck Equation with Applications to Open Quantum Systems</title>
 <author>Geshuo Wang, Jingwei Hu</author>
 <link>https://arxiv.org/abs/2610.36257</link>
@@ -262,7 +270,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36172</guid>
-<pubDate>Wed, 28 Oct 2026 16:29:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:29:05 GMT</pubDate>
 <title>[1★] Quantum circuit simulation with high-order optical tensor processing</title>
 <author>Yufeng Zhang, ..., Sergei Turitsyn, Zhipei Sun</author>
 <link>https://arxiv.org/abs/2610.36172</link>
@@ -270,15 +278,23 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36026</guid>
-<pubDate>Wed, 28 Oct 2026 16:28:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:28:05 GMT</pubDate>
 <title>[1★] A Correspondence Between Qubit- and Boson-Based Sensing Protocols</title>
 <author>Zachary Bogorad, Roni Harnik</author>
 <link>https://arxiv.org/abs/2610.36026</link>
 <content:encoded><![CDATA[<p><p><b>Scites:</b> 1 ★</p><p><b>Authors:</b> Zachary Bogorad, Roni Harnik</p><p><b>arXiv ID:</b> 2610.36026 (<a href="https://arxiv.org/abs/2610.36026">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36026">scirate</a>)</p><p><b>Abstract:</b></p><p>Recent years have seen a surge of interest in adapting non-classical states to search for physics beyond the Standard Model, including both qubit- and boson-based systems. These two classes of systems are closely related through the Holstein--Primakoff transformation (HPT). In this work, we show that the HPT offers novel insights into inherently quantum-mechanical detection of new physics. We begin by discussing how the HPT can be used to unify certain existing qubit- and boson-based proposals in a single framework. We then show how it naturally reveals a novel generalization of GHZ states which offer superior performance for the detection of rare interactions. We demonstrate that these novel states can be readily prepared, and combine the coherent advantage of GHZ states with superior error rejection. Finally, we show that the HPT also reveals a natural extension of the Hamiltonian-Not-in-Lindblad-Span theorem for collections of bosonic modes.</p></p><p></p><p>Zachary Bogorad, Roni Harnik</p><p></p>]]></content:encoded>
 </item>
 <item>
+<guid isPermaLink="true">https://arxiv.org/abs/2610.36029</guid>
+<pubDate>Thu, 29 Oct 2026 16:27:05 GMT</pubDate>
+<title>[1★] AlgebrasTQD: Computing Algebras and Interfaces in Twisted Quantum Doubles</title>
+<author>Alison Warman</author>
+<link>https://arxiv.org/abs/2610.36029</link>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 1 ★</p><p><b>Authors:</b> Alison Warman</p><p><b>arXiv ID:</b> 2610.36029 (<a href="https://arxiv.org/abs/2610.36029">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36029">scirate</a>)</p><p><b>Abstract:</b></p><p>We present AlgebrasTQD, an open-source code written in GAP (Groups, Algorithms, and Programming), for computing condensable algebras and the corresponding topological boundaries and interfaces of twisted quantum doubles Dω(G)D^\omega(G). These algebras can be used to classify 1+1d gapped and gapless phases whose symmetry is related by gauging to a finite group GG with anomaly ω∈H3(G,U(1))\omega\in H^3(G,U(1)), to study 2+1d anyon proliferation and to construct logical gates in non-Abelian topological quantum codes. The functions in AlgebrasTQD compute all condensable algebras A(H,F,γ,ϵ)A(H,F,\gamma,\epsilon) with their algebra structure and anyons, sort them into isomorphism classes and identify the twin algebras that are inequivalent but share the same anyon decomposition. AlgebrasTQD also determines all the subalgebra relations, the corresponding Hasse diagram and the types of 1+1d phases for any chosen, possibly non-invertible, group-theoretical symmetry. For non-maximal algebras, the code computes the reduced topological order with its 33-cocycle and the map of anyons across the topological interface. Finally, AlgebrasTQD includes functions that construct certain non-Clifford logical gates via non-Abelian surface codes. We summarize the formulas that are implemented in the AlgebrasTQD code, and we illustrate its use with Abelian and non-Abelian groups including Z32\mathbb{Z}_2^3 with ωIII\omega_\text{III}, D8D_8, A4A_4 with and without anomaly, twin algebras and twin phases, and the Clifford-hierarchy gates in quantum doubles of dihedral groups. All arithmetic is exact and AlgebrasTQD can be used with any finite group GG and 3-cocycle ω\omega, limited only by the time and size of the calculation. The code is available at https://github.com/AlisonWarman/AlgebrasTQD</p></p><p></p><p>Alison Warman</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.35993</guid>
-<pubDate>Wed, 28 Oct 2026 16:27:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:26:05 GMT</pubDate>
 <title>[1★] Amorphization-Depth-Dependent Bismuth Redistribution and Activation in Silicon for Quantum Devices</title>
 <author>Youcef A. Bioud, ..., Sjoerd Roorda, Eva Dupont-Ferrier</author>
 <link>https://arxiv.org/abs/2610.35993</link>
@@ -286,7 +302,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.35931</guid>
-<pubDate>Wed, 28 Oct 2026 16:26:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:25:05 GMT</pubDate>
 <title>[1★] An exactly solvable obstructed seam on a lattice Klein bottle: bulk-locked Majorana rings and register-dependent toric codes</title>
 <author>Junhao Wang</author>
 <link>https://arxiv.org/abs/2610.35931</link>
@@ -294,7 +310,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37665</guid>
-<pubDate>Wed, 28 Oct 2026 16:25:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:24:05 GMT</pubDate>
 <title>[0★] Exact Analytical Treatment of Collectively Pumped Dicke Superradiance</title>
 <author>Avishi Poddar, ..., Claudiu Genes, Raphael Holzinger</author>
 <link>https://arxiv.org/abs/2610.37665</link>
@@ -302,7 +318,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37552</guid>
-<pubDate>Wed, 28 Oct 2026 16:24:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:23:05 GMT</pubDate>
 <title>[0★] Meet-in-the-Middle Compilation of the [CNOT][\mathrm{CNOT}] Class with Fibonacci Anyons</title>
 <author>Matvei Fedin, Andrey Morozov</author>
 <link>https://arxiv.org/abs/2610.37552</link>
@@ -310,7 +326,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37493</guid>
-<pubDate>Wed, 28 Oct 2026 16:23:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:22:05 GMT</pubDate>
 <title>[0★] Recovering classical gauge geometry from quantum master constraints</title>
 <author>Alejandro Corichi</author>
 <link>https://arxiv.org/abs/2610.37493</link>
@@ -318,7 +334,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37337</guid>
-<pubDate>Wed, 28 Oct 2026 16:22:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:21:05 GMT</pubDate>
 <title>[0★] Security Analysis of Ekert-type QKD Protocol Coming Under Cloning Attacks</title>
 <author>Kaushiki Mukherjee, Sumana Karmakar</author>
 <link>https://arxiv.org/abs/2610.37337</link>
@@ -326,7 +342,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37293</guid>
-<pubDate>Wed, 28 Oct 2026 16:21:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:20:05 GMT</pubDate>
 <title>[0★] Experimental evidence for quantum Brownian motion in electron-metal decoherence</title>
 <author>Wayne Cheng-Wei Huang, Zilin Chen, Herman Batelaan</author>
 <link>https://arxiv.org/abs/2610.37293</link>
@@ -334,7 +350,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37268</guid>
-<pubDate>Wed, 28 Oct 2026 16:20:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:19:05 GMT</pubDate>
 <title>[0★] Deployed entanglement-based BBM92 quantum key distribution using frequency-converted photons emitted by a quantum dot</title>
 <author>Michal Vyvlecka, ..., Christoph Becher, Peter Michler</author>
 <link>https://arxiv.org/abs/2610.37268</link>
@@ -342,7 +358,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37249</guid>
-<pubDate>Wed, 28 Oct 2026 16:19:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:18:05 GMT</pubDate>
 <title>[0★] HTM: A Hybrid Classical-Quantum Computation Model</title>
 <author>Guoqiang Shu, ..., Fudong Liu, Zheng Shan</author>
 <link>https://arxiv.org/abs/2610.37249</link>
@@ -350,7 +366,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37204</guid>
-<pubDate>Wed, 28 Oct 2026 16:18:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:17:05 GMT</pubDate>
 <title>[0★] QNETSIM for memory assisted design of satellite and hybrid quantum networks</title>
 <author>Seid Koudia, ..., Juan Carlos Hernandez Hernandez, Symeon Chatzinotas</author>
 <link>https://arxiv.org/abs/2610.37204</link>
@@ -358,7 +374,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37142</guid>
-<pubDate>Wed, 28 Oct 2026 16:17:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:16:05 GMT</pubDate>
 <title>[0★] Threshold Criteria for Bosonic and Fermionic Trimers on a Square Lattice: A Birman--Schwinger Comparison</title>
 <author>Janikul Abdullaev, Abdumalik Eshniyozov, Mikhail Dolgopolov</author>
 <link>https://arxiv.org/abs/2610.37142</link>
@@ -366,7 +382,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37092</guid>
-<pubDate>Wed, 28 Oct 2026 16:16:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:15:05 GMT</pubDate>
 <title>[0★] Quantum Fisher Information Deficit as a Geometric Signature of Strong-to-Weak Spontaneous Symmetry Breaking</title>
 <author>Zhang-Chi Yin, Wei Zheng</author>
 <link>https://arxiv.org/abs/2610.37092</link>
@@ -374,7 +390,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37087</guid>
-<pubDate>Wed, 28 Oct 2026 16:15:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:14:05 GMT</pubDate>
 <title>[0★] Exact decoherence dynamics of a detector coupled to vacuum fluctuations in bounded geometries</title>
 <author>Zi'an Zhao, Wenting Zhou</author>
 <link>https://arxiv.org/abs/2610.37087</link>
@@ -382,7 +398,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.37009</guid>
-<pubDate>Wed, 28 Oct 2026 16:14:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:13:05 GMT</pubDate>
 <title>[0★] Momentum-space entanglement and mutual information in Kaluza-Klein reduction</title>
 <author>Udaykrishna Thattarampilly, Yunlong Zheng</author>
 <link>https://arxiv.org/abs/2610.37009</link>
@@ -390,7 +406,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36984</guid>
-<pubDate>Wed, 28 Oct 2026 16:13:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:12:05 GMT</pubDate>
 <title>[0★] Quantum Evolution Kernel for Node-Attributed Graphs</title>
 <author>Manuel Padovani, Alessandra Di Pierro, Claudia Daffara</author>
 <link>https://arxiv.org/abs/2610.36984</link>
@@ -398,7 +414,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36976</guid>
-<pubDate>Wed, 28 Oct 2026 16:12:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:11:05 GMT</pubDate>
 <title>[0★] Toward Circuit-Aware Mutation Testing for Quantum Programs: Exact Visibility and Execution Planning</title>
 <author>Andriy Miranskyy, Jose Campos</author>
 <link>https://arxiv.org/abs/2610.36976</link>
@@ -406,15 +422,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36972</guid>
-<pubDate>Wed, 28 Oct 2026 16:11:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:10:05 GMT</pubDate>
 <title>[0★] Quantum and Classical Memory for Storage and Retrieval of Quantum Measurements</title>
 <author>Filip Turoboś, Ludmiła Marcinkowska, Zbigniew Puchała</author>
 <link>https://arxiv.org/abs/2610.36972</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 0 ★</p><p><b>Authors:</b> Filip Turoboś, Ludmiła Marcinkowska, Zbigniew Puchała</p><p><b>arXiv ID:</b> 2610.36972 (<a href="https://arxiv.org/abs/2610.36972">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36972">scirate</a>)</p><p><b>Abstract:</b></p><p>We study the persistent quantum and classical memory required for exact heralded storage and retrieval of quantum measurements. Given only black-box access to the measurement channel, we construct an exact compression of the port-based program into an outcome-type record and a quantum register, with total dimension polynomial in the query count. For every universal retrieval processor we prove the bounds Q+C≥log2nQ+C≥log2nQ+C\ge\log_2 n and 2Q+C≥log2((n−1)d2+1)2Q+C≥log2((n−1)d2+1)2Q+C\ge\log_2\bigl((n-1)d^2+1\bigr) on the numbers QQQ of qubits and CCC of bits of the program, for nnn-outcome POVMs on CdCd\mathbb{C}^d with d≥2d≥2d\ge2. For n≥2n≥2n\ge2, no finite classical memory removes the need for quantum memory: any such processor requires a quantum program of dimension at least ddd, at that dimension its classical alphabet must have at least nnn symbols, and both minima are attained by a single-query protocol with success 1/d21/d21/d^2. Combining direct-program compression with a converse from approximate measurement programming gives logarithmic total-memory scaling in 1/(1−p)1/(1−p)1/(1-p) as the uniform success probability ppp approaches one, at fixed d,n≥2d,n≥2d,n\ge2. At fixed input dimension and target success below one, the optimal total-memory scaling is logarithmic in nnn. We also construct self-contained programs under branch-decomposition access and compare the quantum and classical costs of all constructions, including where the outcome-type record is kept: for POVMs with nnn nonzero rank-one effects the direct program admits a purely quantum allocation whose register is never larger than that of the minimal-Naimark unitary program and which succeeds more often whenever n&gt;dn&gt;dn&gt;d.</p></p><p></p><p>Filip Turoboś, Ludmiła Marcinkowska, Zbigniew Puchała</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 0 ★</p><p><b>Authors:</b> Filip Turoboś, Ludmiła Marcinkowska, Zbigniew Puchała</p><p><b>arXiv ID:</b> 2610.36972 (<a href="https://arxiv.org/abs/2610.36972">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36972">scirate</a>)</p><p><b>Abstract:</b></p><p>We study the persistent quantum and classical memory required for exact heralded storage and retrieval of quantum measurements. Given only black-box access to the measurement channel, we construct an exact compression of the port-based program into an outcome-type record and a quantum register, with total dimension polynomial in the query count. For every universal retrieval processor we prove the bounds Q+C≥log2nQ+C≥log2nQ+C\ge\log_2 n and 2Q+C≥log2((n−1)d2+1)2Q+C≥log2((n−1)d2+1)2Q+C\ge\log_2\bigl((n-1)d^2+1\bigr) on the numbers QQQ of qubits and CCC of bits of the program, for nnn-outcome POVMs on Cd\mathbb{C}^d with d≥2d\ge2. For n≥2n\ge2, no finite classical memory removes the need for quantum memory: any such processor requires a quantum program of dimension at least dd, at that dimension its classical alphabet must have at least nn symbols, and both minima are attained by a single-query protocol with success 1/d21/d^2. Combining direct-program compression with a converse from approximate measurement programming gives logarithmic total-memory scaling in 1/(1−p)1/(1-p) as the uniform success probability pp approaches one, at fixed d,n≥2d,n\ge2. At fixed input dimension and target success below one, the optimal total-memory scaling is logarithmic in nn. We also construct self-contained programs under branch-decomposition access and compare the quantum and classical costs of all constructions, including where the outcome-type record is kept: for POVMs with nn nonzero rank-one effects the direct program admits a purely quantum allocation whose register is never larger than that of the minimal-Naimark unitary program and which succeeds more often whenever n&gt;dn&gt;d.</p></p><p></p><p>Filip Turoboś, Ludmiła Marcinkowska, Zbigniew Puchała</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36898</guid>
-<pubDate>Wed, 28 Oct 2026 16:10:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:09:05 GMT</pubDate>
 <title>[0★] The Disordered Universe 2025: Open Effective Field Theories</title>
 <author>Alessandro Fumagalli, ..., Paolo Benincasa, Guilherme Leite Pimentel</author>
 <link>https://arxiv.org/abs/2610.36898</link>
@@ -422,23 +438,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36704</guid>
-<pubDate>Wed, 28 Oct 2026 16:09:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:08:05 GMT</pubDate>
 <title>[0★] Controlled Dark-State Energy Storage and Work Extraction in V-Type Quantum Batteries</title>
 <author>Chia-Hung Chu, H. H. Jen</author>
 <link>https://arxiv.org/abs/2610.36704</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 0 ★</p><p><b>Authors:</b> Chia-Hung Chu, H. H. Jen</p><p><b>arXiv ID:</b> 2610.36704 (<a href="https://arxiv.org/abs/2610.36704">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36704">scirate</a>)</p><p><b>Abstract:</b></p><p>The performance of a quantum battery depends not only on its ability to retain stored energy against unwanted discharge but also on the amount of useful work that can be extracted from it. Here, we investigate these complementary aspects in an ensemble of V-type qutrits coupled to a lossy cavity. By applying a finite splitting pulse to the two excited states of each qutrit, cavity-bright excitations are converted into atomic dark states, whose populations remain protected upon restoring degeneracy, even while the light-matter coupling remains active. Simulations with finite-duration pulses reveal a capture window governed by the competition among energy transfer, bright-to-dark conversion, and photon leakage. We further show that if the energy is stored in the fully symmetric atomic subspace, the passive energy is bounded by twice the transition energy for number of atoms N≥2N≥2N\geq2. Consequently, if the stored energy scales extensively with NNN, the ratio of extractable work to stored energy approaches unity in the thermodynamic limit. Comparing different initial preparations at equal mean input energy, we find that coherent-state can yield greater finite-time ergotropy despite capturing less energy, whereas Fock-state favors greater extractable work in the stationary component. Our results demonstrate how controlled dark-state population trapping in an atom-cavity coupled system can protect stored energy while providing a conditional route toward high extractable work.</p></p><p></p><p>Chia-Hung Chu, H. H. Jen</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.36680</guid>
-<pubDate>Wed, 28 Oct 2026 16:08:00 GMT</pubDate>
-<title>[0★] Quantum State Preparation for Complex-Valued Amplitudes</title>
-<author>Fred Sun</author>
-<link>https://arxiv.org/abs/2610.36680</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 0 ★</p><p><b>Authors:</b> Fred Sun</p><p><b>arXiv ID:</b> 2610.36680 (<a href="https://arxiv.org/abs/2610.36680">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36680">scirate</a>)</p><p><b>Abstract:</b></p><p>We present a state preparation procedure that takes binary registers containing the real and imaginary parts of a complex number z=x+iyz=x+iyz=x+iy and prepares an amplitude approximating z/αz/αz/\alpha, where αα\alpha is a normalization constant. The magnitude and argument are computed using the Coordinate Rotation Digital Computer (CORDIC) algorithm. We then encode the magnitude into an amplitude, and apply phase gates to introduce the argument. A reversible in-place multiplier allows the coordinate updates to use fixed precision while clearing their temporary workspace. The procedure uses O(n2)O(n2)O(n^2) TTT gates and O(n)O(n)O(n) additional qubits. Compared with separately encoding the real and imaginary parts and combining them through LCU, the construction can allow a smaller normalization and reduce amplitude-amplification costs. The computed polar representation also remains available for further arithmetic before amplitude-encoding.</p></p><p></p><p>Fred Sun</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 0 ★</p><p><b>Authors:</b> Chia-Hung Chu, H. H. Jen</p><p><b>arXiv ID:</b> 2610.36704 (<a href="https://arxiv.org/abs/2610.36704">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36704">scirate</a>)</p><p><b>Abstract:</b></p><p>The performance of a quantum battery depends not only on its ability to retain stored energy against unwanted discharge but also on the amount of useful work that can be extracted from it. Here, we investigate these complementary aspects in an ensemble of V-type qutrits coupled to a lossy cavity. By applying a finite splitting pulse to the two excited states of each qutrit, cavity-bright excitations are converted into atomic dark states, whose populations remain protected upon restoring degeneracy, even while the light-matter coupling remains active. Simulations with finite-duration pulses reveal a capture window governed by the competition among energy transfer, bright-to-dark conversion, and photon leakage. We further show that if the energy is stored in the fully symmetric atomic subspace, the passive energy is bounded by twice the transition energy for number of atoms N≥2N\geq2. Consequently, if the stored energy scales extensively with NN, the ratio of extractable work to stored energy approaches unity in the thermodynamic limit. Comparing different initial preparations at equal mean input energy, we find that coherent-state can yield greater finite-time ergotropy despite capturing less energy, whereas Fock-state favors greater extractable work in the stationary component. Our results demonstrate how controlled dark-state population trapping in an atom-cavity coupled system can protect stored energy while providing a conditional route toward high extractable work.</p></p><p></p><p>Chia-Hung Chu, H. H. Jen</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36663</guid>
-<pubDate>Wed, 28 Oct 2026 16:07:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:07:05 GMT</pubDate>
 <title>[0★] Diagnostic-dependent lasting Mpemba effect in a parametrically driven oscillator</title>
 <author>Shu He</author>
 <link>https://arxiv.org/abs/2610.36663</link>
@@ -446,7 +454,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36597</guid>
-<pubDate>Wed, 28 Oct 2026 16:06:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:06:05 GMT</pubDate>
 <title>[0★] Effective Noise Thresholds for Reliable Quantum Approximation Optimisation Algorithm under Noisy Environment</title>
 <author>Yozef Tjandra, ..., Joanna Gracia Tan, Andriyan Bayu Suksmono</author>
 <link>https://arxiv.org/abs/2610.36597</link>
@@ -454,15 +462,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36525</guid>
-<pubDate>Wed, 28 Oct 2026 16:05:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:05:05 GMT</pubDate>
 <title>[0★] Minimal Projective Measurement Settings for Estimating Multiple Observables</title>
 <author>Yibin Huang, Muchun Yang, D. L. Zhou</author>
 <link>https://arxiv.org/abs/2610.36525</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 0 ★</p><p><b>Authors:</b> Yibin Huang, Muchun Yang, D. L. Zhou</p><p><b>arXiv ID:</b> 2610.36525 (<a href="https://arxiv.org/abs/2610.36525">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36525">scirate</a>)</p><p><b>Abstract:</b></p><p>We study the minimum number of orthogonal projective measurement settings needed to estimate multiple observables without bias for arbitrary input states. We derive structural bounds that go beyond dimension counting and combine them with explicit constructions to certify minimum setting counts for selected target spaces. A classical variational algorithm searches for shared measurement bases and optimizes their readout coefficients and sample allocation. For the collective first and second moments of two qubits, we certify that four projective settings are necessary and sufficient. For this task, a numerically optimized four-setting design achieves a Haar-averaged variance within approximately 0.0341%0.0341%0.0341\% of a lower bound valid for any number of projective settings in our fixed-allocation, unbiased linear estimation model. Numerical examples show that shared measurements can improve precision relative to the comparison protocols. For finite-depth circuits, we account for reconstruction bias and identify finite-sample regimes in which this advantage persists.</p></p><p></p><p>Yibin Huang, Muchun Yang, D. L. Zhou</p><p></p>]]></content:encoded>
+<content:encoded><![CDATA[<p><p><b>Scites:</b> 0 ★</p><p><b>Authors:</b> Yibin Huang, Muchun Yang, D. L. Zhou</p><p><b>arXiv ID:</b> 2610.36525 (<a href="https://arxiv.org/abs/2610.36525">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36525">scirate</a>)</p><p><b>Abstract:</b></p><p>We study the minimum number of orthogonal projective measurement settings needed to estimate multiple observables without bias for arbitrary input states. We derive structural bounds that go beyond dimension counting and combine them with explicit constructions to certify minimum setting counts for selected target spaces. A classical variational algorithm searches for shared measurement bases and optimizes their readout coefficients and sample allocation. For the collective first and second moments of two qubits, we certify that four projective settings are necessary and sufficient. For this task, a numerically optimized four-setting design achieves a Haar-averaged variance within approximately 0.0341%0.0341\% of a lower bound valid for any number of projective settings in our fixed-allocation, unbiased linear estimation model. Numerical examples show that shared measurements can improve precision relative to the comparison protocols. For finite-depth circuits, we account for reconstruction bias and identify finite-sample regimes in which this advantage persists.</p></p><p></p><p>Yibin Huang, Muchun Yang, D. L. Zhou</p><p></p>]]></content:encoded>
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36438</guid>
-<pubDate>Wed, 28 Oct 2026 16:04:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:04:05 GMT</pubDate>
 <title>[0★] Dynamical behaviour of the mass tensor in the lattice</title>
 <author>Josué Calle, Diego Sanjinés, Evaristo Mamani</author>
 <link>https://arxiv.org/abs/2610.36438</link>
@@ -470,7 +478,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36421</guid>
-<pubDate>Wed, 28 Oct 2026 16:03:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:03:05 GMT</pubDate>
 <title>[0★] Radial power-like potentials: from the Bohr-Sommerfeld ℓ≠0\ell \neq 0 state energies to the exact ones</title>
 <author>J.C. del Valle, A.V. Turbiner</author>
 <link>https://arxiv.org/abs/2610.36421</link>
@@ -478,7 +486,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36416</guid>
-<pubDate>Wed, 28 Oct 2026 16:02:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:02:05 GMT</pubDate>
 <title>[0★] Side jump and anomalous Lorentz transformation of a coherent Dirac wave packet</title>
 <author>Jin-Rui Wu, Shuai Y.F. Liu</author>
 <link>https://arxiv.org/abs/2610.36416</link>
@@ -486,7 +494,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36391</guid>
-<pubDate>Wed, 28 Oct 2026 16:01:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:01:05 GMT</pubDate>
 <title>[0★] Consensus And Information Redistribution In Quantum Networks</title>
 <author>J. Novotný, ..., H.-H. Kowalski, A. Abedi</author>
 <link>https://arxiv.org/abs/2610.36391</link>
@@ -494,7 +502,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36385</guid>
-<pubDate>Wed, 28 Oct 2026 16:00:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 16:00:05 GMT</pubDate>
 <title>[0★] Finite-temperature Quantum Quasinormal Mode Theory for Spatiotemporally-resolved Dissipative Cavity Quantum Magnonics</title>
 <author>Lars Meschede, Daniel D. A. Clarke, Ortwin Hess</author>
 <link>https://arxiv.org/abs/2610.36385</link>
@@ -502,7 +510,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36359</guid>
-<pubDate>Wed, 28 Oct 2026 15:59:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:59:05 GMT</pubDate>
 <title>[0★] Multi-day single-cell magnetic imaging of living cancer cells using Quantum Cell Monitoring</title>
 <author>Andre Pointner, ..., Regine Schneider-Stock, Roland Nagy</author>
 <link>https://arxiv.org/abs/2610.36359</link>
@@ -510,7 +518,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36356</guid>
-<pubDate>Wed, 28 Oct 2026 15:58:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:58:05 GMT</pubDate>
 <title>[0★] Probability bounds on trajectory-level exceedances of quantum speed limits under continuous-measurement feedback</title>
 <author>Kohei Kobayashi</author>
 <link>https://arxiv.org/abs/2610.36356</link>
@@ -518,7 +526,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36322</guid>
-<pubDate>Wed, 28 Oct 2026 15:57:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:57:05 GMT</pubDate>
 <title>[0★] Experimental Geometric State Preparation on the Bloch Sphere Via Linear Mechanical Resonator</title>
 <author>Abrar N-E Faiaz, ..., Keith Runge, Joshua A. Levine</author>
 <link>https://arxiv.org/abs/2610.36322</link>
@@ -526,7 +534,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36275</guid>
-<pubDate>Wed, 28 Oct 2026 15:56:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:56:05 GMT</pubDate>
 <title>[0★] Quantum hydrodynamics from Nambu's unpublished fluid notes</title>
 <author>Kazuki Ikeda</author>
 <link>https://arxiv.org/abs/2610.36275</link>
@@ -534,7 +542,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36233</guid>
-<pubDate>Wed, 28 Oct 2026 15:55:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:55:05 GMT</pubDate>
 <title>[0★] Generation of quantum light with tunable Wigner negativity with a semiconductor quantum dot</title>
 <author>Hubert Lam, ..., Dario A. Fioretto, Pascale Senellart</author>
 <link>https://arxiv.org/abs/2610.36233</link>
@@ -542,7 +550,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36182</guid>
-<pubDate>Wed, 28 Oct 2026 15:54:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:54:05 GMT</pubDate>
 <title>[0★] Ultrafast light-electron modulation for free-electron quantum optics: fundamentals and applications</title>
 <author>Zirui Zhao, ..., Kangpeng Wang, Yiming Pan</author>
 <link>https://arxiv.org/abs/2610.36182</link>
@@ -550,7 +558,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36156</guid>
-<pubDate>Wed, 28 Oct 2026 15:53:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:53:05 GMT</pubDate>
 <title>[0★] Many-body entanglement quantification in arbitrary states through a few partial-transpose moments</title>
 <author>Sudip Chakrabarty, A. S. Majumdar</author>
 <link>https://arxiv.org/abs/2610.36156</link>
@@ -558,7 +566,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36080</guid>
-<pubDate>Wed, 28 Oct 2026 15:52:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:52:05 GMT</pubDate>
 <title>[0★] Non-Hermitian Schwinger effect in an imaginary magnetic field</title>
 <author>Ahmad Jafar Arifi, Kei Suzuki</author>
 <link>https://arxiv.org/abs/2610.36080</link>
@@ -566,7 +574,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36061</guid>
-<pubDate>Wed, 28 Oct 2026 15:51:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:51:05 GMT</pubDate>
 <title>[0★] Parity-doublet spin interactions in ultracold polyatomic molecules</title>
 <author>Junheng Tao, ..., Giseok Lee, John M. Doyle</author>
 <link>https://arxiv.org/abs/2610.36061</link>
@@ -574,7 +582,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36058</guid>
-<pubDate>Wed, 28 Oct 2026 15:50:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:50:05 GMT</pubDate>
 <title>[0★] Universal Scaling of Conditional Mutual Information in Classical Stochastic Dynamics</title>
 <author>Songlei Wang, Chenguang Liang, Zhi-Cheng Yang</author>
 <link>https://arxiv.org/abs/2610.36058</link>
@@ -582,7 +590,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36054</guid>
-<pubDate>Wed, 28 Oct 2026 15:49:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:49:05 GMT</pubDate>
 <title>[0★] Mesons, Confinement, and Complexity: A Krylov Space Perspective on the Long-Range Ising Chain</title>
 <author>Xuhao Jiang, Jad C. Halimeh, N. S. Srivatsa</author>
 <link>https://arxiv.org/abs/2610.36054</link>
@@ -590,7 +598,7 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36048</guid>
-<pubDate>Wed, 28 Oct 2026 15:48:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:48:05 GMT</pubDate>
 <title>[0★] Typicality of entanglement growth and transport fluctuations in quantum symmetric exclusion processes</title>
 <author>Ewan McCulloch</author>
 <link>https://arxiv.org/abs/2610.36048</link>
@@ -598,23 +606,15 @@
 </item>
 <item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36044</guid>
-<pubDate>Wed, 28 Oct 2026 15:47:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:47:05 GMT</pubDate>
 <title>[0★] An open EFT for dark matter searches with matter-wave interferometers</title>
 <author>Leonardo Badurina, Kathryn M. Zurek</author>
 <link>https://arxiv.org/abs/2610.36044</link>
 <content:encoded><![CDATA[<p><p><b>Scites:</b> 0 ★</p><p><b>Authors:</b> Leonardo Badurina, Kathryn M. Zurek</p><p><b>arXiv ID:</b> 2610.36044 (<a href="https://arxiv.org/abs/2610.36044">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36044">scirate</a>)</p><p><b>Abstract:</b></p><p>Matter-wave interferometers (MWIs) are a genuine quantum probe of dark matter (DM), being sensitive to DM-induced phase shifts and loss of contrast. Treating the interferometer as an open quantum system and the dark sector as its environment, we derive an open EFT to study these signatures using the Schwinger-Keldysh formalism. Starting from a microscopic theory, we derive the interferometer&#x27;s effective action, which we then project onto the many-body worldline sectors relevant for atom interferometers and MWIs employing mesoscopic objects, i.e., composite-particle interferometers (CPIs). This construction clarifies the heavy-probe limit and organizes phase shifts and decoherence as distinct real-time components of the influence action: the retarded kernel controls the causal response of the environment, while the Keldysh kernel controls environmental fluctuations and hence loss of contrast. At leading order, these kernels reduce to: (i) DM bubble diagrams in the case of four-point interactions, and (ii) dressed in-medium mediator propagators in the case of long-range interactions, where the dressing is provided by the DM environment. Within this framework, we study the signatures of elastic spin-independent sub-GeV DM scattering off nucleons and find that: (i) owing to Bose enhancements below the DM wave-particle boundary, ambitious CPIs could probe Higgs-portal DM with mass below 1 eV in an unexplored region of model space; (ii) for DM coupled to nucleons via a light hadrophilic scalar, the DM background can drive the mediator&#x27;s in-medium mass tachyonic over much of parameter space; outside these regions, CPIs could probe provide powerful probes of light DM.</p></p><p></p><p>Leonardo Badurina, Kathryn M. Zurek</p><p></p>]]></content:encoded>
 </item>
 <item>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.36029</guid>
-<pubDate>Wed, 28 Oct 2026 15:46:00 GMT</pubDate>
-<title>[0★] AlgebrasTQD: Computing Algebras and Interfaces in Twisted Quantum Doubles</title>
-<author>Alison Warman</author>
-<link>https://arxiv.org/abs/2610.36029</link>
-<content:encoded><![CDATA[<p><p><b>Scites:</b> 0 ★</p><p><b>Authors:</b> Alison Warman</p><p><b>arXiv ID:</b> 2610.36029 (<a href="https://arxiv.org/abs/2610.36029">arxiv.org</a> | <a href="https://scirate.com/arxiv/2610.36029">scirate</a>)</p><p><b>Abstract:</b></p><p>We present AlgebrasTQD, an open-source code written in GAP (Groups, Algorithms, and Programming), for computing condensable algebras and the corresponding topological boundaries and interfaces of twisted quantum doubles Dω(G)D^\omega(G). These algebras can be used to classify 1+1d gapped and gapless phases whose symmetry is related by gauging to a finite group GG with anomaly ω∈H3(G,U(1))\omega\in H^3(G,U(1)), to study 2+1d anyon proliferation and to construct logical gates in non-Abelian topological quantum codes. The functions in AlgebrasTQD compute all condensable algebras A(H,F,γ,ϵ)A(H,F,\gamma,\epsilon) with their algebra structure and anyons, sort them into isomorphism classes and identify the twin algebras that are inequivalent but share the same anyon decomposition. AlgebrasTQD also determines all the subalgebra relations, the corresponding Hasse diagram and the types of 1+1d phases for any chosen, possibly non-invertible, group-theoretical symmetry. For non-maximal algebras, the code computes the reduced topological order with its 33-cocycle and the map of anyons across the topological interface. Finally, AlgebrasTQD includes functions that construct certain non-Clifford logical gates via non-Abelian surface codes. We summarize the formulas that are implemented in the AlgebrasTQD code, and we illustrate its use with Abelian and non-Abelian groups including Z32\mathbb{Z}_2^3 with ωIII\omega_\text{III}, D8D_8, A4A_4 with and without anomaly, twin algebras and twin phases, and the Clifford-hierarchy gates in quantum doubles of dihedral groups. All arithmetic is exact and AlgebrasTQD can be used with any finite group GG and 3-cocycle ω\omega, limited only by the time and size of the calculation. The code is available at https://github.com/AlisonWarman/AlgebrasTQD</p></p><p></p><p>Alison Warman</p><p></p>]]></content:encoded>
-</item>
-<item>
 <guid isPermaLink="true">https://arxiv.org/abs/2610.36031</guid>
-<pubDate>Wed, 28 Oct 2026 15:45:00 GMT</pubDate>
+<pubDate>Thu, 29 Oct 2026 15:46:05 GMT</pubDate>
 <title>[0★] Analytic Bootstrap Solution for Quantum Mechanics on a Circle</title>
 <author>David Berenstein, Upamanyu Moitra</author>
 <link>https://arxiv.org/abs/2610.36031</link>
