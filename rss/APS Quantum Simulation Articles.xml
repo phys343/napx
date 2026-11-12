@@ -5,6 +5,14 @@
 <link>https://journals.aps.org/search/results?clauses=%5B%7B%22field%22%3A%22physh%22%2C%22value%22%3A%22%7B%5C%22facetid%5C%22%3Anull%2C%5C%22conceptid%5C%22%3A%5C%22200ea9a8-54ca-4f8f-a7e1-f186bb326056%5C%22%2C%5C%22label%5C%22%3A%5C%22Quantum%20simulation%5C%22%2C%5C%22facetlabel%5C%22%3A%5C%22%5C%22%7D%22%2C%22operator%22%3A%22AND%22%7D%5D&amp;sort=recent&amp;per_page=20&amp;journal=prl&amp;journal=prxquantum&amp;journal=prx&amp;journal=rmp</link>
 <description>APS Quantum Simulation Articles</description>
 <item>
+<guid isPermaLink="true">https://journals.aps.org/prxquantum/abstract/10.1103/kszt-p63d</guid>
+<pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+<title>Spectrally Robust Photon-Pair Generation in Topological Waveguide Arrays</title>
+<author>A. Zecchetto, J.-R. Coudevylle, M. Morassi, A. Lemaître, M. I. Amanti, S. Ducci, and F. Baboux</author>
+<link>https://journals.aps.org/prxquantum/abstract/10.1103/kszt-p63d</link>
+<content:encoded><![CDATA[<p>Harnessing topological effects offers a route to protect quantum states of light from imperfections, potentially enabling more robust platforms for quantum information processing. This capability is particularly relevant for active photonic circuits that generate quantum light directly on-chip. However, the impact of topology on the spectral properties of parametric processes—crucial for scalable quantum photonic circuits—remains largely unexplored. Here, we address this question by investigating photon-pair generation via spontaneous parametric down-conversion (SPDC) in nonlinear waveguide arrays, combining experiment and theory. A systematic comparison of uniform, trivial, and topological Su-Schrieffer-Heeger (SSH) arrays reveals that only the topological configuration preserves a stable SPDC resonance spectrum under coupling disorder, with fluctuations in the resonance wavelength reduced by more than an order of magnitude. An analytical model captures the origin of this robustness in the band-structure properties of the interacting modes. Numerical analysis further shows that each SSH array can operate as a robust photon-pair source, enabling stable interference between multiple such sources and the generation of high-dimensional entangled states with high fidelity. These results establish nonlinear waveguide arrays as a promising platform for harnessing the interplay of topology and nonlinearity in quantum photonic circuits.</p><p></p><p>A. Zecchetto, J.-R. Coudevylle, M. Morassi, A. Lemaître, M. I. Amanti, S. Ducci, and F. Baboux</p><p></p><p>PRX Quantum</p><p></p><p>PRX Quantum 7, 043030 (2026)</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://journals.aps.org/prx/abstract/10.1103/8fcr-5tf4</guid>
 <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
 <title>Spectral Small-Incremental Entangling: Breaking Quasipolynomial Complexity Barriers in Long-Range Interacting Systems</title>
@@ -155,14 +163,6 @@
 <author>Jielun Chen and Garnet Kin-Lic Chan</author>
 <link>https://journals.aps.org/prl/abstract/10.1103/v2ms-wmz1</link>
 <content:encoded><![CDATA[<p>Proposed quantum advantage in electronic structure has so far required significant fine-tuning to find problems where classical heuristics fail. We describe how to obtain robust quantum speedups for correlated electronic structure and dynamics precisely in the regime where widely used classical heuristics are most successful.</p><p></p><p>Jielun Chen and Garnet Kin-Lic Chan</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 130601 (2026)</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/rvhd-vsz8</guid>
-<pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
-<title>Tomographic Characterization of Non-Hermitian Hamiltonians in Reciprocal Space</title>
-<author>Francesco Di Colandrea, Fabrizio Pavan, Sarvesh Bansal, Paola Savarese, Grazia Di Bello, Giulio De Filippis, Carmine Antonio Perroni, Donato Farina, and Filippo Cardano</author>
-<link>https://journals.aps.org/prl/abstract/10.1103/rvhd-vsz8</link>
-<content:encoded><![CDATA[<p>Non-Hermitian Hamiltonians enrich quantum physics by extending conventional phase diagrams, enabling novel topological phenomena, and realizing exceptional points with applications in quantum sensing. Here, we present a programmable liquid-crystal-based photonic platform for implementing nonunitary quantum walks with topological band structures. The novelty of this platform lies in its direct access to the reciprocal space, which enables us to perform a momentum-resolved characterization of the underlying Hamiltonian. We report a complete process tomography of a single step of several walks, from which we retrieve complex-valued energy bands, resolve exceptional points, and detect the associated parity-time symmetry breaking through eigenvector coalescence. Our Letter offers a powerful complementary route to retrieving topology beyond dynamical measurements.</p><p></p><p>Francesco Di Colandrea, Fabrizio Pavan, Sarvesh Bansal, Paola Savarese, Grazia Di Bello, Giulio De Filippis, Carmine Antonio Perroni, Donato Farina, and Filippo Cardano</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 126603 (2026)</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
