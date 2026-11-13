@@ -5,6 +5,14 @@
 <link>https://journals.aps.org/search/results?clauses=%5B%7B%22field%22%3A%22physh%22%2C%22value%22%3A%22%7B%5C%22facetid%5C%22%3Anull%2C%5C%22conceptid%5C%22%3A%5C%22200ea9a8-54ca-4f8f-a7e1-f186bb326056%5C%22%2C%5C%22label%5C%22%3A%5C%22Quantum%20simulation%5C%22%2C%5C%22facetlabel%5C%22%3A%5C%22%5C%22%7D%22%2C%22operator%22%3A%22AND%22%7D%5D&amp;sort=recent&amp;per_page=20&amp;journal=prl&amp;journal=prxquantum&amp;journal=prx&amp;journal=rmp</link>
 <description>APS Quantum Simulation Articles</description>
 <item>
+<guid isPermaLink="true">https://journals.aps.org/prx/abstract/10.1103/m5qj-j8bm</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate>
+<title>Realization of Repulsive Polarons in the Strongly Correlated Regime</title>
+<author>R. Henke, J. Levinsen, M. M. Parish, J. Boronat, G. E. Astrakharchik, H. Moritz, and C. R. Cabrera</author>
+<link>https://journals.aps.org/prx/abstract/10.1103/m5qj-j8bm</link>
+<content:encoded><![CDATA[<p>Mobile impurities interacting with a quantum medium form quasiparticles known as polarons, a central concept in many-body physics. While the quantum impurity problem has been extensively studied with ultracold atomic gases, repulsive polarons in the strongly correlated regime have remained elusive. Typically, the impurity atoms bind into molecules or rapidly decay into deeper-lying states before they can acquire an appreciable dressing cloud. Here, we report on the realization of polarons in a strongly repulsive two-dimensional quantum gas. Using a superfluid of dimers, we introduce impurities by promoting a small fraction of the dimers into higher levels of the transverse confining potential. These novel synthetic-spin polarons give access to the strongly repulsive regime where common decay channels are suppressed. We extract key polaron properties—the energy, quasiparticle residue, and effective mass—using trap modulation and Bragg spectroscopy. Our measurements are well captured by a microscopic -matrix approach and quantum Monte Carlo simulations, revealing deviations from mean-field predictions. In particular, we measure a significant enhancement of the polaron mass, with values exceeding twice the free-dimer mass. Our demonstration of a stable repulsive Bose polaron establishes a platform for studying impurity physics in low-dimensional and strongly correlated systems.</p><p></p><p>R. Henke, J. Levinsen, M. M. Parish, J. Boronat, G. E. Astrakharchik, H. Moritz, and C. R. Cabrera</p><p></p><p>Physical Review X</p><p></p><p>Phys. Rev. X 16, 041040 (2026)</p><p></p>]]></content:encoded>
+</item>
+<item>
 <guid isPermaLink="true">https://journals.aps.org/prxquantum/abstract/10.1103/kszt-p63d</guid>
 <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
 <title>Spectrally Robust Photon-Pair Generation in Topological Waveguide Arrays</title>
@@ -155,14 +163,6 @@
 <author>Kaoru Mizuta, Tatsuhiko N. Ikeda, and Keisuke Fujii</author>
 <link>https://journals.aps.org/prxquantum/abstract/10.1103/ywv1-7fhf</link>
 <content:encoded><![CDATA[<p>Product formula (PF), which approximates the time evolution under a many-body Hamiltonian by the product of local time-evolution operators, is one of the central approaches for simulating quantum dynamics by quantum computers. It has been of great interest whether the errors of PFs can be expressed by commutators among local terms, since it brings the substantial suppression of the computational cost in the system size reflecting the locality of Hamiltonians. Although recent studies have revealed such error bounds for generic time-independent systems, it remains to be a difficult problem for time-dependent Hamiltonians except for low-order PFs. In this paper, we derive an error bound of generic PFs for smooth time-dependent Hamiltonians, which is expressed explicitly by nested commutators and their time derivatives. It indicates the substantial error suppression in the system size for generic local Hamiltonians, thereby giving a much better estimate of gate counts. Our derivation employs Floquet theory originally developed for time-periodic systems, with which we analyze the time-dependent PF errors by mapping them to those for time-independent PFs defined on an infinite-dimensional space. This approach is also applicable to a family of time-dependent PFs, such as the one for non-unitary dynamics. In particular, we clarify the error bound of a time-dependent multi-product formula, with which we can achieve exponentially better scaling with respect to the target accuracy than the PF. Our results will shed light on applications of near-term and future quantum computers, ranging from quantum simulation of nonequilibrium materials to faster algorithms exploiting time-dependent Hamiltonians such as adiabatic state preparation.</p><p></p><p>Kaoru Mizuta, Tatsuhiko N. Ikeda, and Keisuke Fujii</p><p></p><p>PRX Quantum</p><p></p><p>PRX Quantum 7, 033061 (2026)</p><p></p>]]></content:encoded>
-</item>
-<item>
-<guid isPermaLink="true">https://journals.aps.org/prl/abstract/10.1103/v2ms-wmz1</guid>
-<pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-<title>Framework for Robust Quantum Speedups in Practical Correlated Electronic Structure and Dynamics</title>
-<author>Jielun Chen and Garnet Kin-Lic Chan</author>
-<link>https://journals.aps.org/prl/abstract/10.1103/v2ms-wmz1</link>
-<content:encoded><![CDATA[<p>Proposed quantum advantage in electronic structure has so far required significant fine-tuning to find problems where classical heuristics fail. We describe how to obtain robust quantum speedups for correlated electronic structure and dynamics precisely in the regime where widely used classical heuristics are most successful.</p><p></p><p>Jielun Chen and Garnet Kin-Lic Chan</p><p></p><p>Physical Review Letters</p><p></p><p>Phys. Rev. Lett. 137, 130601 (2026)</p><p></p>]]></content:encoded>
 </item>
 </channel>
 </rss>
